@@ -45,3 +45,32 @@ from radar.fato_votacao
 where data is not null
 order by data desc, data_hora_registro desc
 limit 10;
+
+
+
+-- Views públicas para consumo via Supabase REST API / n8n
+
+create or replace view public.vw_top_ultimas_proposicoes as
+select *
+from radar.vw_top_ultimas_proposicoes;
+
+
+create or replace view public.vw_top_ultimas_votacoes as
+select *
+from radar.vw_top_ultimas_votacoes;
+
+
+create or replace view public.vw_resumo_proposicoes as
+select *
+from radar.vw_resumo_proposicoes;
+
+
+create or replace view public.vw_resumo_votacoes as
+select *
+from radar.vw_resumo_votacoes;
+
+
+grant select on public.vw_top_ultimas_proposicoes to anon, authenticated;
+grant select on public.vw_top_ultimas_votacoes to anon, authenticated;
+grant select on public.vw_resumo_proposicoes to anon, authenticated;
+grant select on public.vw_resumo_votacoes to anon, authenticated;
