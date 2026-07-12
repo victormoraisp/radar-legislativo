@@ -1,0 +1,144 @@
+{
+  "name": "Radar Legislativo - Resumo Diário",
+  "nodes": [
+    {
+      "parameters": {
+        "jsCode": "const proposicoes = $('Buscar últimas proposições').all().map(item => item.json);\nconst votacoes = $('Buscar últimas votações').all().map(item => item.json);\n\nfunction montarListaProposicoes(lista) {\n  return lista.map((p, index) => `\n    <tr>\n      <td>${index + 1}</td>\n      <td>${p.sigla_tipo || ''} ${p.numero || ''}/${p.ano || ''}</td>\n      <td>${p.data_apresentacao || ''}</td>\n      <td>${p.ementa || ''}</td>\n      <td><a href=\"${p.uri || '#'}\">Abrir</a></td>\n    </tr>\n  `).join('');\n}\n\nfunction montarListaVotacoes(lista) {\n  return lista.map((v, index) => `\n    <tr>\n      <td>${index + 1}</td>\n      <td>${v.data || ''}</td>\n      <td>${v.sigla_orgao || ''}</td>\n      <td>${v.descricao || ''}</td>\n      <td>${v.aprovacao || ''}</td>\n      <td><a href=\"${v.uri || '#'}\">Abrir</a></td>\n    </tr>\n  `).join('');\n}\n\nconst html = `\n  <h2>Radar Legislativo — Resumo Diário</h2>\n\n  <p>Segue o resumo automático com as últimas proposições e votações disponíveis na base.</p>\n\n  <h3>Últimas proposições</h3>\n\n  <table border=\"1\" cellpadding=\"6\" cellspacing=\"0\">\n    <thead>\n      <tr>\n        <th>#</th>\n        <th>Proposição</th>\n        <th>Data</th>\n        <th>Ementa</th>\n        <th>Link</th>\n      </tr>\n    </thead>\n    <tbody>\n      ${montarListaProposicoes(proposicoes)}\n    </tbody>\n  </table>\n\n  <br>\n\n  <h3>Últimas votações</h3>\n\n  <table border=\"1\" cellpadding=\"6\" cellspacing=\"0\">\n    <thead>\n      <tr>\n        <th>#</th>\n        <th>Data</th>\n        <th>Órgão</th>\n        <th>Descrição</th>\n        <th>Aprovação</th>\n        <th>Link</th>\n      </tr>\n    </thead>\n    <tbody>\n      ${montarListaVotacoes(votacoes)}\n    </tbody>\n  </table>\n\n  <br>\n\n  <p>\n    Fonte: Dados Abertos da Câmara dos Deputados.<br>\n    Pipeline: API Câmara → Python/Pandas → Supabase → n8n.\n  </p>\n`;\n\nreturn [\n  {\n    json: {\n      assunto: 'Radar Legislativo — Resumo Diário',\n      html\n    }\n  }\n];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        272,
+        -80
+      ],
+      "id": "3d1eec47-8b95-4dfa-ad92-40e0cb4e1a88",
+      "name": "Montar resumo HTML"
+    },
+    {
+      "parameters": {
+        "url": "https://vmktswtylsecsvzqiidd.supabase.co/rest/v1/vw_top_ultimas_votacoes?select=*",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "{{$env.SUPABASE_ANON_KEY}}"
+            },
+            {
+              "name": "Authorization",
+              "value": "{{$env.SUPABASE_ANON_KEY}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        64,
+        -80
+      ],
+      "id": "041aea63-0e49-421f-b35c-a6a335379f9e",
+      "name": "Buscar últimas votações"
+    },
+    {
+      "parameters": {
+        "url": "https://vmktswtylsecsvzqiidd.supabase.co/rest/v1/vw_top_ultimas_proposicoes?select=*",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "{{$env.SUPABASE_ANON_KEY}}"
+            },
+            {
+              "name": "Authorization",
+              "value": "{{$env.SUPABASE_ANON_KEY}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        -144,
+        -80
+      ],
+      "id": "0cb9a86f-b6c2-47ff-b0f8-c5962abdb3a3",
+      "name": "Buscar últimas proposições"
+    },
+    {
+      "parameters": {
+        "sendTo": "victor_morais@yahoo.com.br",
+        "subject": "={{ $json.assunto }}",
+        "message": "={{ $json.html }}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.2,
+      "position": [
+        480,
+        -80
+      ],
+      "id": "9d10f1e8-998b-49b8-a4a1-cb45f81ceb29",
+      "name": "Send a message",
+      "webhookId": "5760939c-0638-46eb-9cfb-d343d722d8da",
+      "credentials": {
+        "gmailOAuth2": {
+          "id": "7lmeBHqvphJEPLZN",
+          "name": "Gmail OAuth2 API"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Buscar últimas votações": {
+      "main": [
+        [
+          {
+            "node": "Montar resumo HTML",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Buscar últimas proposições": {
+      "main": [
+        [
+          {
+            "node": "Buscar últimas votações",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Montar resumo HTML": {
+      "main": [
+        [
+          {
+            "node": "Send a message",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "69c52ca3-d110-4322-a82a-0dfa2fc16955",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "34de5933100d3be5fff9ed755762715ac3a51826b418ae27fe940d36eb280819"
+  },
+  "nodeGroups": [],
+  "id": "f5uRw4mIer2xSwMP",
+  "tags": []
+}
