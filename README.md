@@ -222,6 +222,16 @@ Este projeto mantém a carga principal baseada nos dados originais retornados pe
 
 Campos como autor, partido vinculado à autoria, tema específico da proposição e situação detalhada podem ser obtidos em endpoints complementares, mas foram tratados como extensão futura para preservar a rastreabilidade da primeira versão do pipeline.
 
+## Automação com n8n
+
+O projeto inclui um workflow no n8n para envio automático de um resumo diário.
+
+Arquivo versionado:
+
+```text
+n8n/workflow_radar_legislativo_resumo_diario.json
+
+
 ## Próximos passos
 
 Possíveis evoluções do projeto:
