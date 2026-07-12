@@ -122,6 +122,7 @@ Execute os arquivos SQL nesta ordem:
 ```text
 sql/01_create_schema_tables.sql
 sql/02_grants.sql
+sql/04_create_views.sql
 ```
 
 Depois, no Supabase, confirme que o schema `radar` está exposto na API em:
