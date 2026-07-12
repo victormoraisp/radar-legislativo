@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2084714,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2084714",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5312,
+      "ano": 2016,
+      "ementa": "Altera o art. 9º-A da Lei nº 11.530, de 5 de outubro de 2006, para dispor sobre a redução da jornada de trabalho dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias.",
+      "dataApresentacao": "2016-05-17T17:26"
+    },
+    {
+      "id": 2084756,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2084756",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5318,
+      "ano": 2016,
+      "ementa": "Altera o Marco Civil da Internet, Lei no 12.965, de 23 de abril de 2014, determinando a publicidade de justificativas ao usuário para retirada do ar de aplicações de internet.",
+      "dataApresentacao": "2016-05-17T18:38"
+    },
+    {
+      "id": 2086169,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2086169",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5430,
+      "ano": 2016,
+      "ementa": "Altera a Lei nº 9.294, de julho de 1996, que \"dispõe sobre as restrições ao uso e à propaganda de produtos fumígeros, bebidas alcoólicas, medicamentos, terapias e defensivos agrícolas, nos termos do § 4° do art. 220 da Constituição Federal\".",
+      "dataApresentacao": "2016-05-31T20:05"
+    },
+    {
+      "id": 2086175,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2086175",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5432,
+      "ano": 2016,
+      "ementa": "Altera a Lei nº 13.267, de 6 de abril de 2016, que \"Disciplina a criação e a organização das associações denominadas empresas juniores, com funcionamento perante instituições de ensino superior\", e dá outras providências.",
+      "dataApresentacao": "2016-05-31T20:56"
+    },
+    {
+      "id": 2086454,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2086454",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5457,
+      "ano": 2016,
+      "ementa": "Dispõe sobre a exclusão da base de cálculo das contas de energia elétrica da cobrança pela previsão de ligações clandestinas e inadimplência, e limita em 5% as compensações por perdas técnicas e não técnicas na transmissão e distribuição de energia elétrica.",
+      "dataApresentacao": "2016-06-01T19:05"
+    },
+    {
+      "id": 2087313,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2087313",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5515,
+      "ano": 2016,
+      "ementa": "\"Altera-se a redação do §7º suprimindo a educação ambiental e acrescenta o §10º tornando a Educação Ambiental componente curricular obrigatório no Art. 26º da Lei 9.394 de 20 de dezembro de 1996 que estabelece as diretrizes e base da educação nacional \".",
+      "dataApresentacao": "2016-06-08T16:34"
+    },
+    {
+      "id": 2087458,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2087458",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5529,
+      "ano": 2016,
+      "ementa": "Altera o Marco Civil da Internet - Lei nº 12.965, de 23 de abril de 2014, para proibir a concessão de medidas cautelares ou providências de execução indireta que interrompam aplicações de comunicação pela internet.",
+      "dataApresentacao": "2016-06-09T15:58"
+    },
+    {
+      "id": 2087459,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2087459",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5530,
+      "ano": 2016,
+      "ementa": "Veda a decretação de providências de execução indireta, inclusive para efetivação de tutelas provisórias, destinadas à interrupção de serviços de telecomunicação, de aplicações de comunicação pela internet e de serviços públicos essenciais.",
+      "dataApresentacao": "2016-06-09T15:58"
+    },
+    {
+      "id": 2087475,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2087475",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5531,
+      "ano": 2016,
+      "ementa": "Dispõe sobre o exercício da advocacia fora das atribuições institucionais para os titulares das carreiras jurídicas da Advocacia-Geral da União.",
+      "dataApresentacao": "2016-06-09T16:51"
+    },
+    {
+      "id": 2087978,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2087978",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5559,
+      "ano": 2016,
+      "ementa": "Dispõe sobre os direitos dos pacientes e dá outras providências.",
+      "dataApresentacao": "2016-06-14T19:02"
+    },
+    {
+      "id": 2088105,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2088105",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5573,
+      "ano": 2016,
+      "ementa": "Inclui o §1º e o §2º, ao inciso III, do art. 2º, da Lei 7.853, de 24 de outubro de 1989, que \"dispõe sobre o apoio às pessoas portadoras de deficiência, sua integração social, sobre a Coordenadoria Nacional para Integração da Pessoa Portadora de Deficiência-Corde, institui a tutela jurisdicional de interesses coletivos ou difusos dessas pessoas, disciplina a atuação do Ministério Público, define crime, e dá outras providências. \"",
+      "dataApresentacao": "2016-06-15T11:15"
+    },
+    {
+      "id": 2088398,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2088398",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5604,
+      "ano": 2016,
+      "ementa": "Obriga a inclusão da disciplina de educação ambiental no currículo escolar",
+      "dataApresentacao": "2016-06-15T20:50"
+    },
+    {
+      "id": 2088399,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2088399",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5605,
+      "ano": 2016,
+      "ementa": "Promover o uso sustentável dos recursos naturais com a educação ambiental.",
+      "dataApresentacao": "2016-06-15T20:50"
+    },
+    {
+      "id": 2088990,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2088990",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 295,
+      "ano": 2016,
+      "ementa": "Estabelece, com amparo nos arts. 163 e 165,      § 9º, da Constituição Federal, normas gerais sobre planejamento, orçamento, fundos, contabilidade, controle e avaliação na administração pública; altera a Lei Complementar nº 101, de 4 de maio de 2000; e revoga a Lei nº 4.320, de 17 de março de 1964.",
+      "dataApresentacao": "2016-06-21T16:37"
+    },
+    {
+      "id": 2089141,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2089141",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5663,
+      "ano": 2016,
+      "ementa": "Altera a Lei nº 11.977, de 2009, para prever a modalidade de locação social de imóveis urbanos no âmbito do Programa Minha Casa, Minha Vida.",
+      "dataApresentacao": "2016-06-22T15:45"
+    },
+    {
+      "id": 2091502,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2091502",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5815,
+      "ano": 2016,
+      "ementa": "Estabelece limites para que o Banco Nacional de Desenvolvimento Econômico e Social (BNDES) financie a exportação de serviços, nos termos que especifica.",
+      "dataApresentacao": "2016-07-12T21:41"
+    },
+    {
+      "id": 2093330,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2093330",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5946,
+      "ano": 2016,
+      "ementa": "Dispõe sobre ações de atenção à saúde das pessoas portadoras de hemoglobinopatias, fenilcetonúria, hipotireoidismo, fibrose cística, deficiência de biotinidase e hiperplasia adrenal congênita e altera as Leis nos 8.069, de 13 de julho de 1990, e 9.263, de 12 de janeiro de 1996, para tornar obrigatória a realização das ações que especifica.",
+      "dataApresentacao": "2016-08-09T15:03"
+    },
+    {
+      "id": 2093510,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2093510",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5970,
+      "ano": 2016,
+      "ementa": "Dispõe sobre a padronização da informação na embalagem sobre o peso do sal iodado, fino e grosso, para consumo humano, e dá outras providências.",
+      "dataApresentacao": "2016-08-09T21:28"
+    },
+    {
+      "id": 2093638,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2093638",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5985,
+      "ano": 2016,
+      "ementa": "Altera a redação dos arts. 32 e 36 da Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para incluir, nos currículos dos ensinos fundamental e médio, a disciplina de Educação Moral e Cívica.",
+      "dataApresentacao": "2016-08-10T14:28"
+    },
+    {
+      "id": 2093915,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2093915",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5998,
+      "ano": 2016,
+      "ementa": "Acrescenta o § 3º ao art. 19-Q da Lei nº 8.080, de 19 de setembro de 1990, para prever critérios diferenciados para a avaliação e a incorporação de medicamentos órfãos, destinados ao tratamento das doenças raras.",
+      "dataApresentacao": "2016-08-10T18:57"
+    },
+    {
+      "id": 2094701,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2094701",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 307,
+      "ano": 2016,
+      "ementa": "Altera a Lei de Responsabilidade Fiscal (Lei Complementar nº 101, de 2000), para tratar das transferências voluntárias relacionadas aos planos de resíduos sólidos.",
+      "dataApresentacao": "2016-08-17T11:16"
+    },
+    {
+      "id": 2110180,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2110180",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6061,
+      "ano": 2016,
+      "ementa": "Esta Lei altera a Lei n.º 12.965, de 23 de abril de 2014, para estabelecer princípios básicos para a proteção de aplicações de Internet e aos usuários do serviço.",
+      "dataApresentacao": "2016-08-30T13:41"
+    },
+    {
+      "id": 2111912,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2111912",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6155,
+      "ano": 2016,
+      "ementa": "Altera o Art. 34 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional.",
+      "dataApresentacao": "2016-09-14T14:59"
+    },
+    {
+      "id": 2111932,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2111932",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6160,
+      "ano": 2016,
+      "ementa": "Dispõe sobre a obrigatoriedade de instalação de detectores de metais nas entradas de locais de grande circulação de pessoas.",
+      "dataApresentacao": "2016-09-14T15:34"
+    },
+    {
+      "id": 2112854,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2112854",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6228,
+      "ano": 2016,
+      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, para proibir o uso de produtos fumígenos nos locais que especifica.",
+      "dataApresentacao": "2016-10-04T17:36"
+    },
+    {
+      "id": 2113148,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2113148",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6248,
+      "ano": 2016,
+      "ementa": "Acrescenta o art. 2º-A à Lei nº 9.294, de 15 de julho de 1996, para proibir o uso de produtos fumígenos junto a entradas de hospitais, postos de saúde e estabelecimentos de educação infantil, ensino fundamental e ensino médio.",
+      "dataApresentacao": "2016-10-05T19:24"
+    },
+    {
+      "id": 2113414,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2113414",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6255,
+      "ano": 2016,
+      "ementa": "Altera a Lei nº 6.454, de 24 de outubro de 1977, para vedar que pessoa condenada por corrupção seja homenageada na denominação de bens públicos.",
+      "dataApresentacao": "2016-10-06T16:44"
+    },
+    {
+      "id": 2113502,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2113502",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6261,
+      "ano": 2016,
+      "ementa": "Proíbe a retenção de documentos de locomoção pertencentes a devedores executados judicialmente.",
+      "dataApresentacao": "2016-10-10T11:39"
+    },
+    {
+      "id": 2113697,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2113697",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 318,
+      "ano": 2016,
+      "ementa": "Dispõe sobre os efeitos tributários do contrato de advogado associado.",
+      "dataApresentacao": "2016-10-11T12:29"
+    },
+    {
+      "id": 2115088,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2115088",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6366,
+      "ano": 2016,
+      "ementa": "Altera o art. 93 da Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre Cotas para a inclusão de pessoas com deficiência, para facultar às empresas a contratar o pai ou a mãe ou o responsável por pessoa com deficiência.",
+      "dataApresentacao": "2016-10-20T17:47"
+    },
+    {
+      "id": 2116464,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2116464",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6447,
+      "ano": 2016,
+      "ementa": "Altera a Lei n.º 2.848, de 1940 - Código Penal - para tipificar o crime de pichação.",
+      "dataApresentacao": "2016-11-08T19:38"
+    },
+    {
+      "id": 2117379,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2117379",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 327,
+      "ano": 2016,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, com o objetivo de modificar as faixas de receita brutas de empesas optantes do Simples Nacional e dá outras providências.",
+      "dataApresentacao": "2016-11-17T11:51"
+    },
+    {
+      "id": 2117745,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2117745",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6519,
+      "ano": 2016,
+      "ementa": "Dispõe sobre a obrigatoriedade da instalação de detectores de metais nos acessos aos estabelecimentos tipo shopping center.",
+      "dataApresentacao": "2016-11-22T17:32"
+    },
+    {
+      "id": 2117756,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2117756",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6523,
+      "ano": 2016,
+      "ementa": "Obriga as concessionárias e permissionárias de serviço público de distribuição de energia elétrica a informarem nas faturas de energia a parcela da tarifa de energia elétrica correspondente às perdas não técnicas.",
+      "dataApresentacao": "2016-11-22T17:34"
+    },
+    {
+      "id": 2117806,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2117806",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6528,
+      "ano": 2016,
+      "ementa": "Proíbe a manipulação, a fabricação, a importação e a comercialização, em todo o território nacional, de produtos de higiene pessoal, cosméticos e perfumaria que contenham a adição intencional de microesferas de plástico, e dá outras providências.",
+      "dataApresentacao": "2016-11-22T18:18"
+    },
+    {
+      "id": 2118382,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2118382",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6565,
+      "ano": 2016,
+      "ementa": "Altera a redação do art. 22 da Lei nº 8.212, de 24 de julho de 1991, para reduzir a contribuição previdenciária das empresas que contratam pessoas com deficiência.",
+      "dataApresentacao": "2016-11-24T16:37"
+    },
+    {
+      "id": 2119051,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2119051",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6595,
+      "ano": 2016,
+      "ementa": "Denomina \"Aeroporto Glauber Rocha\" o novo aeroporto em construção na cidade de Vitória da Conquista (BA).",
+      "dataApresentacao": "2016-11-30T19:41"
+    },
+    {
+      "id": 2119831,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2119831",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6610,
+      "ano": 2016,
+      "ementa": "Altera a redação dos artigos 96 e 97 da Lei nº 11.196, de 21 de novembro de 2005, e dá outras providências.",
+      "dataApresentacao": "2016-12-05T15:04"
+    },
+    {
+      "id": 2119978,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2119978",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6618,
+      "ano": 2016,
+      "ementa": "Autoriza o Poder Executivo a criar o Instituto Federal de Educação, Ciência e Tecnologia da Borborema da Paraíba - IFBPB, por desmembramento do Instituto Federal de Educação, Ciência e Tecnologia - IFPB.",
+      "dataApresentacao": "2016-12-06T17:47"
+    },
+    {
+      "id": 2121460,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2121460",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6727,
+      "ano": 2016,
+      "ementa": "Dispõe sobre a contratação de serviços de transporte de veículos por indústria automobilística beneficiária de incentivo fiscal, tratamento tributário especial e/ou programa de financiamento e altera a Lei nº 10.233, de 5 de junho de 2001.",
+      "dataApresentacao": "2016-12-15T09:51"
+    },
+    {
+      "id": 2121543,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2121543",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 299,
+      "ano": 2016,
+      "ementa": "Acrescenta inciso ao parágrafo 4º do Artigo 60 da Constituição Federal.",
+      "dataApresentacao": "2016-12-15T14:34"
+    },
+    {
+      "id": 2121569,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2121569",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6748,
+      "ano": 2016,
+      "ementa": "Dispõe sobre Reparação às Vítimas de Violações de Direitos Humanos praticadas por agentes do Estado após o período fixado no art. 8o do Ato das Disposições Constitucionais Transitórias e dá outras providências.",
+      "dataApresentacao": "2016-12-15T15:40"
+    },
+    {
+      "id": 2122125,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2122125",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 337,
+      "ano": 2017,
+      "ementa": "Altera a Lei Complementar nº 73, de 10 de fevereiro de 1993, que institui a Lei Orgânica da Advocacia-Geral da União.",
+      "dataApresentacao": "2017-01-03T19:16"
+    },
+    {
+      "id": 2122956,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2122956",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6837,
+      "ano": 2017,
+      "ementa": "Dispõe sobre a criação do Sistema Federal de Proteção Animal (SIFEPA) e da Delegacia Eletrônica de Proteção Animal (DEPA), para a prevenção e repressão de infrações criminais e administrativas contra animais.",
+      "dataApresentacao": "2017-02-07T18:25"
+    },
+    {
+      "id": 2124192,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124192",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6977,
+      "ano": 2017,
+      "ementa": "Modifica o artigo 65 da Lei nº 9.605, de 12 de fevereiro de 1998, para majorar a pena do crime de pichação e aumentar o valor da multa prevista no § 1º do artigo 49-A do Decreto-lei nº 2.848, de 07 de dezembro de 1940.",
+      "dataApresentacao": "2017-02-21T13:40"
+    },
+    {
+      "id": 2124906,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124906",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7066,
+      "ano": 2017,
+      "ementa": "Dispõe acerca da proibição da cobrança referente ao ressarcimento e indenizações às empresas concessionárias e fornecedoras na conta dos consumidores de energia elétrica.",
+      "dataApresentacao": "2017-03-08T21:19"
+    },
+    {
+      "id": 2125310,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125310",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7094,
+      "ano": 2017,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"institui o Código de Trânsito Brasileiro\", para definir como crime disseminar, divulgar, difundir, em redes sociais e aplicativos de mensagens instantâneas, locais, datas e horários de atividade de fiscalização dos agentes da autoridade de trânsito.",
+      "dataApresentacao": "2017-03-14T17:27"
+    },
+    {
+      "id": 2125959,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125959",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7159,
+      "ano": 2017,
+      "ementa": "Acrescenta ao inciso II do art. 167, da Lei nº 6.015, de 1973, que dispõe sobre os registros públicos, a possibilidade de averbação dos contratos de arrendamento rural e parceria agrícola.",
+      "dataApresentacao": "2017-03-16T16:54"
+    },
+    {
+      "id": 2126647,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2126647",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7198,
+      "ano": 2017,
+      "ementa": "Altera a Lei nº 9.099, de 26 de setembro de 1995, que dispõe sobre os Juizados Especiais Cíveis e Criminais, a fim de instituir a declaração de culpabilidade como condição para aplicação imediata de pena não privativa de liberdade e a suspensão condicional da pena privativa de liberdade, nos casos que especifica.",
+      "dataApresentacao": "2017-03-22T16:51"
+    },
+    {
+      "id": 2126901,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2126901",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 307,
+      "ano": 2017,
+      "ementa": "Determina a correção periódica da base de cálculo e das deduções legais previstas para incidência da alíquota do Imposto de Renda de Pessoa Física",
+      "dataApresentacao": "2017-03-23T11:25"
+    },
+    {
+      "id": 2128078,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2128078",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7283,
+      "ano": 2017,
+      "ementa": "Altera a Lei nº 9.394, de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir, no ensino básico, o treinamento para prevenção de afogamentos e acidentes aquáticos.",
+      "dataApresentacao": "2017-04-04T14:58"
+    },
+    {
+      "id": 2128167,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2128167",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7299,
+      "ano": 2017,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para obrigar a identificação de motocicletas e motonetas destinadas ao transporte de mercadorias.",
+      "dataApresentacao": "2017-04-04T17:42"
+    },
+    {
+      "id": 2128824,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2128824",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7348,
+      "ano": 2017,
+      "ementa": "Cria a política de apoio ao cuidador informal e ao atendente pessoal não remunerados de pessoa em situação de dependência para o exercício de atividades da vida diária.",
+      "dataApresentacao": "2017-04-06T16:06"
+    },
+    {
+      "id": 2132797,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2132797",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7537,
+      "ano": 2017,
+      "ementa": "Institui causa de aumento de pena àqueles que se utilizam de dispositivos de transmissão de dados que potencializam a divulgação de informações nos crimes contra a honra e no tipo penal de que trata o art. 66 do Código de Defesa do Consumidor.",
+      "dataApresentacao": "2017-05-02T16:07"
+    },
+    {
+      "id": 2137134,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2137134",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7622,
+      "ano": 2017,
+      "ementa": "Altera a Lei nº 11.977, de 7 de julho de 2009, para tratar da responsabilidade civil por danos decorrentes de defeitos construtivos em imóveis do Programa Minha Casa, Minha Vida.",
+      "dataApresentacao": "2017-05-11T11:54"
+    },
+    {
+      "id": 2138968,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2138968",
+      "siglaTipo": "PDC",
+      "codTipo": 408,
+      "numero": 675,
+      "ano": 2017,
+      "ementa": "Susta a aplicação dos arts. 1º, 2º, 4º e 5º da Resolução nº 5.339/2017 da Agência Nacional de Transportes Terrestres - ANTT.",
+      "dataApresentacao": "2017-05-24T10:58"
+    },
+    {
+      "id": 2139357,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2139357",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7737,
+      "ano": 2017,
+      "ementa": "Modifica o art. 65, da Lei nº 9.605, de 12 de fevereiro de 1998, para majorar a pena do crime de pichação.",
+      "dataApresentacao": "2017-05-30T11:51"
+    },
+    {
+      "id": 2139808,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2139808",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2199,
+      "ano": 2022,
+      "ementa": "Dispõe sobre a utilização do símbolo internacional de acessibilidade; modifica a Lei nº 7.405, de 12 de novembro de 1985, e dá outras providências.",
+      "dataApresentacao": "2017-05-31T16:54"
+    },
+    {
+      "id": 2141480,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2141480",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7875,
+      "ano": 2017,
+      "ementa": "Adiciona inciso ao art. 39 da Lei n.º 8.078, de 11 de setembro de 1990, para vedar a obsolescência programada.",
+      "dataApresentacao": "2017-06-13T17:42"
+    },
+    {
+      "id": 2141628,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2141628",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7883,
+      "ano": 2017,
+      "ementa": "Altera o Decreto-Lei no 2.848, de 7 de dezembro de 1940 - Código Penal, para incluir o uso progresso da força na hipótese de exclusão de ilicitude e especificar que a invasão injusta da propriedade configura causa de legítima defesa.",
+      "dataApresentacao": "2017-06-14T14:27"
+    },
+    {
+      "id": 2143388,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2143388",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7992,
+      "ano": 2017,
+      "ementa": "Agrava a pena do crime de pichação.",
+      "dataApresentacao": "2017-07-04T11:52"
+    },
+    {
+      "id": 2143883,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2143883",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8033,
+      "ano": 2017,
+      "ementa": "Assegura às pessoas portadoras de albinismo o exercício de direitos básicos nas áreas de educação, saúde e trabalho.",
+      "dataApresentacao": "2017-07-05T16:33"
+    },
+    {
+      "id": 2143886,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2143886",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8035,
+      "ano": 2017,
+      "ementa": "Assegura às pessoas portadoras de hipopigmentação congênita o recebimento de protetor e bloqueador solar e óculos escuros que contenham proteção contra os raios UVA e UVB pelo SUS e dá outras providências.",
+      "dataApresentacao": "2017-07-05T16:33"
+    },
+    {
+      "id": 2144160,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2144160",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8049,
+      "ano": 2017,
+      "ementa": "Altera a redação dos incisos I e II do art. 162 da Lei nº 9.503, de 23 de setembro de 1997, para dispor sobre o fator multiplicador de multa por infração de trânsito.",
+      "dataApresentacao": "2017-07-06T11:18"
+    },
+    {
+      "id": 2144760,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2144760",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8066,
+      "ano": 2017,
+      "ementa": "Obriga os fabricantes de cervejas a discriminarem os cereais utilizados em sua produção, assim como a presença de organismos geneticamente modificados.",
+      "dataApresentacao": "2017-07-11T15:43"
+    },
+    {
+      "id": 2146163,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2146163",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8138,
+      "ano": 2017,
+      "ementa": "Altera a Lei nº 9.795, de 1999, para instituir os planos estadual, distrital e municipal de educação ambiental.",
+      "dataApresentacao": "2017-08-02T14:20"
+    },
+    {
+      "id": 2147102,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2147102",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8215,
+      "ano": 2017,
+      "ementa": "Denomina \"Aeroporto José Fernandes Pedral Sampaio\" o novo aeroporto de Vitória da Conquista, na Bahia.",
+      "dataApresentacao": "2017-08-09T17:07"
+    },
+    {
+      "id": 2147229,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2147229",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 404,
+      "ano": 2017,
+      "ementa": "Altera o Decreto-Lei nº 73, de 21 de setembro de 1966, para dispor sobre o prazo e o procedimento para processamento dos avisos de sinistro por parte das seguradoras.",
+      "dataApresentacao": "2017-08-09T20:26"
+    },
+    {
+      "id": 2148412,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2148412",
+      "siglaTipo": "SBT-A",
+      "codTipo": 701,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera as Leis 8.069, de 13 de julho de 1990, e 9.263, de 12 de janeiro de 1996.",
+      "dataApresentacao": "2017-08-17T19:28"
+    },
+    {
+      "id": 2148732,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2148732",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8346,
+      "ano": 2017,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, isentando de punibilidade o proprietário ou possuidor de boa-fé, cuja terra sofra esbulho possessório.",
+      "dataApresentacao": "2017-08-22T20:45"
+    },
+    {
+      "id": 2148738,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2148738",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8349,
+      "ano": 2017,
+      "ementa": "Altera o § 1º do art. 65 da Lei nº 9.605, de 12 de fevereiro de 1998, para agravar as penas do crime de pichação e conspurcação de monumento ou coisa tombada em virtude de seu valor artístico, arqueológico ou histórico.",
+      "dataApresentacao": "2017-08-22T22:06"
+    },
+    {
+      "id": 2149498,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2149498",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8400,
+      "ano": 2017,
+      "ementa": "Concede redução na contribuição previdenciária para empresas que contratarem pessoas portadoras do vírus HIV.",
+      "dataApresentacao": "2017-08-29T15:28"
+    },
+    {
+      "id": 2150526,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2150526",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8506,
+      "ano": 2017,
+      "ementa": "Confere ao Município de Marilândia, no Estado do Espírito Santo, o título de Capital Nacional da Pesquisa do Café Conilon.",
+      "dataApresentacao": "2017-09-05T15:54"
+    },
+    {
+      "id": 2150530,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2150530",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8508,
+      "ano": 2017,
+      "ementa": "Torna obrigatória a instalação de portais de raios X e outros meios de inspeção para a entrada de pessoas em salas de cinema, teatros, casas de shows e espetáculos.",
+      "dataApresentacao": "2017-09-05T16:00"
+    },
+    {
+      "id": 2151253,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2151253",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8566,
+      "ano": 2017,
+      "ementa": "Altera o inciso VIII do art. 231 da Lei n° 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre a infração de transporte remunerado de pessoas ou bens.",
+      "dataApresentacao": "2017-09-13T10:59"
+    },
+    {
+      "id": 2151532,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2151532",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8589,
+      "ano": 2017,
+      "ementa": "Altera a Lei nº 9.503, de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a fiscalização eletrônica de velocidade.",
+      "dataApresentacao": "2017-09-13T18:53"
+    },
+    {
+      "id": 2151581,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2151581",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8595,
+      "ano": 2017,
+      "ementa": "Acresce os §§ 6º e 7º ao artigo 22 da Lei 8.906 de 04 de julho de 1994 dando aos honorários advocatícios natureza alimentar e dá outras providências.",
+      "dataApresentacao": "2017-09-13T20:46"
+    },
+    {
+      "id": 2152118,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2152118",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8618,
+      "ano": 2017,
+      "ementa": "Altera a Lei n.º 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para definir que a oferta de educação infantil em creches e pré-escolas por parte dos Municípios estende-se às zonas urbanas e rurais.",
+      "dataApresentacao": "2017-09-19T18:45"
+    },
+    {
+      "id": 2152247,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2152247",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8631,
+      "ano": 2017,
+      "ementa": "Modifica a Lei 6.803 de 2 de julho de 1980 e a Lei 9.985 de 18 de julho de 2000.",
+      "dataApresentacao": "2017-09-20T11:30"
+    },
+    {
+      "id": 2153558,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2153558",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8735,
+      "ano": 2017,
+      "ementa": "Altera a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre o desporto, e a Lei nº 10.891, de 9 de julho de 2004, que institui a Bolsa-atleta, para fomentar a concessão de bolsas a estudantes do ensino superior que se destaquem em determinadas modalidades desportivas.",
+      "dataApresentacao": "2017-10-02T20:00"
+    },
+    {
+      "id": 2156098,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2156098",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8842,
+      "ano": 2017,
+      "ementa": "Denomina \"José de Ribamar Cunha\", o trecho da BR 010 entre a Facchinni e a Ponte do Cacau, na cidade de Imperatriz, estado do Maranhão.",
+      "dataApresentacao": "2017-10-16T13:08"
+    },
+    {
+      "id": 2156487,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2156487",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8856,
+      "ano": 2017,
+      "ementa": "Dispõe sobre as ações práticas de conservação da Natureza, no âmbito da Política Nacional de Educação Ambiental, Lei 9.795, de 27 de abril de 1999.",
+      "dataApresentacao": "2017-10-17T17:32"
+    },
+    {
+      "id": 2156488,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2156488",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8857,
+      "ano": 2017,
+      "ementa": "Acrescenta parágrafo ao art. 10 da Lei nº 9.795, de 1999, para dispor sobre o incentivo a estágio em cursos de graduação, voltado para a proteção do meio ambiente.",
+      "dataApresentacao": "2017-10-17T17:32"
+    },
+    {
+      "id": 2157751,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2157751",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8879,
+      "ano": 2017,
+      "ementa": "Altera o art. 13 da Lei n.º 9.868, de 10 de novembro de 1999, para adaptar o rol de legitimados a propor a ação declaratória de constitucionalidade à redação dada pela Emenda Constitucional nº 45, de 2004, ao art. 103 da Constituição Federal.",
+      "dataApresentacao": "2017-10-18T18:10"
+    },
+    {
+      "id": 2158455,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2158455",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8944,
+      "ano": 2017,
+      "ementa": "Obriga bares, lanchonetes e demais estabelecimentos a indicarem nos cardápios os alimentos que contêm alta concentração de sódio, e dá outras providências.",
+      "dataApresentacao": "2017-10-25T15:06"
+    },
+    {
+      "id": 2158505,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2158505",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8951,
+      "ano": 2017,
+      "ementa": "\"Altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para dispor sobre a base curricular da educação infantil e dá outras providências\".",
+      "dataApresentacao": "2017-10-25T17:12"
+    },
+    {
+      "id": 2159880,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2159880",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 8984,
+      "ano": 2017,
+      "ementa": "Institui o dia nacional de mobilização em memória das vítimas de trânsito e dá outras providências.",
+      "dataApresentacao": "2017-10-31T17:09"
+    },
+    {
+      "id": 2160160,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2160160",
+      "siglaTipo": "PDC",
+      "codTipo": 408,
+      "numero": 827,
+      "ano": 2017,
+      "ementa": "Susta os efeitos do Decreto nº 9.188, de 1º de novembro de 2017, que estabelece regras de governança, transparência e boas práticas de mercado para a adoção de regime especial de desinvestimento de ativos pelas sociedades de economia mista federais.",
+      "dataApresentacao": "2017-11-06T16:02"
+    },
+    {
+      "id": 2160209,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2160209",
+      "siglaTipo": "PDC",
+      "codTipo": 408,
+      "numero": 828,
+      "ano": 2017,
+      "ementa": "Susta o Decreto nº 9.188, de 1º de novembro de 2017, que \"estabelece regras de governança, transparência e boas práticas de mercado para a adoção de regime especial de desinvestimento de ativos pelas sociedades de economia mista federais\".",
+      "dataApresentacao": "2017-11-06T19:34"
+    },
+    {
+      "id": 2160218,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2160218",
+      "siglaTipo": "PDC",
+      "codTipo": 408,
+      "numero": 830,
+      "ano": 2017,
+      "ementa": "Susta, nos termos do art. 49, V, da Constituição, a aplicação do Decreto nº 9.188, de 1º de novembro de 2017.",
+      "dataApresentacao": "2017-11-06T19:56"
+    },
+    {
+      "id": 2160235,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2160235",
+      "siglaTipo": "PDC",
+      "codTipo": 408,
+      "numero": 831,
+      "ano": 2017,
+      "ementa": "Susta a aplicação do Decreto nº 9188, de 1º de novembro de 2017, que \"estabelece regras de governança, transparência e boas práticas de mercado para a adoção de regime especial de desinvestimento de ativos pelas sociedades de economia mista federais\".",
+      "dataApresentacao": "2017-11-06T21:04"
+    },
+    {
+      "id": 2160330,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2160330",
+      "siglaTipo": "PDC",
+      "codTipo": 408,
+      "numero": 833,
+      "ano": 2017,
+      "ementa": "Susta o Decreto Nº 9.188, de 1º de novembro de 2017, do Presidente da República, que \"estabelece regras de governança, transparência e boas práticas de mercado para a adoção de regime especial de desinvestimento de ativos pelas sociedades de economia mista federais\"",
+      "dataApresentacao": "2017-11-07T14:23"
+    },
+    {
+      "id": 2160407,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2160407",
+      "siglaTipo": "PDC",
+      "codTipo": 408,
+      "numero": 836,
+      "ano": 2017,
+      "ementa": "Susta o Decreto nº 9.188, de 1º de novembro de 2017 que \"Estabelece regras de governança, transparência e boas práticas de mercado para a adoção de regime especial de desinvestimento de ativos pelas sociedades de economia mista federais\" da Presidência da República.",
+      "dataApresentacao": "2017-11-07T15:52"
+    },
+    {
+      "id": 2160471,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2160471",
+      "siglaTipo": "PDC",
+      "codTipo": 408,
+      "numero": 837,
+      "ano": 2017,
+      "ementa": "Susta os efeitos do DECRETO Nº 9.188, DE 1º DE NOVEMBRO DE 2017, da Presidência da República, que estabelece \"regras de governança, transparência e boas práticas de mercado para a adoção de regime especial de desinvestimento de ativos pelas sociedades de economia mista federais\".",
+      "dataApresentacao": "2017-11-07T17:42"
+    },
+    {
+      "id": 2160484,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2160484",
+      "siglaTipo": "PDC",
+      "codTipo": 408,
+      "numero": 838,
+      "ano": 2017,
+      "ementa": "Susta o Decreto 9.188, de 1º de novembro de 2017, que estabelece regras de governança, transparência e boas práticas de mercado para a adoção de regime especial de desinvestimento de ativos pelas sociedades de economia mista federais.",
+      "dataApresentacao": "2017-11-07T18:02"
+    },
+    {
+      "id": 2160836,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2160836",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 9054,
+      "ano": 2017,
+      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), a Lei nº 8.072, de 25 de julho de 1990 (Lei de Crimes Hediondos), o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), a Lei nº 11.343, de 23 de agosto de 2006, e a Lei nº 9.099, de 26 de setembro de 1995.",
+      "dataApresentacao": "2017-11-08T16:26"
+    },
+    {
+      "id": 2162116,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2162116",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 383,
+      "ano": 2017,
+      "ementa": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+      "dataApresentacao": "2017-11-09T17:14"
+    },
+    {
+      "id": 2162461,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2162461",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 9108,
+      "ano": 2017,
+      "ementa": "Passa a denominar \"Aeroporto Internacional de Viracopos - Maestro Carlos Gomes\" ao Aeroporto Internacional de Viracopos.",
+      "dataApresentacao": "2017-11-21T14:53"
+    },
+    {
+      "id": 2163644,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2163644",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 9209,
+      "ano": 2017,
+      "ementa": "Acrescenta artigo à Lei nº 7.713, de 22 de dezembro de 1988, para isentar do imposto de renda os rendimentos percebidos por pessoa física que doar medula óssea.",
+      "dataApresentacao": "2017-11-29T10:22"
+    },
+    {
+      "id": 2163885,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2163885",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 9223,
+      "ano": 2017,
+      "ementa": "Altera a Lei nº 12.587, de 3 de janeiro de 2012, que institui a Política Nacional de Mobilidade Urbana.",
+      "dataApresentacao": "2017-11-29T16:46"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=4"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=5&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=3&itens=100"
+    }
+  ]
+}

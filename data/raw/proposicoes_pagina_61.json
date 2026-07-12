@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2596662,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596662",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8128,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Sr. Ministro da Fazenda, acerca do impacto fiscal e orçamentário da expansão dos cargos comissionados e da ampliação da estrutura administrativa do Poder Executivo Federal.",
+      "dataApresentacao": "2025-12-15T15:57"
+    },
+    {
+      "id": 2596664,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596664",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8129,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Exmo. Sr. Ministro de Estado da Saúde acerca da decisão da Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (CONITEC) de não recomendar a incorporação do medicamento finerenona para o tratamento da Doença Renal Crônica (DRC) associada ao diabetes mellitus tipo 2 (DM2).",
+      "dataApresentacao": "2025-12-15T16:05"
+    },
+    {
+      "id": 2596672,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596672",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8130,
+      "ano": 2025,
+      "ementa": "Requer informações ao Ministro de Estado da Saúde, Sr. Alexandre Padilha, sobre os mecanismos de controle e monitoramento de obras de saúde paralisadas, com base nas determinações do Acórdão nº 2747/2025-Plenário do Tribunal de Contas da União (TCU).",
+      "dataApresentacao": "2025-12-15T16:22"
+    },
+    {
+      "id": 2596673,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596673",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8131,
+      "ano": 2025,
+      "ementa": "Requer do Senhor Ministro da Previdência Social, Wolney Queiroz, informações sobre a suposta liberação de empréstimos consignados em nome de menores de idade.",
+      "dataApresentacao": "2025-12-15T16:23"
+    },
+    {
+      "id": 2596681,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596681",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8132,
+      "ano": 2025,
+      "ementa": "Requer do Excelentíssimo Ministro de Minas e Energia, Senhor Alexandre Silveira, informações sobre a greve que já atinge instalações estratégicas da Petrobrás em diversas regiões do país, incluindo refinarias, plataformas de produção e terminais de distribuição.",
+      "dataApresentacao": "2025-12-15T16:52"
+    },
+    {
+      "id": 2596689,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596689",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6418,
+      "ano": 2025,
+      "ementa": "Cria política pública destinada a implantação nos Municípios da Casa Azul, ponto de atenção ambulatorial especializada do SUS voltado às pessoas portadoras de Transtorno do Espectro Autista – TEA",
+      "dataApresentacao": "2025-12-15T17:01"
+    },
+    {
+      "id": 2596690,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596690",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8135,
+      "ano": 2025,
+      "ementa": "Requer da Excelentíssima Ministra da Gestão e da Inovação em Serviços Públicos, Senhora Esther Dweck, informações a respeito da administração federal ter registrado em 2025 o maior número de cargos comissionados da história, totalizando 50.770 posições.",
+      "dataApresentacao": "2025-12-15T17:01"
+    },
+    {
+      "id": 2596693,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596693",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8136,
+      "ano": 2025,
+      "ementa": "Requer do Excelentíssimo Ministro da Casa Civil, Senhor Rui Costa, informações a respeito da administração federal ter registrado em 2025 o maior número de cargos comissionados da história, totalizando 50.770 posições.",
+      "dataApresentacao": "2025-12-15T17:03"
+    },
+    {
+      "id": 2596694,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596694",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6419,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a criminalização de atos de incitação, promoção ou financiamento de discursos e práticas misóginas organizadas, incluindo subculturas e grupos que pregam ódio, violência ou discriminação contra mulheres, e dá outras providências.",
+      "dataApresentacao": "2025-12-15T17:05"
+    },
+    {
+      "id": 2596696,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596696",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8137,
+      "ano": 2025,
+      "ementa": "Requer do Excelentíssimo Ministro da Justiça e Segurança Pública, Senhor Ricardo Lewandowski, informações sobre os feminicídios no Brasil, análise comparativa 2020-2025.",
+      "dataApresentacao": "2025-12-15T17:06"
+    },
+    {
+      "id": 2596753,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596753",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8138,
+      "ano": 2025,
+      "ementa": "Requer do Excelentíssimo Ministro da Educação, Senhor Camilo Santana, informações sobre as alterações significativas para o acesso ao ensino superior, com a atualização da Lei de Cotas sancionada em novembro de 2023.",
+      "dataApresentacao": "2025-12-15T18:11"
+    },
+    {
+      "id": 2596754,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596754",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8139,
+      "ano": 2025,
+      "ementa": "Requer da Excelentíssima Ministra das Mulheres, Senhora Marcia Lopes, informações sobre os feminicídios no Brasil, análise comparativa 2020-2025.",
+      "dataApresentacao": "2025-12-15T18:13"
+    },
+    {
+      "id": 2596802,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596802",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6436,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para incluir a suspeita de trabalho infantil como causa de comunicação obrigatória ao Conselho Tutelar pelos dirigentes de estabelecimentos de ensino, com foco na proteção da primeira infância.",
+      "dataApresentacao": "2025-12-15T18:27"
+    },
+    {
+      "id": 2596811,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596811",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6444,
+      "ano": 2025,
+      "ementa": "Institui o Sistema Nacional de Alerta Imediato para Monitoramento e Comunicação de Aumento de Casos de Doenças de Risco à Saúde Pública, e dá outras providências.",
+      "dataApresentacao": "2025-12-15T18:27"
+    },
+    {
+      "id": 2596813,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596813",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6446,
+      "ano": 2025,
+      "ementa": "Institui o Programa Nacional Prato Cheio, destinado à promoção da segurança alimentar e nutricional da população em situação de vulnerabilidade social e de estudantes universitários de instituições públicas e privadas, estabelece diretrizes para sua implementação e dá outras providências.",
+      "dataApresentacao": "2025-12-15T18:27"
+    },
+    {
+      "id": 2596818,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596818",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8140,
+      "ano": 2025,
+      "ementa": "Requer ao Ministério dos Transportes, informações sobre os critérios técnicos, econômicos e administrativos utilizados para a fixação do teto do preço público dos exames de aptidão física, mental e avaliação psicológica para obtenção da Carteira Nacional de Habilitação (CNH).",
+      "dataApresentacao": "2025-12-15T18:51"
+    },
+    {
+      "id": 2596820,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596820",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8141,
+      "ano": 2025,
+      "ementa": "Requer informações ao Ministro de Estado do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte, Sr. Márcio França, sobre falhas em ações para apoiar microempreendedores e\nreduzir o Custo Brasil, com base nos achados do Acórdão nº 2759/2025-Plenário do Tribunal de Contas da União (TCU).",
+      "dataApresentacao": "2025-12-15T19:05"
+    },
+    {
+      "id": 2596821,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596821",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8142,
+      "ano": 2025,
+      "ementa": "Requer informações ao Ministério da Justiça e Segurança Pública (MJSP) acerca das medidas adotadas pela Pasta para o aprimoramento da gestão, do monitoramento, da transparência orçamentária e da integração de sistemas do Pacto Nacional de Prevenção aos Feminicídios (PNPF) diante do aumento de casos de feminicídios no país e da baixa execução orçamentária.",
+      "dataApresentacao": "2025-12-15T19:09"
+    },
+    {
+      "id": 2596849,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596849",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6450,
+      "ano": 2025,
+      "ementa": "Acrescenta inciso XIII ao art. 5º da Lei nº 13.756, de 12 de dezembro de 2018, que dispõe sobre o Fundo Nacional de Segurança Pública (FNSP) e promove alterações em diversos outros diplomas legais, para incluir os programas de assistência psicossocial dentre as diversas destinações dadas aos recursos desse Fundo.",
+      "dataApresentacao": "2025-12-15T20:28"
+    },
+    {
+      "id": 2596941,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596941",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 3128,
+      "ano": 2025,
+      "ementa": "Sugere ao Ministério da Justiça e Segurança Pública a adoção de medidas destinadas a permitir que o porte de trânsito concedido a colecionadores, atiradores e caçadores – CAC – autorize o transporte de 1 (uma) arma de fogo municiada e pronta para uso, exclusivamente para fins de proteção e guarda do acervo.",
+      "dataApresentacao": "2025-12-16T10:43"
+    },
+    {
+      "id": 2596942,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596942",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 3129,
+      "ano": 2025,
+      "ementa": "Sugere ao Ministério da Justiça e Segurança Pública a adoção de medidas para reclassificar o calibre 9 mm como de uso permitido, diante da reconhecida baixa efetividade do calibre .380 ACP para fins de defesa pessoal.",
+      "dataApresentacao": "2025-12-16T10:45"
+    },
+    {
+      "id": 2596943,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596943",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 3130,
+      "ano": 2025,
+      "ementa": "Sugere ao Ministério da Justiça e Segurança Pública o reforço do patrulhamento federal no Arco Metropolitano do Rio de Janeiro (BR-493), com foco na repressão aos crimes violentos e aos roubos de carga registrados ao longo da rodovia.",
+      "dataApresentacao": "2025-12-16T10:47"
+    },
+    {
+      "id": 2596979,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596979",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8143,
+      "ano": 2025,
+      "ementa": "Requer informações ao Ministro de Estado Chefe da Casa Civil da Presidência da República, Rui Costa dos Santos, sobre a coordenação política e técnica relativa à ampliação de despesas excepcionadas do arcabouço fiscal e os impactos dessas decisões sobre a transparência, a governança e a sustentabilidade das contas públicas.",
+      "dataApresentacao": "2025-12-16T11:59"
+    },
+    {
+      "id": 2596981,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596981",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8144,
+      "ano": 2025,
+      "ementa": "Requer informações à Ministra de Estado do Planejamento e Orçamento, Simone Tebet, sobre o tratamento das despesas excepcionadas do arcabouço fiscal, bem como sobre os impactos dessas excepcionalizações na transparência, na programação orçamentária e na trajetória da dívida pública federal.",
+      "dataApresentacao": "2025-12-16T11:59"
+    },
+    {
+      "id": 2596982,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596982",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8145,
+      "ano": 2025,
+      "ementa": "Requer informações ao Ministro de Estado da Fazenda, Fernando Haddad, sobre a ampliação de despesas excepcionadas do arcabouço fiscal e os impactos dessas excepcionalizações sobre o resultado primário e a trajetória da dívida pública federal.",
+      "dataApresentacao": "2025-12-16T11:59"
+    },
+    {
+      "id": 2596987,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596987",
+      "siglaTipo": "PDL",
+      "codTipo": 550,
+      "numero": 1208,
+      "ano": 2025,
+      "ementa": "Autoriza o aproveitamento de potencial de energia hidráulica por intermédio da Pequena Central Hidrelétrica (PCH) CC-44-03, com 9.750 quilowatts (kW) de Potência Instalada, cujo canal adutor, conduto forçado e casa de força ocuparão 4,38 hectares (ha) da Terra Indígena Vale do Guaporé.",
+      "dataApresentacao": "2025-12-16T12:26"
+    },
+    {
+      "id": 2597094,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597094",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8146,
+      "ano": 2025,
+      "ementa": "Requer do Excelentíssimo Ministro da Secretaria-Geral da Presidência da República informações sobre os critérios, fundamentos jurídicos e motivação governamental para a renovação do assento da Confederação Nacional dos Trabalhadores Rurais Agricultores e Agricultoras Familiares (CONTAG) no Conselho de Participação Social, bem como sua nomeação e presença em outros conselhos governamentais.",
+      "dataApresentacao": "2025-12-16T13:32"
+    },
+    {
+      "id": 2597100,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597100",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8147,
+      "ano": 2025,
+      "ementa": "Requer do Ministro de Estado do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte, Senhor Marcio França, informações sobre as políticas econômicas e medidas adotadas pelo Poder Executivo que resultaram no recente aumento recorde da inadimplência empresarial no Brasil.",
+      "dataApresentacao": "2025-12-16T13:32"
+    },
+    {
+      "id": 2597108,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597108",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8148,
+      "ano": 2025,
+      "ementa": "Requer do Ministro de Estado das Relações Exteriores, Senhor Mauro Vieira, informações sobre as medidas adotadas pelo Governo Federal em face do crescente risco de uma nova onda migratória transfronteiriça vinda da Venezuela pelos estados do Amazonas e Roraima.",
+      "dataApresentacao": "2025-12-16T13:32"
+    },
+    {
+      "id": 2597111,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597111",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6460,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para estabelecer deveres de cuidado às aplicações de internet quanto à prevenção e combate à incitação, à automutilação e ao suicídio envolvendo crianças e adolescentes.",
+      "dataApresentacao": "2025-12-16T13:39"
+    },
+    {
+      "id": 2597279,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597279",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6463,
+      "ano": 2025,
+      "ementa": "Dispõe sobre o incentivo à produção, ao beneficiamento e à comercialização sustentável da tilápia, com proteção ao meio ambiente.",
+      "dataApresentacao": "2025-12-16T13:54"
+    },
+    {
+      "id": 2597290,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597290",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6464,
+      "ano": 2025,
+      "ementa": "Acrescenta art. 17-A à Lei nº 8.078, de 11 de setembro de 1990 – Código de Defesa do Consumidor, para estipular o prazo de 15 (quinze) dias para manifestação de fornecedores de bens e serviços sobre reclamações recebidas de consumidores.",
+      "dataApresentacao": "2025-12-16T14:21"
+    },
+    {
+      "id": 2597292,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597292",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8149,
+      "ano": 2025,
+      "ementa": "Requer da Excelentíssima Ministra do Meio Ambiente e Mudança do Clima, Senhora Marina Silva, informações sobre o colapso do sistema de gestão de resíduos sólidos na Amazônia.",
+      "dataApresentacao": "2025-12-16T14:24"
+    },
+    {
+      "id": 2597296,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597296",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8150,
+      "ano": 2025,
+      "ementa": "Requer o envio de solicitação de informações à Advocacia-Geral da União acerca dos procedimentos adotados, relativos ao entendimento e incorporação dos mecanismos e incentivos contidos na Lei nº  10.973, de 2004 (Marco Legal de Ciência, Tecnologia e Inovação - ML), nas decisões do órgão.",
+      "dataApresentacao": "2025-12-16T14:25"
+    },
+    {
+      "id": 2597297,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597297",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8151,
+      "ano": 2025,
+      "ementa": "Requer o envio de solicitação de informações à Controladoria-Geral da União acerca dos procedimentos adotados, relativos ao entendimento e incorporação dos mecanismos e incentivos contidos na Lei nº  10.973, de 2004 (Marco Legal de Ciência, Tecnologia e Inovação - ML), nas decisões adotadas pelo órgão.",
+      "dataApresentacao": "2025-12-16T14:25"
+    },
+    {
+      "id": 2597302,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597302",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8152,
+      "ano": 2025,
+      "ementa": "Requer o envio de solicitação de informações ao Ministério da Ciência, Tecnologia e Inovação acerca dos procedimentos adotados, relativos ao entendimento e incorporação dos mecanismos e incentivos contidos na Lei nº  10.973, de 2004 (Marco Legal de Ciência, Tecnologia e Inovação - ML), nas decisões do órgão.",
+      "dataApresentacao": "2025-12-16T14:25"
+    },
+    {
+      "id": 2597303,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597303",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8153,
+      "ano": 2025,
+      "ementa": "Requer o envio de solicitação de informações ao Ministério da Educação acerca dos procedimentos adotados, relativos ao entendimento e incorporação dos mecanismos e incentivos contidos na Lei nº  10.973, de 2004 (Marco Legal de Ciência, Tecnologia e Inovação - ML), nas decisões do órgão.",
+      "dataApresentacao": "2025-12-16T14:25"
+    },
+    {
+      "id": 2597308,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597308",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6465,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Prevenção, Enfrentamento e Combate ao Assédio Sexual e Moral no Transporte Público Coletivo, estabelece deveres aos entes federativos, às concessionárias e permissionárias de transporte, cria obrigações de informação, prevenção, acolhimento e encaminhamento de denúncias, assegura mecanismos padronizados de comunicação e resposta imediata às vítimas, define diretrizes para campanhas permanentes de conscientização, capacitação de trabalhadores do setor e integração com órgãos de segurança pública, com fundamento na proteção da dignidade da pessoa humana, da liberdade de locomoção e dos direitos das mulheres, nos termos da Constituição Federal.",
+      "dataApresentacao": "2025-12-16T14:52"
+    },
+    {
+      "id": 2597315,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597315",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8154,
+      "ano": 2025,
+      "ementa": "Requer informações detalhadas sobre a regulamentação do art. 5º da Lei nº 14.818, de 16 de janeiro de 2024, que institui o Programa Pé-de-Meia.",
+      "dataApresentacao": "2025-12-16T15:00"
+    },
+    {
+      "id": 2597316,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597316",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8155,
+      "ano": 2025,
+      "ementa": "Requer informações detalhadas ao Ministro da Educação sobre o Decreto nº 12.686/2025.",
+      "dataApresentacao": "2025-12-16T15:00"
+    },
+    {
+      "id": 2597325,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597325",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6468,
+      "ano": 2025,
+      "ementa": "Denomina \"Antônio Albuquerque Maranhão\" a unidade de atenção materno-infantil do Hospital Universitário da Universidade Federal da Grande Dourados (HU-UFGD).",
+      "dataApresentacao": "2025-12-16T15:16"
+    },
+    {
+      "id": 2597342,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597342",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6470,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência), para especificar e fortalecer a prioridade no embarque e desembarque em transportes coletivos e dá outras providências.",
+      "dataApresentacao": "2025-12-16T16:17"
+    },
+    {
+      "id": 2597372,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597372",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 3135,
+      "ano": 2025,
+      "ementa": "Sugere ao Exmo. Ministro da Agricultura e Pecuária, Sr. Carlos Henrique Baqueta Fávaro, que demande ao Conselho Monetário Nacional (CMN) a prorrogação, pelo prazo de 2 (dois) anos, da exigibilidade do item 17 da Seção 9 do Capítulo 2 do Manual de Crédito Rural (MCR), inserido pela Resolução CMN nº 5.193/2024, que exige a verificação de supressão de vegetação via PRODES como requisito para concessão de crédito rural.",
+      "dataApresentacao": "2025-12-16T17:11"
+    },
+    {
+      "id": 2597384,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597384",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6472,
+      "ano": 2025,
+      "ementa": "Estabelece normas de proteção aos direitos dos consumidores e usuários de serviços de comunicação eletrônica contra práticas abusivas de cobrança automatizada, incluindo chamadas repetitivas, contatos fora dos horários permitidos, falsas representações, uso indevido de voz sintética (deepvoice), spoofing e outras formas de constrangimento digital, impõe obrigações de transparência, consentimento e mecanismos efetivos de recusa de contato, institui regime sancionatório administrativo e civil para infratores, cria mecanismos de indenização direta por abuso e determina diretrizes de governança de dados pessoais aplicáveis, garantindo a compatibilidade com a Lei Geral de Proteção de Dados Pessoais – LGPD (Lei nº 13.709/2018) e demais normas consumeristas e de telecomunicações.",
+      "dataApresentacao": "2025-12-16T17:42"
+    },
+    {
+      "id": 2597421,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597421",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8156,
+      "ano": 2025,
+      "ementa": "Requer informação ao Ministério da Cultura acerca dos cem maiores recebedores de recursos oriundos da Lei nº 8.313, de 1991 (Lei Federal de Incentivo à Cultura – Lei Rouanet), discriminados por ano, nos últimos cinco anos.",
+      "dataApresentacao": "2025-12-16T17:58"
+    },
+    {
+      "id": 2597422,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597422",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8157,
+      "ano": 2025,
+      "ementa": "Requer informação ao Ministério do Esporte acerca dos cem maiores beneficiários de recursos incentivados por meio da Lei nº 11.438, de 2006 (Lei de Incentivo ao Esporte), discriminados por ano, nos últimos cinco anos.",
+      "dataApresentacao": "2025-12-16T17:58"
+    },
+    {
+      "id": 2597423,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597423",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8158,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministério da Fazenda, sobre a execução, a distribuição e os impactos fiscais da Lei nº 8.313/1991 (Lei Rouanet), diante da captação recorde de recursos no primeiro semestre de 2025, com ênfase na concentração dos incentivos, nos critérios de democratização do acesso aos mecanismos de fomento cultural e na avaliação da renúncia fiscal decorrente do incentivo.",
+      "dataApresentacao": "2025-12-16T18:02"
+    },
+    {
+      "id": 2597424,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597424",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8159,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministério da Cultura, sobre a execução, a distribuição e os impactos fiscais da Lei nº 8.313/1991 (Lei Rouanet), diante da captação recorde de recursos no primeiro semestre de 2025, com ênfase na concentração dos incentivos, nos critérios de democratização do acesso aos mecanismos de fomento cultural e na avaliação da renúncia fiscal decorrente do incentivo.",
+      "dataApresentacao": "2025-12-16T18:04"
+    },
+    {
+      "id": 2597476,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597476",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6479,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a proteção da identidade pessoal digital frente a tecnologias de inteligência artificial e representações sintéticas de identidade, estabelece direitos da personalidade e regras para a utilização econômica de atributos corporais e expressivos, disciplina deveres de plataformas digitais, e dá outras providências.",
+      "dataApresentacao": "2025-12-16T20:27"
+    },
+    {
+      "id": 2597596,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597596",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6485,
+      "ano": 2025,
+      "ementa": "Altera as Leis nº 9.394, de 20 de dezembro de 1996, e nº 8.742, de 7 de dezembro de 1993, para dispor sobre o reconhecimento e o fortalecimento das parcerias do poder público com entidades sem fins lucrativos que prestam atendimento especializado às pessoas com deficiência.",
+      "dataApresentacao": "2025-12-16T23:45"
+    },
+    {
+      "id": 2598027,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598027",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8160,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministério da Gestão e da Inovação em Serviços Públicos (MGI) sobre a evolução de cargos e funções comissionadas na Administração Pública Federal, a realização de concursos públicos, o provimento de vagas e os impactos fiscais associados às despesas com pessoal, com projeções e detalhamentos para 2026.",
+      "dataApresentacao": "2025-12-17T10:08"
+    },
+    {
+      "id": 2598107,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598107",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8161,
+      "ano": 2025,
+      "ementa": "Requer do Excelentíssimo Senhor Wolney Queiroz Maciel, Ministro de Estado da Previdência Social, informações acerca da demora no atendimento à população nos postos de atendimento do Instituto Nacional de Seguro Social.",
+      "dataApresentacao": "2025-12-17T10:57"
+    },
+    {
+      "id": 2598114,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598114",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6487,
+      "ano": 2025,
+      "ementa": "Dispõe sobre diretrizes para a promoção do acesso, da permanência e da conclusão de curso de estudantes com Transtorno do Espectro Autista (TEA) no ensino superior e dá outras providências.",
+      "dataApresentacao": "2025-12-17T11:10"
+    },
+    {
+      "id": 2598124,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598124",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8162,
+      "ano": 2025,
+      "ementa": "Requer do Excelentíssimo Senhor Ministro de Estado da Pesca e Aquicultura do Brasil, André de Paula, informações acerca da demora no atendimento e no pagamento à população beneficiária do seguro defeso no Estado do Maranhão.",
+      "dataApresentacao": "2025-12-17T11:36"
+    },
+    {
+      "id": 2598127,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598127",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6489,
+      "ano": 2025,
+      "ementa": "Institui o “Dia Nacional da Mulher com Deficiência” e a “Semana de Luta e Visibilidade da Mulher com Deficiência”, em homenagem à Professora Izabel de Loureiro Maior, e dá outras providências.",
+      "dataApresentacao": "2025-12-17T11:56"
+    },
+    {
+      "id": 2598149,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598149",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6490,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a organização, funcionamento, fiscalização e financiamento das Comunidades Terapêuticas Acolhedoras e demais providências.",
+      "dataApresentacao": "2025-12-17T12:22"
+    },
+    {
+      "id": 2598202,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598202",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8163,
+      "ano": 2025,
+      "ementa": "Requer informações ao Ministério de Estado da Fazenda, através da Secretaria de Prêmios e Apostas (SPA), sobre a regulação, fiscalização e integridade do mercado de apostas de quota fixa e jogos on-line.",
+      "dataApresentacao": "2025-12-17T14:29"
+    },
+    {
+      "id": 2598204,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598204",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 3142,
+      "ano": 2025,
+      "ementa": "Sugere ao Excelentíssimo Ministro da Educação, Senhor Camilo Santana, o estabelecimento de políticas públicas voltadas para a atração e permanência estudantil nas áreas de engenharia, agronomia e geociências.",
+      "dataApresentacao": "2025-12-17T14:34"
+    },
+    {
+      "id": 2598219,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598219",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6497,
+      "ano": 2025,
+      "ementa": "Denomina o trevo de entroncamento da BR 158 com a BR 282, no município de Maravilha, Estado de Santa Catarina, como “Trevo Elevado Claudino De Nadal\".",
+      "dataApresentacao": "2025-12-17T14:41"
+    },
+    {
+      "id": 2598222,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598222",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6500,
+      "ano": 2025,
+      "ementa": "Autoriza os Municípios e os Estados a capacitarem, treinarem e armarem os Agentes de Trânsito e os integrantes das Autarquias Municipais de Trânsito, estabelecendo critérios para o porte de arma de fogo em serviço, em razão do risco inerente à atividade, e dá outras providências.",
+      "dataApresentacao": "2025-12-17T14:42"
+    },
+    {
+      "id": 2598256,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598256",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 3155,
+      "ano": 2025,
+      "ementa": "Solicito ao Exmo. Sr. Ministro de Estado da Educação o direcionamento de recursos financeiros para a construção de unidades de Educação Infantil, nas etapas de creche e pré-escola, no município de Barra do Piraí, com o objetivo de ampliar o acesso à educação básica, garantir o desenvolvimento integral das crianças e promover a equidade educacional desde os primeiros anos de vida.",
+      "dataApresentacao": "2025-12-17T15:50"
+    },
+    {
+      "id": 2598259,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598259",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 3156,
+      "ano": 2025,
+      "ementa": "Solicito ao Exmo. Sr. Ministro de Estado da Educação o direcionamento de recursos financeiros para a construção de unidades de Educação Infantil, nas etapas de creche e pré-escola, no município de Itaguaí, com o objetivo de ampliar o acesso à educação básica, garantir o desenvolvimento integral das crianças e promover a equidade educacional desde os primeiros anos de vida.",
+      "dataApresentacao": "2025-12-17T15:50"
+    },
+    {
+      "id": 2598263,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598263",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 3157,
+      "ano": 2025,
+      "ementa": "Solicito ao Exmo. Sr. Ministro de Estado da Educação o direcionamento de recursos financeiros para a construção de unidades de Educação Infantil, nas etapas de creche e pré-escola, no município de Pinheral, com o objetivo de ampliar o acesso à educação básica, garantir o desenvolvimento integral das crianças e promover a equidade educacional desde os primeiros anos de vida.",
+      "dataApresentacao": "2025-12-17T15:50"
+    },
+    {
+      "id": 2598265,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598265",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 3158,
+      "ano": 2025,
+      "ementa": "Solicito ao Exmo. Sr. Ministro de Estado da Educação o direcionamento de recursos financeiros para a construção de unidades de Educação Infantil, nas etapas de creche e pré-escola, no município de Piraí, com o objetivo de ampliar o acesso à educação básica, garantir o desenvolvimento integral das crianças e promover a equidade educacional desde os primeiros anos de vida.",
+      "dataApresentacao": "2025-12-17T15:50"
+    },
+    {
+      "id": 2598267,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598267",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 3159,
+      "ano": 2025,
+      "ementa": "Solicito ao Exmo. Sr. Ministro de Estado da Educação o direcionamento de recursos financeiros para a construção de unidades de Educação Infantil, nas etapas de creche e pré-escola, no município de Santo Antônio de Pádua, com o objetivo de ampliar o acesso à educação básica, garantir o desenvolvimento integral das crianças e promover a equidade educacional desde os primeiros anos de vida.",
+      "dataApresentacao": "2025-12-17T15:50"
+    },
+    {
+      "id": 2598268,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598268",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 3160,
+      "ano": 2025,
+      "ementa": "Solicito ao Exmo. Sr. Ministro de Estado da Educação o direcionamento de recursos financeiros para a construção de unidades de Educação Infantil, nas etapas de creche e pré-escola, no município de São Francisco de Itabapoana, com o objetivo de ampliar o acesso à educação básica, garantir o desenvolvimento integral das crianças e promover a equidade educacional desde os primeiros anos de vida.",
+      "dataApresentacao": "2025-12-17T15:50"
+    },
+    {
+      "id": 2598306,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598306",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6508,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Valorização do Comerciário, estabelece o Piso Salarial Profissional Nacional para os trabalhadores do comércio de bens, serviços e turismo, e o vincula à formação profissional continuada.",
+      "dataApresentacao": "2025-12-17T17:05"
+    },
+    {
+      "id": 2598354,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598354",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 3172,
+      "ano": 2025,
+      "ementa": "Sugere a ampliação do tempo de uso dos ônibus escolares no âmbito do Programa Caminho da Escola.",
+      "dataApresentacao": "2025-12-17T17:52"
+    },
+    {
+      "id": 2598359,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598359",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6512,
+      "ano": 2025,
+      "ementa": "Reconhece as atividades do Clube dos Desbravadores como método complementar de educação no País.",
+      "dataApresentacao": "2025-12-17T17:47"
+    },
+    {
+      "id": 2598380,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598380",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6514,
+      "ano": 2025,
+      "ementa": "Institui o Programa Nacional de Incentivo à Cultura de Paz no Futebol e cria o Prêmio Nacional de Cultura de Paz no Futebol, destinado aos clubes que desenvolverem iniciativas comprovadas de redução da violência entre torcidas, e dá outras providências.",
+      "dataApresentacao": "2025-12-17T18:09"
+    },
+    {
+      "id": 2598413,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598413",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6515,
+      "ano": 2025,
+      "ementa": "Concede ao Município de Itapissuma, no Estado de Pernambuco, o título de Capital Nacional da Caldeirada.",
+      "dataApresentacao": "2025-12-17T18:31"
+    },
+    {
+      "id": 2598436,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598436",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6516,
+      "ano": 2025,
+      "ementa": "Altera a metodologia de cálculo do Índice de Desenvolvimento da Educação Básica – Ideb, para limitar o peso do fluxo escolar e estabelecer teto para o percentual de aprovação a ser considerado no cálculo.",
+      "dataApresentacao": "2025-12-17T18:51"
+    },
+    {
+      "id": 2598443,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598443",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6523,
+      "ano": 2025,
+      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal) e a Lei nº 14.601, de 19 de junho de 2023, para vedar a inscrição, como responsável familiar no Programa Bolsa Família, de pessoa condenada, pela prática de crime hediondo previsto na Lei nº 8.072, de 25 de julho de 1990.",
+      "dataApresentacao": "2025-12-17T19:09"
+    },
+    {
+      "id": 2598446,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598446",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6526,
+      "ano": 2025,
+      "ementa": "Altera o Decreto-Lei nº 1.804, de 3 de setembro de 1980, para garantir a isenção do Imposto de Importação em remessas postais e encomendas aéreas internacionais destinadas a pessoa física, de valor até US$ 50,00 (cinquenta dólares norte-americanos).",
+      "dataApresentacao": "2025-12-17T19:09"
+    },
+    {
+      "id": 2598448,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598448",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6528,
+      "ano": 2025,
+      "ementa": "Concede benefícios fiscais que especifica, a pessoas físicas e a microempresas e empresas de pequeno porte, inclusive optantes pelo Simples Nacional, que tenham sido vítimas de facções criminosas e obrigadas a abandonar suas casas, cidades ou negócios, sofrendo graves prejuízos financeiros.",
+      "dataApresentacao": "2025-12-17T19:09"
+    },
+    {
+      "id": 2598450,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598450",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6530,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 12.351, de 22 de dezembro de 2010, para incluir a segurança pública como área de aplicação dos recursos do Fundo Social (FS), visando ao enfrentamento dos desafios socioeconômicos do País.",
+      "dataApresentacao": "2025-12-17T19:14"
+    },
+    {
+      "id": 2598455,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598455",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6533,
+      "ano": 2025,
+      "ementa": "Institui o salário profissional nacional para os motoristas de transporte coletivo de passageiros em Municípios com mais de 200.000 (duzentos mil) habitantes e dá outras providências.",
+      "dataApresentacao": "2025-12-18T08:47"
+    },
+    {
+      "id": 2598469,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598469",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6535,
+      "ano": 2025,
+      "ementa": "Dispões sobre a consolidação do Sistema Nacional de Informações sobre o Transtorno do Espectro Autista, estabelece normas gerais para a Carteira de Identificação da Pessoa com Transtornos Espectro Autista (CIPTEA), define diretrizes de governança, proteção de dados pessoais e articulação federativa, e dá outras providências.",
+      "dataApresentacao": "2025-12-18T10:30"
+    },
+    {
+      "id": 2598470,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598470",
+      "siglaTipo": "REQ",
+      "codTipo": 293,
+      "numero": 6078,
+      "ano": 2025,
+      "ementa": "Requer a realização de Sessão Solene em conscientização ao mês da obesidade.",
+      "dataApresentacao": "2025-12-18T10:34"
+    },
+    {
+      "id": 2598490,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598490",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6537,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Transição para Alimentação Saudável, estabelece a vedação gradual de aquisição de alimentos ultraprocessados pela Administração Pública Federal, Estadual, Distrital e Municipal, define categorias de alimentos permitidos, condicionados e vedados, altera a Lei nº 11.947, de 16 de junho de 2009, e dá outras providências.",
+      "dataApresentacao": "2025-12-18T11:30"
+    },
+    {
+      "id": 2598535,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598535",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8164,
+      "ano": 2025,
+      "ementa": "Requer informações a Sr.ª Margareth Menezes, Ministra da Cultura, acerca da execução da Lei nº 8.313/1991 (Lei Rouanet), diante do recorde histórico de captação de recursos em 2025, com foco nos critérios de seleção, concentração de beneficiários, regionalização dos investimentos e efetividade da política pública cultural.",
+      "dataApresentacao": "2025-12-18T14:22"
+    },
+    {
+      "id": 2598536,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598536",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8165,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Sr. Ministro da Fazenda, acerca do impacto fiscal, orçamentário e da avaliação de custo-benefício da renúncia fiscal decorrente da execução da Lei Rouanet, especialmente diante do recorde histórico de captação registrado em 2025.",
+      "dataApresentacao": "2025-12-18T14:22"
+    },
+    {
+      "id": 2598538,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598538",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6544,
+      "ano": 2025,
+      "ementa": "Revoga os artigos 359-L e 359-M do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), introduzidos pela Lei nº 14.197, de 1º de setembro de 2021, que tratam dos crimes de abolição violenta do Estado Democrático de Direito e de golpe de Estado, a fim de assegurar a observância dos princípios constitucionais da liberdade de expressão, do direito de reunião e da segurança jurídica.",
+      "dataApresentacao": "2025-12-18T14:38"
+    },
+    {
+      "id": 2598544,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598544",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8166,
+      "ano": 2025,
+      "ementa": "Solicitação de informações à Sra. Ministra de Estado dos Direitos Humanos e da Cidadania, Sra. Macaé Evaristo, acerca da implementação, operação, monitoramento e execução orçamentária da denominada “Plataforma do Respeito” e demais iniciativas correlatas desenvolvidas no âmbito do Ministério dos Direitos Humanos e da Cidadania, incluindo a utilização de emendas parlamentares, a base legal do programa, as classificações orçamentárias aplicadas e os critérios de vigilância digital de cidadãos e autoridades.",
+      "dataApresentacao": "2025-12-18T14:49"
+    },
+    {
+      "id": 2598549,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598549",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6548,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre o uso de telefone celular por motoristas de aplicativo e outros profissionais do transporte remunerado.",
+      "dataApresentacao": "2025-12-18T14:51"
+    },
+    {
+      "id": 2598552,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598552",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6551,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para tornar obrigatória e prioritária a destinação de percentual da remuneração do trabalho do preso para a indenização da vítima.",
+      "dataApresentacao": "2025-12-18T14:51"
+    },
+    {
+      "id": 2598555,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598555",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6554,
+      "ano": 2025,
+      "ementa": "Institui o Programa de Recuperação Econômica para Vítimas de Crimes Patrimoniais (PRO-RECUPERA), concedendo crédito emergencial, moratória tributária e incentivos de segurança a pessoas físicas e a micro e pequenas empresas atingidas por roubos, furtos qualificados e latrocínios.",
+      "dataApresentacao": "2025-12-18T14:51"
+    },
+    {
+      "id": 2598568,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598568",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6563,
+      "ano": 2025,
+      "ementa": "Altera as Leis nº 9.394, de 20 de dezembro de 1996, e nº 10.880, de 9 de junho de 2004, para estender o direito ao transporte escolar gratuito aos estudantes da zona rural e de difícil acesso matriculados na rede de ensino pública ou privada e assegurar o respectivo repasse de recursos do Programa Nacional de Apoio ao Transporte do Escolar (PNATE).",
+      "dataApresentacao": "2025-12-18T14:51"
+    },
+    {
+      "id": 2598569,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598569",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6564,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a inclusão de profissionais capacitados para atender e acolher crianças com Transtorno do Espectro Autista (TEA) nos estabelecimentos que possuam espaços ou atividades de recreação infantil e dá outras providências.",
+      "dataApresentacao": "2025-12-18T14:51"
+    },
+    {
+      "id": 2598570,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598570",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6565,
+      "ano": 2025,
+      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para vedar a instauração, a presidência ou a condução, de ofício, de inquérito policial ou de procedimento investigatório criminal por membros do Poder Judiciário.",
+      "dataApresentacao": "2025-12-18T14:59"
+    },
+    {
+      "id": 2598581,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598581",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6569,
+      "ano": 2025,
+      "ementa": "Institui o Programa Nacional de Incentivo à Leitura na Primeira Infância – “Ler desde o Berço”",
+      "dataApresentacao": "2025-12-18T15:31"
+    },
+    {
+      "id": 2598596,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598596",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 8167,
+      "ano": 2025,
+      "ementa": "Solicitação de informações ao Senhor Ministro da Defesa José Múcio Monteiro Filho, acerca do episódio envolvendo aeronave de propriedade da J&F Investimentos, pertencente ao grupo dos empresários Joesley e Wesley Batista.",
+      "dataApresentacao": "2025-12-18T16:05"
+    },
+    {
+      "id": 2598610,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598610",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6572,
+      "ano": 2025,
+      "ementa": "Institui diretrizes nacionais para o fortalecimento das ações e metas destinadas ao desenvolvimento integral da primeira infância no âmbito das políticas públicas, e dá outras providências.",
+      "dataApresentacao": "2025-12-18T17:00"
+    },
+    {
+      "id": 2598615,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598615",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6577,
+      "ano": 2025,
+      "ementa": "Estabelece normas gerais de segurança, responsabilidade técnica e procedimentos mínimos para a instalação, montagem, manutenção e desmontagem de estruturas temporárias utilizadas em eventos realizados em espaços públicos ou privados, e dá outras providências.",
+      "dataApresentacao": "2025-12-18T17:00"
+    },
+    {
+      "id": 2598619,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598619",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6581,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de fornecedores disponibilizarem mecanismos digitais simples, acessíveis e eficazes para o exercício do direito de arrependimento e para o cancelamento de serviços ou compras, inclusive assinaturas recorrentes, nos termos do Código de Defesa do Consumidor, e dá outras providências.",
+      "dataApresentacao": "2025-12-18T17:00"
+    },
+    {
+      "id": 2598621,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598621",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6583,
+      "ano": 2025,
+      "ementa": "Define o conceito de mínimo existencial para fins de prevenção e tratamento do superendividamento, aprimora dispositivos referentes à concessão responsável de crédito e à repactuação de dívidas no âmbito das relações de consumo, e dá outras providências.",
+      "dataApresentacao": "2025-12-18T17:00"
+    },
+    {
+      "id": 2598625,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598625",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6585,
+      "ano": 2025,
+      "ementa": "Institui as diretrizes para a promoção contínua de ações de conscientização e educação financeira nos planos e programas governamentais, como medida de prevenção ao superendividamento, e dá outras providências.",
+      "dataApresentacao": "2025-12-18T17:00"
+    },
+    {
+      "id": 2598626,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598626",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6586,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigação de transparência, explicação e acesso às informações relativas a sistemas automatizados de decisão utilizados nas relações de consumo, e dá outras providências.",
+      "dataApresentacao": "2025-12-18T17:00"
+    },
+    {
+      "id": 2598635,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598635",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6593,
+      "ano": 2025,
+      "ementa": "Institui o Sistema Nacional de Transparência da Assistência Social, estabelece mecanismos de divulgação de informações sobre a gestão dos recursos da Política Nacional de Assistência Social e dá outras providências.",
+      "dataApresentacao": "2025-12-18T17:01"
+    },
+    {
+      "id": 2598638,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598638",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6596,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 12.187, de 29 de dezembro de 2009, que institui a Política Nacional sobre Mudança do Clima (PNMC), para priorizar ações de adaptação e mitigação em áreas de alta vulnerabilidade climática, com foco na Região Norte.",
+      "dataApresentacao": "2025-12-18T17:01"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=61"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=62&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=60&itens=100"
+    }
+  ]
+}

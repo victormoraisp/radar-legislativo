@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 1050834,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1050834",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 875,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para dispor sobre parcelamento de débitos previdenciários de responsabilidade dos Municípios apurados até 31 de dezembro de 2014.",
+      "dataApresentacao": "2015-03-24T16:32"
+    },
+    {
+      "id": 1050864,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1050864",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 877,
+      "ano": 2015,
+      "ementa": "\"Torna obrigatório o atendimento 24 (vinte e quatro horas) por parte dos laboratórios e indústrias farmacêuticas aos usuários de medicamentos\".",
+      "dataApresentacao": "2015-03-24T17:01"
+    },
+    {
+      "id": 1188057,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1188057",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 935,
+      "ano": 2015,
+      "ementa": "Dispõe sobre a implantação de Corredores Ecológicos que possibilitem a segura transposição da fauna, sob ou sobre as estradas, rodovias e ferrovias.",
+      "dataApresentacao": "2015-03-26T13:06"
+    },
+    {
+      "id": 1194323,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1194323",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 956,
+      "ano": 2015,
+      "ementa": "Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 4ª Região e dá outras providências.",
+      "dataApresentacao": "2015-03-27T12:55"
+    },
+    {
+      "id": 1198010,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1198010",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2234,
+      "ano": 2023,
+      "ementa": "Altera redação de dispositivos do artigo 4° da Lei n° 10.201, de 14 de fevereiro de 2001, que instituiu o Fundo Nacional de Segurança Pública - FNSP.",
+      "dataApresentacao": "2015-04-01T11:15"
+    },
+    {
+      "id": 1212570,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1212570",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1181,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 9.795, de 27 de abril de 1999, que dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências, para estabelecer o manejo sustentável dos recursos hídricos como componente curricular da educação ambiental.",
+      "dataApresentacao": "2015-04-16T14:47"
+    },
+    {
+      "id": 1215076,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1215076",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1228,
+      "ano": 2015,
+      "ementa": "Institui o fundo Nacional de Educação Ambiental - FNEA e dá outras providências.",
+      "dataApresentacao": "2015-04-22T18:19"
+    },
+    {
+      "id": 1215089,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1215089",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1231,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, para incluir mecanismos de facilitação da contratação de pessoas com deficiência na iniciativa privada e medidas de compensação a serem adotadas quando a cota mínima não puder ser alcançada por razões alheias à vontade do empregador",
+      "dataApresentacao": "2015-04-22T18:30"
+    },
+    {
+      "id": 1215556,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1215556",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 64,
+      "ano": 2015,
+      "ementa": "Acrescenta artigo a lei complementar nº 144, de 15 de maio de 2014, que atualiza a ementa e altera o art. 1o da Lei Complementar no51, de 20 de dezembro de 1985, que \"Dispõe sobre a aposentadoria do funcionário policial, nos termos do art. 103, da Constituição Federal\", para regulamentar a aposentadoria da mulher servidora policial.",
+      "dataApresentacao": "2015-04-27T14:02"
+    },
+    {
+      "id": 1215802,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1215802",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1297,
+      "ano": 2015,
+      "ementa": "Altera o art. 9º da Lei nº 8.078, Código de Defesa do Consumidor, de 11 de dezembro de 1990, dispondo sobre a obrigatoriedade dos estabelecimentos comerciais disponibilizarem informações sobre o uso de agrotóxicos em alimentos, bem como a separação de alimentos orgânicos em locais específicos.",
+      "dataApresentacao": "2015-04-28T12:46"
+    },
+    {
+      "id": 1228863,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1228863",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 32,
+      "ano": 2015,
+      "ementa": "Altera a redação dos artigos 14 e 228 da Constituição Federal, para estabelecer a plena maioridade civil e penal aos dezesseis anos de idade.",
+      "dataApresentacao": "2015-05-05T18:26"
+    },
+    {
+      "id": 1229707,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1229707",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1402,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993, para dispor sobre a concessão de abono especial ao responsável legal do portador de deficiência recebedor de benefício de prestação continuada.",
+      "dataApresentacao": "2015-05-06T15:38"
+    },
+    {
+      "id": 1229817,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1229817",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1412,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, que \"Dispõe sobre a proteção do consumidor e dá outras providências\", para dispor sobre a aplicação da multa civil.",
+      "dataApresentacao": "2015-05-06T17:37"
+    },
+    {
+      "id": 1230052,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1230052",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1428,
+      "ano": 2015,
+      "ementa": "Altera os arts.1º, 6º e 19 , da Lei  nº 12.513, de 26 de outubro de 2011, que dispõe sobre o Programa Nacional de Acesso  ao  Ensino Técnico e Emprego -  Pronatec; e dá   outras providências",
+      "dataApresentacao": "2015-05-07T09:17"
+    },
+    {
+      "id": 1247334,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1247334",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1496,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, para proibir a publicidade de bebidas alcoólicas em eventos de natureza desportiva.",
+      "dataApresentacao": "2015-05-12T18:08"
+    },
+    {
+      "id": 1247387,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1247387",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1499,
+      "ano": 2015,
+      "ementa": "Dispõe sobre a vistoria de veículos conforme o Código de Trânsito Brasileiro",
+      "dataApresentacao": "2015-05-12T20:59"
+    },
+    {
+      "id": 1278826,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1278826",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 82,
+      "ano": 2015,
+      "ementa": "Acrescenta dispositivo à Lei Complementar nº 51, de 20 de dezembro de 1985, para estender o direito à aposentadoria especial às mulheres integrantes da Polícia Militar do Distrito Federal e do Corpo de Bombeiros Militar do Distrito Federal.",
+      "dataApresentacao": "2015-05-13T19:30"
+    },
+    {
+      "id": 1278965,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1278965",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1547,
+      "ano": 2015,
+      "ementa": "Institui nova causa de aumento de pena aos crimes contra a honra, em sítios ou por meio de mensagens eletrônicas difundidas pela Internet, e determina à Autoridade Policial que promova, mediante requerimento de quem tem qualidade para intentar a respectiva ação penal, o acesso ao sítio indicado e respectiva impressão do material ofensivo, lavrando-se o competente termo.",
+      "dataApresentacao": "2015-05-14T14:46"
+    },
+    {
+      "id": 1279137,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1279137",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1567,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 9.503, de 1997, que institui o Código de Trânsito Brasileiro, para proibir a circulação de veículos nas praias situadas em unidade de conservação.",
+      "dataApresentacao": "2015-05-15T11:37"
+    },
+    {
+      "id": 1279451,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1279451",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1589,
+      "ano": 2015,
+      "ementa": "Torna mais rigorosa a punição dos crimes contra a honra cometidos mediantes disponibilização de conteúdo na internet ou que ensejarem a prática de atos que causem a morte da vítima.",
+      "dataApresentacao": "2015-05-19T16:09"
+    },
+    {
+      "id": 1279573,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1279573",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1599,
+      "ano": 2015,
+      "ementa": "Dispõe sobre a isenção do Imposto de Renda Pessoa Física (IRPJ) para os rendimentos auferidos a qualquer título pelos pais de deficientes físicos e mentais.",
+      "dataApresentacao": "2015-05-19T18:37"
+    },
+    {
+      "id": 1279633,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1279633",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 86,
+      "ano": 2015,
+      "ementa": "Altera o inciso I do art. 1º da Lei Complementar nº 51, de 20 de dezembro de 1985, para estabelecer em 70 (setenta) anos a idade limite para aposentadoria compulsória dos Policiais Civis.",
+      "dataApresentacao": "2015-05-20T09:44"
+    },
+    {
+      "id": 1280620,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1280620",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1657,
+      "ano": 2015,
+      "ementa": "Altera a Lei n.º 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional - LDB, para regular o desporto escolar.",
+      "dataApresentacao": "2015-05-22T10:40"
+    },
+    {
+      "id": 1301066,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1301066",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1737,
+      "ano": 2015,
+      "ementa": "Autoriza o aproveitamento dos incentivos fiscais da Lei no 8.313, de 23 de dezembro de 1991 (Lei Rouanet), pelas empresas optantes pelo lucro presumido na apuração do imposto de renda.",
+      "dataApresentacao": "2015-05-28T16:13"
+    },
+    {
+      "id": 1301075,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1301075",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1739,
+      "ano": 2015,
+      "ementa": "Altera o Decreto nº 70.235, de 6 de março de 1972, para obrigar o Conselho Administrativo de Recursos Fiscais a divulgar relatórios gerenciais do resultado dos julgamentos.",
+      "dataApresentacao": "2015-05-28T16:22"
+    },
+    {
+      "id": 1301095,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1301095",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1744,
+      "ano": 2015,
+      "ementa": "Dispõe sobre a padronização das embalagens dos produtos fumígenos derivados, ou não, do tabaco comercializados no país.",
+      "dataApresentacao": "2015-05-28T17:01"
+    },
+    {
+      "id": 1301102,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1301102",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1746,
+      "ano": 2015,
+      "ementa": "Acrescenta o Capítulo IV-A ao Título II - Dos Direitos Fundamentais, da Lei nº 8.069, de 13 de julho de 1990, que \"Dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências\", para garantir o direito de proteção dos dados de crianças e adolescentes na Internet.",
+      "dataApresentacao": "2015-05-28T17:31"
+    },
+    {
+      "id": 1301335,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1301335",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1764,
+      "ano": 2015,
+      "ementa": "Inclui art. 21-B à Lei nº 8.742, de 7 de dezembro de 1993, para dispor sobre a concessão de abono especial à mãe da pessoa com deficiência grave e dependência.",
+      "dataApresentacao": "2015-06-01T15:27"
+    },
+    {
+      "id": 1306679,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1306679",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1876,
+      "ano": 2015,
+      "ementa": "Acrescenta art. 63-A à Lei nº 8.213, de 24 de julho de 1991, que \"dispõe sobre os Planos de Benefícios da Previdência Social e dá outras providências\", para instituir o auxílio doença parental.",
+      "dataApresentacao": "2015-06-11T12:00"
+    },
+    {
+      "id": 1306684,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1306684",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1877,
+      "ano": 2015,
+      "ementa": "Dispõe sobre a duração e periodicidade da prática de educação física na educação básica.",
+      "dataApresentacao": "2015-06-11T12:18"
+    },
+    {
+      "id": 1504927,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1504927",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1984,
+      "ano": 2015,
+      "ementa": "Torna obrigatória, na transmissão de evento esportivo ou cultural, a disponibilização de tempo no rádio e televisão para divulgação institucional da Cidade sede do evento",
+      "dataApresentacao": "2015-06-18T11:40"
+    },
+    {
+      "id": 1515779,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1515779",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2070,
+      "ano": 2015,
+      "ementa": "Modifica a Lei nº 9.998, de 17 de agosto de 2000, para estabelecer a obrigação de implantação de pontos gratuitos e abertos ao público de acesso à internet em estações rodoviárias e ferroviárias, portos e aeroportos.",
+      "dataApresentacao": "2015-06-24T17:23"
+    },
+    {
+      "id": 1531491,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1531491",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2107,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 4.117, de 27 de agosto de 1962, para estabelecer a veiculação obrigatória de campanhas antidrogas nos meios de comunicação, e a Lei nº 7.560, de 19 de dezembro de 1986, para destinar recursos para este fim, e dá outras providências.",
+      "dataApresentacao": "2015-06-25T18:05"
+    },
+    {
+      "id": 1539896,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1539896",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2132,
+      "ano": 2015,
+      "ementa": "Acrescenta o inciso XLII ao art. 10 da Lei nº 6.437, de 20 de agosto de 1977, para configurar, como infração sanitária, a venda e o fornecimento de bebida alcoólica em lanchonetes e padarias.",
+      "dataApresentacao": "2015-06-30T17:24"
+    },
+    {
+      "id": 1548554,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1548554",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2141,
+      "ano": 2015,
+      "ementa": "Tipifica o crime de apologia a práticas sexuais com crianças e adolescentes.",
+      "dataApresentacao": "2015-06-30T20:03"
+    },
+    {
+      "id": 1548811,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1548811",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2153,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993, incluindo a alínea \"f\" no inciso I, do seu art. 2º e alterando a redação de seu art. 20 para garantir àquele que tem sob seu cuidado pessoa com deficiência, da qual resulte total falta de autonomia, o pagamento de benefício mensal, tendo em vista a impossibilidade daquele. de empreender atividade produtiva.",
+      "dataApresentacao": "2015-07-01T12:19"
+    },
+    {
+      "id": 1554108,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1554108",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2244,
+      "ano": 2015,
+      "ementa": "Altera a Lei n.º 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional para promover o desporto no ensino superior.",
+      "dataApresentacao": "2015-07-07T16:05"
+    },
+    {
+      "id": 1555417,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1555417",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2299,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 9.503, de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre as condições para a condução de veículos nas rodovias por portadores de Permissão para Dirigir.",
+      "dataApresentacao": "2015-07-08T16:57"
+    },
+    {
+      "id": 1579135,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1579135",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2346,
+      "ano": 2015,
+      "ementa": "Altera a Lei n.º 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional - LDB, para dispor sobre a educação física adaptada.",
+      "dataApresentacao": "2015-07-14T11:18"
+    },
+    {
+      "id": 1579246,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1579246",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2360,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, para dispor sobre as embalagens padronizadas de cigarros.",
+      "dataApresentacao": "2015-07-14T16:35"
+    },
+    {
+      "id": 1584972,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1584972",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2390,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 8.069, de 12 de julho de 1990, criando o Cadastro Nacional de Acesso à Internet, com a finalidade de proibir o acesso de crianças e adolescentes a sítios eletrônicos com conteúdo inadequado.",
+      "dataApresentacao": "2015-07-15T17:54"
+    },
+    {
+      "id": 1594637,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1594637",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2123,
+      "ano": 2019,
+      "ementa": "Acresce o § 2º à Lei nº 10.753, de 30 de outubro de 2003, que institui a Política Nacional do Livro, com especificações a respeito da ficha catalográfica de obras estrangeiras traduzidas.",
+      "dataApresentacao": "2015-08-04T15:40"
+    },
+    {
+      "id": 1594810,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1594810",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2485,
+      "ano": 2015,
+      "ementa": "Institui o Programa Uma Ideia, Uma Vida para estímulo ao empreendedorismo e dá outras providências.",
+      "dataApresentacao": "2015-08-04T19:12"
+    },
+    {
+      "id": 1598853,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1598853",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2560,
+      "ano": 2015,
+      "ementa": "Dispõe sobre agendamento de horário para o apenado ser atendido na rede pública ou privada de saúde.",
+      "dataApresentacao": "2015-08-06T16:14"
+    },
+    {
+      "id": 1672201,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1672201",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2698,
+      "ano": 2015,
+      "ementa": "Denomina \"Aeroporto Jadiel Vieira Matos\" o aeroporto da cidade de Vitória da Conquista, Estado da Bahia",
+      "dataApresentacao": "2015-08-19T14:46"
+    },
+    {
+      "id": 1700628,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1700628",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2799,
+      "ano": 2015,
+      "ementa": "Dispõe sobre a proibição de entidades, empresas brasileiras ou sediadas em território nacional com objetivo importação de cacau e seus derivados, estabelecerem contratos com empresas que explorem trabalho degradante ou escravo em outros países.",
+      "dataApresentacao": "2015-08-27T15:48"
+    },
+    {
+      "id": 1700687,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1700687",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2807,
+      "ano": 2015,
+      "ementa": "Altera os arts. 600, § 4º, 609, 613, 620, 647, 652, 664, todos do Código de Processo Penal e acrescenta o art. 638- A, também ao Código de Processo Penal, no intuito de melhorar a eficiência da Justiça a partir da revisão dos recursos cabíveis.",
+      "dataApresentacao": "2015-08-27T17:31"
+    },
+    {
+      "id": 1701134,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1701134",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2842,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 11.977, de 7 de julho de 2009, e a Lei nº 11.124, de 16 de junho de 2005, tendo em vista assegurar provimento habitacional para as pessoas em situação de rua.",
+      "dataApresentacao": "2015-09-01T18:39"
+    },
+    {
+      "id": 1701811,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1701811",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2876,
+      "ano": 2015,
+      "ementa": "Acrescenta dispositivo no Decreto-Lei nº 1.001, de 21 de outubro de 1969 - Código Penal Militar para tipificar o crime de Assedio Moral, na forma que especifica.",
+      "dataApresentacao": "2015-09-02T19:01"
+    },
+    {
+      "id": 1713509,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1713509",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2941,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, para estabelecer medidas de prevenção e combate à adulteração de hodômetro de veículo.",
+      "dataApresentacao": "2015-09-09T17:22"
+    },
+    {
+      "id": 1715604,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1715604",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2950,
+      "ano": 2015,
+      "ementa": "Altera o art. 12 da Lei nº 8.212, de 24 de julho de 1991, e o art. 11 da Lei nº 8.213, de 24 de julho de 1991, para incluir o bolsista como segurado obrigatório do Regime Geral de Previdência social.",
+      "dataApresentacao": "2015-09-09T19:00"
+    },
+    {
+      "id": 1715617,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1715617",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2953,
+      "ano": 2015,
+      "ementa": "Altera o art. 82 da Lei nº 8.078, de 11 de setembro de 1990, para incluir o Poder Legislativo das três esferas de governo entre os legitimados para propor ação de defesa coletiva dos consumidores, na forma que especifica.",
+      "dataApresentacao": "2015-09-09T19:14"
+    },
+    {
+      "id": 1734799,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1734799",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3047,
+      "ano": 2015,
+      "ementa": "Altera o art. 26 da Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para estabelecer carga horária mínima de educação física na educação básica.",
+      "dataApresentacao": "2015-09-21T17:44"
+    },
+    {
+      "id": 1736076,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1736076",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3057,
+      "ano": 2015,
+      "ementa": "Acrescenta o parágrafo único ao art. 13 da Lei 8.987, de 1995, para isentar do pagamento de pedágio os residentes permanentes ou que exerçam atividades profissionais nas localidades onde haja cobrança de pedágio.",
+      "dataApresentacao": "2015-09-22T17:02"
+    },
+    {
+      "id": 1738685,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1738685",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3071,
+      "ano": 2015,
+      "ementa": "Altera a Lei 12.288, de 20 de julho de 2010 (Estatuto da Igualdade Racial) para acrescentar a ''Violência Racial''.",
+      "dataApresentacao": "2015-09-23T11:08"
+    },
+    {
+      "id": 1738725,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1738725",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3078,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 11.977, de 7 de julho de 2009, para estabelecer que o percentual mínimo do orçamento do Programa Minha Casa Minha Vida (PMCMV) a ser destinado a financiamentos imobiliários para famílias com renda mensal de até R$ 1.600,00 (mil e seiscentos reais) não seja inferior a 15% (quinze por cento).",
+      "dataApresentacao": "2015-09-23T12:31"
+    },
+    {
+      "id": 2003333,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2003333",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3226,
+      "ano": 2015,
+      "ementa": "Altera a redação dos arts. 32 e 36 da Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para inserir nova disciplina obrigatória nos currículos dos ensinos fundamental e médio.",
+      "dataApresentacao": "2015-10-06T19:16"
+    },
+    {
+      "id": 2017315,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2017315",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3274,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 10.098, de 19 de dezembro de 2000, para determinar que as locadoras de veículos presentes em aeroportos das capitais brasileiras disponham de veículos adaptados às pessoas com deficiência física e que, no caso das pessoas com mobilidade reduzida, os veículos sejam entregues no próprio aeroporto.",
+      "dataApresentacao": "2015-10-08T09:57"
+    },
+    {
+      "id": 2017860,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2017860",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3302,
+      "ano": 2015,
+      "ementa": "Dispõe sobre a aplicação mínima de recursos para a pesquisa e o desenvolvimento de diagnósticos, medicamentos e outros produtos para a saúde destinados ao tratamento de doenças raras, e destina parcela dos recursos recuperados em ações de ressarcimento ao erário da União às ações de atenção integral às pessoas com doenças raras no Sistema Único de Saúde.",
+      "dataApresentacao": "2015-10-14T16:17"
+    },
+    {
+      "id": 2018291,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2018291",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3331,
+      "ano": 2015,
+      "ementa": "Acrescenta art. 89-A à Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para dispor sobre a propaganda eleitoral gratuita no rádio e na televisão nas eleições de 2016.",
+      "dataApresentacao": "2015-10-15T19:05"
+    },
+    {
+      "id": 2024256,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2024256",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3372,
+      "ano": 2015,
+      "ementa": "Altera a Lei no 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro para dispor sobre veículos ciclomotores-leves e ciclomotores-leves elétricos",
+      "dataApresentacao": "2015-10-21T18:37"
+    },
+    {
+      "id": 2024320,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2024320",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3381,
+      "ano": 2015,
+      "ementa": "Dispõe sobre a comercialização de sinalizador náutico em todo o território nacional.",
+      "dataApresentacao": "2015-10-21T21:47"
+    },
+    {
+      "id": 2028591,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2028591",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3496,
+      "ano": 2015,
+      "ementa": "Dispõe sobre a prática de preços abusivos no fornecimento de produtos ou serviços turísticos.",
+      "dataApresentacao": "2015-11-03T18:27"
+    },
+    {
+      "id": 2054282,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2054282",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3584,
+      "ano": 2015,
+      "ementa": "Institui a Política Nacional de Incentivo às Agroindústrias.",
+      "dataApresentacao": "2015-11-11T11:22"
+    },
+    {
+      "id": 2056519,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2056519",
+      "siglaTipo": "PDC",
+      "codTipo": 408,
+      "numero": 279,
+      "ano": 2015,
+      "ementa": "Susta os efeitos da RDC ANVISA N° 135, de 17 de maio de 2002 para proibir a venda e a utilização de agrotóxicos que contenham os ingredientes Ativos Captan em todo o território nacional",
+      "dataApresentacao": "2015-11-25T11:34"
+    },
+    {
+      "id": 2056622,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2056622",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3754,
+      "ano": 2015,
+      "ementa": "Altera o art. 20 da Lei nº 8.742, de 07 de dezembro de 1993, que dispõe sobre a Organização da Assistência Social, e dá outras providências.",
+      "dataApresentacao": "2015-11-25T15:26"
+    },
+    {
+      "id": 2057079,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2057079",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3789,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, de diretrizes e bases da educação nacional, para dispor sobre a inclusão do ensino de Educação Ambiental a partir do 6º ano do Ensino Fundamental até o término da Educação Básica",
+      "dataApresentacao": "2015-12-01T10:58"
+    },
+    {
+      "id": 2074986,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2074986",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4015,
+      "ano": 2015,
+      "ementa": "Altera a Lei nº 5.662, de 21 de junho de 1971, que enquadra o Banco Nacional do Desenvolvimento Econômico (BNDES) na categoria de empresa pública, e dá outras providências, para fins de estabelecer a concessão prioritária de empréstimos pelo Banco Nacional do Desenvolvimento Econômico e Social (BNDES) a empresas que tenham maior capacidade de gerar empregos no país.",
+      "dataApresentacao": "2015-12-15T19:01"
+    },
+    {
+      "id": 2075032,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2075032",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4035,
+      "ano": 2015,
+      "ementa": "Dispõe sobre o regime de tempo integral no Ensino de Educação Infantil e fundamental.",
+      "dataApresentacao": "2015-12-15T21:30"
+    },
+    {
+      "id": 2075073,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2075073",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4057,
+      "ano": 2015,
+      "ementa": "Institui o Programa Nacional do Afro-empreendedorismo.",
+      "dataApresentacao": "2015-12-16T10:26"
+    },
+    {
+      "id": 2075458,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2075458",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4074,
+      "ano": 2015,
+      "ementa": "Altera o art. 2º  da Lei nº 9.294, de 15 de julho de 1996, e o art. 243 da Lei nº  8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para vedar o uso de produto fumígeno derivado do tabaco em veículos automotores, públicos ou privados, quando neles esteja gestante, criança ou adolescente, e tipificar tal conduta como crime.",
+      "dataApresentacao": "2015-12-16T15:26"
+    },
+    {
+      "id": 2075700,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2075700",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4117,
+      "ano": 2015,
+      "ementa": "Altera o Art. 20 da Lei nº 8.742, de 07 de dezembro de 1993, para estender benefício ao responsável, em forma de pensão, que comprove que teve dedicação integral ao portador de deficiência já falecido, beneficiado pela prestação continuada da assistência social.",
+      "dataApresentacao": "2015-12-16T20:09"
+    },
+    {
+      "id": 2075795,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2075795",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4148,
+      "ano": 2015,
+      "ementa": "Altera o inciso III do art. 141 do dec-lei 2.848, de 7 de dezembro de 1940 e dá outras providências.",
+      "dataApresentacao": "2015-12-17T12:35"
+    },
+    {
+      "id": 2075835,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2075835",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4167,
+      "ano": 2015,
+      "ementa": "Acrescenta o inciso XIII, no art. 3º da Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação), para incluir como uns dos princípios da educação nacional, a consciência ecológica e ambiental, e o consumo responsável.",
+      "dataApresentacao": "2015-12-17T14:52"
+    },
+    {
+      "id": 2075842,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2075842",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4173,
+      "ano": 2015,
+      "ementa": "Dispõe sobre não obrigatoriedade de aulas de legislação e de simuladores nos centros de formação de condutores",
+      "dataApresentacao": "2015-12-17T14:58"
+    },
+    {
+      "id": 2076620,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2076620",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4269,
+      "ano": 2016,
+      "ementa": "Acrescenta dispositivos ao art. 22 da Lei nº 8.212, de 24 de julho de 1991, para reduzir a contribuição previdenciária das empresas que contratarem pessoas com deficiência.",
+      "dataApresentacao": "2016-02-02T16:05"
+    },
+    {
+      "id": 2076756,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2076756",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4304,
+      "ano": 2016,
+      "ementa": "Dispõe sobre concessão de isenção  de Imposto sobre a Renda da Pessoa Física - IRPF do valor recebido a título de terço adicional de férias nos termos do art. 7º, XVII, da Constituição Federal.",
+      "dataApresentacao": "2016-02-03T16:48"
+    },
+    {
+      "id": 2076872,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2076872",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4331,
+      "ano": 2016,
+      "ementa": "Altera a Lei nº 11.124, de 16 de junho de 2005, e a Lei nº 11.977, de 7 de julho de 2009, para dispor sobre a garantia do empreiteiro pela solidez e segurança das obras realizadas nos programas habitacionais.",
+      "dataApresentacao": "2016-02-04T12:00"
+    },
+    {
+      "id": 2076932,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2076932",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4345,
+      "ano": 2016,
+      "ementa": "CRIA OS CENTROS PARA TRATAMENTO DE DOENÇAS RARAS EM TODOS OS ESTADOS DA FEDERAÇÃO E DÁ OUTRAS PROVIDÊNCIAS.",
+      "dataApresentacao": "2016-02-04T16:39"
+    },
+    {
+      "id": 2077409,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2077409",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4414,
+      "ano": 2016,
+      "ementa": "Institui o Fundo de Amparo ao Pescador (FAP) e cria a compensação ambiental por prejuízos à atividade pesqueira.",
+      "dataApresentacao": "2016-02-17T19:04"
+    },
+    {
+      "id": 2079034,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2079034",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4663,
+      "ano": 2016,
+      "ementa": "Dispõe sobre a exploração e produção de acumulações marginais de petróleo e gás natural por produtores independentes.",
+      "dataApresentacao": "2016-03-08T20:07"
+    },
+    {
+      "id": 2079155,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2079155",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4696,
+      "ano": 2016,
+      "ementa": "Altera a Lei nº 9.294 de 15 de julho de 1996, que \"dispõe sobre as Restrições ao Uso e à Propaganda de Produtos Fumígeros, Bebidas Alcoólicas, Medicamentos, Terapias e Defensivos Agrícolas, nos Termos do § 4º do art. 220 da Constituição Federal\", para proibir o uso de produtos fumígeros em parques públicos e privados.",
+      "dataApresentacao": "2016-03-09T18:03"
+    },
+    {
+      "id": 2079292,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2079292",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4701,
+      "ano": 2016,
+      "ementa": "Altera-se a redação do § 1º do Art. 10 da lei nº 9.795 de 27 de abril de 1999, para implantar a Educação Ambiental como disciplina obrigatória no currículo de   Ensino Público e Privado da Educação Básica",
+      "dataApresentacao": "2016-03-10T13:17"
+    },
+    {
+      "id": 2079778,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2079778",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4764,
+      "ano": 2016,
+      "ementa": "Acrescenta art. 2º-A à Lei nº 9.294, de 15 de julho de 1996, para proibir o uso de produtos fumígenos nos parques infantis e nas áreas de prática esportiva.",
+      "dataApresentacao": "2016-03-16T20:05"
+    },
+    {
+      "id": 2079783,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2079783",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4768,
+      "ano": 2016,
+      "ementa": "Dispõe sobre o ofício de profissional da dança.",
+      "dataApresentacao": "2016-03-16T20:13"
+    },
+    {
+      "id": 2079869,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2079869",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4782,
+      "ano": 2016,
+      "ementa": "Altera a Lei nº 6.454, de 24 de outubro de 1977, que dispõe sobre a denominação de logradouros, obras, serviços e monumentos públicos e dá outras providências, para prever a possibilidade de atribuir nome de pessoa viva a bem público, de qualquer natureza, pertencente à União ou às pessoas jurídicas da administração indireta.",
+      "dataApresentacao": "2016-03-17T18:38"
+    },
+    {
+      "id": 2080294,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2080294",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4812,
+      "ano": 2016,
+      "ementa": "Dispõe sobre o financiamento da pesquisa e do desenvolvimento de diagnósticos, vacinas, medicamentos e outros produtos para a saúde destinados ao tratamento de epidemias virais e do câncer.",
+      "dataApresentacao": "2016-03-23T11:19"
+    },
+    {
+      "id": 2080355,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2080355",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4818,
+      "ano": 2016,
+      "ementa": "Autoriza o uso de fármacos, substâncias químicas, produtos biológicos e correlatos ainda em fase experimental e não registrados, por pacientes com doenças graves ou raras.",
+      "dataApresentacao": "2016-03-23T15:33"
+    },
+    {
+      "id": 2082048,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2082048",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5017,
+      "ano": 2016,
+      "ementa": "Dispõe sobre o uso compassivo de fármacos em fase experimental.",
+      "dataApresentacao": "2016-04-14T14:47"
+    },
+    {
+      "id": 2082097,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2082097",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5026,
+      "ano": 2016,
+      "ementa": "Institui a Política Nacional de Incentivo à Produção de Borracha Natural de Qualidade.",
+      "dataApresentacao": "2016-04-14T17:19"
+    },
+    {
+      "id": 2082488,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2082488",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5074,
+      "ano": 2016,
+      "ementa": "Dispõe sobre a investigação criminal e a obtenção de meios de prova nos crimes praticados por intermédio de conexão ou uso de internet.",
+      "dataApresentacao": "2016-04-26T16:40"
+    },
+    {
+      "id": 2083016,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2083016",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5130,
+      "ano": 2016,
+      "ementa": "Acresce o inciso XIV ao Art. 7º, revoga os incisos III e IV do Art. 12 e dá nova redação ao § 6º do Art. 13 e ao § 4º do Art. 15 da Lei nº 12.965, de 23 de abril de 2.014.",
+      "dataApresentacao": "2016-05-03T15:54"
+    },
+    {
+      "id": 2083087,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2083087",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5136,
+      "ano": 2016,
+      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996.",
+      "dataApresentacao": "2016-05-03T17:47"
+    },
+    {
+      "id": 2083391,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2083391",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5164,
+      "ano": 2016,
+      "ementa": "Dispõe sobre a padronização de placas de sinalização de endereços em vias urbanas",
+      "dataApresentacao": "2016-05-04T16:51"
+    },
+    {
+      "id": 2083401,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2083401",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5168,
+      "ano": 2016,
+      "ementa": "\"Dispõe sobre a locomoção da fauna silvestre em trechos rodoviários que margeiam reservas biológicas, santuários ecológicos, unidades de conservação e/ou áreas de preservação ambiental no bioma da Mata Atlântica\".",
+      "dataApresentacao": "2016-05-04T16:57"
+    },
+    {
+      "id": 2083415,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2083415",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5172,
+      "ano": 2016,
+      "ementa": "Veda o bloqueio de funcionamento dos aplicativos de mensagens instantâneas instalados em aparelhos móveis com transmissão de dados via internet.",
+      "dataApresentacao": "2016-05-04T17:29"
+    },
+    {
+      "id": 2083425,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2083425",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5176,
+      "ano": 2016,
+      "ementa": "Acresce o inciso XIV e parágrafo único ao Art. 7º, da Lei nº 12.965, de 23 de abril de 2.014, excluindo a possibilidade de suspensão do acesso a qualquer aplicação de Internet pelo Estado, ressalvadas decisões colegiadas tomadas pelos Tribunais a que aludem os Arts. 101, 104 e 119 da Constituição Federal.",
+      "dataApresentacao": "2016-05-04T17:47"
+    },
+    {
+      "id": 2083675,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2083675",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5204,
+      "ano": 2016,
+      "ementa": "Possibilita o bloqueio a aplicações de internet por ordem judicial, nos casos em que especifica.",
+      "dataApresentacao": "2016-05-06T12:21"
+    },
+    {
+      "id": 2083883,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2083883",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5226,
+      "ano": 2016,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, para tornar crime a conduta de transpor bloqueio viário policial sem autorização.",
+      "dataApresentacao": "2016-05-10T15:43"
+    },
+    {
+      "id": 2084012,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2084012",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5237,
+      "ano": 2016,
+      "ementa": "Altera a destinação do resultado, produto ou valor proveniente da decretação da perda, em favor da União, de bens, direitos e valores relacionados, direta ou indiretamente, à prática de crimes contra a Administração Pública e daqueles previstos na Lei nº 9.613, de 3 de março de 1998, que \"dispõe sobre os crimes de ''lavagem'' ou ocultação de bens, direitos e valores\".",
+      "dataApresentacao": "2016-05-10T19:17"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=3"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=4&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=2&itens=100"
+    }
+  ]
+}

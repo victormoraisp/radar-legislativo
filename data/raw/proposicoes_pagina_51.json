@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2581481,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581481",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5655,
+      "ano": 2025,
+      "ementa": "Estabelece medidas de segurança aos usuários e de proteção aos trabalhadores de aplicativos de entrega em todo o território nacional.",
+      "dataApresentacao": "2025-11-04T19:35"
+    },
+    {
+      "id": 2581572,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581572",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5661,
+      "ano": 2025,
+      "ementa": "Institui medidas de controle, fiscalização e prevenção da adulteração de bebidas alcoólicas; cria o Sistema Nacional de Rastreabilidade de Bebidas Destiladas (SNRBD); estabelece o Protocolo Nacional de Resposta a Emergências por Intoxicação com Bebidas Alcoólicas Adulteradas; cria o Estoque Estratégico Nacional de Antídotos contra Intoxicação por Metanol; institui o Programa Nacional de Prevenção e Educação sobre Riscos de Adulteração de Bebidas Alcoólicas; altera o Decreto-Lei 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar penas relacionadas à adulteração de bebidas alcoólicas.",
+      "dataApresentacao": "2025-11-04T21:36"
+    },
+    {
+      "id": 2581615,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581615",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5663,
+      "ano": 2025,
+      "ementa": "Institui o Dia Nacional da Dignidade e Identidade da Mulher em Tratamento Oncológico “Ingrid Daniele Timo” e estabelece diretrizes para a promoção da doação de cabelos e perucas.",
+      "dataApresentacao": "2025-11-04T22:33"
+    },
+    {
+      "id": 2581616,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581616",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5664,
+      "ano": 2025,
+      "ementa": "Institui pensão especial e indenização compensatória aos dependentes de policiais civis, militares, federais, rodoviários federais e guardas civis municipais falecidos no exercício da função ou em decorrência de ato de serviço em operações de combate ao crime organizado, reconhecendo o caráter essencial das forças de segurança pública e assegurando proteção integral a seus filhos menores.",
+      "dataApresentacao": "2025-11-04T22:33"
+    },
+    {
+      "id": 2581644,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581644",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5669,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a participação provisória nos lucros e resultados de empresas constituídas durante o casamento, em casos de dissolução conjugal com regime de comunhão parcial ou universal de bens, até a efetiva partilha das cotas societárias, e dá outras providências.",
+      "dataApresentacao": "2025-11-04T22:53"
+    },
+    {
+      "id": 2581695,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581695",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5673,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Prevenção, Diagnóstico e Tratamento da Doença Orbitária Associada à Tireoide, no âmbito do Sistema Único de Saúde (SUS), e dá outras providências",
+      "dataApresentacao": "2025-11-05T09:24"
+    },
+    {
+      "id": 2581700,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581700",
+      "siglaTipo": "MPV",
+      "codTipo": 291,
+      "numero": 1323,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 10.779, de 25 de novembro de 2003, que dispõe sobre a concessão do benefício de seguro-desemprego, durante o período de defeso, ao pescador profissional que exerce a atividade pesqueira de forma artesanal.",
+      "dataApresentacao": "2025-11-05T00:00"
+    },
+    {
+      "id": 2581705,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581705",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7408,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Mata Verde, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T09:41"
+    },
+    {
+      "id": 2581706,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581706",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7409,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Materlândia, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T09:44"
+    },
+    {
+      "id": 2581707,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581707",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7410,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Mateus Leme, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T09:46"
+    },
+    {
+      "id": 2581708,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581708",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7411,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Mathias Lobato, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T09:49"
+    },
+    {
+      "id": 2581711,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581711",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7412,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Matias Barbosa, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T09:51"
+    },
+    {
+      "id": 2581715,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581715",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7413,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Matias Cardoso, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:01"
+    },
+    {
+      "id": 2581716,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581716",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7414,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Matipó, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:03"
+    },
+    {
+      "id": 2581718,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581718",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7415,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Mato Verde, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:05"
+    },
+    {
+      "id": 2581719,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581719",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7416,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Matozinhos, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:07"
+    },
+    {
+      "id": 2581721,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581721",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7417,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Matutina, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:11"
+    },
+    {
+      "id": 2581723,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581723",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7418,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Medeiros, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:13"
+    },
+    {
+      "id": 2581724,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581724",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7419,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Medina, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:15"
+    },
+    {
+      "id": 2581725,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581725",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7420,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa\tde Aquisição de Alimentos - PAA, para o Município de Mendes Pimentel, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:16"
+    },
+    {
+      "id": 2581733,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581733",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7421,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Mercês, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:18"
+    },
+    {
+      "id": 2581735,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581735",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7422,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Mesquita, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:20"
+    },
+    {
+      "id": 2581738,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581738",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7423,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Minas Novas, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:21"
+    },
+    {
+      "id": 2581740,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581740",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7424,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Minduri, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:23"
+    },
+    {
+      "id": 2581748,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581748",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7425,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Mirabela, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:25"
+    },
+    {
+      "id": 2581763,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581763",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7426,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Miradouro, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:27"
+    },
+    {
+      "id": 2581764,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581764",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7427,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Miraí, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:30"
+    },
+    {
+      "id": 2581766,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581766",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7428,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Miravânia, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:32"
+    },
+    {
+      "id": 2581775,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581775",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7429,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Moeda, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:34"
+    },
+    {
+      "id": 2581776,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581776",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7430,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Moema, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:37"
+    },
+    {
+      "id": 2581788,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581788",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7431,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Monjolos, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T10:40"
+    },
+    {
+      "id": 2581791,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581791",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7432,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Monsenhor Paulo, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:02"
+    },
+    {
+      "id": 2581793,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581793",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7433,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Montalvânia, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:04"
+    },
+    {
+      "id": 2581798,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581798",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7434,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Monte Alegre de Minas, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:06"
+    },
+    {
+      "id": 2581800,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581800",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7435,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Monte Azul, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:07"
+    },
+    {
+      "id": 2581801,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581801",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5678,
+      "ano": 2025,
+      "ementa": "Denomina “Viaduto Orlandine José Resende” o viaduto situado na interseção da BR-050 com o acesso ao bairro Castelo Branco, no Município de Catalão, Estado de Goiás",
+      "dataApresentacao": "2025-11-05T11:09"
+    },
+    {
+      "id": 2581802,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581802",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7436,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Monte Belo, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:09"
+    },
+    {
+      "id": 2581803,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581803",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7437,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Monte Carmelo, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:11"
+    },
+    {
+      "id": 2581807,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581807",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5679,
+      "ano": 2025,
+      "ementa": "Denomina “Viaduto Dr. Gustavo Albino Silva” o viaduto situado na Rodovia BR- 050, próximo ao bairro Pontal Norte, no Município de Catalão, Estado de Goiás.",
+      "dataApresentacao": "2025-11-05T11:14"
+    },
+    {
+      "id": 2581808,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581808",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7438,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Monte Formoso, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:16"
+    },
+    {
+      "id": 2581809,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581809",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7439,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Monte Santo de Minas, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:17"
+    },
+    {
+      "id": 2581811,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581811",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7440,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Monte Sião, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:19"
+    },
+    {
+      "id": 2581843,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581843",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5680,
+      "ano": 2025,
+      "ementa": "Denomina “Viaduto Vereador Itelvino João Inácio” o viaduto situado na interseção da Avenida Dr. Lamartine Pinto de Avelar com a Rodovia BR-050, no Município de Catalão, Estado de Goiás.",
+      "dataApresentacao": "2025-11-05T11:18"
+    },
+    {
+      "id": 2581851,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581851",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7441,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa\tde Aquisição de Alimentos - PAA, para o Município de Montes Claros, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:23"
+    },
+    {
+      "id": 2581853,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581853",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7442,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Montezuma, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:25"
+    },
+    {
+      "id": 2581856,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581856",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7443,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Morada Nova de Minas, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:27"
+    },
+    {
+      "id": 2581861,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581861",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7444,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Morro da Garça, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:32"
+    },
+    {
+      "id": 2581863,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581863",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7445,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Morro do Pilar, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:33"
+    },
+    {
+      "id": 2581865,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581865",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7446,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Munhoz, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:35"
+    },
+    {
+      "id": 2581898,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581898",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7447,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Muriaé, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:37"
+    },
+    {
+      "id": 2581899,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581899",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7448,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Mutum, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:39"
+    },
+    {
+      "id": 2581900,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581900",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7449,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Muzambinho, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T11:42"
+    },
+    {
+      "id": 2581902,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581902",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3519,
+      "ano": 2020,
+      "ementa": "Denomina “Hospital Universitário Dr. Papaléo Paes” o Hospital Universitário da Universidade Federal do Amapá (HU Unifap).",
+      "dataApresentacao": "2025-11-04T20:24"
+    },
+    {
+      "id": 2581904,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581904",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1473,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para tornar mais rígidas as disposições a respeito da medida de internação; e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para alterar os critérios etários de atenuante e de redução dos prazos de prescrição.",
+      "dataApresentacao": "2025-11-04T20:29"
+    },
+    {
+      "id": 2581928,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581928",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5682,
+      "ano": 2025,
+      "ementa": "Institui o Dia Nacional da Comunidade Boliviana no Brasil, a ser comemorado anualmente no dia 6 de agosto.",
+      "dataApresentacao": "2025-11-05T12:02"
+    },
+    {
+      "id": 2581934,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581934",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5685,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Ensino do Sistema Braille, no âmbito da Política Nacional de Educação Especial, e dá outras providências.",
+      "dataApresentacao": "2025-11-05T12:48"
+    },
+    {
+      "id": 2581935,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581935",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5686,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a proteção do produtor rural  com vistas a assegurar a função social da propriedade produtiva e a continuidade da atividade rural, estabelece prioridade de garantias agrícolas, altera a Lei nº 13.476, de 28 de agosto de 2017 (Marco Legal das Garantias), e dá outras providências.",
+      "dataApresentacao": "2025-11-05T12:55"
+    },
+    {
+      "id": 2581938,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581938",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5689,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 9.503, de 1997, Código de Trânsito Brasileiro, e o Decreto-Lei nº 2.848, de 1940 (Código Penal), para agravar as penalidades administrativas e criminais decorrentes da condução de veículo automotor com a placa de identificação violada, falsificada ou sem condições de legibilidade e visibilidade.",
+      "dataApresentacao": "2025-11-05T13:00"
+    },
+    {
+      "id": 2581947,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581947",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7450,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Nacip Raydan, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T13:18"
+    },
+    {
+      "id": 2581954,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581954",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7451,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Nanuque, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T13:25"
+    },
+    {
+      "id": 2581955,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581955",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7452,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Naque, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T13:27"
+    },
+    {
+      "id": 2581956,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581956",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7453,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Natalândia, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T13:29"
+    },
+    {
+      "id": 2581960,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581960",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7454,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Natércia, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T13:33"
+    },
+    {
+      "id": 2581967,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581967",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7455,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Nazareno, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T13:47"
+    },
+    {
+      "id": 2581968,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581968",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7456,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Nepomuceno, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T13:50"
+    },
+    {
+      "id": 2581969,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581969",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7457,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Ninheira, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T13:52"
+    },
+    {
+      "id": 2581970,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581970",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7458,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Nova Belém, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T13:53"
+    },
+    {
+      "id": 2581971,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581971",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7459,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Nova Era, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T13:55"
+    },
+    {
+      "id": 2581972,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581972",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7460,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Nova Lima, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T13:57"
+    },
+    {
+      "id": 2581975,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581975",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7461,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Nova Módica, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T13:59"
+    },
+    {
+      "id": 2581977,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581977",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7462,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Nova Ponte, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:01"
+    },
+    {
+      "id": 2581978,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581978",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7463,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Nova Porteirinha, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:03"
+    },
+    {
+      "id": 2581979,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581979",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7464,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Nova Resende, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:05"
+    },
+    {
+      "id": 2581986,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581986",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7465,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Nova Serrana, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:08"
+    },
+    {
+      "id": 2581987,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581987",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7466,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Nova União, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:10"
+    },
+    {
+      "id": 2581988,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581988",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7467,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Novo Cruzeiro, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:12"
+    },
+    {
+      "id": 2581989,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581989",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7468,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Novo Oriente de Minas, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:14"
+    },
+    {
+      "id": 2581990,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581990",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7469,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Novorizonte, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:16"
+    },
+    {
+      "id": 2581992,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581992",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7470,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Olaria, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:17"
+    },
+    {
+      "id": 2581993,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581993",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7471,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Olhos-d'Água, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:19"
+    },
+    {
+      "id": 2581995,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581995",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7472,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Olímpio Noronha, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:23"
+    },
+    {
+      "id": 2581996,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581996",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7473,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Oliveira Fortes, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:25"
+    },
+    {
+      "id": 2581997,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581997",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7474,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Oliveira, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:26"
+    },
+    {
+      "id": 2581998,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581998",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7475,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Onça de Pitangui, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:28"
+    },
+    {
+      "id": 2581999,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581999",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7476,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Oratórios, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:30"
+    },
+    {
+      "id": 2582002,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582002",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7477,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa\tde Aquisição de Alimentos - PAA, para o Município de Orizânia, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:32"
+    },
+    {
+      "id": 2582003,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582003",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7478,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município     de     Ouro Branco, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:33"
+    },
+    {
+      "id": 2582004,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582004",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7479,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Ouro Fino, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:35"
+    },
+    {
+      "id": 2582007,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582007",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7480,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Ouro Preto, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:37"
+    },
+    {
+      "id": 2582008,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582008",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7481,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Ouro Verde de Minas, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:38"
+    },
+    {
+      "id": 2582014,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582014",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7482,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Padre Carvalho, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:48"
+    },
+    {
+      "id": 2582017,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582017",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7483,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Padre Paraíso, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:50"
+    },
+    {
+      "id": 2582022,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582022",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7484,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Pai Pedro, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:52"
+    },
+    {
+      "id": 2582023,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582023",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7485,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Paineiras, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:54"
+    },
+    {
+      "id": 2582026,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582026",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7486,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Pains, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:56"
+    },
+    {
+      "id": 2582028,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582028",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7487,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Paiva, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T14:57"
+    },
+    {
+      "id": 2582034,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582034",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7488,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Palma, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T15:10"
+    },
+    {
+      "id": 2582038,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582038",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7489,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Palmópolis, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-11-05T15:13"
+    },
+    {
+      "id": 2582045,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582045",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7492,
+      "ano": 2025,
+      "ementa": "Requer do Excelentíssimo Ministro da Saúde, Senhor Alexandre Padilha, informações sobre o projeto SUS na Floresta.",
+      "dataApresentacao": "2025-11-05T15:14"
+    },
+    {
+      "id": 2582046,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582046",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5693,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade da existência de leitos e unidades hospitalares adaptadas para o atendimento de pessoas com Transtorno do Espectro Autista (TEA) em hospitais públicos e privados em todo o território nacional, garantindo ambiente adequado, acolhimento sensorial e atendimento humanizado, e dá outras providências.",
+      "dataApresentacao": "2025-11-05T15:18"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=51"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=52&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=50&itens=100"
+    }
+  ]
+}

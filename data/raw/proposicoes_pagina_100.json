@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2614414,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614414",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 3317/2024",
+      "dataApresentacao": "2026-04-08T12:36"
+    },
+    {
+      "id": 2614415,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614415",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 929/2025",
+      "dataApresentacao": "2026-04-08T12:36"
+    },
+    {
+      "id": 2614416,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614416",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 802,
+      "ano": 2026,
+      "ementa": "Requer do Excelentíssimo Ministro das Relações Exteriores, Embaixador Mauro Vieira, informações a respeito da suspensão das exportações de fertilizantes que ameaçam o agro brasileiro.",
+      "dataApresentacao": "2026-04-08T12:39"
+    },
+    {
+      "id": 2614417,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614417",
+      "siglaTipo": "EMA",
+      "codTipo": 608,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS).",
+      "dataApresentacao": "2026-04-08T12:44"
+    },
+    {
+      "id": 2614418,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614418",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 803,
+      "ano": 2026,
+      "ementa": "Requer do Excelentíssimo Ministro do Trabalho e Emprego, informações a respeito da medida que torna obrigatória a realização de campanhas de vacinação e exames de detecção precoce de câncer, em todas as empresas do Brasil.",
+      "dataApresentacao": "2026-04-08T12:44"
+    },
+    {
+      "id": 2614419,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614419",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 91,
+      "ano": 2026,
+      "ementa": "Dispõe sobre normas gerais de organização, funcionamento e responsabilidade na gestão dos Regimes Próprios de Previdência Social, especialmente quanto ao modelo de aplicação dos recursos, nos termos do art. 40, §22, inciso II da Constituição Federal, e altera a Lei nº 9.717, de 27 de novembro de 1998.",
+      "dataApresentacao": "2026-04-08T12:45"
+    },
+    {
+      "id": 2614420,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614420",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3317/2024",
+      "dataApresentacao": "2026-04-08T12:47"
+    },
+    {
+      "id": 2614421,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614421",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3317/2024-Requerimento de Retirada de Matéria da Pauta - PL 3317/2024",
+      "dataApresentacao": "2026-04-08T12:47"
+    },
+    {
+      "id": 2614422,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614422",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Rodrigo Rollemberg (PSB-DF), pela aprovação.",
+      "dataApresentacao": "2026-04-08T12:49"
+    },
+    {
+      "id": 2614423,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614423",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1685,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de aceitação, no âmbito do Sistema Único de Saúde (SUS), de laudos, exames e relatórios médicos emitidos por profissionais da rede privada para fins de encaminhamento, regulação e continuidade de tratamento na rede pública de saúde, e dá outras providências.",
+      "dataApresentacao": "2026-04-08T12:53"
+    },
+    {
+      "id": 2614424,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614424",
+      "siglaTipo": "REQ",
+      "codTipo": 304,
+      "numero": 1969,
+      "ano": 2026,
+      "ementa": "Requer a apensação do Projeto de Lei Complementar nº 05/2025 ao Projeto de Lei Complementar nº 104/2025",
+      "dataApresentacao": "2026-04-08T12:53"
+    },
+    {
+      "id": 2614425,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614425",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 804,
+      "ano": 2026,
+      "ementa": "Requer do Excelentíssimo Ministro da Saúde, informações a respeito do reajuste dos preços dos remédios por meio da CMED — Câmara de Regulação do Mercado de Medicamentos.",
+      "dataApresentacao": "2026-04-08T12:59"
+    },
+    {
+      "id": 2614426,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614426",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 805,
+      "ano": 2026,
+      "ementa": "Requer da Excelentíssima Ministra da Casa Civil, Senhora Miriam Belchior, informações a respeito da investigação do Tribunal de Contas da União, sobre o Carnaval de 2026.",
+      "dataApresentacao": "2026-04-08T13:01"
+    },
+    {
+      "id": 2614427,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614427",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 806,
+      "ano": 2026,
+      "ementa": "Requer do Excelentíssimo Ministro da Saúde, informações a respeito do cenário epidemiológico preocupante que se instala no Brasil.",
+      "dataApresentacao": "2026-04-08T13:03"
+    },
+    {
+      "id": 2614428,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614428",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 3839/2023",
+      "dataApresentacao": "2026-04-08T13:01"
+    },
+    {
+      "id": 2614429,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614429",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Rodrigo Rollemberg (PSB-DF), pela aprovação deste, com emenda.",
+      "dataApresentacao": "2026-04-08T12:53"
+    },
+    {
+      "id": 2614430,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614430",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CE) ao PL 3422/2025",
+      "dataApresentacao": "2026-04-08T13:09"
+    },
+    {
+      "id": 2614431,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614431",
+      "siglaTipo": "EMR",
+      "codTipo": 257,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer ao PL 7.209, de 2025, que Cria o Selo Escola Anticapacitista, conferido às instituições que promovam práticas pedagógicas inclusivas, formação de professores e combate ao preconceito contra pessoas com deficiência.",
+      "dataApresentacao": "2026-04-08T12:53"
+    },
+    {
+      "id": 2614432,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614432",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 4294/2024",
+      "dataApresentacao": "2026-04-08T13:00"
+    },
+    {
+      "id": 2614433,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614433",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 11217/2018",
+      "dataApresentacao": "2026-04-08T13:00"
+    },
+    {
+      "id": 2614434,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614434",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 3812/2023",
+      "dataApresentacao": "2026-04-08T13:05"
+    },
+    {
+      "id": 2614435,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614435",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4135/2025",
+      "dataApresentacao": "2026-04-08T13:06"
+    },
+    {
+      "id": 2614436,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614436",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para instituir diretrizes nacionais para identificação precoce do transtorno do espectro autista (TEA).",
+      "dataApresentacao": "2026-04-07T22:03"
+    },
+    {
+      "id": 2614437,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614437",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CE) ao PL 1479/2025",
+      "dataApresentacao": "2026-04-08T13:14"
+    },
+    {
+      "id": 2614438,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614438",
+      "siglaTipo": "RPD",
+      "codTipo": 1019,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inclusão de Matéria na Ordem do Dia para Apreciação Imediata - REQ 14/2026 CMULHER",
+      "dataApresentacao": "2026-04-08T13:06"
+    },
+    {
+      "id": 2614439,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614439",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 496,
+      "ano": 2026,
+      "ementa": "Sugere ao Ministério das Relações Exteriores que encaminhe aos órgãos do Mercosul proposta de emenda ao Artigo 2 do Acordo Marco do Mercosul de Reconhecimento Recíproco e Outorga de Matrículas para o Exercício Profissional Temporário da Agrimensura, Agronomia, Arquitetura, Geologia e Engenharia, assinado em Montevidéu, em 6 de julho de 2022, com a finalidade de incluir nesse Artigo os técnicos industriais.",
+      "dataApresentacao": "2026-04-08T13:14"
+    },
+    {
+      "id": 2614440,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614440",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4695/2024",
+      "dataApresentacao": "2026-04-08T13:16"
+    },
+    {
+      "id": 2614441,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614441",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 4695/2024-Requerimento de Retirada de Matéria da Pauta - PL 4695/2024",
+      "dataApresentacao": "2026-04-08T13:16"
+    },
+    {
+      "id": 2614442,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614442",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 18,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 413/2023",
+      "dataApresentacao": "2026-04-08T13:17"
+    },
+    {
+      "id": 2614443,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614443",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3964/2025",
+      "dataApresentacao": "2026-04-08T13:19"
+    },
+    {
+      "id": 2614444,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614444",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 17,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 68/2025",
+      "dataApresentacao": "2026-04-08T13:15"
+    },
+    {
+      "id": 2614445,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614445",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3964/2025-Requerimento de Retirada de Matéria da Pauta - PL 3964/2025",
+      "dataApresentacao": "2026-04-08T13:19"
+    },
+    {
+      "id": 2614446,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614446",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 18,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 68/2025-Requerimento de Retirada de Matéria da Pauta - PL 68/2025",
+      "dataApresentacao": "2026-04-08T13:15"
+    },
+    {
+      "id": 2614447,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614447",
+      "siglaTipo": "RPD",
+      "codTipo": 329,
+      "numero": 19,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - PL 68/2025",
+      "dataApresentacao": "2026-04-08T13:15"
+    },
+    {
+      "id": 2614448,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614448",
+      "siglaTipo": "RPD",
+      "codTipo": 332,
+      "numero": 20,
+      "ano": 0,
+      "ementa": "Requerimento de Votação Nominal - PL 68/2025",
+      "dataApresentacao": "2026-04-08T13:15"
+    },
+    {
+      "id": 2614449,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614449",
+      "siglaTipo": "RPD",
+      "codTipo": 329,
+      "numero": 55,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - PL 749/2023",
+      "dataApresentacao": "2026-04-08T13:21"
+    },
+    {
+      "id": 2614450,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614450",
+      "siglaTipo": "RPD",
+      "codTipo": 332,
+      "numero": 56,
+      "ano": 0,
+      "ementa": "Requerimento de Votação Nominal - PL 749/2023",
+      "dataApresentacao": "2026-04-08T13:21"
+    },
+    {
+      "id": 2614451,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614451",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 21,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação - PL 68/2025",
+      "dataApresentacao": "2026-04-08T13:15"
+    },
+    {
+      "id": 2614452,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614452",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 57,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação - PL 749/2023",
+      "dataApresentacao": "2026-04-08T13:21"
+    },
+    {
+      "id": 2614453,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614453",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 497,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Mãe do Rio, Estado do Pará.",
+      "dataApresentacao": "2026-04-08T13:20"
+    },
+    {
+      "id": 2614454,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614454",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 58,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 749/2023",
+      "dataApresentacao": "2026-04-08T13:21"
+    },
+    {
+      "id": 2614455,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614455",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 498,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Magalhães Barata, Estado do Pará.",
+      "dataApresentacao": "2026-04-08T13:21"
+    },
+    {
+      "id": 2614456,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614456",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4988/2024",
+      "dataApresentacao": "2026-04-08T13:13"
+    },
+    {
+      "id": 2614457,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614457",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 4988/2024-Requerimento de Retirada de Matéria da Pauta - PL 4988/2024",
+      "dataApresentacao": "2026-04-08T13:13"
+    },
+    {
+      "id": 2614458,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614458",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 59,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 749/2023-Requerimento de Retirada de Matéria da Pauta - PL 749/2023",
+      "dataApresentacao": "2026-04-08T13:21"
+    },
+    {
+      "id": 2614459,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614459",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 4988/2024-Requerimento de Retirada de Matéria da Pauta - PL 4988/2024",
+      "dataApresentacao": "2026-04-08T13:19"
+    },
+    {
+      "id": 2614460,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614460",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 807,
+      "ano": 2026,
+      "ementa": "Requer do Excelentíssimo Ministro do Meio Ambiente e Mudança do Clima, informações a respeito da destinação de mais de R$ 350 milhões do Fundo Amazônia, para projetos de sociobioeconomia e inovação na Amazônia Legal.",
+      "dataApresentacao": "2026-04-08T13:23"
+    },
+    {
+      "id": 2614461,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614461",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 19,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 413/2023-Requerimento de Retirada de Matéria da Pauta - PL 413/2023",
+      "dataApresentacao": "2026-04-08T13:17"
+    },
+    {
+      "id": 2614462,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614462",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 499,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Marabá, Estado do Pará.",
+      "dataApresentacao": "2026-04-08T13:24"
+    },
+    {
+      "id": 2614463,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614463",
+      "siglaTipo": "RPD",
+      "codTipo": 329,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - PL 5546/2023",
+      "dataApresentacao": "2026-04-08T13:24"
+    },
+    {
+      "id": 2614464,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614464",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação - PL 5546/2023",
+      "dataApresentacao": "2026-04-08T13:24"
+    },
+    {
+      "id": 2614465,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614465",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 5546/2023",
+      "dataApresentacao": "2026-04-08T13:24"
+    },
+    {
+      "id": 2614466,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614466",
+      "siglaTipo": "RPD",
+      "codTipo": 332,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Requerimento de Votação Nominal - PL 5546/2023",
+      "dataApresentacao": "2026-04-08T13:24"
+    },
+    {
+      "id": 2614467,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614467",
+      "siglaTipo": "RPD",
+      "codTipo": 1040,
+      "numero": 22,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 68/2025-Requerimento de Adiamento da Discussão - PL 68/2025",
+      "dataApresentacao": "2026-04-08T13:15"
+    },
+    {
+      "id": 2614468,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614468",
+      "siglaTipo": "RPD",
+      "codTipo": 1040,
+      "numero": 60,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 749/2023-Requerimento de Adiamento da Discussão - PL 749/2023",
+      "dataApresentacao": "2026-04-08T13:21"
+    },
+    {
+      "id": 2614469,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614469",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 500,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Maracanã, Estado do Pará.",
+      "dataApresentacao": "2026-04-08T13:27"
+    },
+    {
+      "id": 2614470,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614470",
+      "siglaTipo": "RPD",
+      "codTipo": 1042,
+      "numero": 23,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 68/2025-Requerimento de Adiamento da Votação - PL 68/2025",
+      "dataApresentacao": "2026-04-08T13:15"
+    },
+    {
+      "id": 2614471,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614471",
+      "siglaTipo": "RPD",
+      "codTipo": 1040,
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 5546/2023-Requerimento de Adiamento da Discussão - PL 5546/2023",
+      "dataApresentacao": "2026-04-08T13:24"
+    },
+    {
+      "id": 2614472,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614472",
+      "siglaTipo": "RPD",
+      "codTipo": 1042,
+      "numero": 61,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 749/2023-Requerimento de Adiamento da Votação - PL 749/2023",
+      "dataApresentacao": "2026-04-08T13:21"
+    },
+    {
+      "id": 2614473,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614473",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 6,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 5546/2023-Requerimento de Retirada de Matéria da Pauta - PL 5546/2023",
+      "dataApresentacao": "2026-04-08T13:24"
+    },
+    {
+      "id": 2614474,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614474",
+      "siglaTipo": "RPD",
+      "codTipo": 1042,
+      "numero": 7,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 5546/2023-Requerimento de Adiamento da Votação - PL 5546/2023",
+      "dataApresentacao": "2026-04-08T13:24"
+    },
+    {
+      "id": 2614475,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614475",
+      "siglaTipo": "PRLP",
+      "codTipo": 891,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Veda a disposição em convenção condominial de cláusula que restrinja, de qualquer forma, a locação de imóveis comerciais para agremiações partidárias.",
+      "dataApresentacao": "2026-04-08T13:20"
+    },
+    {
+      "id": 2614476,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614476",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 13,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3025/2023",
+      "dataApresentacao": "2026-04-08T13:28"
+    },
+    {
+      "id": 2614477,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614477",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 14,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3025/2023-Requerimento de Retirada de Matéria da Pauta - PL 3025/2023",
+      "dataApresentacao": "2026-04-08T13:28"
+    },
+    {
+      "id": 2614478,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614478",
+      "siglaTipo": "RPD",
+      "codTipo": 892,
+      "numero": 15,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - PL 3025/2023",
+      "dataApresentacao": "2026-04-08T13:28"
+    },
+    {
+      "id": 2614479,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614479",
+      "siglaTipo": "RPD",
+      "codTipo": 467,
+      "numero": 16,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação",
+      "dataApresentacao": "2026-04-08T13:28"
+    },
+    {
+      "id": 2614480,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614480",
+      "siglaTipo": "RPD",
+      "codTipo": 1043,
+      "numero": 17,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 3025/2023-Requerimento de Adiamento da Votação",
+      "dataApresentacao": "2026-04-08T13:28"
+    },
+    {
+      "id": 2614481,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614481",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 92,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para reconhecer o calçado como bem essencial e prever tratamento tributário diferenciado no âmbito da CBS e do IBS.",
+      "dataApresentacao": "2026-04-08T13:34"
+    },
+    {
+      "id": 2614482,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614482",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 43/2022",
+      "dataApresentacao": "2026-04-08T13:23"
+    },
+    {
+      "id": 2614483,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614483",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 93,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para incluir a atividade de representação comercial no Anexo III do Simples Nacional.",
+      "dataApresentacao": "2026-04-08T13:34"
+    },
+    {
+      "id": 2614484,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614484",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 94,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para reconhecer os óculos de grau como bem essencial e prever tratamento tributário diferenciado no âmbito da CBS e do IBS.",
+      "dataApresentacao": "2026-04-08T13:34"
+    },
+    {
+      "id": 2614485,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614485",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 95,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para prever redução de 40% das alíquotas da CBS e do IBS aplicáveis à atividade de representação comercial.",
+      "dataApresentacao": "2026-04-08T13:34"
+    },
+    {
+      "id": 2614486,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614486",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 1482/2025",
+      "dataApresentacao": "2026-04-08T13:41"
+    },
+    {
+      "id": 2614487,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614487",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 43/2022",
+      "dataApresentacao": "2026-04-08T13:39"
+    },
+    {
+      "id": 2614488,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614488",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 501,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Marapanim, Estado do Pará.",
+      "dataApresentacao": "2026-04-08T13:45"
+    },
+    {
+      "id": 2614489,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614489",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 502,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Marituba, Estado do Pará.",
+      "dataApresentacao": "2026-04-08T13:46"
+    },
+    {
+      "id": 2614490,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614490",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 503,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Medicilândia, Estado do Pará.",
+      "dataApresentacao": "2026-04-08T13:47"
+    },
+    {
+      "id": 2614491,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614491",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 504,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Melgaço, Estado do Pará.",
+      "dataApresentacao": "2026-04-08T13:49"
+    },
+    {
+      "id": 2614492,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614492",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 505,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Mocajuba, Estado do Pará.",
+      "dataApresentacao": "2026-04-08T13:50"
+    },
+    {
+      "id": 2614493,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614493",
+      "siglaTipo": "RPD",
+      "codTipo": 1019,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inclusão de Matéria na Ordem do Dia para Apreciação Imediata - REQ 23/2026 CMULHER",
+      "dataApresentacao": "2026-04-08T13:46"
+    },
+    {
+      "id": 2614494,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614494",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 506,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Moju, Estado do Pará.",
+      "dataApresentacao": "2026-04-08T13:53"
+    },
+    {
+      "id": 2614495,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614495",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Flávia Morais (PDT-GO), pela aprovação, com substitutivo.",
+      "dataApresentacao": "2026-04-08T13:51"
+    },
+    {
+      "id": 2614496,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614496",
+      "siglaTipo": "REQ",
+      "codTipo": 308,
+      "numero": 1970,
+      "ano": 2026,
+      "ementa": "Requer a distribuição da Proposta de Emenda à Constituição nº 3, de 2020, aprovada pelo Senado Federal, à Comissão de Constituição e Justiça e de Cidadania (CCJC) da Câmara dos Deputados.",
+      "dataApresentacao": "2026-04-08T13:57"
+    },
+    {
+      "id": 2614497,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614497",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 507,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Mojuí dos Campos, Estado do Pará.",
+      "dataApresentacao": "2026-04-08T13:58"
+    },
+    {
+      "id": 2614498,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614498",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-08T13:59"
+    },
+    {
+      "id": 2614499,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614499",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 508,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Monte Alegre, Estado do Pará.",
+      "dataApresentacao": "2026-04-08T13:59"
+    },
+    {
+      "id": 2614500,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614500",
+      "siglaTipo": "RPD",
+      "codTipo": 1019,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inclusão de Matéria na Ordem do Dia para Apreciação Imediata - REQ 24/2026 CMULHER",
+      "dataApresentacao": "2026-04-08T13:46"
+    },
+    {
+      "id": 2614501,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614501",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 509,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Muaná, Estado do Pará.",
+      "dataApresentacao": "2026-04-08T14:01"
+    },
+    {
+      "id": 2614502,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614502",
+      "siglaTipo": "REQ",
+      "codTipo": 625,
+      "numero": 24,
+      "ano": 2026,
+      "ementa": "Requer a declaração de prejudicialidade do Projeto de Lei nº 1.638, de 2025.",
+      "dataApresentacao": "2026-04-08T13:56"
+    },
+    {
+      "id": 2614503,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614503",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 510,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Pro Nova Esperança do Piriá grama Vem Ser! no município de Nova Esperança do Piriá, Estado do Pará.",
+      "dataApresentacao": "2026-04-08T14:04"
+    },
+    {
+      "id": 2614504,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614504",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 511,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Pro Nova Esperança do Piriá grama Vem Ser! no município de Nova Ipixuna, Estado do Pará",
+      "dataApresentacao": "2026-04-08T14:05"
+    },
+    {
+      "id": 2614505,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614505",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 512,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Pro Nova Esperança do Piriá grama Vem Ser! no município de Nova Timboteua, Estado do Pará.",
+      "dataApresentacao": "2026-04-08T14:06"
+    },
+    {
+      "id": 2614506,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614506",
+      "siglaTipo": "RPD",
+      "codTipo": 329,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - PL 5375/2023",
+      "dataApresentacao": "2026-04-08T14:05"
+    },
+    {
+      "id": 2614507,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614507",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 62,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação - PL 749/2023",
+      "dataApresentacao": "2026-04-08T14:05"
+    },
+    {
+      "id": 2614508,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614508",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 5375/2023",
+      "dataApresentacao": "2026-04-08T14:05"
+    },
+    {
+      "id": 2614509,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614509",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 63,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 749/2023",
+      "dataApresentacao": "2026-04-08T14:05"
+    },
+    {
+      "id": 2614510,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614510",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3839/2023",
+      "dataApresentacao": "2026-04-08T14:05"
+    },
+    {
+      "id": 2614511,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614511",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 513,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Pro Nova Esperança do Piriá grama Vem Ser! no município de Novo Progresso, Estado do Pará.",
+      "dataApresentacao": "2026-04-08T14:07"
+    },
+    {
+      "id": 2614512,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614512",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1702/2025",
+      "dataApresentacao": "2026-04-08T14:05"
+    },
+    {
+      "id": 2614513,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2614513",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 20,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 413/2023-Requerimento de Retirada de Matéria da Pauta - PL 413/2023",
+      "dataApresentacao": "2026-04-08T14:05"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=100"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=101&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=99&itens=100"
+    }
+  ]
+}

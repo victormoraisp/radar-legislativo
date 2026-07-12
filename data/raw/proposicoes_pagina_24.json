@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2459132,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459132",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3689,
+      "ano": 2024,
+      "ementa": "Dispõe sobre a atividade de influenciador digital.",
+      "dataApresentacao": "2024-09-25T09:27"
+    },
+    {
+      "id": 2459246,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459246",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3709,
+      "ano": 2024,
+      "ementa": "Dispõe sobre a prevenção e o enfrentamento à violência contra crianças e adolescentes indígenas, quilombolas e pertencentes a outros povos e comunidades tradicionais no Brasil.",
+      "dataApresentacao": "2024-09-25T16:35"
+    },
+    {
+      "id": 2459247,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459247",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3710,
+      "ano": 2024,
+      "ementa": "Confere ao Município de Foz do Iguaçu, no Estado do Paraná, o título de Capital Nacional do Transporte Rodoviário Internacional.",
+      "dataApresentacao": "2024-09-25T16:47"
+    },
+    {
+      "id": 2459262,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459262",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3714,
+      "ano": 2024,
+      "ementa": "Altera o art. 18, no inciso XI da Lei nº 13.146 de 6 de Julho de 2015, do Estatuto da Pessoa com Deficiência, para garantir o direito à cadeira de rodas.",
+      "dataApresentacao": "2024-09-25T18:18"
+    },
+    {
+      "id": 2459276,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459276",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3721,
+      "ano": 2024,
+      "ementa": "Cria o Parque Nacional dos Dinossauros, nos municípios de Sousa e São João do Rio do Peixe, no Estado da Paraíba.",
+      "dataApresentacao": "2024-09-26T10:01"
+    },
+    {
+      "id": 2459294,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459294",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3722,
+      "ano": 2024,
+      "ementa": "Criminaliza condutas relacionadas à exploração e divulgação de atividade de apostas de quota-fixa não autorizada.",
+      "dataApresentacao": "2024-09-26T11:40"
+    },
+    {
+      "id": 2459320,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459320",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3724,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 – Estatuto da Criança e do Adolescente, de forma a vedar que crianças e adolescentes divulguem em plataforma online de compartilhamento de vídeos, ou outro meio audiovisual, produtos que lhe sejam proibidos o consumo",
+      "dataApresentacao": "2024-09-26T13:03"
+    },
+    {
+      "id": 2459342,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459342",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3730,
+      "ano": 2024,
+      "ementa": "\"Proíbe a divulgação de jogos de apostas ou de azar, bem como de motéis ou sites de acompanhantes, em rede nacional no horário de classificação indicativa livre, e dá outras providências.\"",
+      "dataApresentacao": "2024-09-26T16:12"
+    },
+    {
+      "id": 2459403,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459403",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3744,
+      "ano": 2024,
+      "ementa": "Acresce o art. 42-F à Lei nº 13.675, de 11 de junho de 2018, para dispor sobre a avaliação em saúde multidisciplinar periódica de profissionais de segurança pública, prevista no art. 42-E, inciso I.",
+      "dataApresentacao": "2024-09-27T13:55"
+    },
+    {
+      "id": 2459446,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459446",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3748,
+      "ano": 2024,
+      "ementa": "Institui a \"Semana Nacional de Combate à Ludopatia e Proteção de Crianças e Adolescentes contra os Perigos dos Jogos de Azar\" e dá outras providências.",
+      "dataApresentacao": "2024-09-27T21:48"
+    },
+    {
+      "id": 2459450,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459450",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3752,
+      "ano": 2024,
+      "ementa": "Altera o Estatuto da Criança e do Adolescente (Lei nº 8.069, de 13 de julho de 1990) para incluir a proibição de publicidade de apostas e jogos de azar voltada para menores de 18 anos, prevenir e combater a participação de crianças e adolescentes nessas atividades, regulamentar o acesso de menores a plataformas de apostas e estabelecer medidas de conscientização.",
+      "dataApresentacao": "2024-09-27T22:43"
+    },
+    {
+      "id": 2459454,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459454",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3755,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre o agravamento das sanções ao condutor que participar, na direção de veículo automotor, em via pública, de corrida, disputa ou competição automobilística ou ainda de exibição ou demonstração de perícia em manobra de veículo automotor, não autorizada pela autoridade competente, em áreas de grande movimentação ou concentração de pessoas.",
+      "dataApresentacao": "2024-09-29T17:20"
+    },
+    {
+      "id": 2459491,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459491",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3759,
+      "ano": 2024,
+      "ementa": "Institui a criação de espaços de acolhimento para mulheres em eventos culturais, festivais de música e casas de shows em todo o território nacional e dá outras providências.",
+      "dataApresentacao": "2024-09-30T12:20"
+    },
+    {
+      "id": 2459586,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459586",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3771,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para instituir o crime de exploração ilegal de apostas.",
+      "dataApresentacao": "2024-09-30T16:05"
+    },
+    {
+      "id": 2459612,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459612",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3084,
+      "ano": 2021,
+      "ementa": "Altera a Lei nº 12.379, de 6 de janeiro de 2011, e a Lei nº 12.587, de 3 de janeiro de 2012 (Lei de Mobilidade Urbana), para dispor sobre a implantação de infraestrutura cicloviária de caráter não municipal.",
+      "dataApresentacao": "2024-09-30T17:45"
+    },
+    {
+      "id": 2459614,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459614",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4392,
+      "ano": 2023,
+      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), para permitir o transporte aéreo doméstico, com origem ou destino em localidades na Amazônia Legal, por empresas estrangeiras.",
+      "dataApresentacao": "2024-09-30T17:53"
+    },
+    {
+      "id": 2459677,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459677",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3780,
+      "ano": 2024,
+      "ementa": "Institui o Dia Nacional do Entregador por Aplicativo, a ser comemorado, anualmente, em 1º de julho.",
+      "dataApresentacao": "2024-10-01T14:40"
+    },
+    {
+      "id": 2459784,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459784",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3791,
+      "ano": 2024,
+      "ementa": "Dispõe sobre as condicionantes requeridas para o recebimento de subsídios públicos federais por empresas.",
+      "dataApresentacao": "2024-10-02T14:22"
+    },
+    {
+      "id": 2459797,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459797",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3792,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 14.821, de 16 de janeiro de 2024, que institui a Política Nacional de Trabalho Digno e Cidadania para a População em Situação de Rua (PNTC PopRua), a fim de instituir o Programa Nacional Busca Ativa.",
+      "dataApresentacao": "2024-10-02T15:18"
+    },
+    {
+      "id": 2459937,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2459937",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3798,
+      "ano": 2024,
+      "ementa": "Institui as Comunidades Energéticas no Brasil, estabelecendo diretrizes para a sua formação, operação e incentivo na promoção da geração descentralizada de energia renovável e a autossuficiência energética local.",
+      "dataApresentacao": "2024-10-03T15:08"
+    },
+    {
+      "id": 2460102,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2460102",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3807,
+      "ano": 2024,
+      "ementa": "Proíbe o uso de drones em fiscalizações de trânsito em território nacional.",
+      "dataApresentacao": "2024-10-04T16:31"
+    },
+    {
+      "id": 2461135,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2461135",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3812,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 5.540 de 28 de novembro de 1968 para tornar obrigatória a existência de laboratórios de prática das especialidades em todos os cursos de ensino superior público ou privado.",
+      "dataApresentacao": "2024-10-07T12:00"
+    },
+    {
+      "id": 2461138,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2461138",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3814,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, que dispõe sobre a modalidade lotérica denominada apostas de quota fixa e dá outras providências.",
+      "dataApresentacao": "2024-10-07T12:03"
+    },
+    {
+      "id": 2461215,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2461215",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3823,
+      "ano": 2024,
+      "ementa": "Dispõe sobre direitos dos pacientes com doença renal crônica.",
+      "dataApresentacao": "2024-10-08T09:05"
+    },
+    {
+      "id": 2461253,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2461253",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3828,
+      "ano": 2024,
+      "ementa": "Altera a redação do § 3º do art. 47 da Lei nº 14.597 de 14 de junho de 2023 (Lei Geral do Esporte).",
+      "dataApresentacao": "2024-10-08T12:34"
+    },
+    {
+      "id": 2461363,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2461363",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3838,
+      "ano": 2024,
+      "ementa": "Institui exigências de compensação de pegada de carbono para produtos e serviços provenientes da União Europeia, com base na Cédula de Produto Rural Verde (CPR Verde), e dá outras providências.",
+      "dataApresentacao": "2024-10-08T14:33"
+    },
+    {
+      "id": 2461386,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2461386",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3841,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para estabelecer a obrigatoriedade do estudo de noções de direito, cidadania e organização do Estado brasileiro e determinar a instituição de programas de imersão de estudantes de ensino fundamental e de ensino médio em órgãos e entidades da Administração Pública.",
+      "dataApresentacao": "2024-10-08T15:32"
+    },
+    {
+      "id": 2461409,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2461409",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3848,
+      "ano": 2024,
+      "ementa": "Dispõe sobre a governança e a escolha e nomeação de dirigentes de instituições de educação superior.",
+      "dataApresentacao": "2024-10-08T16:17"
+    },
+    {
+      "id": 2461452,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2461452",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3853,
+      "ano": 2024,
+      "ementa": "Dispõe sobre a obrigatoriedade do uso de umidificadores de ar em academias de ginástica localizadas em regiões com baixa umidade relativa do ar.",
+      "dataApresentacao": "2024-10-08T18:22"
+    },
+    {
+      "id": 2461480,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2461480",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3854,
+      "ano": 2024,
+      "ementa": "Dispõe sobre as restrições impostas aos serviços impermeabilização de estofados que utilizam produtos químicos inflamáveis.",
+      "dataApresentacao": "2024-10-08T19:25"
+    },
+    {
+      "id": 2461757,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2461757",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3866,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro.",
+      "dataApresentacao": "2024-10-09T11:12"
+    },
+    {
+      "id": 2461762,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2461762",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3867,
+      "ano": 2024,
+      "ementa": "Altera o art. 43, da Lei nº 8.078, de 11 de setembro de 1990, que “Dispõe sobre a proteção do consumidor e dá outras providências”, e o § 4º do art. 782, da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), com a finalidade de aprimorar a disciplina dos bancos de dados e cadastros de consumidores.",
+      "dataApresentacao": "2024-10-09T12:38"
+    },
+    {
+      "id": 2461936,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2461936",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3871,
+      "ano": 2024,
+      "ementa": "Dispõe sobre a vedação de concessão de assistência estudantil do Pnaes para estudantes que não concluírem o curso superior em instituições federais de ensino superior (Ifes) em tempo que supere a 25% do prazo ideal de integralização do currículo.",
+      "dataApresentacao": "2024-10-09T15:41"
+    },
+    {
+      "id": 2461959,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2461959",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3872,
+      "ano": 2024,
+      "ementa": "Exclui de responsabilização o responsável pelo imóvel rural que não contribua direta ou indiretamente para queima ou incêndio florestal em vegetação nativa ocorrida em propriedade limítrofe ao imóvel sob seu encargo.",
+      "dataApresentacao": "2024-10-09T16:06"
+    },
+    {
+      "id": 2461998,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2461998",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3876,
+      "ano": 2024,
+      "ementa": "Regulamenta a atividade de Agente da Propriedade Industrial e a cria órgão de fiscalização e controle da profissão.",
+      "dataApresentacao": "2024-10-09T17:51"
+    },
+    {
+      "id": 2462004,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462004",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3879,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 13.316, de 20 de julho de 2016, que dispõe sobre as carreiras dos servidores do Ministério Público da União e as carreiras dos servidores do Conselho Nacional do Ministério Público.",
+      "dataApresentacao": "2024-10-09T18:44"
+    },
+    {
+      "id": 2462009,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462009",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3880,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para incluir a violência vicária dentre as definições de violência doméstica e familiar contra a mulher de que trata o respectivo art. 7º.",
+      "dataApresentacao": "2024-10-10T00:02"
+    },
+    {
+      "id": 2462013,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462013",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3881,
+      "ano": 2024,
+      "ementa": "Dispõe sobre o atendimento à mulher vítima de violência doméstica e familiar, a ser realizado preferencialmente por profissionais do sexo feminino. Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha) e a Lei nº 8.080, de 19 de setembro de 1990 (Lei do Sistema Único de Saúde).",
+      "dataApresentacao": "2024-10-10T09:44"
+    },
+    {
+      "id": 2462019,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462019",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3884,
+      "ano": 2024,
+      "ementa": "Denomina “Rodovia Hermínio Vinholi “ o trecho da BR-376/PR com inicio ao acesso leste de Jandaia do Sul BR 369/466/PR, no Estado do Paraná.",
+      "dataApresentacao": "2024-10-10T10:57"
+    },
+    {
+      "id": 2462044,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462044",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3888,
+      "ano": 2024,
+      "ementa": "Assegura ao responsável pela criança matriculada em instituição de ensino da educação infantil ao ensino fundamental da rede pública a isenção no pagamento de tarifa nos serviços públicos de transporte.",
+      "dataApresentacao": "2024-10-10T12:22"
+    },
+    {
+      "id": 2462059,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462059",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3896,
+      "ano": 2024,
+      "ementa": "Estabelece normas para a prevenção e combate à violência política contra pessoas com deficiência, incluindo aquelas com Transtorno do Espectro Autista (TEA).",
+      "dataApresentacao": "2024-10-10T13:41"
+    },
+    {
+      "id": 2462111,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462111",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3912,
+      "ano": 2024,
+      "ementa": "Institui programa de oferta de cursos de extensão em Língua Brasileira de Sinais (Libras) para famílias de crianças surdas em universidades e institutos federais e cria o Selo de Inclusão para empresas que promovam medidas de apoio à participação dos trabalhadores nesses cursos.",
+      "dataApresentacao": "2024-10-10T18:30"
+    },
+    {
+      "id": 2462129,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462129",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3915,
+      "ano": 2024,
+      "ementa": "Permite aos servidores públicos, empregados de empresas públicas e comissionados a escolha de qualquer instituição financeira para a abertura de conta bancária destinada ao recebimento de vencimentos, proventos e salários.",
+      "dataApresentacao": "2024-10-11T09:58"
+    },
+    {
+      "id": 2462205,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462205",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3924,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 14.790, 29 de dezembro de 2023, a fim de vedar subvenção, benefício ou incentivo de entes públicos ou governamentais a agentes operadores de apostas; impedir novas apostas em caso de indícios de manipulação de eventos ou resultados por parte de apostador; limitar as formas de aporte e retirada de recursos financeiros pelos apostadores, bem como de pagamento de prêmios pelos agentes operadores; e vedar que pessoas em situação de atestado comprometimento da capacidade financeira e de pagamento participe na condição de apostador.",
+      "dataApresentacao": "2024-10-11T17:02"
+    },
+    {
+      "id": 2462254,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462254",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 156,
+      "ano": 2024,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, que institui o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte, a fim de aumentar o limite da receita bruta anual para enquadramento como Microempreendedor Individual (MEI).",
+      "dataApresentacao": "2024-10-14T12:20"
+    },
+    {
+      "id": 2462264,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462264",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3928,
+      "ano": 2024,
+      "ementa": "Cria o Dia de Conscientização sobre a Neuralgia do Trigêmeo.",
+      "dataApresentacao": "2024-10-14T12:47"
+    },
+    {
+      "id": 2462449,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462449",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3942,
+      "ano": 2024,
+      "ementa": "Altera o Programa Nacional de Pagamento por Serviços Ambientais, para dispor sobre a inclusão de mecanismos de prevenção e combate a incêndios florestais e queimadas irregulares.",
+      "dataApresentacao": "2024-10-15T09:54"
+    },
+    {
+      "id": 2462450,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462450",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3943,
+      "ano": 2024,
+      "ementa": "Altera o Imposto sobre a Propriedade Territorial Rural - ITR, para dispor sobre a inclusão de incentivos para prevenção e combate a incêndios florestais e queimadas irregulares.",
+      "dataApresentacao": "2024-10-15T09:54"
+    },
+    {
+      "id": 2462455,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462455",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3945,
+      "ano": 2024,
+      "ementa": "Acrescenta dispositivo à Lei nº 14.601, de 19 de julho de 2023, para estabelecer que os valores referidos nos §§ 1º e 2º do art. 6º da referida lei somente terão efeitos após 3 (três) meses consecutivos de recebimento pelo beneficiário dos valores acima dos parâmetros do programa.",
+      "dataApresentacao": "2024-10-15T11:01"
+    },
+    {
+      "id": 2462493,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462493",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3947,
+      "ano": 2024,
+      "ementa": "Dispõe sobre a obrigatoriedade de os fabricantes de aparelhos celulares alertarem os usuários sobre a possibilidade de danos à saúde.",
+      "dataApresentacao": "2024-10-15T13:22"
+    },
+    {
+      "id": 2462497,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462497",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3949,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 8.213, de 1991, a fim de prever possibilidade de contratação de atletas paraolímpicos para cumprimento do que dispõe seu art. 93.",
+      "dataApresentacao": "2024-10-15T13:38"
+    },
+    {
+      "id": 2462508,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462508",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3951,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 11.343, de 23 de agosto de 2006, para destinar a cannabis sativa, apreendida em grande quantidade, aos laboratórios autorizados a processá-la para uso medicinal.",
+      "dataApresentacao": "2024-10-15T15:03"
+    },
+    {
+      "id": 2462635,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462635",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3965,
+      "ano": 2024,
+      "ementa": "Institui o feriado escolar e o dia nacional dos professores, professoras e profissionais de educação",
+      "dataApresentacao": "2024-10-15T21:21"
+    },
+    {
+      "id": 2462768,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462768",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 158,
+      "ano": 2024,
+      "ementa": "Dispõe sobre proteção contra despedida arbitrária por denúncia de assédio sexual na relação de emprego.",
+      "dataApresentacao": "2024-10-16T14:33"
+    },
+    {
+      "id": 2462987,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462987",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3986,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para assegurar o acolhimento conjunto de filhos adolescentes do sexo masculino e feminino em abrigos destinados a mulheres vítimas de violência doméstica.",
+      "dataApresentacao": "2024-10-16T21:14"
+    },
+    {
+      "id": 2463130,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463130",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4000,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.",
+      "dataApresentacao": "2024-10-17T12:54"
+    },
+    {
+      "id": 2463247,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463247",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 166,
+      "ano": 2024,
+      "ementa": "Dispõe sobre a reabertura do prazo de adesão ao Programa Especial de Regularização Tributária das Microempresas e Empresas de Pequeno Porte optantes pelo Simples Nacional (Pert-SN), instituído pela Lei Complementar n. 162, de 6 de abril de 2018, e dá outras providências.",
+      "dataApresentacao": "2024-10-17T16:50"
+    },
+    {
+      "id": 2463298,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463298",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4008,
+      "ano": 2024,
+      "ementa": "Dispõe sobre a proteção integral e o desenvolvimento da pessoa com Transtorno do Espectro Autista (TEA) e dá outras providências.",
+      "dataApresentacao": "2024-10-17T22:20"
+    },
+    {
+      "id": 2463352,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463352",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 588,
+      "ano": 2024,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 11.362, de 4 de dezembro de 2023, que renova permissão outorgada à Rádio Centenário de Araras Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão sonora em frequência modulada, no Município de Araras, Estado de São Paulo.",
+      "dataApresentacao": "2024-10-08T15:19"
+    },
+    {
+      "id": 2463642,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463642",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4032,
+      "ano": 2024,
+      "ementa": "Dispõe sobre a criação e regulamentação do Estatuto da Comunidade Terapêutica e dá outras providências.",
+      "dataApresentacao": "2024-10-21T22:30"
+    },
+    {
+      "id": 2463649,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463649",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4034,
+      "ano": 2024,
+      "ementa": "Altera o § 1º-A do art. 30 da Lei nº 13.756, de 12 de dezembro de 2018, para dispor sobre a destinação do produto da arrecadação da loteria de apostas de quota fixa em meio físico ou virtual.",
+      "dataApresentacao": "2024-10-22T09:38"
+    },
+    {
+      "id": 2463650,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463650",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4035,
+      "ano": 2024,
+      "ementa": "Dispõe sobre o Serviço de Retransmissão de Televisão da Amazônia Legal e da Região de Abrangência da Superintendência do Desenvolvimento do Nordeste.",
+      "dataApresentacao": "2024-10-22T09:42"
+    },
+    {
+      "id": 2463653,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463653",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4036,
+      "ano": 2024,
+      "ementa": "Acrescenta parágrafos ao art. 4º da Lei nº 9.394, de 1996, de diretrizes e bases da educação nacional, para assegurar a matrícula em escolas de educação infantil e ensino fundamental de rede pública de município vizinho ao de domicílio do estudante, quando aplicável o princípio legal de proximidade entre residência e escola.",
+      "dataApresentacao": "2024-10-22T10:02"
+    },
+    {
+      "id": 2463669,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463669",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4041,
+      "ano": 2024,
+      "ementa": "Dispõe sobre a utilização dos serviços públicos de saúde por cidadãos residentes em municípios diversos, no âmbito do Estado.",
+      "dataApresentacao": "2024-10-22T11:05"
+    },
+    {
+      "id": 2464076,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2464076",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4061,
+      "ano": 2024,
+      "ementa": "Acrescenta o § 8º ao art. 201 da Lei nº 14.597, de 14 de junho de 2023, para proibir o ingresso em território nacional de torcedores estrangeiros envolvidos em tumultos ou atos de violência no Brasil.",
+      "dataApresentacao": "2024-10-23T18:21"
+    },
+    {
+      "id": 2464171,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2464171",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4075,
+      "ano": 2024,
+      "ementa": "Dispõe sobre a criação do Programa \"Horta nas Mãos\", que incentiva a plantação de hortas escolares e comunitárias por crianças e adolescentes, e dá outras providências.",
+      "dataApresentacao": "2024-10-24T13:43"
+    },
+    {
+      "id": 2464691,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2464691",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4089,
+      "ano": 2024,
+      "ementa": "Dispõe sobre a proteção dos direitos dos consumidores no uso de produtos e serviços que utilizam Inteligência Artificial (IA), estabelecendo diretrizes para garantir transparência, equidade e o respeito à privacidade dos usuários.",
+      "dataApresentacao": "2024-10-25T15:40"
+    },
+    {
+      "id": 2464767,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2464767",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4097,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 6.404, de 15 de dezembro de 1976, para dispor sobre prazos diferenciados de realização da Assembleia Geral Ordinária para companhias com faturamento anual de até R$ 500 milhões.",
+      "dataApresentacao": "2024-10-25T18:18"
+    },
+    {
+      "id": 2464773,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2464773",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4100,
+      "ano": 2024,
+      "ementa": "Dispõe sobre a inclusão dos medicamentos Escitalopram, Duloxetina e Trazodona na Relação Nacional de Medicamentos Essenciais (RENAME) do Sistema Único de Saúde (SUS) e dá outras providências.",
+      "dataApresentacao": "2024-10-28T14:16"
+    },
+    {
+      "id": 2464777,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2464777",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4101,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 4.375, de 17 de agosto de 1964, para dispor sobre o alistamento militar de homens trans.",
+      "dataApresentacao": "2024-10-28T16:33"
+    },
+    {
+      "id": 2464871,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2464871",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4108,
+      "ano": 2024,
+      "ementa": "Cria o selo Empresa Amiga do Consumidor Neurodivergente – Turismo, e dá outras providências.",
+      "dataApresentacao": "2024-10-29T12:41"
+    },
+    {
+      "id": 2465016,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2465016",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4110,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 6.015, de 31 de dezembro de 1973, para dispor sobre o documento de responsabilidade técnica, apresentado no desmembramento, parcelamento ou remembramento de imóveis rurais, na retificação de registro ou averbação, na usucapião extrajudicial e em autos judiciais que versem sobre imóveis.",
+      "dataApresentacao": "2024-10-29T14:24"
+    },
+    {
+      "id": 2465166,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2465166",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4124,
+      "ano": 2024,
+      "ementa": "Altera a Lei 8.069, de 13 de julho de 1990, que “dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências”, para assegurar a prioridade de as gestantes e lactantes receberem insumos de qualquer natureza para a proteção contra epidemias ou agravos inusitados à saúde.",
+      "dataApresentacao": "2024-10-29T17:29"
+    },
+    {
+      "id": 2465239,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2465239",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3060,
+      "ano": 2024,
+      "ementa": "Reconhece a festa popular dos Lambe-Sujos e Caboclinhos, realizada no Município de Laranjeiras, no Estado de Sergipe, como manifestação da cultura nacional.",
+      "dataApresentacao": "2024-10-29T20:35"
+    },
+    {
+      "id": 2465242,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2465242",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4256,
+      "ano": 2019,
+      "ementa": "Altera a Lei n.º 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento), para autorizar o porte de arma aos agentes de segurança socioeducativos e aos oficiais de justiça.",
+      "dataApresentacao": "2024-10-29T20:41"
+    },
+    {
+      "id": 2465249,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2465249",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1290,
+      "ano": 2024,
+      "ementa": "Institui o Mês Nacional de Valorização da Cultura Brasileira, a ser celebrado, anualmente, no mês de abril.",
+      "dataApresentacao": "2024-10-29T20:50"
+    },
+    {
+      "id": 2465483,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2465483",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4133,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 8.313, de 23 de dezembro de 1991, que restabelece princípios da Lei n° 7.505, de 2 de julho de 1986, institui o Programa Nacional de Apoio à Cultura (Pronac) e dá outras providências.",
+      "dataApresentacao": "2024-10-30T10:51"
+    },
+    {
+      "id": 2465489,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2465489",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 1486,
+      "ano": 2024,
+      "ementa": "Sugere o envio de Indicação à Excelentíssima Ministra de Estado da Saúde, Nísia Veronica Trindade Lima, no sentido de disponibilizar recursos financeiros para a requalificação do Hospital Otávio de Freitas, situado no Recife-PE.",
+      "dataApresentacao": "2024-10-30T10:56"
+    },
+    {
+      "id": 2465525,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2465525",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4137,
+      "ano": 2024,
+      "ementa": "Altera a Consolidação das Leis do Trabalho para dispor sobre o afastamento do trabalho da mulher que possua endometriose, mioma ou outra doença que aumente o fluxo sanguíneo durante o período menstrual.",
+      "dataApresentacao": "2024-10-30T11:56"
+    },
+    {
+      "id": 2465540,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2465540",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4139,
+      "ano": 2024,
+      "ementa": "Institui a inclusão de jogos eletrônicos como atividade extracurricular nas escolas da rede pública e privada de ensino básico no Brasil, com o objetivo de fomentar o desenvolvimento de habilidades cognitivas, sociais, motoras e digitais entre os alunos.",
+      "dataApresentacao": "2024-10-30T12:17"
+    },
+    {
+      "id": 2465545,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2465545",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4142,
+      "ano": 2024,
+      "ementa": "Dispõe sobre a suspensão de pagamento de financiamentos relacionados à atividade agropecuária em virtude da seca e dos incêndios no Estado de Roraima.",
+      "dataApresentacao": "2024-10-30T12:31"
+    },
+    {
+      "id": 2465598,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2465598",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4149,
+      "ano": 2024,
+      "ementa": "Dispõe sobre o fornecimento de alimentação especial em hospitais e estabelecimentos de saúde a pessoas com necessidades alimentares especiais.",
+      "dataApresentacao": "2024-10-30T13:14"
+    },
+    {
+      "id": 2465935,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2465935",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4155,
+      "ano": 2024,
+      "ementa": "Cria o Dia Nacional do Amendoim",
+      "dataApresentacao": "2024-10-30T15:38"
+    },
+    {
+      "id": 2465965,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2465965",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4162,
+      "ano": 2024,
+      "ementa": "Altera a Lei 11.959, de 29 de junho de 2009, que dispõe sobre a Política Nacional de Desenvolvimento Sustentável da Aquicultura e da Pesca para conferir tratamento adequado à aquicultura em propriedade privada.",
+      "dataApresentacao": "2024-10-30T16:56"
+    },
+    {
+      "id": 2465967,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2465967",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4163,
+      "ano": 2024,
+      "ementa": "Estabelece, no contexto das apostas de quota fixa, medidas adicionais de prevenção e combate à lavagem de dinheiro, ao financiamento do terrorismo e à proliferação de armas de destruição em massa.",
+      "dataApresentacao": "2024-10-30T17:08"
+    },
+    {
+      "id": 2466012,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2466012",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 1494,
+      "ano": 2024,
+      "ementa": "Sugere a distribuição pelo Sistema Único de Saúde – SUS, de dispositivos para aferição rápida de glicemia.",
+      "dataApresentacao": "2024-10-30T17:55"
+    },
+    {
+      "id": 2466015,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2466015",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4168,
+      "ano": 2024,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para estabelecer causas de aumento de pena ao crime de charlatanismo.",
+      "dataApresentacao": "2024-10-30T17:57"
+    },
+    {
+      "id": 2466085,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2466085",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4175,
+      "ano": 2024,
+      "ementa": "Estabelece os direitos das pessoas em estágio de doença avançada e dos familiares de tais pessoas.",
+      "dataApresentacao": "2024-10-30T20:06"
+    },
+    {
+      "id": 2466433,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2466433",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4211,
+      "ano": 2024,
+      "ementa": "Dispõe sobre a Proibição de comercialização de motores para embarcações que não possuam sistemas adequados de proteção nos eixos de transmissão ou quaisquer outras partes móveis externas, visando à prevenção de acidentes que possam causar escalpelamento ou outras lesões físicas.",
+      "dataApresentacao": "2024-10-31T17:09"
+    },
+    {
+      "id": 2466436,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2466436",
+      "siglaTipo": "PDL",
+      "codTipo": 557,
+      "numero": 376,
+      "ano": 2024,
+      "ementa": "Susta a Resolução nº 715, de 19 de outubro de 2024, do Conselho Federal de Biologia – CFBio.",
+      "dataApresentacao": "2024-10-31T16:46"
+    },
+    {
+      "id": 2466476,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2466476",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4216,
+      "ano": 2024,
+      "ementa": "Altera Decreto-Lei No 2.848, de 7 de dezembro de 1940 (Código Penal) para tornar como qualificados os crimes de ato obsceno e escrito ou objeto obsceno quando praticados em escolas e universidades públicas.",
+      "dataApresentacao": "2024-10-31T21:28"
+    },
+    {
+      "id": 2466561,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2466561",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 684,
+      "ano": 2024,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 9.166, de 18 de abril de 2023, publicada no Diário Oficial da União de 15 de maio de 2023, que renova, a partir de 27 de outubro de 2018, a permissão outorgada à Rádio Candelária FM Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Santa Luzia D'Oeste, Estado de Rondônia.",
+      "dataApresentacao": "2024-11-01T13:35"
+    },
+    {
+      "id": 2466563,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2466563",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 685,
+      "ano": 2024,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 8.944, de 3 de abril de 2023, que renova permissão outorgada à Rádio Candelária FM Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão sonora em frequência modulada, no Município de Nova Brasilândia D'Oeste, Estado de Rondônia.",
+      "dataApresentacao": "2024-11-01T13:35"
+    },
+    {
+      "id": 2466565,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2466565",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 686,
+      "ano": 2024,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 8.945, de 4 de abril de 2023, publicada no Diário Oficial da União de 12 de maio de 2023, que renova, a partir de 27 de outubro de 2018, a permissão outorgada à Rádio Candelária FM Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Alto Paraíso, Estado de Rondônia.",
+      "dataApresentacao": "2024-11-01T13:35"
+    },
+    {
+      "id": 2466567,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2466567",
+      "siglaTipo": "TVR",
+      "codTipo": 1097,
+      "numero": 687,
+      "ano": 2024,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 5.377, de 25 de abril de 2022, que renova a outorga à Rádio e Televisão Eldorado do Brasil Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão em frequência modulada, no Município de Porto Velho, Estado de Rondônia.",
+      "dataApresentacao": "2024-11-01T13:35"
+    },
+    {
+      "id": 2466858,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2466858",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4248,
+      "ano": 2024,
+      "ementa": "Institui o Programa Comunidade Viva, com o objetivo de promover o desenvolvimento social, econômico e ambiental de comunidades em áreas de vulnerabilidade urbana em todo o território nacional, através da revitalização e implementação de políticas públicas que visem a inclusão social, a sustentabilidade e a erradicação da pobreza.",
+      "dataApresentacao": "2024-11-04T17:36"
+    },
+    {
+      "id": 2467091,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2467091",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4258,
+      "ano": 2024,
+      "ementa": "Altera a Lei nº 14.751, de 12 de dezembro de 2023 – Lei Orgânica Nacional das Polícias Militares e Corpos de Bombeiros Militares dos Estados, Distrito Federal e dos Territórios.",
+      "dataApresentacao": "2024-11-05T11:44"
+    },
+    {
+      "id": 2467256,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2467256",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4278,
+      "ano": 2024,
+      "ementa": "Institui o Programa Nacional de Saúde Preventiva (PNSP) no Sistema Único de Saúde (SUS), visando à prevenção de doenças e à promoção da saúde de acordo com as demandas e necessidades demográficas da população brasileira.",
+      "dataApresentacao": "2024-11-05T17:15"
+    },
+    {
+      "id": 2467299,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2467299",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4281,
+      "ano": 2024,
+      "ementa": "Dispõe sobre a rotulagem e transparência na produção de sorvetes e similares e dá outras providências.",
+      "dataApresentacao": "2024-11-05T18:32"
+    },
+    {
+      "id": 2467307,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2467307",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4283,
+      "ano": 2024,
+      "ementa": "Acrescenta parágrafo único ao art. 3º-A do Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, para vedar aos órgãos do Poder Judiciário a instauração de inquéritos e de investigações criminais.",
+      "dataApresentacao": "2024-11-05T18:54"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=24"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=25&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=23&itens=100"
+    }
+  ]
+}

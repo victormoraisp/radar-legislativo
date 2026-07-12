@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2599297,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599297",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6704,
+      "ano": 2025,
+      "ementa": "Estabelece a obrigatoriedade de aviso prévio e claro sobre a gravação de dados de voz por centrais telefônicas, plataformas digitais e aplicativos, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T17:15"
+    },
+    {
+      "id": 2599300,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599300",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6707,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor - CDC), para dispor sobre a responsabilidade civil por danos causados pelo comportamento autônomo de sistemas de Inteligência Artificial.",
+      "dataApresentacao": "2025-12-22T17:18"
+    },
+    {
+      "id": 2599301,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599301",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6708,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional - LDB), para incluir o tema Inteligência Artificial, literacia digital e ética algorítmica como componente curricular transversal obrigatório.",
+      "dataApresentacao": "2025-12-22T17:18"
+    },
+    {
+      "id": 2599307,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599307",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6714,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a redução gradual do uso de microplásticos em cosméticos e produtos de higiene pessoal e dá outras providências.",
+      "dataApresentacao": "2025-12-22T17:43"
+    },
+    {
+      "id": 2599313,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599313",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6720,
+      "ano": 2025,
+      "ementa": "Institui a Lei de Proteção ao Cidadão em Eventos Climáticos Amazônicos, estabelece deveres de prevenção, preparação e resposta antecipada a eventos climáticos extremos na Região Norte, cria planos municipais obrigatórios, estoques mínimos de insumos essenciais e mecanismos de acionamento automático da União, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T17:47"
+    },
+    {
+      "id": 2599315,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599315",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6722,
+      "ano": 2025,
+      "ementa": "Institui a Lei Nacional de Estatísticas Obrigatórias para o Interior, estabelece a desagregação mínima territorial de dados públicos produzidos pelo IBGE e por órgãos e entidades da administração pública federal, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T17:47"
+    },
+    {
+      "id": 2599318,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599318",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6725,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Apoio à Produção Alimentar de Proximidade, estabelece incentivos à produção local de alimentos por meio de hortas urbanas e periurbanas, cria mecanismos de compra pública direta e dá outras providências.",
+      "dataApresentacao": "2025-12-22T17:47"
+    },
+    {
+      "id": 2599320,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599320",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6727,
+      "ano": 2025,
+      "ementa": "Institui o Programa Nacional de Mobilidade Intermunicipal do Interior, destinado a assegurar transporte público regular e acessível entre municípios do interior e localidades isoladas, com foco no acesso a serviços essenciais, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T17:47"
+    },
+    {
+      "id": 2599321,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599321",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6728,
+      "ano": 2025,
+      "ementa": "Institui o Programa Primeiro Projeto Profissional no Norte, destinado a apoiar a execução de projetos locais por jovens, mediante concessão de bolsas, em parceria com instituições federais de ensino, universidades e entes municipais, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T17:47"
+    },
+    {
+      "id": 2599333,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599333",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6730,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Proteção à Maternidade Atípica e às Famílias Cuidadoras, cria a Rede Nacional de Acolhimento Psicossocial da Maternidade Atípica, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T18:38"
+    },
+    {
+      "id": 2599334,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599334",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6731,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Segurança Financeira da Mulher, com programas de educação econômica, microcrédito protegido e promoção da autonomia patrimonial.",
+      "dataApresentacao": "2025-12-22T19:01"
+    },
+    {
+      "id": 2599336,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599336",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6733,
+      "ano": 2025,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de promoção, incitação ou divulgação de conteúdo misógino capaz de estimular hostilidade, discriminação ou violência contra a mulher.",
+      "dataApresentacao": "2025-12-22T19:01"
+    },
+    {
+      "id": 2599340,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599340",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6737,
+      "ano": 2025,
+      "ementa": "Institui a Lei de Resiliência Energética Pós-Interligação e Qualidade do Serviço no Estado de Roraima, estabelece metas de desempenho e continuidade do fornecimento de energia elétrica, cria plano de transição com geração distribuída e armazenamento para localidades remotas, prioriza serviços públicos essenciais e dá outras providências.",
+      "dataApresentacao": "2025-12-22T19:16"
+    },
+    {
+      "id": 2599342,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599342",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6739,
+      "ano": 2025,
+      "ementa": "Institui a Lei da Logística Reversa Comunitária no Norte, estabelece mecanismos de inclusão produtiva de associações comunitárias, catadores e cooperativas indígenas e rurais na cadeia da logística reversa, cria instrumentos de remuneração por serviço ambiental e dá outras providências.",
+      "dataApresentacao": "2025-12-22T19:16"
+    },
+    {
+      "id": 2599343,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599343",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6740,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para estabelecer prazo prioritário de devolução do valor pago por produto essencial, quando não houver reposição imediata.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599345,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599345",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6742,
+      "ano": 2025,
+      "ementa": "Institui o Programa Nacional de Apoio e Reintegração de Egressos do Acolhimento Institucional, voltado à proteção, autonomia e inclusão social de adolescentes e jovens que deixam serviços de acolhimento, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599347,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599347",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6744,
+      "ano": 2025,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para qualificar os crimes de incitação e de apologia quando relacionados a crimes contra a dignidade sexual de crianças e adolescentes.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599350,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599350",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6747,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a atenção integral às vítimas de escalpelamento, estabelece medidas preventivas, de assistência em saúde, reabilitação física, psicológica e social, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599353,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599353",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6750,
+      "ano": 2025,
+      "ementa": "Estabelece prazo máximo para a realização de diagnóstico, mesmo que não definitivo, das pessoas com Transtorno do Espectro Autista, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599355,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599355",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6752,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade do ensino da literatura regional e local da Unidade da Federação em que estiver sediada a instituição pública de ensino superior.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599358,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599358",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6755,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Incentivos Econômicos e Urbanísticos à Adoção de Soluções de Cidade Esponja e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599379,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599379",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6776,
+      "ano": 2025,
+      "ementa": "Assegura ao passageiro de transporte aéreo o direito ao reembolso integral dos valores pagos pela passagem, veda a cobrança de multas, taxas ou penalidades em razão de desistência ou cancelamento, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599382,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599382",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6779,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a vedação de retenção, compensação ou desconto automático de salários, vencimentos, subsídios, pensões e proventos por instituições financeiras para quitação de dívidas, estabelece exceções, define regras de restituição e fiscalização, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599383,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599383",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6780,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 14.620, de 13 de julho de 2023, para incluir reserva e prioridade de atendimento no âmbito do Programa Minha Casa, Minha Vida às populações indígenas, comunidades tradicionais e famílias residentes em assentamentos informais de áreas de fronteira.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599384,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599384",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6781,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de notificação prévia e comprovada do consumidor antes da inscrição em bancos de dados de inadimplentes, estabelece prazos de defesa, mecanismos de contestação e penalidades pelo descumprimento, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599386,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599386",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6783,
+      "ano": 2025,
+      "ementa": "Reconhece a Harpa Cristã como manifestação da cultura nacional de natureza imaterial.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599388,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599388",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6785,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a proteção especial às famílias que tenham entre seus membros pessoa portadora de doença ou condição de saúde que requeira o uso contínuo de energia elétrica, estabelece direitos, institui mecanismo de financiamento e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599389,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599389",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6786,
+      "ano": 2025,
+      "ementa": "Estabelece conteúdos obrigatórios mínimos nos regimentos escolares das instituições de educação básica públicas e privadas em todo o território nacional, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599405,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599405",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6802,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de instalação de dispositivos de segurança antiesmagamento em portões eletrônicos de uso residencial, comercial e público, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599407,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599407",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6804,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de inclusão, nos rótulos e embalagens de produtos fabricados no Brasil, de informações claras e visíveis sobre a forma de descarte e destinação adequada para reciclagem, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599411,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599411",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6808,
+      "ano": 2025,
+      "ementa": "Institui incentivos fiscais, creditícios e regulatórios para empresas que se instalarem ou ampliarem suas atividades em municípios com baixo Índice de Desenvolvimento Humano (IDH), e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599414,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599414",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6811,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a inclusão obrigatória da Língua Brasileira de Sinais – Libras como segunda língua nos currículos do ensino fundamental II e do ensino médio em todo o território nacional e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599415,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599415",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6812,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Promoção da Língua Brasileira de Sinais – Libras, dispõe sobre incentivos fiscais e regulatórios para sua difusão em meios audiovisuais e digitais, estabelece sua obrigatoriedade em campanhas e serviços públicos e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599416,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599416",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6813,
+      "ano": 2025,
+      "ementa": "Dispõe sobre o fornecimento de alimentação escolar aos professores e demais profissionais da educação em efetivo exercício nas escolas públicas estaduais e municipais, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599419,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599419",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6816,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de atendimento imediato e gratuito em casos de urgência e emergência em estabelecimentos privados de saúde, institui o Sistema Nacional de Notificação e Ressarcimento em Atendimento Emergencial – SINARE e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599422,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599422",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6819,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Arborização Urbana (PNAU), estabelece diretrizes gerais para a promoção da cobertura vegetal nas cidades brasileiras e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599424,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599424",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6821,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Promoção do Turismo Religioso, determina a realização de campanhas anuais no Brasil e no exterior, estabelece a cooperação internacional e a realização de feiras especializadas, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599425,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599425",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6822,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a disponibilização de pontos de apoio destinados aos trabalhadores de aplicativos de entrega e de transporte individual privado de passageiros e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599428,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599428",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6825,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de disponibilização de provador adaptado para pessoas com deficiência em estabelecimentos comerciais que comercializem roupas e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599430,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599430",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6827,
+      "ano": 2025,
+      "ementa": "Dispõe sobre medidas de restrição e controle de acesso a ambientes virtuais por pessoas condenadas por crimes contra a dignidade sexual de crianças e adolescentes, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599431,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599431",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6828,
+      "ano": 2025,
+      "ementa": "Cria o Selo de Interesse Nacional do Turismo Religioso, a ser concedido pelo Ministério do Turismo a eventos, santuários, festas e peregrinações que atendam a critérios de relevância cultural, impacto econômico e segurança, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599435,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599435",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6832,
+      "ano": 2025,
+      "ementa": "Confere ao Município de Amajari, no Estado de Roraima, o título de Capital Nacional do Ecoturismo Amazônico.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599437,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599437",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6834,
+      "ano": 2025,
+      "ementa": "Confere ao Município de Uiramutã, no Estado de Roraima, o título de Capital Nacional das Águas Amazônicas de Altitude.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599439,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599439",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6836,
+      "ano": 2025,
+      "ementa": "Institui medidas para promoção da atividade física de pessoas idosas e pessoas com deficiência em academias e estabelecimentos congêneres, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599445,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599445",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6842,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a inclusão de ações de promoção, vigilância e educação em saneamento básico entre as atribuições dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias, especialmente nas comunidades indígenas e quilombolas.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599448,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599448",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6845,
+      "ano": 2025,
+      "ementa": "Amplia os prazos legais mínimos de garantia de produtos duráveis e não duráveis e estabelece normas gerais de proteção ao consumidor.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599451,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599451",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6848,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de identificação biométrica e validação documental para aquisição, habilitação e ativação de chips de telefonia móvel, cria o Cadastro Nacional de Identificação de Linhas Móveis e estabelece medidas de prevenção e combate ao uso de linhas telefônicas em fraudes e golpes, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599463,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599463",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6860,
+      "ano": 2025,
+      "ementa": "Cria o Cadastro Positivo de Motoristas Profissionais e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599472,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599472",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6869,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a exigência de comprovação de matrícula e de regularidade escolar para a manutenção de perfil em rede social de criança e adolescente que exerça atividade como influenciador digital, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599476,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599476",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6873,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a criminalização da transmissão intencional de treinamento operacional a organizações criminosas, agrava penas e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599481,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599481",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6878,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de fornecimento, pelos meios de hospedagem, de informações claras, completas e prévias aos consumidores acerca dos valores correspondentes aos serviços prestados.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599484,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599484",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6881,
+      "ano": 2025,
+      "ementa": "Garante ao paciente com câncer o direito de realizar o tratamento oncológico em qualquer unidade da Federação de sua escolha, conforme o melhor protocolo clínico, serviço ou estrutura disponível, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599486,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599486",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6883,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a dispensa do recolhimento de direitos autorais ao escritório central de arrecadação e distribuição de que trata o art. 99 da Lei nº 9.610, de 19 de fevereiro de 1998, nas execuções de obras em eventos sem fins lucrativos promovidos por entidades declaradas de utilidade pública, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599488,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599488",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6885,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de divulgação e compartilhamento dos canais oficiais de denúncia de crimes de violência doméstica e familiar em todos os sítios eletrônicos administrados pelo Poder Público.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599491,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599491",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6888,
+      "ano": 2025,
+      "ementa": "Dispõe sobre o estímulo à prática do escotismo nas escolas públicas brasileiras de ensino fundamental e médio e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599492,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599492",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6889,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a inclusão da Educação em Direito dos Animais nos currículos escolares, como conteúdo transversal voltado à formação ética, ambiental e cidadã, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599495,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599495",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6892,
+      "ano": 2025,
+      "ementa": "Assegura ao empregado que tenha filho ou pessoa com deficiência sob sua responsabilidade o direito de fazer coincidir suas férias com o período de férias escolares da pessoa sob seus cuidados e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599499,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599499",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6896,
+      "ano": 2025,
+      "ementa": "Dispõe sobre políticas públicas destinadas ao fortalecimento de vínculos familiares e à garantia da convivência familiar e comunitária.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599501,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599501",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6898,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de empresas produtoras, distribuidoras e envasadoras de garrafas de tereftalato de polietileno - PET e de embalagens plásticas em geral desenvolverem programas de reciclagem, reutilização ou reaproveitamento desses produtos, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599502,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599502",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6899,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade do transporte gratuito e prioritário das ajudas técnicas utilizadas por pessoas com deficiência na cabine das aeronaves, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599507,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599507",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6904,
+      "ano": 2025,
+      "ementa": "Estabelece condições a serem observadas por fornecedores de bens e serviços no atendimento a pessoas com deficiência ou com mobilidade reduzida, com vistas à sua inclusão no mercado de consumo, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599517,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599517",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6914,
+      "ano": 2025,
+      "ementa": "Institui o Programa Nacional de Incentivo à Arborização e Adoção Sustentável de Espaços Públicos – Lei das Praças Verdes, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599519,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599519",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6916,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade, pelos Estados, da ampla divulgação de mapeamento contendo as áreas suscetíveis à ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos correlatos, em cooperação com os municípios, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599525,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599525",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6922,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a comunicação compulsória às autoridades competentes, por parte dos condomínios residenciais, conjuntos habitacionais e congêneres, de casos ou indícios de violência doméstica e familiar contra a mulher ocorridos em suas dependências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599527,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599527",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6924,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de matrícula e frequência escolar de adolescentes em cumprimento de medida socioeducativa e estabelece mecanismos de monitoramento e responsabilidade intersetorial.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599528,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599528",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6925,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de disponibilização de assentos apropriados aos estudantes com obesidade nos estabelecimentos de ensino públicos e privados e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599529,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599529",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6926,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade da instalação de banheiros e fraldários em todas as estações de sistemas metroviários e ferroviários urbanos de transporte de passageiros, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599533,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599533",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6930,
+      "ano": 2025,
+      "ementa": "Assegura padrões mínimos de cobertura e qualidade no serviço de telefonia móvel pessoal, estabelece obrigações às prestadoras, disciplina a compensação automática aos consumidores em caso de falha de cobertura e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599541,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599541",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6937,
+      "ano": 2025,
+      "ementa": "Institui o Programa Nacional de Diagnóstico, Esclarecimento, Tratamento e Acompanhamento do Transtorno de Déficit de Atenção com Hiperatividade – TDAH, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599543,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599543",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6939,
+      "ano": 2025,
+      "ementa": "Dispõe sobre o prazo máximo para análise e concessão de benefícios por incapacidade pelo Instituto Nacional do Seguro Social, estabelece rito especial de urgência, cria mecanismos de responsabilização administrativa, civil e penal por atrasos injustificados e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599545,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599545",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6941,
+      "ano": 2025,
+      "ementa": "Dispõe sobre o direito preferencial de pessoas idosas e de pessoas com deficiência na aquisição de unidades habitacionais térreas em edifícios multifamiliares construídos por programas habitacionais, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599549,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599549",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6945,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade da manutenção de Programa de Controle de Infecções Hospitalares pelos hospitais do País e estabelece normas de transparência e divulgação pública de dados sobre infecção hospitalar.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599555,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599555",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6951,
+      "ano": 2025,
+      "ementa": "Dispõe sobre mecanismos de ampliação da arrecadação própria das universidades federais, assegura autonomia na gestão desses recursos e institui os Fundos Patrimoniais Universitários.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599558,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599558",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6954,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a recolocação de produtos eletrônicos no mercado de consumo e estabelece requisitos de segurança, transparência e qualidade.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599559,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599559",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6955,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a redução de custos na aquisição de equipamentos e maquinários destinados à agricultura nos municípios e estabelece medidas de incentivo à modernização da produção agrícola, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599562,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599562",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6958,
+      "ano": 2025,
+      "ementa": "Dispõe sobre normas de transparência, qualidade, controle, segurança, correção de dados, critérios de inclusão e de exclusão de informações, e aprimoramento dos mecanismos de proteção aos consumidores nos bancos de dados de proteção ao crédito",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599566,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599566",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6962,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a reserva e a demarcação, dentro das normas técnicas de acessibilidade, de vagas para veículos que transportem pessoas com deficiência ou mobilidade reduzida, próximas às entradas e saídas de estabelecimentos educacionais e de saúde, públicos e privados.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599567,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599567",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6963,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a responsabilidade civil das pessoas físicas ou jurídicas que, por ação ou omissão, causem dano à criança ou ao adolescente, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599568,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599568",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6964,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a responsabilização do inquilino que abandonar animal doméstico ou domesticado ao desocupar imóvel locado, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599571,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599571",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6967,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade da inserção dos símbolos e descrições representativos das deficiências física, auditiva, visual, mental, múltipla, Síndrome de Down, Transtorno do Espectro Autista e da mobilidade reduzida nas placas de atendimento prioritário em estabelecimentos públicos e privados.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599573,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599573",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6969,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a suspensão cautelar do direito de dirigir, a partir da identificação do condutor, nos crimes de trânsito com vítima, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599574,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599574",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6970,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade da realização do exame de Oximetria de Pulso, denominado “Teste do Coraçãozinho”, antes da alta hospitalar de todos os recém-nascidos, e sobre o registro de sua execução no prontuário médico.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599577,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599577",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6973,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade da oferta de tradução e interpretação em Língua Brasileira de Sinais – Libras em bens culturais que envolvam o uso vocal de linguagem, destinados ao público em geral, quando a plateia comportar mais de quatrocentos espectadores, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599579,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599579",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6975,
+      "ano": 2025,
+      "ementa": "Estabelece diretrizes para o tratamento de dados pessoais em plataformas tecnológicas de ensino à distância e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599580,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599580",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6976,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade da realização do exame de triagem auditiva neonatal, denominado “teste da orelhinha”, em todos os recém-nascidos, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599591,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599591",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6987,
+      "ano": 2025,
+      "ementa": "Altera a Lei n° 9.394, de 20 de dezembro de 1996, para dispor sobre a integralização da carga horária de estudantes atletas por meio de Educação a Distância (EaD).",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599596,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599596",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6992,
+      "ano": 2025,
+      "ementa": "Estabelece normas gerais de acessibilidade aplicáveis à fabricação, importação e comercialização de eletrodomésticos, garante a não discriminação de preços, cria o Selo Nacional de Acessibilidade Tecnológica e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599597,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599597",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6993,
+      "ano": 2025,
+      "ementa": "Estabelece normas de acessibilidade digital em aplicativos e plataformas eletrônicas de instituições financeiras, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599598,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599598",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6994,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de implantação, pelas empresas fabricantes e operadoras de cartões de crédito e débito, de máquinas de pagamento adaptadas para pessoas com deficiência visual, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599600,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599600",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6996,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de acessibilidade nos sistemas eletrônicos de atendimento utilizados em unidades de saúde públicas e privadas e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599607,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599607",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7003,
+      "ano": 2025,
+      "ementa": "Estabelece a Avaliação Imediata Obrigatória após Fuga Acidental do Lar por crianças de zero a seis anos de idade, determina protocolos de atendimento integrado e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599609,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599609",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7005,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de adaptação de caixas eletrônicos - ATMs para pessoas com deficiência visual.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599612,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599612",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7008,
+      "ano": 2025,
+      "ementa": "Institui a Certificação Nacional “Empresa Amiga da Primeira Infância”, estabelece critérios gerais para sua concessão e utilização, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599613,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599613",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7009,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de divulgação, na abertura de eventos artísticos, culturais e esportivos, de mensagens educativas relacionadas a temas de relevância social, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599617,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599617",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7013,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a ação penal no crime de lesão corporal praticado contra pessoa idosa e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599618,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599618",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7014,
+      "ano": 2025,
+      "ementa": "Estabelece normas para o armazenamento, o uso, a autorização, a segurança e o tratamento de dados de pagamento utilizados em transações de consumo e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599622,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599622",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7018,
+      "ano": 2025,
+      "ementa": "Cria o Fundo Nacional de Revitalização Linguística, estabelece objetivos, diretrizes, fontes de financiamento, mecanismos de gestão e controle social, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599626,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599626",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7022,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Acessibilidade Veicular Sustentável para Pessoas com Deficiência – PNAVS, estabelece incentivos e mecanismos de isenção e subsídio para manutenção e troca de baterias de veículos elétricos utilizados por pessoas com deficiência, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599630,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599630",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7026,
+      "ano": 2025,
+      "ementa": "Concede isenção do pagamento de pedágio a motoristas profissionais autônomos que utilizem rodovias federais e estaduais no exercício de sua atividade laboral, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    },
+    {
+      "id": 2599631,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599631",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7027,
+      "ano": 2025,
+      "ementa": "Concede isenção do pagamento de pedágio nas rodovias federais e estaduais aos profissionais da segurança pública, nas condições que especifica, e dá outras providências.",
+      "dataApresentacao": "2025-12-22T20:23"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=63"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=64&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=62&itens=100"
+    }
+  ]
+}

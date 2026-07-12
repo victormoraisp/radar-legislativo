@@ -1,0 +1,1022 @@
+{
+  "dados": [
+    {
+      "id": 104417,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/104417",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 46,
+      "ano": 2003,
+      "ementa": "Altera o Decreto-Lei nº 73, de 21 de novembro de 1966, fixando prazo máximo para pagamento de indenização de sinistros por parte das sociedades seguradoras e estabelecendo a multa aplicável no caso de seu descumprimento e dá outras providências.",
+      "dataApresentacao": "2003-02-18T15:14"
+    },
+    {
+      "id": 106067,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/106067",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 297,
+      "ano": 2003,
+      "ementa": "Institui o dia 02 de julho como data histórica no calendário das efemérides nacionais e concede a denominação \"Aeroporto Internacional de Salvador, Dois de Julho\" ao aeroporto internacional de Salvador.",
+      "dataApresentacao": "2003-03-12T14:20"
+    },
+    {
+      "id": 109450,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/109450",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 620,
+      "ano": 2003,
+      "ementa": "Revigora a Lei nº 2.689, de 20 de Dezembro de 1955, e  dá  outras providências.                              .",
+      "dataApresentacao": "2003-04-02T17:40"
+    },
+    {
+      "id": 110106,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/110106",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 673,
+      "ano": 2003,
+      "ementa": "Acrescenta dispositivo ao art. 105 da Lei nº 9.503, de 23 de setembro de 1997, estabelecendo como equipamento obrigatório dos veículos de carga, as barras laterais de proteção.",
+      "dataApresentacao": "2003-04-08T15:26"
+    },
+    {
+      "id": 110593,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/110593",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 724,
+      "ano": 2003,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"Institui o Código de Trânsito Brasileiro\", para dispor sobre circulação de veículos de tração e crimes de trânsito.",
+      "dataApresentacao": "2003-04-09T19:46"
+    },
+    {
+      "id": 115072,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/115072",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 968,
+      "ano": 2003,
+      "ementa": "Altera os arts. 302 e 303 da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), a fim de adequar penas aplicáveis a crimes de trânsito às previstas no Código Penal para crimes da mesma natureza daqueles.",
+      "dataApresentacao": "2003-05-09T12:00"
+    },
+    {
+      "id": 117394,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/117394",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1124,
+      "ano": 2003,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre o recurso a penalidade de trânsito.",
+      "dataApresentacao": "2003-05-28T17:03"
+    },
+    {
+      "id": 118135,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/118135",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1174,
+      "ano": 2003,
+      "ementa": "Revoga o art. 104 da Lei nº 9.503, de 23 de setembro de 1997, extinguindo a inspeção veicular obrigatória, e dá outras providências.",
+      "dataApresentacao": "2003-06-03T17:35"
+    },
+    {
+      "id": 121898,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/121898",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1353,
+      "ano": 2003,
+      "ementa": "Autoriza o uso do gás natural como combustível para os veículos automotores, em todo o território nacional.",
+      "dataApresentacao": "2003-06-25T00:00"
+    },
+    {
+      "id": 145655,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/145655",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2607,
+      "ano": 2003,
+      "ementa": "Altera a redação dos §§ 1º e 2º do art. 126 da Lei nº 8.213, de 24 de julho de 1991 e dá outras providências.",
+      "dataApresentacao": "2003-11-26T18:00"
+    },
+    {
+      "id": 154320,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/154320",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 130,
+      "ano": 2004,
+      "ementa": "Acrescenta incisos aos arts. 44, 89 e 128 da Lei Complementar nº 80, de 12 de janeiro de 1994, para autorizar o porte de armas a membros da Defensoria Pública da União, do Distrito Federal e dos Territórios e dos Estados.",
+      "dataApresentacao": "2004-02-18T14:42"
+    },
+    {
+      "id": 159050,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/159050",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3276,
+      "ano": 2004,
+      "ementa": "Altera a denominação do Aeroporto Internacional de Viracopos, em Campinas / SP, para Aeroporto Internacional de Viracopos, Maestro Carlos Gomes.",
+      "dataApresentacao": "2004-03-31T15:08"
+    },
+    {
+      "id": 250132,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/250132",
+      "siglaTipo": "PRC",
+      "codTipo": 444,
+      "numero": 142,
+      "ano": 2004,
+      "ementa": "Dá nova redação ao inciso IV do art. 32 do Regimento Interno da Câmara dos Deputados.",
+      "dataApresentacao": "2004-04-20T00:00"
+    },
+    {
+      "id": 252511,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/252511",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3508,
+      "ano": 2004,
+      "ementa": "Dispõe sobre a obrigatoriedade das escolas da rede pública e privada, efetuarem campanhas \"antidrogas\" aos seus alunos e dá outras providências.",
+      "dataApresentacao": "2004-05-11T15:07"
+    },
+    {
+      "id": 253585,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/253585",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3564,
+      "ano": 2004,
+      "ementa": "Determina que as empresas fabricantes de cigarros compensem o Sistema Único de Saúde pelas despesas com o tratamento de doenças associadas ao tabagismo.",
+      "dataApresentacao": "2004-05-13T16:44"
+    },
+    {
+      "id": 281624,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/281624",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5054,
+      "ano": 2005,
+      "ementa": "Torna obrigatório o exame de ordem para todos os que quiserem inscrever-se como Advogado.",
+      "dataApresentacao": "2005-04-13T15:38"
+    },
+    {
+      "id": 289361,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/289361",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5415,
+      "ano": 2005,
+      "ementa": "Altera a redação do inciso VII, do art. 6º, da Lei nº 10.826, de 2003, autorizando o porte de arma para os Oficiais de Justiça.",
+      "dataApresentacao": "2005-06-13T14:34"
+    },
+    {
+      "id": 299788,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/299788",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5882,
+      "ano": 2005,
+      "ementa": "Dispõe sobre a proteção do emprego às pessoas negras.",
+      "dataApresentacao": "2005-09-13T14:16"
+    },
+    {
+      "id": 313128,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/313128",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 330,
+      "ano": 2006,
+      "ementa": "Dispõe sobre a aposentadoria do servidor público policial, nos termos do artigo 40, §4º, inciso III, da Constituição Federal, conforme redação da Emenda Constitucional, nº 47, de 05 de julho de 2005.",
+      "dataApresentacao": "2006-02-01T15:19"
+    },
+    {
+      "id": 313378,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/313378",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6590,
+      "ano": 2006,
+      "ementa": "Modifica a Lei nº 8.977, de 6 de janeiro de 1995, proibindo a cobrança de assinatura por pontos adicionais instalados no domicílio do assinante de serviço de TV a cabo.",
+      "dataApresentacao": "2006-02-02T16:15"
+    },
+    {
+      "id": 328385,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/328385",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 555,
+      "ano": 2006,
+      "ementa": "Revoga o art. 4º da Emenda Constitucional nº 41, de 2003.",
+      "dataApresentacao": "2006-06-22T12:21"
+    },
+    {
+      "id": 340242,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/340242",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 74,
+      "ano": 2007,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997,  que dispõe sobre o Código de Trânsito Brasileiro.",
+      "dataApresentacao": "2007-02-07T17:11"
+    },
+    {
+      "id": 340943,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/340943",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 182,
+      "ano": 2007,
+      "ementa": "Dispoe sobre bloqueio judicial de conta bancária.",
+      "dataApresentacao": "2007-02-15T11:00"
+    },
+    {
+      "id": 344542,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/344542",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 396,
+      "ano": 2007,
+      "ementa": "Dispõe sobre a responsabilidade na transição administrativa, após a proclamação dos resultados eleitorais, e dá outras providências.",
+      "dataApresentacao": "2007-03-13T18:53"
+    },
+    {
+      "id": 344640,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/344640",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 412,
+      "ano": 2007,
+      "ementa": "Institui o  Dia  Nacional  de  reflexão  do \"Cantando as Diferenças\"",
+      "dataApresentacao": "2007-03-14T15:26"
+    },
+    {
+      "id": 345025,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/345025",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 472,
+      "ano": 2007,
+      "ementa": "Autoriza os Estados Federados e o Distrito Federal a explorar loterias.",
+      "dataApresentacao": "2007-03-16T12:07"
+    },
+    {
+      "id": 345470,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/345470",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 516,
+      "ano": 2007,
+      "ementa": "Dispõe sobre a obrigatoriedade de as empresas concessionárias de serviços de radiodifusão sonora e de sons e imagens (emissoras de rádio e televisão) veicularem campanha institucional de educação e preservação ambiental.",
+      "dataApresentacao": "2007-03-21T15:44"
+    },
+    {
+      "id": 346504,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/346504",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 612,
+      "ano": 2007,
+      "ementa": "Dispõe sobre o uso de sacolas plásticas biodegradáveis para acondicionamento de produtos e mercadorias a serem utilizadas nos estabelecimentos comerciais em todo território nacional.",
+      "dataApresentacao": "2007-03-29T14:19"
+    },
+    {
+      "id": 348783,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/348783",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 792,
+      "ano": 2007,
+      "ementa": "Dispõe sobre a definição de serviços ambientais e dá outras providências.",
+      "dataApresentacao": "2007-04-19T16:04"
+    },
+    {
+      "id": 349372,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/349372",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 841,
+      "ano": 2007,
+      "ementa": "Altera a Lei n° 9.503,  de  23  de setembro de  1997 - Código de Trânsito Brasileiro.",
+      "dataApresentacao": "2007-04-25T15:31"
+    },
+    {
+      "id": 353982,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/353982",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1234,
+      "ano": 2007,
+      "ementa": "Estabelece princípios e diretrizes para as ações voltadas para a educação nutricional e segurança alimentar e nutricional da população e dá outras providências.",
+      "dataApresentacao": "2007-05-31T18:35"
+    },
+    {
+      "id": 359374,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/359374",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1565,
+      "ano": 2007,
+      "ementa": "Dispõe sobre a obrigatoriedade de banheiros públicos em agências bancárias e dá outras providências.",
+      "dataApresentacao": "2007-07-10T20:11"
+    },
+    {
+      "id": 359840,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/359840",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1601,
+      "ano": 2007,
+      "ementa": "Denomina o Aeroporto Internacional de Salvador, no Estado da Bahia - \"Aeroporto 02 de Julho / Deputado Luís Eduardo Magalhães\".",
+      "dataApresentacao": "2007-07-12T11:11"
+    },
+    {
+      "id": 364339,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/364339",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1862,
+      "ano": 2007,
+      "ementa": "Dispõe sobre a etiquetagem de produtos nacionais ou estrangeiros, alertando o consumidor sobre os graus de impacto ambiental.",
+      "dataApresentacao": "2007-08-23T15:55"
+    },
+    {
+      "id": 382404,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/382404",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2721,
+      "ano": 2007,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para revogar o instituto da Permissão para Dirigir.",
+      "dataApresentacao": "2007-12-20T17:27"
+    },
+    {
+      "id": 383250,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/383250",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2788,
+      "ano": 2008,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre o controle de qualidade dos instrutores e examinadores dos candidatos à obtenção da Carteira Nacional de Habilitação.",
+      "dataApresentacao": "2008-02-13T17:43"
+    },
+    {
+      "id": 384185,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/384185",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2870,
+      "ano": 2008,
+      "ementa": "Altera o art. 41-A da Lei nº 9.504, de 30 de setembro de 1997, estendendo a vedação de captação de sufrágio ao dia da escolha do candidato em convenção partidária.",
+      "dataApresentacao": "2008-02-21T14:43"
+    },
+    {
+      "id": 384224,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/384224",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2872,
+      "ano": 2008,
+      "ementa": "Altera dispositivos da Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro e dá outras providências.",
+      "dataApresentacao": "2008-02-21T16:20"
+    },
+    {
+      "id": 388451,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/388451",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3133,
+      "ano": 2008,
+      "ementa": "Altera o art. 67 da Lei nº 9.394, de 20 de dezembro de 1996, que fixa as diretrizes e bases da educação nacional.",
+      "dataApresentacao": "2008-03-27T19:03"
+    },
+    {
+      "id": 394878,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/394878",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3419,
+      "ano": 2008,
+      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986 - Código Brasileiro de Aeronáutica, para dispor sobre a distribuição de horários de pouso e decolagem (slots) em aeroportos congestionados.",
+      "dataApresentacao": "2008-05-14T09:37"
+    },
+    {
+      "id": 404399,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/404399",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3723,
+      "ano": 2008,
+      "ementa": "Dispõe sobre o tratamento tributário aplicável às sociedades cooperativas em geral no âmbito federal.",
+      "dataApresentacao": "2008-07-10T19:33"
+    },
+    {
+      "id": 407891,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/407891",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3920,
+      "ano": 2008,
+      "ementa": "Altera o art. 320 da Lei nº 9.503, de 23 de setembro de 1997, que \"institui o Código de Trânsito Brasileiro\", para incluir as atividades de salvamento e resgate no trânsito entre as destinações possíveis dos recursos arrecadados com as multas de trânsito.",
+      "dataApresentacao": "2008-08-20T17:10"
+    },
+    {
+      "id": 408349,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/408349",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3935,
+      "ano": 2008,
+      "ementa": "Acrescenta arts. 473-A a 473-C à Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para regulamentar a licença-paternidade a que se refere o inciso XIX do art. 7º da Constituição Federal.",
+      "dataApresentacao": "2008-08-28T18:29"
+    },
+    {
+      "id": 412505,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/412505",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 295,
+      "ano": 2008,
+      "ementa": "Altera os arts. 149, 159 e 239 da Constituição Federal para dispor sobre o Fundo Nacional do Ensino Técnico.",
+      "dataApresentacao": "2008-10-15T18:54"
+    },
+    {
+      "id": 414367,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/414367",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 300,
+      "ano": 2008,
+      "ementa": "Altera a redação do § 9º do art. 144 da Constituição Federal.",
+      "dataApresentacao": "2008-11-04T18:36"
+    },
+    {
+      "id": 417190,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/417190",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 436,
+      "ano": 2008,
+      "ementa": "Acrescenta o art. 170-B na Lei n° 5.172, de 25 de outubro de 1966 (Código Tributário Nacional) para dar competência ao Poder Judiciário de decidir sobre o instituto da compensação tributária.",
+      "dataApresentacao": "2008-11-25T09:36"
+    },
+    {
+      "id": 422721,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/422721",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4579,
+      "ano": 2009,
+      "ementa": "Altera a Lei nº 11.788, de 25 de setembro de 2008, que dispõe sobre o estágio de estudantes, para ampliar o prazo máximo do estágio para três anos e para tornar obrigatória a concessão de auxílio-alimentação ao estagiário pela empresa concedente.",
+      "dataApresentacao": "2009-02-03T14:26"
+    },
+    {
+      "id": 429434,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/429434",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5017,
+      "ano": 2009,
+      "ementa": "Altera a redação do art. 126 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para alterar procedimentos relativos à baixa veicular.",
+      "dataApresentacao": "2009-04-07T09:41"
+    },
+    {
+      "id": 431552,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/431552",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5094,
+      "ano": 2009,
+      "ementa": "Altera o art. 11 da Lei nº 11.788, de 25 de setembro de 2008, com relação à duração máxima do estágio de estudantes na mesma parte concedente.",
+      "dataApresentacao": "2009-04-23T09:48"
+    },
+    {
+      "id": 431592,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/431592",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5100,
+      "ano": 2009,
+      "ementa": "Acrescenta artigo à Lei nº 9.503, de 23 de setembro de 1997, dispondo sobre a construção de depósitos para veículos apreendidos.",
+      "dataApresentacao": "2009-04-23T11:10"
+    },
+    {
+      "id": 435338,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/435338",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5262,
+      "ano": 2009,
+      "ementa": "Altera a redação do art. 12, da Lei nº 11.788, de 25 de setembro de 2008, que dispõe sobre o estágio de estudantes; altera a redação do art. 428 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e a Lei nº 9.394, de 20 de dezembro de 1996; revoga as Leis nºs 6.494, de 7 de dezembro de 1977, e 8.859, de 23 de março de 1994, o parágrafo único do art. 82 da Lei nº 9.394, de 20 de dezembro de 1996, e o art. 6º da Medida Provisória  nº 2.164-41, de 24 de agosto de 2001; e dá outras providências.",
+      "dataApresentacao": "2009-05-21T09:41"
+    },
+    {
+      "id": 436112,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/436112",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5288,
+      "ano": 2009,
+      "ementa": "Altera os arts. 6º e 9º da Lei nº 8.629, de 25 de fevereiro de 1993.",
+      "dataApresentacao": "2009-05-27T16:46"
+    },
+    {
+      "id": 439075,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/439075",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 376,
+      "ano": 2009,
+      "ementa": "Estabelece a coincidência geral dos pleitos para todos os mandatos eletivos, aumenta de 8 para 10 anos o mandato de Senador, estabelece o mandato de 5 anos para todos os cargos eletivos e põe fim ao instituto da reeleição para os cargos do Poder Executivo.",
+      "dataApresentacao": "2009-06-17T16:24"
+    },
+    {
+      "id": 439176,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/439176",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5446,
+      "ano": 2009,
+      "ementa": "Dispõe sobre a contagem do tempo de exercício dos profissionais que exercem atividades em unidades de educação infantil como de efetivo exercício do magistério.",
+      "dataApresentacao": "2009-06-17T19:05"
+    },
+    {
+      "id": 443430,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/443430",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5673,
+      "ano": 2009,
+      "ementa": "Dá nova redação ao art. 104 da Lei nº 8.069, 13 de julho de 1990, e inclui na referida lei os arts. 105-A e 122, considerando que o regime de semiliberdade e a medida de internação não serão aplicados ao adolescente que praticou o ato infracional em razão de dependência ou sob o efeito de droga; os benefícios da anistia, graça e indulto alcançam o menor infrator e a medida de internação só poderá ser aplicada após o trânsito em julgado da sentença condenatória.",
+      "dataApresentacao": "2009-08-04T17:13"
+    },
+    {
+      "id": 444676,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/444676",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5770,
+      "ano": 2009,
+      "ementa": "Dispõe sobre natureza de ato cooperativo das aplicações financeiras das cooperativas de crédito e dá outras providências.",
+      "dataApresentacao": "2009-08-12T15:16"
+    },
+    {
+      "id": 448676,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/448676",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5992,
+      "ano": 2009,
+      "ementa": "Acrescenta o art. 45-A, na Lei nº 8.987, de 03 de maio de 1995, vedando a cobrança de tarifa de pedágio de pessoas residentes em Município em que está localizada a praça de cobrança.",
+      "dataApresentacao": "2009-09-08T18:04"
+    },
+    {
+      "id": 454210,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/454210",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6162,
+      "ano": 2009,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação), para dispor sobre inclusão facultativa do ensino do Esperanto no ensino médio.",
+      "dataApresentacao": "2009-10-07T16:33"
+    },
+    {
+      "id": 456366,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/456366",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6268,
+      "ano": 2009,
+      "ementa": "Acrescenta o art. 312-A à Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, a fim de tipificar o crime de obstrução indevida de via pública",
+      "dataApresentacao": "2009-10-21T18:18"
+    },
+    {
+      "id": 460563,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/460563",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6448,
+      "ano": 2009,
+      "ementa": "Acresce dispositivo na Lei nº 8.078, de 11 de setembro de 1990, dispondo sobre a rotulagem de produtos alimentares.",
+      "dataApresentacao": "2009-11-18T19:50"
+    },
+    {
+      "id": 463451,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/463451",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 446,
+      "ano": 2009,
+      "ementa": "Institui o piso salarial para os servidores policiais.",
+      "dataApresentacao": "2009-12-09T15:03"
+    },
+    {
+      "id": 464975,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/464975",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6665,
+      "ano": 2009,
+      "ementa": "Altera o § 2º do art. 77-B da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro (CTB), para incluir a publicidade via internet entre as modalidades de mídia obrigadas a veicular  mensagens educativas de trânsito.",
+      "dataApresentacao": "2009-12-17T10:21"
+    },
+    {
+      "id": 466341,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/466341",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6819,
+      "ano": 2010,
+      "ementa": "Altera a Lei nº 8.234, de 17 de setembro de 1991, para dispor sobre a jornada e condições de trabalho dos nutricionistas.",
+      "dataApresentacao": "2010-02-11T12:13"
+    },
+    {
+      "id": 466677,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/466677",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 554,
+      "ano": 2010,
+      "ementa": "Regulamenta o inciso II do § 4º do art. 40 da Constituição, que dispõe sobre a concessão de aposentadoria especial a servidores públicos que exerçam atividade de risco.",
+      "dataApresentacao": "2010-02-22T18:44"
+    },
+    {
+      "id": 467868,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/467868",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6892,
+      "ano": 2010,
+      "ementa": "Altera o art. 20 da Lei nº 8.742, de 07 de dezembro de 1993, que dispõe sobre a Organização da Assistência Social, e dá outras providências.",
+      "dataApresentacao": "2010-03-03T17:35"
+    },
+    {
+      "id": 481891,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/481891",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7536,
+      "ano": 2010,
+      "ementa": "Institui o Dia Nacional da Capoeira.",
+      "dataApresentacao": "2010-06-23T18:39"
+    },
+    {
+      "id": 484874,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/484874",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7774,
+      "ano": 2010,
+      "ementa": "Altera o caput e os §§ 2º e 3º do art. 20 da Lei nº 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social e dá outras providências, para alterar o conceito de pessoa com deficiência para efeito de concessão do benefício de prestação continuada.",
+      "dataApresentacao": "2010-08-17T18:29"
+    },
+    {
+      "id": 485251,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/485251",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 7801,
+      "ano": 2010,
+      "ementa": "Acrescenta art. 326-A à Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para reconhecer o Dia Mundial em Memória das Vítimas do Trânsito.",
+      "dataApresentacao": "2010-09-01T14:11"
+    },
+    {
+      "id": 491091,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/491091",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 125,
+      "ano": 2011,
+      "ementa": "Acrescenta § 1º-A ao art. 72 da Lei nº 8.213, de 24 de julho de 1991, para permitir que as micro e pequenas empresas possam se ressarcir do salário-maternidade pago às suas empregadas quando do recolhimento de qualquer tributo federal.",
+      "dataApresentacao": "2011-02-03T16:56"
+    },
+    {
+      "id": 491123,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/491123",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 132,
+      "ano": 2011,
+      "ementa": "Altera a Lei nº 9.503, de 1997, para estabelecer como diretriz na pavimentação de vias públicas o emprego de massa asfáltica produzida com borracha de pneus inservíveis.",
+      "dataApresentacao": "2011-02-03T17:48"
+    },
+    {
+      "id": 491247,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/491247",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 188,
+      "ano": 2011,
+      "ementa": "Dispõe sobre à adaptação de computadores em Lan Houses, Cyber Cafés, para utilização por pessoas portadoras de necessidades visuais e dá outras providencias.",
+      "dataApresentacao": "2011-02-08T15:34"
+    },
+    {
+      "id": 491696,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/491696",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 340,
+      "ano": 2011,
+      "ementa": "Acrescenta artigo ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940, que institui o Código Penal, para dispor sobre a confissão premiada.",
+      "dataApresentacao": "2011-02-09T17:48"
+    },
+    {
+      "id": 491707,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/491707",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 347,
+      "ano": 2011,
+      "ementa": "Altera dispositivos da Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências, para tratar dos casos de aplicação da medida de internação.",
+      "dataApresentacao": "2011-02-09T18:24"
+    },
+    {
+      "id": 491737,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/491737",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 353,
+      "ano": 2011,
+      "ementa": "Dispõe sobre as atividades dos caixas de supermercado.",
+      "dataApresentacao": "2011-02-09T19:00"
+    },
+    {
+      "id": 492267,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/492267",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 462,
+      "ano": 2011,
+      "ementa": "Institui a consignação em folha de pagamento de aluguéis residenciais.",
+      "dataApresentacao": "2011-02-16T20:35"
+    },
+    {
+      "id": 493308,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/493308",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 571,
+      "ano": 2011,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para autorizar o maior de 16 anos desde que emancipado, a obter habilitação de motorista.",
+      "dataApresentacao": "2011-02-23T18:03"
+    },
+    {
+      "id": 494243,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/494243",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 665,
+      "ano": 2011,
+      "ementa": "Dispõe sobre ao acesso gratuito dos portadores de hiperplasia benigna ou câncer de próstata aos medicamentos que necessitam.",
+      "dataApresentacao": "2011-03-03T15:59"
+    },
+    {
+      "id": 494802,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/494802",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 720,
+      "ano": 2011,
+      "ementa": "Dispõe sobre a vedação da chamada \"tarifa amarela\" na cobrança da tarifa de energia elétrica e dá outras providências.",
+      "dataApresentacao": "2011-03-16T16:10"
+    },
+    {
+      "id": 494816,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/494816",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 723,
+      "ano": 2011,
+      "ementa": "Acrescenta § 9º ao art. 20 da Lei nº 8.742, de 1993, para permitir a elevação do valor do benefício de prestação continuada para o idoso e a pessoa com deficiência que necessite de auxílio permanente de terceiros.",
+      "dataApresentacao": "2011-03-16T16:28"
+    },
+    {
+      "id": 495515,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/495515",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 777,
+      "ano": 2011,
+      "ementa": "Acrescenta art. 40-A à Lei nº 8.213, de 24 de julho de 1991, e § 9º ao art. 20 da Lei n  8.742, de 7 de dezembro de 1993, para dispor sobre acréscimo por idade na renda mensal do benefício de aposentadoria de valor mínimo do Regime Geral de Previdência Social e do benefício de prestação continuada da Assistência Social.",
+      "dataApresentacao": "2011-03-22T15:16"
+    },
+    {
+      "id": 495674,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/495674",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 798,
+      "ano": 2011,
+      "ementa": "Dispõe sobre a obrigatoriedade de serem subterrâneas as instalações de distribuição de energia elétrica, quando realizadas em ruas das cidades que tenham setores de valor histórico, reconhecidos por órgãos estatais, especialmente os tombados pelo Instituto do Patrimônio e Artístico Nacional - IPHAN.",
+      "dataApresentacao": "2011-03-22T18:56"
+    },
+    {
+      "id": 497025,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/497025",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 890,
+      "ano": 2011,
+      "ementa": "Altera o Art. 20 da Lei nº 8.742, de 07 de dezembro de 1993, para estender benefício ao responsável que comprove dedicação integral ao idoso e/ou ao portador de deficiência, beneficiado pela prestação continuada da assistência social.",
+      "dataApresentacao": "2011-04-05T17:20"
+    },
+    {
+      "id": 497966,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/497966",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 982,
+      "ano": 2011,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional - LDB, para valorizar e incentivar o desporto escolar.",
+      "dataApresentacao": "2011-04-12T16:13"
+    },
+    {
+      "id": 498429,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/498429",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1052,
+      "ano": 2011,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente - para ampliar o prazo de internação do adolescente infrator, estabelecer a possibilidade de aplicação de medidas de segurança, e dá outras providências.",
+      "dataApresentacao": "2011-04-13T16:58"
+    },
+    {
+      "id": 498619,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/498619",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1082,
+      "ano": 2011,
+      "ementa": "Altera os arts. 12, 23  e  24 da Lei nº 9.636, de 15 de maio de 1998, que Dispõe sobre a regularização, administração, aforamento e alienação de bens imóveis de domínio da União e dá outras providências.",
+      "dataApresentacao": "2011-04-14T15:45"
+    },
+    {
+      "id": 498988,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/498988",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1120,
+      "ano": 2011,
+      "ementa": "Altera o art. 280 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para determinar que a infração de trânsito não será comprovada por lombada eletrônica.",
+      "dataApresentacao": "2011-04-19T18:07"
+    },
+    {
+      "id": 499661,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/499661",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1171,
+      "ano": 2011,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro para dispor sobre a obrigatoriedade de utilização de novos equipamentos de proteção para motociclistas.",
+      "dataApresentacao": "2011-04-27T16:19"
+    },
+    {
+      "id": 502574,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/502574",
+      "siglaTipo": "PRC",
+      "codTipo": 444,
+      "numero": 53,
+      "ano": 2011,
+      "ementa": "Insere inciso VI ao art. 4º do Código de Ética e Decoro Parlamentar da Câmara dos Deputados para constituir como conduta incompatível com o decoro parlamentar a participação do Deputado em gerência ou administração de sociedade privada, personificada ou não personificada, a prestação de consultoria ou assessoria privada e o exercício do comércio, exceto na qualidade de acionista, cotista ou comanditário.",
+      "dataApresentacao": "2011-05-17T18:53"
+    },
+    {
+      "id": 502669,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/502669",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1384,
+      "ano": 2011,
+      "ementa": "Dispõe sobre critérios complementares para a execução da política de estoques públicos vinculados ao programa de garantia dos preços mínimos e dá outras providências.",
+      "dataApresentacao": "2011-05-18T14:10"
+    },
+    {
+      "id": 503872,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/503872",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1443,
+      "ano": 2011,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre isenção de cobrança de taxa relativa à inspeção de veículos de condução de escolares.",
+      "dataApresentacao": "2011-05-25T16:35"
+    },
+    {
+      "id": 509003,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/509003",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1589,
+      "ano": 2011,
+      "ementa": "Dispõe sobre o limite de tempo para o atendimento ao público nos serviços bancários prestados no interior das respectivas agências e dos demais estabelecimentos de crédito, e dá outras providências.",
+      "dataApresentacao": "2011-06-14T18:23"
+    },
+    {
+      "id": 509819,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/509819",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1637,
+      "ano": 2011,
+      "ementa": "Acrescenta art. 51-A à Lei nº 8.213, de 24 de julho de 1991, para dispor sobre o cômputo especial do tempo de contribuição dos garimpeiros empregados e contribuintes individuais para fins de aposentadoria por idade.",
+      "dataApresentacao": "2011-06-21T14:36"
+    },
+    {
+      "id": 510965,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/510965",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1748,
+      "ano": 2011,
+      "ementa": "Altera a Lei nº 7.064, de 6 de dezembro de 1982, para dispor sobre os trabalhadores contratados ou transferidos por seus empregadores para prestar serviços no exterior.",
+      "dataApresentacao": "2011-07-01T16:46"
+    },
+    {
+      "id": 513407,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/513407",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1894,
+      "ano": 2011,
+      "ementa": "Dá nova redação ao art. 96 da Lei nº 11.196, de 21 de novembro de 2005, para dispor sobre parcelamento de débitos previdenciários de responsabilidade dos Municípios apurados até 31 de dezembro de 2010.",
+      "dataApresentacao": "2011-08-02T17:50"
+    },
+    {
+      "id": 513426,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/513426",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1895,
+      "ano": 2011,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, e dá outras providências.",
+      "dataApresentacao": "2011-08-02T18:08"
+    },
+    {
+      "id": 513816,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/513816",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 80,
+      "ano": 2011,
+      "ementa": "Dispõe sobre a aposentadoria do agente de segurança prisional, nos termos do art. 40, § 4º, inciso II, da Constituição Federal, conforme redação da Emenda Constitucional, nº 47, de 5 de julho de 2005.",
+      "dataApresentacao": "2011-08-03T17:05"
+    },
+    {
+      "id": 515462,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/515462",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2013,
+      "ano": 2011,
+      "ementa": "Transforma cargos vagos da Carreira da Previdência, da Saúde e do Trabalho, no âmbito da Fundação Nacional de Saúde - FUNASA.",
+      "dataApresentacao": "2011-08-16T10:58"
+    },
+    {
+      "id": 515927,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/515927",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2045,
+      "ano": 2011,
+      "ementa": "Dispõe sobre a coleta e a destinação ambientalmente adequada de resíduos tecnológicos.",
+      "dataApresentacao": "2011-08-17T15:43"
+    },
+    {
+      "id": 516446,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/516446",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2067,
+      "ano": 2011,
+      "ementa": "Acrescenta § 5º ao art. 58 da Lei nº 8.213, de 24 de julho de 1991, para permitir que a massa falida ou a entidade sindical competente possa fornecer declaração que comprove a efetiva exposição do segurado a agentes nocivos à saúde, para fins de requerimento de aposentadoria especial, caso o empregador tenha sido declarado falido.",
+      "dataApresentacao": "2011-08-19T09:08"
+    },
+    {
+      "id": 519105,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/519105",
+      "siglaTipo": "INA",
+      "codTipo": 171,
+      "numero": 5,
+      "ano": 2011,
+      "ementa": "Indica o nome do Deputado Federal  Damião Feliciano para exercer o cargo de Ministro do Tribunal de Contas da União.",
+      "dataApresentacao": "2011-09-06T12:07"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=1"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=2&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    }
+  ]
+}

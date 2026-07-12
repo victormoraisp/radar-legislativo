@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2618859,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618859",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 648,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-28T12:29"
+    },
+    {
+      "id": 2618860,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618860",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 649,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-28T12:49"
+    },
+    {
+      "id": 2618861,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618861",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2022,
+      "ano": 2026,
+      "ementa": "Confere ao Município de Novo Hamburgo, no Estado do Rio Grande do Sul, o título de Capital Nacional do Punhobol.",
+      "dataApresentacao": "2026-04-28T13:14"
+    },
+    {
+      "id": 2618862,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618862",
+      "siglaTipo": "ERD",
+      "codTipo": 872,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS).",
+      "dataApresentacao": "2026-04-28T13:12"
+    },
+    {
+      "id": 2618863,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618863",
+      "siglaTipo": "EMC",
+      "codTipo": 130,
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "COMISSÃO DE DEFESA DO CONSUMIDOR \n\nPROJETO DE LEI Nº 734, de 2026\n\nDispõe sobre o tempo máximo de espera para atendimento presencial em instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, fixa parâmetros nacionais de proteção ao consumidor, estabelece mecanismos de controle e transparência, altera a Lei nº 8.078, de 11 de setembro de 1990 e dá outras providências.\n\nEMENDA ADITIVA",
+      "dataApresentacao": "2026-04-28T11:51"
+    },
+    {
+      "id": 2618864,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618864",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 650,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-28T13:19"
+    },
+    {
+      "id": 2618865,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618865",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 651,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-28T13:24"
+    },
+    {
+      "id": 2618866,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618866",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2023,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 132-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, e altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, para tipificar e agravar condutas relacionadas ao uso de linha chilena, cerol ou materiais cortantes em pipas e artefatos similares.",
+      "dataApresentacao": "2026-04-28T13:26"
+    },
+    {
+      "id": 2618867,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618867",
+      "siglaTipo": "REQ",
+      "codTipo": 310,
+      "numero": 2432,
+      "ano": 2026,
+      "ementa": "Requerimento de retirada de assinatura do Requerimento de Urgência nº 2391/2026",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618868,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618868",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 652,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-28T13:32"
+    },
+    {
+      "id": 2618869,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618869",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Nilto Tatto (PT-SP), pela aprovação deste, com substitutivo.",
+      "dataApresentacao": "2026-04-28T13:36"
+    },
+    {
+      "id": 2618870,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618870",
+      "siglaTipo": "REQ",
+      "codTipo": 319,
+      "numero": 2433,
+      "ano": 2026,
+      "ementa": "Requerimento de Retirada de ERD N01",
+      "dataApresentacao": "2026-04-28T13:36"
+    },
+    {
+      "id": 2618871,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618871",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 8346/2017",
+      "dataApresentacao": "2026-04-28T13:31"
+    },
+    {
+      "id": 2618872,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618872",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 23,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4322/2024",
+      "dataApresentacao": "2026-04-28T13:31"
+    },
+    {
+      "id": 2618873,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618873",
+      "siglaTipo": "RDF",
+      "codTipo": 197,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Redação Final ao PL 1024/2020",
+      "dataApresentacao": "2026-04-28T13:39"
+    },
+    {
+      "id": 2618874,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618874",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 28,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3244/2020",
+      "dataApresentacao": "2026-04-28T13:32"
+    },
+    {
+      "id": 2618875,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618875",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 6670/2025",
+      "dataApresentacao": "2026-04-28T13:34"
+    },
+    {
+      "id": 2618876,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618876",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1078/2022",
+      "dataApresentacao": "2026-04-28T13:32"
+    },
+    {
+      "id": 2618877,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618877",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 45,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3644/2020",
+      "dataApresentacao": "2026-04-28T13:32"
+    },
+    {
+      "id": 2618878,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618878",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 20,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1868/2021",
+      "dataApresentacao": "2026-04-28T13:32"
+    },
+    {
+      "id": 2618879,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618879",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 8346/2017",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618880,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618880",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 19,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1283/2024",
+      "dataApresentacao": "2026-04-28T13:32"
+    },
+    {
+      "id": 2618881,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618881",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 24,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4322/2024",
+      "dataApresentacao": "2026-04-28T13:34"
+    },
+    {
+      "id": 2618882,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618882",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 8346/2017",
+      "dataApresentacao": "2026-04-28T13:34"
+    },
+    {
+      "id": 2618883,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618883",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 5622/2023",
+      "dataApresentacao": "2026-04-28T13:40"
+    },
+    {
+      "id": 2618884,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618884",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PLP 262/2019",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618885,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618885",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 108/2024",
+      "dataApresentacao": "2026-04-28T13:34"
+    },
+    {
+      "id": 2618886,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618886",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 8346/2017-Requerimento de Retirada de Matéria da Pauta - PL 8346/2017",
+      "dataApresentacao": "2026-04-28T13:31"
+    },
+    {
+      "id": 2618887,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618887",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 25,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 4322/2024-Requerimento de Retirada de Matéria da Pauta - PL 4322/2024",
+      "dataApresentacao": "2026-04-28T13:31"
+    },
+    {
+      "id": 2618888,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618888",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 26,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 4322/2024",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618889,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618889",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 29,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3244/2020-Requerimento de Retirada de Matéria da Pauta - PL 3244/2020",
+      "dataApresentacao": "2026-04-28T13:32"
+    },
+    {
+      "id": 2618890,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618890",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1078/2022-Requerimento de Retirada de Matéria da Pauta - PL 1078/2022",
+      "dataApresentacao": "2026-04-28T13:32"
+    },
+    {
+      "id": 2618891,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618891",
+      "siglaTipo": "ERD",
+      "codTipo": 872,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS).",
+      "dataApresentacao": "2026-04-28T13:31"
+    },
+    {
+      "id": 2618892,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618892",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 46,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3644/2020-Requerimento de Retirada de Matéria da Pauta - PL 3644/2020",
+      "dataApresentacao": "2026-04-28T13:32"
+    },
+    {
+      "id": 2618893,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618893",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 4309/2023",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618894,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618894",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 21,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1868/2021-Requerimento de Retirada de Matéria da Pauta - PL 1868/2021",
+      "dataApresentacao": "2026-04-28T13:32"
+    },
+    {
+      "id": 2618895,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618895",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 4309/2023",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618896,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618896",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 653,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-28T13:42"
+    },
+    {
+      "id": 2618897,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618897",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 20,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1283/2024-Requerimento de Retirada de Matéria da Pauta - PL 1283/2024",
+      "dataApresentacao": "2026-04-28T13:32"
+    },
+    {
+      "id": 2618898,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618898",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 27,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 4322/2024-Requerimento de Retirada de Matéria da Pauta - PL 4322/2024",
+      "dataApresentacao": "2026-04-28T13:34"
+    },
+    {
+      "id": 2618899,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618899",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 8346/2017-Requerimento de Retirada de Matéria da Pauta - PL 8346/2017",
+      "dataApresentacao": "2026-04-28T13:34"
+    },
+    {
+      "id": 2618900,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618900",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 30,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 3244/2020",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618901,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618901",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 20,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 184/2021-Requerimento de Retirada de Matéria da Pauta - PL 184/2021",
+      "dataApresentacao": "2026-04-28T13:42"
+    },
+    {
+      "id": 2618902,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618902",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PLP 176/2025",
+      "dataApresentacao": "2026-04-28T13:34"
+    },
+    {
+      "id": 2618903,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618903",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 654,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-28T13:43"
+    },
+    {
+      "id": 2618904,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618904",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 6,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 8346/2017",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618905,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618905",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 28,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4322/2024",
+      "dataApresentacao": "2026-04-28T13:42"
+    },
+    {
+      "id": 2618906,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618906",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 7,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 8346/2017",
+      "dataApresentacao": "2026-04-28T13:42"
+    },
+    {
+      "id": 2618907,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618907",
+      "siglaTipo": "RPD",
+      "codTipo": 329,
+      "numero": 8,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - PL 8346/2017",
+      "dataApresentacao": "2026-04-28T13:31"
+    },
+    {
+      "id": 2618908,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618908",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 2657/2021",
+      "dataApresentacao": "2026-04-28T13:42"
+    },
+    {
+      "id": 2618909,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618909",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 21,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 5074/2016",
+      "dataApresentacao": "2026-04-28T13:42"
+    },
+    {
+      "id": 2618910,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618910",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 5695/2023",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618911,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618911",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 8,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 6207/2013",
+      "dataApresentacao": "2026-04-28T13:42"
+    },
+    {
+      "id": 2618912,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618912",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 9,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação - PL 8346/2017",
+      "dataApresentacao": "2026-04-28T13:31"
+    },
+    {
+      "id": 2618913,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618913",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 21,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 184/2021",
+      "dataApresentacao": "2026-04-28T13:42"
+    },
+    {
+      "id": 2618914,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618914",
+      "siglaTipo": "RPD",
+      "codTipo": 1042,
+      "numero": 10,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 8346/2017-Requerimento de Adiamento da Votação - PL 8346/2017",
+      "dataApresentacao": "2026-04-28T13:31"
+    },
+    {
+      "id": 2618915,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618915",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 22,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 5074/2016",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618916,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618916",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 31,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 3244/2020",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618917,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618917",
+      "siglaTipo": "RPD",
+      "codTipo": 1040,
+      "numero": 11,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 8346/2017-Requerimento de Adiamento da Discussão - PL 8346/2017",
+      "dataApresentacao": "2026-04-28T13:31"
+    },
+    {
+      "id": 2618918,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618918",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 5755/2013",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618919,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618919",
+      "siglaTipo": "RPD",
+      "codTipo": 332,
+      "numero": 12,
+      "ano": 0,
+      "ementa": "Requerimento de Votação Nominal - PL 8346/2017",
+      "dataApresentacao": "2026-04-28T13:31"
+    },
+    {
+      "id": 2618920,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618920",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 9,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 6207/2013",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618921,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618921",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 5755/2013",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618922,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618922",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 22,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 1868/2021",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618923,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618923",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 32,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 3244/2020",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618924,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618924",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 4309/2023",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618925,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618925",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 21,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 1283/2024",
+      "dataApresentacao": "2026-04-28T13:30"
+    },
+    {
+      "id": 2618926,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618926",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 13,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 8346/2017",
+      "dataApresentacao": "2026-04-28T13:34"
+    },
+    {
+      "id": 2618927,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618927",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 23,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta",
+      "dataApresentacao": "2026-04-28T13:34"
+    },
+    {
+      "id": 2618928,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618928",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 7,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PLP 18/2019",
+      "dataApresentacao": "2026-04-28T13:51"
+    },
+    {
+      "id": 2618929,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618929",
+      "siglaTipo": "PDL",
+      "codTipo": 550,
+      "numero": 269,
+      "ano": 2026,
+      "ementa": "Manifesta ao Poder Executivo a posição do Congresso Nacional pela declaração de Paolo Zampolli como persona non grata no Brasil, em razão de declarações ofensivas, misóginas e discriminatórias contra mulheres brasileiras.",
+      "dataApresentacao": "2026-04-28T13:10"
+    },
+    {
+      "id": 2618930,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618930",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 33,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta",
+      "dataApresentacao": "2026-04-28T13:35"
+    },
+    {
+      "id": 2618931,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618931",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 2657/2021",
+      "dataApresentacao": "2026-04-28T13:36"
+    },
+    {
+      "id": 2618932,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618932",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 1026,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministro de Estado da Justiça e Segurança Pública acerca das comunicações, tratativas, providências e fundamentos jurídicos relacionados à atuação da Polícia Federal e de órgãos do Governo Federal junto às autoridades dos Estados Unidos da América no caso envolvendo o ex-deputado Alexandre Ramagem.",
+      "dataApresentacao": "2026-04-28T13:54"
+    },
+    {
+      "id": 2618933,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618933",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 1078/2022",
+      "dataApresentacao": "2026-04-28T13:41"
+    },
+    {
+      "id": 2618934,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618934",
+      "siglaTipo": "DOC",
+      "codTipo": 1033,
+      "numero": 438,
+      "ano": 2026,
+      "ementa": "OFCN 68/2026, que comunica o término de prazo para edição de decreto legislativo referente à MPV 1319/2025.",
+      "dataApresentacao": "2026-04-28T13:41"
+    },
+    {
+      "id": 2618935,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618935",
+      "siglaTipo": "DOC",
+      "codTipo": 1033,
+      "numero": 439,
+      "ano": 2026,
+      "ementa": "OFCN 67/2026, que comunica o término de prazo para edição de decreto legislativo referente à MPV 1318/2025.",
+      "dataApresentacao": "2026-04-28T13:41"
+    },
+    {
+      "id": 2618936,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618936",
+      "siglaTipo": "DOC",
+      "codTipo": 1033,
+      "numero": 440,
+      "ano": 2026,
+      "ementa": "OFCN 66/2026, que comunica o término de prazo para edição de decreto legislativo referente à MPV 1317/2025.",
+      "dataApresentacao": "2026-04-28T13:41"
+    },
+    {
+      "id": 2618937,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618937",
+      "siglaTipo": "DOC",
+      "codTipo": 1033,
+      "numero": 441,
+      "ano": 2026,
+      "ementa": "OFCN 65/2026, que comunica o término de prazo para edição de decreto legislativo referente à MPV 1316/2025.",
+      "dataApresentacao": "2026-04-28T13:41"
+    },
+    {
+      "id": 2618938,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618938",
+      "siglaTipo": "DOC",
+      "codTipo": 1033,
+      "numero": 442,
+      "ano": 2026,
+      "ementa": "OFCN 64/2026, que comunica o término de prazo para edição de decreto legislativo referente à MPV 1315/2025.",
+      "dataApresentacao": "2026-04-28T13:41"
+    },
+    {
+      "id": 2618939,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618939",
+      "siglaTipo": "REQ",
+      "codTipo": 448,
+      "numero": 123,
+      "ano": 2026,
+      "ementa": "Requer, em aditamento ao REQ nº 94/2026 – CSAUDE, a inclusão de convidado em audiência pública",
+      "dataApresentacao": "2026-04-28T13:59"
+    },
+    {
+      "id": 2618940,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618940",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 14.260, de 8 de dezembro de 2021, para tornar permanentes os incentivos à indústria da reciclagem.",
+      "dataApresentacao": "2026-04-28T13:36"
+    },
+    {
+      "id": 2618941,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618941",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 655,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-28T14:01"
+    },
+    {
+      "id": 2618942,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618942",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 10098/2018",
+      "dataApresentacao": "2026-04-28T13:59"
+    },
+    {
+      "id": 2618943,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618943",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 47,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3644/2020",
+      "dataApresentacao": "2026-04-28T13:55"
+    },
+    {
+      "id": 2618944,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618944",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 7212/2025",
+      "dataApresentacao": "2026-04-28T14:00"
+    },
+    {
+      "id": 2618945,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618945",
+      "siglaTipo": "REQ",
+      "codTipo": 313,
+      "numero": 2434,
+      "ano": 2026,
+      "ementa": "Requer a coautoria do Projeto de Lei nº 86/2026, que “altera a Lei nº 12.850, de 2 de agosto de 2013, para majorar a pena do crime de organização criminosa em caso de atuação interestadual; e o Decreto Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal) para vedar o acordo de não persecução penal aos crimes praticados em contexto de organização criminosa, associação criminosa ou milícia privada.”",
+      "dataApresentacao": "2026-04-28T14:04"
+    },
+    {
+      "id": 2618946,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618946",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 48,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3644/2020-Requerimento de Retirada de Matéria da Pauta - PL 3644/2020",
+      "dataApresentacao": "2026-04-28T13:55"
+    },
+    {
+      "id": 2618947,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618947",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 8,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PLP 18/2019-Requerimento de Retirada de Matéria da Pauta - PLP 18/2019",
+      "dataApresentacao": "2026-04-28T13:51"
+    },
+    {
+      "id": 2618948,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618948",
+      "siglaTipo": "RPD",
+      "codTipo": 329,
+      "numero": 9,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - PLP 18/2019",
+      "dataApresentacao": "2026-04-28T13:56"
+    },
+    {
+      "id": 2618949,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618949",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 656,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-28T14:14"
+    },
+    {
+      "id": 2618950,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618950",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 5962/2025",
+      "dataApresentacao": "2026-04-28T14:14"
+    },
+    {
+      "id": 2618951,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618951",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 657,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-28T14:18"
+    },
+    {
+      "id": 2618952,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618952",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 24,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1868/2021",
+      "dataApresentacao": "2026-04-28T14:19"
+    },
+    {
+      "id": 2618953,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618953",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 22,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1283/2024",
+      "dataApresentacao": "2026-04-28T14:19"
+    },
+    {
+      "id": 2618954,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618954",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 5622/2023",
+      "dataApresentacao": "2026-04-28T14:19"
+    },
+    {
+      "id": 2618955,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618955",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 34,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3244/2020",
+      "dataApresentacao": "2026-04-28T14:19"
+    },
+    {
+      "id": 2618956,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618956",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1078/2022",
+      "dataApresentacao": "2026-04-28T14:19"
+    },
+    {
+      "id": 2618957,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618957",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Leonardo Monteiro (PT-MG), pela aprovação deste, com substitutivo.",
+      "dataApresentacao": "2026-04-27T18:02"
+    },
+    {
+      "id": 2618958,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2618958",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 23,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 5074/2016",
+      "dataApresentacao": "2026-04-28T14:19"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=143"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=144&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=142&itens=100"
+    }
+  ]
+}

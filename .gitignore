@@ -1,0 +1,16 @@
+# data/raw/
+# data/processed/
+# data/model/
+
+.env
+supabase
+supabase.*
+*.env
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+*.gsheet
+*.gdoc
+*.gslides

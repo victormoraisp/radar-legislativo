@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2302365,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302365",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3501,
+      "ano": 2021,
+      "ementa": "Altera a ementa e o art. 1º da Lei nº 13.086, de 2015, para converter o “Dia da Conquista do Voto Feminino” em “Dia do Voto Feminino e da Representatividade das Mulheres na Política”.",
+      "dataApresentacao": "2021-10-08T11:21"
+    },
+    {
+      "id": 2302415,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302415",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3504,
+      "ano": 2021,
+      "ementa": "Altera a Lei nº 10.406, de 10 de janeiro de 2002, para ampliar e promover o direito de liberdade de expressão em face da administração pública e de agentes públicos.",
+      "dataApresentacao": "2021-10-08T17:35"
+    },
+    {
+      "id": 2302757,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302757",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3529,
+      "ano": 2021,
+      "ementa": "Obriga as empresas que promovam espetáculos artístico-culturais e esportivos com recursos públicos a disponibilizarem espaço para a divulgação de projetos ou práticas sustentáveis.",
+      "dataApresentacao": "2021-10-14T11:01"
+    },
+    {
+      "id": 2302853,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302853",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3549,
+      "ano": 2021,
+      "ementa": "Estabelece a obrigatoriedade de os estabelecimentos de ensino, públicos ou privados, prestarem atendimento regular e emergencial aos alunos portadores de doenças crônicas",
+      "dataApresentacao": "2021-10-14T14:10"
+    },
+    {
+      "id": 2302856,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302856",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3552,
+      "ano": 2021,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito brasileiro, para obrigar os fabricantes de ciclomotores e motonetas de baixa cilindrada a registrar o número do chassi dos veículos na Base de Índice Nacional (BIN).",
+      "dataApresentacao": "2021-10-14T14:10"
+    },
+    {
+      "id": 2302857,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302857",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3553,
+      "ano": 2021,
+      "ementa": "Altera os arts. 57 e 175 da Lei nº 9.279, de 1996, incluindo o Instituto Nacional de Propriedade Industrial no pólo passivo da relação processual, quando o mesmo não for autor, na forma dos arts. 56 e 173 da mesma Lei.",
+      "dataApresentacao": "2021-10-14T14:10"
+    },
+    {
+      "id": 2302995,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302995",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3601,
+      "ano": 2021,
+      "ementa": "Dispõe sobre o prazo prescricional da pretensão do segurado contra o segurador, na hipótese de vícios estruturais de construção acobertados pelo seguro habitacional obrigatório.",
+      "dataApresentacao": "2021-10-14T18:22"
+    },
+    {
+      "id": 2303231,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303231",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3641,
+      "ano": 2021,
+      "ementa": "Estabelece medidas de proteção a crianças e adolescentes para a aquisição de livros e artigos literários.",
+      "dataApresentacao": "2021-10-18T16:19"
+    },
+    {
+      "id": 2303566,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303566",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3683,
+      "ano": 2021,
+      "ementa": "Estabelece que a Educação Física deve ser ministrada por professor habilitado em curso de licenciatura em Educação Física.",
+      "dataApresentacao": "2021-10-20T12:31"
+    },
+    {
+      "id": 2303621,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303621",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3692,
+      "ano": 2021,
+      "ementa": "Altera a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana, para tratar do serviço de transporte privado coletivo.",
+      "dataApresentacao": "2021-10-20T15:57"
+    },
+    {
+      "id": 2303630,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303630",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3694,
+      "ano": 2021,
+      "ementa": "Altera a legislação a respeito do instrumento urbanístico de arrecadação de imóveis abandonados",
+      "dataApresentacao": "2021-10-20T16:35"
+    },
+    {
+      "id": 2303863,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303863",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3703,
+      "ano": 2021,
+      "ementa": "Altera a Lei n° 12.842, de 10 de julho de 2013, que dispõe sobre o exercício da Medicina, para modificar as atividades privativas de médico, elencando a realização de exame oftalmológico, a formulação do respectivo diagnóstico, a indicação terapêutica e a prescrição de órteses e próteses oftalmológicas.",
+      "dataApresentacao": "2021-10-21T17:10"
+    },
+    {
+      "id": 2303967,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303967",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1539,
+      "ano": 2021,
+      "ementa": "Altera a Lei nº 12.187, de 29 de dezembro de 2009, que institui a Política Nacional sobre Mudança do Clima (PNMC), para estabelecer nova meta de compromisso nacional voluntário e seu depósito junto à Convenção-Quadro das Nações Unidas sobre Mudança do Clima.",
+      "dataApresentacao": "2021-10-22T16:46"
+    },
+    {
+      "id": 2304266,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2304266",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3742,
+      "ano": 2021,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, a fim de instituir a VAGA PREFERENCIAL, vaga de estacionamento destinada aos idosos, às gestantes e às pessoas com deficiência que as utilizarão respeitada a ordem de chegada, sem qualquer distinção entre os usuários.",
+      "dataApresentacao": "2021-10-26T16:17"
+    },
+    {
+      "id": 2304424,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2304424",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3768,
+      "ano": 2021,
+      "ementa": "Altera a Lei nº 8.629, de 25 de fevereiro de 1993, que \"Dispõe sobre a regulamentação dos dispositivos constitucionais relativos à reforma agrária, previstos no Capítulo III, Título VII, da Constituição Federal\".",
+      "dataApresentacao": "2021-10-27T10:50"
+    },
+    {
+      "id": 2305192,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305192",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3848,
+      "ano": 2021,
+      "ementa": "“Estabelece o Programa de qualificação profissional.”",
+      "dataApresentacao": "2021-11-03T09:48"
+    },
+    {
+      "id": 2305309,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305309",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3863,
+      "ano": 2021,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para obrigar o Poder Público a divulgar a existência do crime de importunação sexual.",
+      "dataApresentacao": "2021-11-03T15:59"
+    },
+    {
+      "id": 2305673,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305673",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 951,
+      "ano": 2021,
+      "ementa": "Aprova o ato que renova a autorização outorgada à Associação Comunitária de Granja para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Granja, Estado do Ceará.",
+      "dataApresentacao": "2021-11-04T14:55"
+    },
+    {
+      "id": 2305674,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305674",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 952,
+      "ano": 2021,
+      "ementa": "Aprova o ato que renova a autorização outorgada à Associação Civil para o Desenvolvimento da Barbalha - ACDB para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Barbalha, Estado do Ceará.",
+      "dataApresentacao": "2021-11-04T14:55"
+    },
+    {
+      "id": 2305682,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305682",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 958,
+      "ano": 2021,
+      "ementa": "Aprova o ato que renova a autorização outorgada à Associação Comunitária e Social de Água Branca para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Água Branca, Estado de Alagoas.",
+      "dataApresentacao": "2021-11-04T14:57"
+    },
+    {
+      "id": 2305732,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305732",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4691,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 6.259, de 30 de outubro de 1975, que “dispõe sobre a organização das ações de Vigilância Epidemiológica, sobre o Programa Nacional de Imunizações, estabelece normas relativas à notificação compulsória de doenças, e dá outras providências”, para tornar obrigatória a notificação de doenças raras.",
+      "dataApresentacao": "2021-11-04T16:33"
+    },
+    {
+      "id": 2305739,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305739",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4968,
+      "ano": 2020,
+      "ementa": "Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para determinar que as empresas disponibilizem a seus empregados informações sobre campanhas oficiais de vacinação, sobre o papilomavírus humano (HPV) e sobre os cânceres de mama, de colo do útero e de próstata.",
+      "dataApresentacao": "2021-11-04T16:36"
+    },
+    {
+      "id": 2306037,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306037",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3924,
+      "ano": 2021,
+      "ementa": "Institui-se que profissionais devidamente capacitados deverão orientar e treinar pais ou responsáveis de recém-nascidos para primeiros socorros em casos de emergência.",
+      "dataApresentacao": "2021-11-08T16:28"
+    },
+    {
+      "id": 2306038,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306038",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3925,
+      "ano": 2021,
+      "ementa": "Fica assegurada ao portador de Transtorno do Espectro Autista a realização de trabalho compatível com sua aptidão e qualificação",
+      "dataApresentacao": "2021-11-08T16:36"
+    },
+    {
+      "id": 2306089,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306089",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 6539,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 12.187, de 29 de dezembro de 2009, que institui a Política Nacional sobre Mudança do Clima (PNMC), para atualiza´-la ao contexto do Acordo de Paris e aos novos desafios relativos à mudança do clima.",
+      "dataApresentacao": "2021-11-08T18:41"
+    },
+    {
+      "id": 2306264,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306264",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3940,
+      "ano": 2021,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para disciplinar a punição de motoristas e de autoridades que contratam motoristas que não estejam devidamente habilitados para conduzir veículos de transporte coletivo de passageiros, de escolares, de emergência ou de produtos perigosos, gerando perigo de dano.",
+      "dataApresentacao": "2021-11-09T12:11"
+    },
+    {
+      "id": 2306352,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306352",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3945,
+      "ano": 2021,
+      "ementa": "Cria a Semana Nacional de Apoio à Amamentação Negra, a ser celebrada entre os dias 25 e 31 de agosto de cada ano.",
+      "dataApresentacao": "2021-11-09T14:29"
+    },
+    {
+      "id": 2306369,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306369",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3950,
+      "ano": 2021,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para incluir conteúdo sobre mudanças climáticas nos currículos da educação básica.",
+      "dataApresentacao": "2021-11-09T15:11"
+    },
+    {
+      "id": 2306405,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306405",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3952,
+      "ano": 2021,
+      "ementa": "Autoriza o Poder Executivo a nomear o Instituto Federal de Educacão, Ciência e Tecnologia do Rio de Janeiro como Instituto Federal de Educacão, Ciência e Tecnologia do Rio de Janeiro Deputado Federal Professor Simão Sessim.",
+      "dataApresentacao": "2021-11-09T16:19"
+    },
+    {
+      "id": 2306430,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306430",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3955,
+      "ano": 2021,
+      "ementa": "Institui o Dia Nacional de Combate ao Ódio e à Violência nas Redes Sociais.",
+      "dataApresentacao": "2021-11-09T16:46"
+    },
+    {
+      "id": 2306483,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306483",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3960,
+      "ano": 2021,
+      "ementa": "Altera a Lei que regulamenta as operações com recursos dos Fundos Constitucionais de Financiamento do Norte, do Nordeste e do Centro-Oeste para fixação de teto para a taxa de juros.",
+      "dataApresentacao": "2021-11-09T17:29"
+    },
+    {
+      "id": 2307268,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307268",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 1023,
+      "ano": 2021,
+      "ementa": "Aprova o ato que renova a autorização outorgada à Associação Cultural Santa Edviges para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Fortaleza, Estado do Ceará.",
+      "dataApresentacao": "2021-11-16T15:11"
+    },
+    {
+      "id": 2307287,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307287",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 1039,
+      "ano": 2021,
+      "ementa": "Aprova o ato que renova a autorização outorgada à Associação Comunitária Pró Cidadania e Cultura de Paracuru para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Paracuru, Estado do Ceará.",
+      "dataApresentacao": "2021-11-16T15:17"
+    },
+    {
+      "id": 2307356,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307356",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4033,
+      "ano": 2021,
+      "ementa": "Proíbe a importação de cosméticos, cigarros e produtos similares fabricados por empresas que realizem testes em animais.",
+      "dataApresentacao": "2021-11-16T18:55"
+    },
+    {
+      "id": 2307489,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307489",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4047,
+      "ano": 2021,
+      "ementa": "Tipifica a conduta de depredação a monumentos históricos e culturais como infração administrativa com imposição de multa, além do crime já capitulado no Código Penal.",
+      "dataApresentacao": "2021-11-17T13:56"
+    },
+    {
+      "id": 2307504,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307504",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4050,
+      "ano": 2021,
+      "ementa": "Dispõe sobre a criação de cotas obrigatórias de participação de negros em conselhos de administração de companhias abertas, de empresas estatais e de sociedades \tde economia mista e dá outras providências.",
+      "dataApresentacao": "2021-11-17T14:24"
+    },
+    {
+      "id": 2307518,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307518",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4052,
+      "ano": 2021,
+      "ementa": "Modifica a Lei nº 13.146, de 6 de julho de 2015, Estatuto da Pessoa com Deficiência, para assegurar a acessibilidade de jogos eletrônicos a pessoas com deficiência.",
+      "dataApresentacao": "2021-11-17T15:14"
+    },
+    {
+      "id": 2307547,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307547",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4058,
+      "ano": 2021,
+      "ementa": "\"Acresce o parágrafo único ao artigo 8º da lei 11.350, de 05 de outubro de 2006, para estabelecer que, no caso dos entes que adotarem o regime jurídico estatutário para seus Agentes Comunitários de Saúde e Agentes de Combate às Endemias, prevalecerá o regime remuneratório previsto na lei local, não incidindo as disposições contidas no art. 9º-A, e dá outras providências.\"",
+      "dataApresentacao": "2021-11-17T16:12"
+    },
+    {
+      "id": 2307721,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307721",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 1052,
+      "ano": 2021,
+      "ementa": "Aprova o ato que renova a autorização outorgada à Associação Comunitária São Pedro de Alcântara de Ubajara para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Ubajara, Estado do Ceará.",
+      "dataApresentacao": "2021-11-18T10:43"
+    },
+    {
+      "id": 2307725,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307725",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 1055,
+      "ano": 2021,
+      "ementa": "Aprova o ato que renova a autorização outorgada à Fundação Obra Assistencial para Integração Social da Comunidade para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de São Vicente, Estado do Rio Grande do Norte.",
+      "dataApresentacao": "2021-11-18T10:43"
+    },
+    {
+      "id": 2307734,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307734",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 1064,
+      "ano": 2021,
+      "ementa": "Aprova o ato que renova a autorização outorgada à Associação Comunitária de Apoio ao Esporte e à Cultura de Cedro-CE para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Cedro, Estado do Ceará.",
+      "dataApresentacao": "2021-11-18T10:45"
+    },
+    {
+      "id": 2307745,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307745",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4083,
+      "ano": 2021,
+      "ementa": "Altera o artigo 121 da Lei 8.069, de 13 de julho de 1990 para dispor sobre a internação nos casos de cometimento de ato infracional análogo à crime hediondo ou equiparado.",
+      "dataApresentacao": "2021-11-18T11:20"
+    },
+    {
+      "id": 2307796,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307796",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4091,
+      "ano": 2021,
+      "ementa": "Denomina \"PREFEITO JOSÉ DE OLIVEIRA\" o trecho da BR-419 entre os municípios de Rio Verde e Rio Negro, no Estado do Mato Grosso do Sul.",
+      "dataApresentacao": "2021-11-18T13:23"
+    },
+    {
+      "id": 2307876,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307876",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4103,
+      "ano": 2021,
+      "ementa": "Altera a Lei nº 11.788, de 25 de setembro de 2008, prevendo a reserva vaga de estágios para pessoas que se autodeclarem pretos ou partos.",
+      "dataApresentacao": "2021-11-18T18:48"
+    },
+    {
+      "id": 2307938,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307938",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4111,
+      "ano": 2021,
+      "ementa": "Altera a Lei nº 14.113, de 25 de dezembro de 2020, para permitir que, ao final de cada exercício financeiro, os saldos orçamentários remanescentes do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb), sejam utilizados para pagamento de abono salarial aos servidores em efetivo exercício no magistério da educação básica, e dá outras providências.",
+      "dataApresentacao": "2021-11-19T15:33"
+    },
+    {
+      "id": 2308020,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2308020",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4123,
+      "ano": 2021,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro) para tipificar a conduta de empreender fuga em veículo automotor, ignorando ordem de autoridade competente de trânsito ou de seus agentes.",
+      "dataApresentacao": "2021-11-22T15:32"
+    },
+    {
+      "id": 2308663,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2308663",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4156,
+      "ano": 2021,
+      "ementa": "Altera o art. 12 da Lei nº 11.947, de 16 de junho de 2009, para instituir a obrigatoriedade da oferta diária de lanche para estudantes matriculados nas escolas da rede pública de ensino.",
+      "dataApresentacao": "2021-11-24T13:31"
+    },
+    {
+      "id": 2308863,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2308863",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4177,
+      "ano": 2021,
+      "ementa": "Cria a campanha permanente de conscientização, orientação, prevenção e tratamento da doença falciforme.",
+      "dataApresentacao": "2021-11-25T11:49"
+    },
+    {
+      "id": 2308922,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2308922",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4180,
+      "ano": 2021,
+      "ementa": "Estabelece a proibição de propaganda ou publicidade em todos os veículos de comunicação da comercialização de qualquer arma de fogo.",
+      "dataApresentacao": "2021-11-25T14:03"
+    },
+    {
+      "id": 2309448,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2309448",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4211,
+      "ano": 2021,
+      "ementa": "Projeto de Lei que altera a Lei nº 12.651, de 25 de maio de 2012 (Código Florestal), para obrigar ao reflorestamento de área igual à inundada por reservatórios de usinas hidrelétricas situadas na Amazônia Legal.",
+      "dataApresentacao": "2021-11-30T14:10"
+    },
+    {
+      "id": 2309586,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2309586",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4216,
+      "ano": 2021,
+      "ementa": "Institui diretrizes para a produção de moradia por autogestão, cria o Programa Nacional de Moradia por Autogestão e dá outras providências.",
+      "dataApresentacao": "2021-11-30T16:29"
+    },
+    {
+      "id": 2309814,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2309814",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4231,
+      "ano": 2021,
+      "ementa": "Dispõe sobre a garantia da consulta/atendimento com médico especialista em até 180 dias da suspeita dos sinais e sintomas da Esclerose Múltipla, bem como sobre a garantia do inicio do tratamento medicamentoso, em até 60 (sessenta) dias após confirmação do diagnóstico de Esclerose Múltipla, na Rede Pública de Saúde e dá outras providências.",
+      "dataApresentacao": "2021-12-01T13:35"
+    },
+    {
+      "id": 2310019,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2310019",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4726,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 11.051, de 29 de dezembro de 2004, para excluir da base de cálculo da Contribuição para o PIS/Pasep e da Cofins os valores repassados pelas sociedades cooperativas de prestação de serviços de representação comercial aos cooperados pessoas físicas referentes a serviços por eles prestados em nome da cooperativa.",
+      "dataApresentacao": "2021-12-01T20:19"
+    },
+    {
+      "id": 2310103,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2310103",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4257,
+      "ano": 2021,
+      "ementa": "Torna obrigatória a inspeção das bagagens despachadas em voos domésticos.",
+      "dataApresentacao": "2021-12-02T10:34"
+    },
+    {
+      "id": 2310215,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2310215",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4265,
+      "ano": 2021,
+      "ementa": "Torna obrigatória a oferta de alimentação escolar duas vezes ao dia aos alunos da educação básica e pública.",
+      "dataApresentacao": "2021-12-02T15:40"
+    },
+    {
+      "id": 2310279,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2310279",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 204,
+      "ano": 2021,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para estabelecer novos limites de enquadramento como Microempreendedor Individual (MEI), como Microempresa (ME) e como Empresa de Pequeno Porte (EPP) no Simples Nacional e estabelece novas faixas de receita bruta para efeito de determinação das alíquotas dos tributos devidos na forma deste Regime Especial.",
+      "dataApresentacao": "2021-12-03T10:53"
+    },
+    {
+      "id": 2310351,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2310351",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4283,
+      "ano": 2021,
+      "ementa": "Acrescenta parágrafo ao artigo 565 Código Civil brasileiro – Lei 10.406, de 10 de janeiro de 2002, para dispor sobre a locação de imóveis rurais para empreendimentos voltados à geração de energia elétrica.",
+      "dataApresentacao": "2021-12-03T16:48"
+    },
+    {
+      "id": 2310359,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2310359",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4289,
+      "ano": 2021,
+      "ementa": "Altera o § 2º do art. 1.793 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, tornando permitida a cessão pelo co-herdeiro, de seu direito hereditário sobre qualquer bem da herança considerado singularmente, mediante escritura pública de promessa de compra e venda sob condição.",
+      "dataApresentacao": "2021-12-03T16:48"
+    },
+    {
+      "id": 2310820,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2310820",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4329,
+      "ano": 2021,
+      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, para restringir o uso de cigarros eletrônicos e narguilés em recintos coletivos fechados.",
+      "dataApresentacao": "2021-12-07T16:34"
+    },
+    {
+      "id": 2311241,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311241",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4343,
+      "ano": 2021,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para autorizar a criação de Centros de Medicinas Integrativas e Complementares (CMIC).",
+      "dataApresentacao": "2021-12-08T10:34"
+    },
+    {
+      "id": 2311357,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311357",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4357,
+      "ano": 2021,
+      "ementa": "Altera o Marco Civil da Internet, Lei nº 12.965, de 23 de abril de 2014, para dispor sobre transparência na remuneração de usuários por provedores de aplicações de internet.",
+      "dataApresentacao": "2021-12-08T15:53"
+    },
+    {
+      "id": 2311361,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311361",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4358,
+      "ano": 2021,
+      "ementa": "“Dispõe sobre a destinação das penalidades a serem aplicadas à prática de discriminação em razão de atos de preconceito racial.”",
+      "dataApresentacao": "2021-12-08T15:57"
+    },
+    {
+      "id": 2311683,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311683",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4375,
+      "ano": 2021,
+      "ementa": "Prevê a guarda compartilhada de animais de estimação e dá outras providências.",
+      "dataApresentacao": "2021-12-09T12:58"
+    },
+    {
+      "id": 2311870,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311870",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4385,
+      "ano": 2021,
+      "ementa": "Altera o art. 45-A da Lei nº 8.212 e o art. 96 da Lei nº 8.213, ambas de 24 de julho de 1991, para dispensar do pagamento de multa para contagem recíproca de tempo de serviço o segurado que tenha exercido atividade dispensada do registro previdenciário obrigatório.",
+      "dataApresentacao": "2021-12-10T15:53"
+    },
+    {
+      "id": 2312133,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2312133",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4408,
+      "ano": 2021,
+      "ementa": "Altera a Lei nº 8.629, de 25 de fevereiro de 1993, que “Dispõe sobre a regulamentação dos dispositivos constitucionais relativos à reforma agrária, previstos no Capítulo III, Título VII, da Constituição Federal”.",
+      "dataApresentacao": "2021-12-13T21:23"
+    },
+    {
+      "id": 2312384,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2312384",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4420,
+      "ano": 2021,
+      "ementa": "Altera o inciso X do art. 833 da Lei n° 13.105, de 16 de março de 2015- Código de Processo Civil, nos termos em que especifica.",
+      "dataApresentacao": "2021-12-14T16:26"
+    },
+    {
+      "id": 2312412,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2312412",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4433,
+      "ano": 2021,
+      "ementa": "Institui, no âmbito da administração\npública proibição de\ndespedida/exoneração imotivadas,\nsem justa causa e sem previsão em\nAcordo Coletivo, de servidores e\nempregados públicos concursados.",
+      "dataApresentacao": "2021-12-14T17:31"
+    },
+    {
+      "id": 2312630,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2312630",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 210,
+      "ano": 2021,
+      "ementa": "Altera o art. 18-A da Lei Complementar nº 123, de 14 de dezembro de 2006, de maneira a estabelecer que os profissionais liberais possam ser inscritos como microempreendedores individuais e que o limite de receita bruta anual auferida aplicável a esses microempreendedores seja, doravante, atualizado pela variação do Índice Nacional de Preços ao Consumidor Amplo – IPCA.",
+      "dataApresentacao": "2021-12-15T15:52"
+    },
+    {
+      "id": 2312916,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2312916",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4489,
+      "ano": 2021,
+      "ementa": "Institui o Programa “Vale Transporte Social”.",
+      "dataApresentacao": "2021-12-16T11:58"
+    },
+    {
+      "id": 2313015,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313015",
+      "siglaTipo": "PRC",
+      "codTipo": 444,
+      "numero": 84,
+      "ano": 2021,
+      "ementa": "Acrescenta o Capítulo V ao Título VIII do Regimento Interno da Câmara dos Deputados para dispor sobre as frentes parlamentares.",
+      "dataApresentacao": "2021-12-16T16:49"
+    },
+    {
+      "id": 2313294,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313294",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4552,
+      "ano": 2021,
+      "ementa": "Altera a Lei nº. 9.294, de 15 de julho de 1996, que dispõe sobre as restrições ao uso e à propaganda de produtos fumígenos, bebidas alcoólicas, medicamentos, terapias e defensivos agrícolas, nos termos do § 4° do art. 220 da Constituição Federal, a fim de incluir os cigarros eletrônicos e equipamentos assemelhados no rol de produtos de uso proibido em recinto coletivo fechado, privado ou público.",
+      "dataApresentacao": "2021-12-20T10:43"
+    },
+    {
+      "id": 2313402,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313402",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4578,
+      "ano": 2021,
+      "ementa": "Isenta do pagamento de taxas ou emolumentos pela emissão de passaportes e demais documentos de viagem, no território nacional, estudantes brasileiros de baixa renda comprovadamente aceitos em programas de ensino, pesquisa ou extensão no exterior.",
+      "dataApresentacao": "2021-12-20T18:49"
+    },
+    {
+      "id": 2313425,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313425",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4582,
+      "ano": 2021,
+      "ementa": "Declara a Charanga do Flamengo, primeira torcida organizada e orquestrada do Brasil, como Patrimônio Cultural Imaterial Brasileiro.",
+      "dataApresentacao": "2021-12-21T14:34"
+    },
+    {
+      "id": 2313436,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313436",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 1141,
+      "ano": 2021,
+      "ementa": "Aprova o ato que renova a autorização outorgada à Associação Comunitária de Moradores da Boa Vista para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Olho D'Água das Flores, Estado de Alagoas.",
+      "dataApresentacao": "2021-12-21T15:30"
+    },
+    {
+      "id": 2313453,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313453",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4586,
+      "ano": 2021,
+      "ementa": "Denomina \"Ponte Honestino Guimarães\" a ponte que liga a Estrada Parque Dom Bosco na altura da QL 10 da Região Administrativa do Lago Sul à via L4 Sul na altura do Trecho 1 do Setor de Clubes Esportivos Sul, em Brasília, Distrito Federal.",
+      "dataApresentacao": "2021-12-21T16:40"
+    },
+    {
+      "id": 2313477,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313477",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4588,
+      "ano": 2021,
+      "ementa": "Dispõe sobre a Política Nacional de Proteção ao Produtor Rural e dá outras providências.",
+      "dataApresentacao": "2021-12-21T18:15"
+    },
+    {
+      "id": 2313526,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313526",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4601,
+      "ano": 2021,
+      "ementa": "Altera o art. 833 do Código de Processo Civil, Lei n° 13.105, de 2015, para estabelecer a impenhorabilidade de benefícios assistenciais recebidos pelo devedor.",
+      "dataApresentacao": "2021-12-22T11:35"
+    },
+    {
+      "id": 2313792,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313792",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 13,
+      "ano": 2022,
+      "ementa": "Determina às empresas de transporte de passageiros a implantação de rastreamento no transporte de PETs – animais de estimação  NOVA EMENTA: Dispõe sobre o transporte aéreo de animais de estimação em voos domésticos.",
+      "dataApresentacao": "2022-02-02T16:12"
+    },
+    {
+      "id": 2313809,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313809",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 28,
+      "ano": 2022,
+      "ementa": "Dispõe sobre o fornecimento de\nalimentação escolar aos\nprofessores e demais\nprofissionais da educação, em\nefetivo exercício nas escolas\npúblicas estaduais e municipais.",
+      "dataApresentacao": "2022-02-02T16:14"
+    },
+    {
+      "id": 2313810,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313810",
+      "siglaTipo": "PDL",
+      "codTipo": 557,
+      "numero": 4,
+      "ano": 2022,
+      "ementa": "Susta os efeitos do Decreto 10.935, de 12 de janeiro de 2022, do Poder Executivo, que dispõe sobre a proteção das cavidades naturais subterrâneas existentes no território nacional.",
+      "dataApresentacao": "2022-02-02T16:18"
+    },
+    {
+      "id": 2313819,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313819",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 32,
+      "ano": 2022,
+      "ementa": "Fica expressamente proibida a edição de qualquer legislação que tenha por objetivo a destruição, exploração e uso inadequado das cavidades subterrâneas no Brasil e dá outras providencias.",
+      "dataApresentacao": "2022-02-02T16:14"
+    },
+    {
+      "id": 2313821,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313821",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 34,
+      "ano": 2022,
+      "ementa": "Institui o passaporte vacinal de imunização contra a Covid para todos os alunos da rede pública ou privada de ensino, seja em escolas, faculdades ou universidades.",
+      "dataApresentacao": "2022-02-02T16:14"
+    },
+    {
+      "id": 2313831,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313831",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 43,
+      "ano": 2022,
+      "ementa": "Dispõe sobre a obrigatoriedade dos condomínios edilícios disponibilizarem por apartamento, um sistema eletrônico, via interfone ou aparelho similar, um botão de alarme para acionar a portaria do prédio, em casos de ocorrência de violência doméstica contra mulheres, crianças, adolescentes, idosos ou pessoas com deficiência.",
+      "dataApresentacao": "2022-02-02T16:15"
+    },
+    {
+      "id": 2313837,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313837",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 48,
+      "ano": 2022,
+      "ementa": "Altera o § 3º do artigo 26 da Lei 9.394 de 20 de dezembro de 1996, para fazer inserir a prática de judô nas aulas de Educação Física no currículo escolar e dá outras providências.",
+      "dataApresentacao": "2022-02-02T16:15"
+    },
+    {
+      "id": 2313848,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313848",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 59,
+      "ano": 2022,
+      "ementa": "Cria o Programa Dinheiro Direto na Escola para promoção da sustentabilidade (PDDE Sustentável).",
+      "dataApresentacao": "2022-02-02T16:18"
+    },
+    {
+      "id": 2313856,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313856",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 68,
+      "ano": 2022,
+      "ementa": "Veda a realização de atividades comerciais, turísticas, desportivas ou recreativas em áreas de risco de desastre, alterando a Lei nº 12.608, de 10 de abril de 2012, a Lei nº 12.340, de 1o de dezembro de 2010, a Lei nº 12.651, de 25 de maio de 2012 (Código Florestal), Lei nº 9.605, de 12 de fevereiro de 1998 e o Decreto-Lei no 2.848, de 7 de dezembro de 1940 (Código Penal).",
+      "dataApresentacao": "2022-02-02T16:28"
+    },
+    {
+      "id": 2313874,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313874",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 76,
+      "ano": 2022,
+      "ementa": "Altera a Lei n.º 13.180, de 22 de outubro de 2015, acrescentando parágrafo único ao art. 2º, para instituir o conceito de renda complementar para o artesão aposentado por invalidez ou que tenha o Benefício da Prestação Continuada-BPC.",
+      "dataApresentacao": "2022-02-02T17:03"
+    },
+    {
+      "id": 2313934,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313934",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 101,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 12.244, de 24 de maio de 2010, para assegurar a existência de acervo de livros nas salas de aula da pré-escola e dos anos iniciais do ensino fundamental.",
+      "dataApresentacao": "2022-02-02T18:38"
+    },
+    {
+      "id": 2313939,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313939",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 103,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 10.048, de 8 de novembro de 2000 que dá prioridade de atendimento às pessoas que específica, para incluir as pessoas que são portadores de diabete.",
+      "dataApresentacao": "2022-02-02T18:43"
+    },
+    {
+      "id": 2313953,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313953",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 109,
+      "ano": 2022,
+      "ementa": "Cria a Rota Turística da Quarta Colônia.",
+      "dataApresentacao": "2022-02-02T19:08"
+    },
+    {
+      "id": 2314144,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314144",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 160,
+      "ano": 2022,
+      "ementa": "Dispõe sobre a criação do Conselho Nacional Federal dos Agentes Técnicos Comunitários de Saúde do Brasil (CONFATCS/BR) e os Conselhos Regionais de Agentes Técnicos Comunitários de Saúde (CORATCS), e dá outras providências.",
+      "dataApresentacao": "2022-02-07T16:08"
+    },
+    {
+      "id": 2314400,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314400",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 221,
+      "ano": 2022,
+      "ementa": "Institui e amplia a Rede de Cuidados à Pessoa com Deficiência, por meio da criação, ampliação e articulação de pontos de atenção à saúde para pessoas com deficiência temporária ou permanente, progressiva, regressiva, ou estável, intermitente ou contínua, no âmbito do Sistema Único de Saúde - SUS. Institui e fomenta a área de pesquisa e desenvolvimento de novas tecnologias no âmbito dos Centros Especializados em Reabilitação (CER) e das Oficinas Ortopédicas. Fomenta a ampliação da oferta de Órteses, Próteses e Meios Auxiliares de Locomoção (OPMEs) no âmbito do SUS, por meio de apoio financeiro ao custeio incentivado por programa de renúncia fiscal à pessoa jurídica de direito privado, aos Estabelecimentos de Saúde do SUS, utilizando-se como referência a Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS e dá outras providências.",
+      "dataApresentacao": "2022-02-10T17:05"
+    },
+    {
+      "id": 2314500,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314500",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 240,
+      "ano": 2022,
+      "ementa": "Dispõe sobre a discriminação à criança e ao adolescente com deficiência ou qualquer doença crônica nos estabelecimentos de ensino, creches, órgãos públicos e locais públicos, bem como em qualquer lugar público ou privado.",
+      "dataApresentacao": "2022-02-14T14:28"
+    },
+    {
+      "id": 2314530,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314530",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 260,
+      "ano": 2022,
+      "ementa": "Acrescenta os parágrafos 6º, 7º, 8º, 9º, 10, 11, 12, 13 e 14 ao art. 29 da Lei nº 11.445, de 5 de janeiro de 2007, que estabelece as diretrizes nacionais para o saneamento básico, para incentivar investimentos em projetos e obras de captação, exploração e aproveitamento de recursos hídricos subterrâneos disponíveis, através de poços artesianos em Condomínios, mediante implementação dos respectivos Sistemas de Solução Alternativa de Abastecimento de Água para Consumo Humano e instituição do Programa de desburocratização nos protocolos de avaliação, de estudo preliminar, de concessão de licenças e autorizações prévias para perfuração do solo e da respectiva outorga, pelos órgãos, departamentos e agências públicas responsáveis nos âmbitos Municipais, Estaduais e Federal de governo. Dispõe sobre a responsabilidade individual do condômino por dívida decorrente do consumo individualizado de água nas unidades imobiliárias autônomas das edificações condominiais no caso de inadimplência, e das obrigações das empresas concessionárias fornecedoras do serviço público de água de atendimento a requerimento de Condomínios quanto à suspensão e reestabelecimento individual de fornecimento de água encanada nas hipóteses que especifica.",
+      "dataApresentacao": "2022-02-14T17:08"
+    },
+    {
+      "id": 2314571,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314571",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 272,
+      "ano": 2022,
+      "ementa": "Cria a Política Nacional de Incentivo à Implantação de Parques Tecnológicos Agregando Centros de Escalonamento Tecnológico (CET).",
+      "dataApresentacao": "2022-02-15T13:15"
+    },
+    {
+      "id": 2314572,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314572",
+      "siglaTipo": "PDL",
+      "codTipo": 557,
+      "numero": 34,
+      "ano": 2022,
+      "ementa": "Susta os efeitos do Decreto nº 10.966 e do Decreto nº 10.965, de 11 de fevereiro de 2022.",
+      "dataApresentacao": "2022-02-15T13:22"
+    },
+    {
+      "id": 2314825,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314825",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 311,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 12.651, de 25 de maio de 2012, para estabelecer a aplicação desta lei ao bioma Mata Atlântica em todo o território nacional.",
+      "dataApresentacao": "2022-02-17T17:29"
+    },
+    {
+      "id": 2314848,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314848",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 317,
+      "ano": 2022,
+      "ementa": "Dá nova redação à alínea “a” do inciso “I” do art. 24-A e ao parágrafo único do art. 24-G, ambos do Decreto-Lei nº 667, de 02 de julho de 1969.",
+      "dataApresentacao": "2022-02-18T15:55"
+    },
+    {
+      "id": 2314958,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314958",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 340,
+      "ano": 2022,
+      "ementa": "Dispõe sobre a organização de seção de bibliotecas públicas mantidas pelo Estado e pelas universidades federais que seja especializada para uso dos cegos e das pessoas com grave deficiência visual, e dá outras providências.",
+      "dataApresentacao": "2022-02-22T12:04"
+    },
+    {
+      "id": 2315066,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2315066",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4392,
+      "ano": 2021,
+      "ementa": "Institui o Programa Nacional de Assistência à Mobilidade dos Idosos em Áreas Urbanas (Pnami) e dá outras providências.",
+      "dataApresentacao": "2022-02-22T20:22"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=11"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=12&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=10&itens=100"
+    }
+  ]
+}

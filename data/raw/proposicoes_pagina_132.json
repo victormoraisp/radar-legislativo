@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2617741,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617741",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2201,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 2º SGT BM Diego Santana da Silva Nascimento pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-22T17:40"
+    },
+    {
+      "id": 2617742,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617742",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 585,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T17:07"
+    },
+    {
+      "id": 2617743,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617743",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 586,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T17:26"
+    },
+    {
+      "id": 2617745,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617745",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Prof. Reginaldo Veras (PV-DF), pela aprovação deste, com substitutivo.",
+      "dataApresentacao": "2026-04-22T15:11"
+    },
+    {
+      "id": 2617746,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617746",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade de realização de visitas regulares ao dentista como requisito para a manutenção e concessão de benefícios sociais, cria a Caderneta Odontológica, estabelece exigência para matrícula escolar e dá outras providências.",
+      "dataApresentacao": "2026-04-22T15:11"
+    },
+    {
+      "id": 2617747,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617747",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2202,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 2º SGT BM Marcilio Henrique Huguenin Marques pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-22T17:43"
+    },
+    {
+      "id": 2617748,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617748",
+      "siglaTipo": "EMP",
+      "codTipo": 870,
+      "numero": 11,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "dataApresentacao": "2026-04-22T17:44"
+    },
+    {
+      "id": 2617749,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617749",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Socorro Neri (PP-AC), pela aprovação deste e do PL 5564/2025, do PL 6362/2025 e do PL 554/2026, apensados, com substitutivo.",
+      "dataApresentacao": "2026-04-22T17:04"
+    },
+    {
+      "id": 2617750,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617750",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a dispensa do uso obrigatório de uniforme escolar para estudantes com Transtorno do Espectro Autista (TEA), considerando suas sensibilidades sensoriais e necessidades específicas, e dá outras providências.",
+      "dataApresentacao": "2026-04-22T17:04"
+    },
+    {
+      "id": 2617751,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617751",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2203,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 2º SGT BM Leandro Costa dos Santos Silva pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-22T17:45"
+    },
+    {
+      "id": 2617752,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617752",
+      "siglaTipo": "REQ",
+      "codTipo": 293,
+      "numero": 2204,
+      "ano": 2026,
+      "ementa": "Requer a realização de Sessão Solene em homenagem in memoriam às vítimas do acidente aéreo da Associação Chapecoense de Futebol e em celebração à vida e superação dos sobreviventes brasileiros, no marco de dez anos da tragédia.",
+      "dataApresentacao": "2026-04-22T17:45"
+    },
+    {
+      "id": 2617753,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617753",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2205,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 2º SGT BM Victor Hugo Senra Salgado pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-22T17:47"
+    },
+    {
+      "id": 2617754,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617754",
+      "siglaTipo": "REQ",
+      "codTipo": 318,
+      "numero": 2206,
+      "ano": 2026,
+      "ementa": "Requer a inclusão na Ordem do Dia do PLP 185/2024, que “Regulamenta a aposentadoria especial dos agentes comunitários de saúde e dos agentes de combate às endemias, prevista no § 10 do art. 198 da Constituição Federal”. .",
+      "dataApresentacao": "2026-04-22T17:47"
+    },
+    {
+      "id": 2617755,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617755",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2207,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 2º SGT BM Leandro Toledo da Silva pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-22T17:49"
+    },
+    {
+      "id": 2617756,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617756",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2208,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 2º SGT BM Eduardo de Macedo Rodrigues pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-22T17:51"
+    },
+    {
+      "id": 2617757,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617757",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 587,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T17:39"
+    },
+    {
+      "id": 2617758,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617758",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2209,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 2º SGT BM Mauricio Soares da Silva pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-22T17:58"
+    },
+    {
+      "id": 2617759,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617759",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 588,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T17:45"
+    },
+    {
+      "id": 2617760,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617760",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CE) ao PL 1780/2024",
+      "dataApresentacao": "2026-04-22T18:00"
+    },
+    {
+      "id": 2617761,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617761",
+      "siglaTipo": "SBE-A",
+      "codTipo": 703,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Subemenda Adotada pela Comissão ao PL 1780/2024",
+      "dataApresentacao": "2026-04-22T18:00"
+    },
+    {
+      "id": 2617762,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617762",
+      "siglaTipo": "SBE-A",
+      "codTipo": 703,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Subemenda Adotada pela Comissão ao PL 1780/2024",
+      "dataApresentacao": "2026-04-22T18:00"
+    },
+    {
+      "id": 2617763,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617763",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1932,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605/1998 para dispor sobre a comunicação obrigatória de indícios de maus-tratos a animais e estabelecer penalidades.",
+      "dataApresentacao": "2026-04-22T18:04"
+    },
+    {
+      "id": 2617764,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617764",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1933,
+      "ano": 2026,
+      "ementa": "Altera o art. 4º da Lei nº 6.932, de 07 de julho de 1981, e o art. 13 da Lei nº 11.129, de 30 de junho de 2005, para alterar o valor da bolsa do médico-residente.",
+      "dataApresentacao": "2026-04-22T18:06"
+    },
+    {
+      "id": 2617765,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617765",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2210,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 2º SGT BM Felipe Abraham Marcos pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-22T18:17"
+    },
+    {
+      "id": 2617766,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617766",
+      "siglaTipo": "REQ",
+      "codTipo": 392,
+      "numero": 2211,
+      "ano": 2026,
+      "ementa": "Requer, nos termos do artigo 155 do Regimento Interno da Câmara dos Deputados, que seja incluído automaticamente na Ordem do Dia o PL 2480/2025, que “Reconhece Nacionalmente a Profissão de Vigilante e Agente de Segurança Privada como atividade de risco para fins de aquisição de produtos e equipamentos destinados à sua própria segurança e defesa pessoal e dá outras providências”.",
+      "dataApresentacao": "2026-04-22T18:18"
+    },
+    {
+      "id": 2617767,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617767",
+      "siglaTipo": "REQ",
+      "codTipo": 392,
+      "numero": 2212,
+      "ano": 2026,
+      "ementa": "Requer Urgência para o Projeto de Lei 6.819/2010, que altera a Lei nº 8.234, de 17 de setembro de 1991, para dispor sobre a jornada e condições de trabalho dos nutricionistas.",
+      "dataApresentacao": "2026-04-22T18:22"
+    },
+    {
+      "id": 2617768,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617768",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2213,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 2º SGT BM Marcus Vinicius Silveira Fernandes pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-22T18:22"
+    },
+    {
+      "id": 2617769,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617769",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2214,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 2º SGT BM Ildemir Souza de Carvalho pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-22T18:25"
+    },
+    {
+      "id": 2617770,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617770",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2215,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 2º SGT BM Leonardo Jandre Emilião pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-22T18:27"
+    },
+    {
+      "id": 2617771,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617771",
+      "siglaTipo": "EMP",
+      "codTipo": 870,
+      "numero": 12,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "dataApresentacao": "2026-04-22T18:32"
+    },
+    {
+      "id": 2617772,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617772",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2216,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 2º SGT BM Afonso Henrique Braga Brandão Filho pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-22T18:32"
+    },
+    {
+      "id": 2617773,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617773",
+      "siglaTipo": "EMP",
+      "codTipo": 870,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda de Plenário  para alterar os incisos II, X e XI do art. 21-V do Projeto de Resolução nº 22, de 2026, que altera o Regimento Interno da Câmara dos Deputados para criar a Secretaria de Monitoramento e Fiscalização das Decisões do Sistema Interamericano de Direitos Humanos.",
+      "dataApresentacao": "2026-04-22T18:35"
+    },
+    {
+      "id": 2617774,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617774",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2217,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 2º SGT BM Hudson Teixeira Falleiro pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-22T18:35"
+    },
+    {
+      "id": 2617775,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617775",
+      "siglaTipo": "PRLE",
+      "codTipo": 1001,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional “Mais Cultura nas Escolas” e dá outras providências.",
+      "dataApresentacao": "2026-04-22T18:26"
+    },
+    {
+      "id": 2617776,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617776",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2218,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 2º SGT BM Wandemberg de Araujo Farias Alves pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-22T18:37"
+    },
+    {
+      "id": 2617777,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617777",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 10,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 533/2024",
+      "dataApresentacao": "2026-04-22T18:39"
+    },
+    {
+      "id": 2617778,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617778",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 11,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 533/2024-Requerimento de Retirada de Matéria da Pauta - PL 533/2024",
+      "dataApresentacao": "2026-04-22T18:39"
+    },
+    {
+      "id": 2617779,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617779",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2219,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 2º SGT BM Rafael da Luz do Carmo pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-22T18:39"
+    },
+    {
+      "id": 2617780,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617780",
+      "siglaTipo": "EMP",
+      "codTipo": 870,
+      "numero": 13,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "dataApresentacao": "2026-04-22T18:40"
+    },
+    {
+      "id": 2617781,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617781",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1934,
+      "ano": 2026,
+      "ementa": "Altera o Código Penal e o Estatuto da Criança e do Adolescente para agravar as penas dos crimes de maus-tratos e delitos correlatos praticados contra criança ou adolescente em ambiente escolar, estabelecer o afastamento cautelar imediato do agente denunciado e criar responsabilidade penal para superior hierárquico que deixar de determinar o afastamento.",
+      "dataApresentacao": "2026-04-22T18:40"
+    },
+    {
+      "id": 2617782,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617782",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 589,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T17:45"
+    },
+    {
+      "id": 2617783,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617783",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Defensor Stélio Dener (UNIÃO-RR), pela aprovação deste, e pela rejeição do PL 176/2025, apensado.",
+      "dataApresentacao": "2026-04-22T13:39"
+    },
+    {
+      "id": 2617784,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617784",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 936/2026",
+      "dataApresentacao": "2026-04-22T18:47"
+    },
+    {
+      "id": 2617785,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617785",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 940/2026",
+      "dataApresentacao": "2026-04-22T18:47"
+    },
+    {
+      "id": 2617786,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617786",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 941/2026",
+      "dataApresentacao": "2026-04-22T18:47"
+    },
+    {
+      "id": 2617787,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617787",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 590,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T18:00"
+    },
+    {
+      "id": 2617788,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617788",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 942/2026",
+      "dataApresentacao": "2026-04-22T18:47"
+    },
+    {
+      "id": 2617789,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617789",
+      "siglaTipo": "EMP",
+      "codTipo": 870,
+      "numero": 14,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "dataApresentacao": "2026-04-22T18:53"
+    },
+    {
+      "id": 2617790,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617790",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 591,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T18:11"
+    },
+    {
+      "id": 2617791,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617791",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 946/2026",
+      "dataApresentacao": "2026-04-22T18:47"
+    },
+    {
+      "id": 2617792,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617792",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 947/2026",
+      "dataApresentacao": "2026-04-22T18:47"
+    },
+    {
+      "id": 2617793,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617793",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 592,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T18:18"
+    },
+    {
+      "id": 2617794,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617794",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 593,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T18:40"
+    },
+    {
+      "id": 2617795,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617795",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1935,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre a obrigatoriedade de identificação do agente de trânsito responsável pela autuação, a responsabilidade pessoal do agente notificador e a exigência de imagens e vídeos claros, nítidos e inequívocos como condição de validade das notificações de infrações de trânsito, inclusive aquelas realizadas por sistemas automatizados e inteligência artificial.",
+      "dataApresentacao": "2026-04-22T18:55"
+    },
+    {
+      "id": 2617796,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617796",
+      "siglaTipo": "EMR",
+      "codTipo": 257,
+      "numero": 6,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T18:59"
+    },
+    {
+      "id": 2617797,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617797",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 948/2026",
+      "dataApresentacao": "2026-04-22T18:47"
+    },
+    {
+      "id": 2617798,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617798",
+      "siglaTipo": "EMR",
+      "codTipo": 257,
+      "numero": 7,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T18:59"
+    },
+    {
+      "id": 2617799,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617799",
+      "siglaTipo": "EMR",
+      "codTipo": 257,
+      "numero": 8,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T18:59"
+    },
+    {
+      "id": 2617800,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617800",
+      "siglaTipo": "SBR",
+      "codTipo": 709,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T18:59"
+    },
+    {
+      "id": 2617801,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617801",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 950/2026",
+      "dataApresentacao": "2026-04-22T18:47"
+    },
+    {
+      "id": 2617802,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617802",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 952/2026",
+      "dataApresentacao": "2026-04-22T18:47"
+    },
+    {
+      "id": 2617803,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617803",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1936,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a aquisição, a posse e o porte de arma de fogo no território nacional, institui o Sistema Nacional de Registro de Armas de Fogo (SINRAF) e revoga dispositivos da Lei nº 10.826, de 22 de dezembro de 2003.",
+      "dataApresentacao": "2026-04-22T18:59"
+    },
+    {
+      "id": 2617804,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617804",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 953/2026",
+      "dataApresentacao": "2026-04-22T18:47"
+    },
+    {
+      "id": 2617805,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617805",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 905/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617806,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617806",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1937,
+      "ano": 2026,
+      "ementa": "Altera dispositivo da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para endurecer as penalidades aplicáveis aos crimes de racha, competição, exibição e manobras perigosas em vias públicas, bem como para responsabilizar penal e administrativamente quem incentiva, promove, organiza ou participa direta ou indiretamente dessas condutas.",
+      "dataApresentacao": "2026-04-22T19:00"
+    },
+    {
+      "id": 2617807,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617807",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 935/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617808,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617808",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 937/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617809,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617809",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 938/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617810,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617810",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 939/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617811,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617811",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 943/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617812,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617812",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 945/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617813,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617813",
+      "siglaTipo": "EMP",
+      "codTipo": 870,
+      "numero": 15,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "dataApresentacao": "2026-04-22T19:04"
+    },
+    {
+      "id": 2617814,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617814",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 594,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T18:42"
+    },
+    {
+      "id": 2617815,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617815",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 949/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617816,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617816",
+      "siglaTipo": "PRLP",
+      "codTipo": 891,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Regimento Interno da Câmara dos Deputados, para permitir que os membros efetivos da Mesa Diretora possam fazer parte de Liderança e de comissões permanentes e temporárias.",
+      "dataApresentacao": "2026-04-22T19:07"
+    },
+    {
+      "id": 2617817,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617817",
+      "siglaTipo": "RPD",
+      "codTipo": 890,
+      "numero": 135,
+      "ano": 0,
+      "ementa": "Requerimento para Retirada de Tramitação de RPD/DTQ - PL 6461/2019",
+      "dataApresentacao": "2026-04-22T19:11"
+    },
+    {
+      "id": 2617818,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617818",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 951/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617819,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617819",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 954/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617820,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617820",
+      "siglaTipo": "REQ",
+      "codTipo": 311,
+      "numero": 2220,
+      "ano": 2026,
+      "ementa": "Requer a retirada de tramitação da Emenda de Plenário n. 1, apresentada ao Projeto de Resolução 22 de 2026",
+      "dataApresentacao": "2026-04-22T19:15"
+    },
+    {
+      "id": 2617821,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617821",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 908/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617822,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617822",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 912/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617823,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617823",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 914/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617824,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617824",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 919/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617825,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617825",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 920/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617826,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617826",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 923/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617827,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617827",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 595,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T18:42"
+    },
+    {
+      "id": 2617828,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617828",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 926/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617829,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617829",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 928/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617830,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617830",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 931/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617831,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617831",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 934/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617832,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617832",
+      "siglaTipo": "REQ",
+      "codTipo": 313,
+      "numero": 2221,
+      "ano": 2026,
+      "ementa": "Requer, nos termos regimentais, com anuência do autor, a coautoria ao Projeto de Lei nº 2.564 de 2025.",
+      "dataApresentacao": "2026-04-22T19:17"
+    },
+    {
+      "id": 2617833,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617833",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 907/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617834,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617834",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 596,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T18:45"
+    },
+    {
+      "id": 2617835,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617835",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 909/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617836,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617836",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 597,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T18:50"
+    },
+    {
+      "id": 2617837,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617837",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 910/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617838,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617838",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 916/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617839,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617839",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 598,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-22T19:04"
+    },
+    {
+      "id": 2617840,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617840",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 917/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    },
+    {
+      "id": 2617841,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2617841",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer exarado no RIC 918/2026",
+      "dataApresentacao": "2026-04-22T18:48"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=132"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=133&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=131&itens=100"
+    }
+  ]
+}

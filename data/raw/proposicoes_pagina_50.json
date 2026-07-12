@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2578547,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578547",
+      "siglaTipo": "TVR",
+      "codTipo": 1058,
+      "numero": 1028,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 19.103, de 23 de julho de 2025, publicada no Diário Oficial da União de 19 de agosto de 2025, que renova, a partir de 1º de maio de 2024, a outorga à LB - Sistema de Comunicação do Vale Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Encantado, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2025-10-28T15:06"
+    },
+    {
+      "id": 2578551,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578551",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 1029,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 19.124, de 24 de julho de 2025, publicada no Diário Oficial da União de 19 de agosto de 2025, que renova, a partir de 6 de fevereiro de 2025, a outorga à Rádio Difusora de Itajubá Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Itajubá, Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-28T15:06"
+    },
+    {
+      "id": 2578555,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578555",
+      "siglaTipo": "TVR",
+      "codTipo": 1058,
+      "numero": 1030,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 18.987, de 16 de julho de 2025, publicada no Diário Oficial da União de 19 de agosto de 2025, que renova, a partir de 1º de novembro de 2023, a outorga à Rádio Clube Pontagrossense Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifução sonora em frequência modulada, no Município de Ponta Grossa, Estado do Paraná.",
+      "dataApresentacao": "2025-10-28T15:06"
+    },
+    {
+      "id": 2578558,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578558",
+      "siglaTipo": "TVR",
+      "codTipo": 429,
+      "numero": 1031,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 18.958, de 15 de julho de 2025, publicada no Diário Oficial da União de 19 de agosto de 2025, que renova, a partir de 28 de junho de 2021, a permissão outorgada à Fundação Ranchariense, para executar, pelo prazo de dez anos, o serviço de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no Município de Itatiba, Estado de São Paulo.",
+      "dataApresentacao": "2025-10-28T15:06"
+    },
+    {
+      "id": 2578561,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578561",
+      "siglaTipo": "TVR",
+      "codTipo": 429,
+      "numero": 1032,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 19.097, de 23 de julho de 2025, publicada no Diário Oficial da União de 19 de agosto de 2025, que renova, a partir de 14 de março de 2017, a permissão outorgada anteriormente conferida à Fundação Educativa e Cultural Dona Dadá, para executar, pelo prazo de dez anos, o serviço de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no Município de Vila Velha, Estado do Espírito Santo.",
+      "dataApresentacao": "2025-10-28T15:06"
+    },
+    {
+      "id": 2578588,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578588",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5467,
+      "ano": 2025,
+      "ementa": "Fica instituído o “Dia Nacional em Memória dos Policiais que Tombaram em Serviço”, a ser comemorado anualmente, em todo o território nacional, no dia 10 de maio.",
+      "dataApresentacao": "2025-10-29T08:35"
+    },
+    {
+      "id": 2578594,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578594",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5469,
+      "ano": 2025,
+      "ementa": "Dispõe sobre o manejo e a conservação de espécies da fauna brasileira ameaçadas de extinção em Terras Indígenas e estabelece mecanismos de cooperação e gestão territorial e ambiental com as comunidades.",
+      "dataApresentacao": "2025-10-29T09:44"
+    },
+    {
+      "id": 2578653,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578653",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 124,
+      "ano": 2025,
+      "ementa": "Requer o aditamento do Requerimento 112/2025 para inclusão de convidado.",
+      "dataApresentacao": "2025-10-28T10:07"
+    },
+    {
+      "id": 2578663,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578663",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7141,
+      "ano": 2025,
+      "ementa": "Requer do Senhor Ministro da Educação informação sobre o pagamento, pelos municípios brasileiros, do piso salarial nacional para os profissionais do magistério público da educação básica.",
+      "dataApresentacao": "2025-10-29T11:35"
+    },
+    {
+      "id": 2578676,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578676",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5477,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional sobre o Acidente Vascular Cerebral, no âmbito do Sistema Único de Saúde, e dá outras providências.",
+      "dataApresentacao": "2025-10-29T11:55"
+    },
+    {
+      "id": 2578687,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578687",
+      "siglaTipo": "TVR",
+      "codTipo": 431,
+      "numero": 1033,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 18.985, de 16 de julho de 2025, publicada no Diário Oficial da União de 19 de agosto de 2025, que renova, a partir de 1º de novembro de 2023, a outorga à Rádio Difusão Sul Riograndense Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, no Município de Erechim, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2025-10-28T15:06"
+    },
+    {
+      "id": 2578689,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578689",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5478,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Diagnóstico Laboratorial (PNDL), estabelece diretrizes para sua implementação no Sistema Único de Saúde (SUS) e dá outras providências.",
+      "dataApresentacao": "2025-10-29T12:16"
+    },
+    {
+      "id": 2578695,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578695",
+      "siglaTipo": "TVR",
+      "codTipo": 492,
+      "numero": 1035,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 19.025, de 18 de julho de 2025, publicada no Diário Oficial da União de 20 de agosto de 2025, que outorga autorização ao Instituto Guaramiranga para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Guaramiranga, Estado do Ceará.",
+      "dataApresentacao": "2025-10-28T15:06"
+    },
+    {
+      "id": 2578716,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578716",
+      "siglaTipo": "TVR",
+      "codTipo": 492,
+      "numero": 1040,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 10.968, de 3 de novembro de 2023, publicada no Diário Oficial da União de 23 de novembro de 2023, que outorga autorização à Associação Comunitária de Desenvolvimento do Bairro Malvinas, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Barbalha, Estado do Ceará.",
+      "dataApresentacao": "2025-10-28T15:06"
+    },
+    {
+      "id": 2578738,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578738",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7143,
+      "ano": 2025,
+      "ementa": "Requer informações ao Ministro de Estado da Educação, Sr. Camilo Santana, sobre mudanças metodológicas e métricas do Sistema de Avaliação da Educação Básica (SAEB), com ênfase na aferição da alfabetização, na comparabilidade das séries históricas, na transparência da divulgação dos indicadores e no papel do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep).",
+      "dataApresentacao": "2025-10-29T13:22"
+    },
+    {
+      "id": 2578811,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578811",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5481,
+      "ano": 2025,
+      "ementa": "Estabelece moratória para implantação de usinas de incineração e outras formas de geração de energia a partir da queima de resíduos sólidos urbanos, e dá outras providências.",
+      "dataApresentacao": "2025-10-29T14:53"
+    },
+    {
+      "id": 2578870,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578870",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7148,
+      "ano": 2025,
+      "ementa": "Requer sejam solicitadas informações ao Senhor Ministro da Educação, Camilo Santana, sobre a autorização do curso de Medicina a ser ofertado por instituição de nível superior em Cachoeirinha no Rio Grande do Sul.",
+      "dataApresentacao": "2025-10-29T16:10"
+    },
+    {
+      "id": 2578872,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578872",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7149,
+      "ano": 2025,
+      "ementa": "Requer sejam solicitadas informações ao Senhor Ministro da Educação, Camilo Santana, sobre a autorização do curso de Medicina a ser ofertado por instituição de nível superior no município de Getúlio Vargas no Rio Grande do Sul.",
+      "dataApresentacao": "2025-10-29T16:12"
+    },
+    {
+      "id": 2578879,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578879",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5490,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça.",
+      "dataApresentacao": "2025-10-29T16:28"
+    },
+    {
+      "id": 2578882,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578882",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5492,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a autorização para prescrição de medicamentos e solicitação de exames complementares por enfermeiros devidamente habilitados, no exercício de suas funções, de acordo com protocolos clínicos e diretrizes do Sistema Único de Saúde (SUS), e estabelece parâmetros de segurança, responsabilidade técnica e fiscalização profissional.",
+      "dataApresentacao": "2025-10-29T16:40"
+    },
+    {
+      "id": 2578902,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578902",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5499,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 6.530, de 12 de maio de 1978, para dispor sobre eleições e cargos no Conselho Federal de Corretores de Imóveis (COFECI) e nos Conselhos Regionais de Corretores de Imóveis (CRECI), e dá outras providências.",
+      "dataApresentacao": "2025-10-29T16:59"
+    },
+    {
+      "id": 2578921,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578921",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5502,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a adoção de medidas preventivas e corretivas relativas à qualidade do biodiesel adicionado ao óleo diesel, e dá outras providências.",
+      "dataApresentacao": "2025-10-29T17:16"
+    },
+    {
+      "id": 2578957,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578957",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5510,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940, para aprimorar a tipificação, as penas e as medidas reparatórias relacionadas ao crime de pichação.",
+      "dataApresentacao": "2025-10-29T17:36"
+    },
+    {
+      "id": 2578960,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578960",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7151,
+      "ano": 2025,
+      "ementa": "Requer informações ao Ministério da Saúde sobre os dados epidemiológicos e as políticas públicas voltadas às pessoas com vitiligo, especialmente no Estado do Rio Grande do Norte.",
+      "dataApresentacao": "2025-10-29T17:42"
+    },
+    {
+      "id": 2578968,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578968",
+      "siglaTipo": "REQ",
+      "codTipo": 392,
+      "numero": 4565,
+      "ano": 2025,
+      "ementa": "Altera a redação do § 4º no art. 5º da Lei nº 11.947, de 16 de junho de 2009, para que seja considerado o custo amazônico em relação às matrículas da região amazônica.",
+      "dataApresentacao": "2025-10-29T18:03"
+    },
+    {
+      "id": 2578993,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578993",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5511,
+      "ano": 2025,
+      "ementa": "Institui a garantia de permanência de linha móvel sob a modalidade pré-pago em nome do consumidor e estabelece sanções administrativas para as prestadoras de serviços de telecomunicações em caso de cancelamento unilateral indevido.",
+      "dataApresentacao": "2025-10-29T18:30"
+    },
+    {
+      "id": 2579015,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579015",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5514,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social – LOAS), para reconhecer o Transtorno do Déficit de Atenção com Hiperatividade (TDAH) como condição apta ao enquadramento no conceito de pessoa com deficiência, quando comprovadas limitações significativas na autonomia, no desenvolvimento e na vida social, para fins de concessão do Benefício de Prestação Continuada (BPC), e dá outras providências.",
+      "dataApresentacao": "2025-10-29T18:53"
+    },
+    {
+      "id": 2579029,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579029",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5517,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a aquisição, operação e manutenção, pelos órgãos policiais de que tratam os incisos I a VI do caput do art. 144 da Constituição Federal, de viaturas e helicópteros blindados, e dá outras providências.",
+      "dataApresentacao": "2025-10-29T19:15"
+    },
+    {
+      "id": 2579091,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579091",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5527,
+      "ano": 2025,
+      "ementa": "Institui o Dia do Técnico em Radiologia.",
+      "dataApresentacao": "2025-10-29T20:55"
+    },
+    {
+      "id": 2579100,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579100",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5529,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de locação, pela administração pública direta e indireta, apenas de imóveis que atendam às normas de acessibilidade ou que possam ser adaptados no prazo estabelecido, e dá outras providências.",
+      "dataApresentacao": "2025-10-29T21:49"
+    },
+    {
+      "id": 2579118,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579118",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5532,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 4.591, de 16 de Dezembro de 1964, proibindo o acesso de entregadores às áreas internas dos condomínios.",
+      "dataApresentacao": "2025-10-30T09:48"
+    },
+    {
+      "id": 2579128,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579128",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5538,
+      "ano": 2025,
+      "ementa": "Institui o Programa Nacional Ronda da Saúde, destinado à proteção e valorização dos profissionais de saúde no exercício de suas funções, no âmbito do Sistema Único de Saúde (SUS).",
+      "dataApresentacao": "2025-10-30T10:40"
+    },
+    {
+      "id": 2579129,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579129",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7157,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Engenheiro Caldas, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T10:40"
+    },
+    {
+      "id": 2579131,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579131",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7158,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Engenheiro Navarro, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T10:43"
+    },
+    {
+      "id": 2579132,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579132",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7159,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Entre Folhas, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T10:46"
+    },
+    {
+      "id": 2579133,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579133",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7160,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Entre Rios de Minas, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T10:48"
+    },
+    {
+      "id": 2579134,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579134",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7161,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Ervália, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T10:50"
+    },
+    {
+      "id": 2579135,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579135",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7162,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Esmeraldas, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T10:51"
+    },
+    {
+      "id": 2579136,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579136",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7163,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Espera Feliz, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T10:54"
+    },
+    {
+      "id": 2579137,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579137",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7164,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Espinosa, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T10:58"
+    },
+    {
+      "id": 2579138,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579138",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7165,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Espírito Santo do Dourado, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:04"
+    },
+    {
+      "id": 2579139,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579139",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7166,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Estiva, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:05"
+    },
+    {
+      "id": 2579140,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579140",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7167,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Estrela Dalva, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:09"
+    },
+    {
+      "id": 2579141,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579141",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7168,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Estrela do Indaiá, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:11"
+    },
+    {
+      "id": 2579142,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579142",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7169,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou\tdo      Programa\tde Aquisição de Alimentos - PAA, para o Município de Estrela do Sul, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:13"
+    },
+    {
+      "id": 2579144,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579144",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7170,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Eugenópolis, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:17"
+    },
+    {
+      "id": 2579145,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579145",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7171,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Ewbank da Câmara, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:19"
+    },
+    {
+      "id": 2579147,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579147",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 1041,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 18.856, de 9 de julho de 2025, publicada no Diário Oficial da União de 19 de agosto de 2025, que renova, a partir de 22 de janeiro de 2024, a outorga à Rádio Rio Verde Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Baependi, Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T07:00"
+    },
+    {
+      "id": 2579149,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579149",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7172,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Extrema, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:21"
+    },
+    {
+      "id": 2579150,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579150",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7173,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Fama, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:25"
+    },
+    {
+      "id": 2579151,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579151",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7174,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município deFaria Lemos, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:26"
+    },
+    {
+      "id": 2579152,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579152",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7175,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Felício dos Santos, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:30"
+    },
+    {
+      "id": 2579153,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579153",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7176,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Felisburgo, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:32"
+    },
+    {
+      "id": 2579154,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579154",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7177,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Felixlândia, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:38"
+    },
+    {
+      "id": 2579155,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579155",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7178,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Fernandes Tourinho, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:40"
+    },
+    {
+      "id": 2579157,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579157",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7179,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Ferros, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:42"
+    },
+    {
+      "id": 2579158,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579158",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7180,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Fervedouro, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:44"
+    },
+    {
+      "id": 2579161,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579161",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7181,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Florestal, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:47"
+    },
+    {
+      "id": 2579166,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579166",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7182,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Formiga, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:49"
+    },
+    {
+      "id": 2579167,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579167",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7183,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Formoso, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:51"
+    },
+    {
+      "id": 2579168,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579168",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 7184,
+      "ano": 2025,
+      "ementa": "Solicita informações ao Ministro do Desenvolvimento Agrário e Agricultura Familiar, de quanto que a Companhia Nacional de Abastecimento-CONAB, repassou do Programa de Aquisição de Alimentos - PAA, para o Município de Fortaleza de Minas, no Estado de Minas Gerais.",
+      "dataApresentacao": "2025-10-30T11:53"
+    },
+    {
+      "id": 2579208,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579208",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5545,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Governança dos Marítórios e dos Direitos do Oceano – Lei Amazônia Azul, estabelece princípios, diretrizes e instrumentos para a gestão integrada, participativa e sustentável dos ecossistemas marinhos, costeiros e estuarinos, e dá outras providências.",
+      "dataApresentacao": "2025-10-30T13:16"
+    },
+    {
+      "id": 2579217,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579217",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5547,
+      "ano": 2025,
+      "ementa": "Institui o Estatuto Nacional do Trabalhador de Aplicativos e da Economia Digital (ENTAED), estabelece direitos, deveres e garantias nas relações intermediadas por plataformas digitais, disciplina transparência algorítmica, segurança e proteção previdenciária do trabalhador contribuinte individual, e dá outras providências.",
+      "dataApresentacao": "2025-10-30T13:24"
+    },
+    {
+      "id": 2579221,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579221",
+      "siglaTipo": "REQ",
+      "codTipo": 392,
+      "numero": 4607,
+      "ano": 2025,
+      "ementa": "Requer regime de urgência para apreciação do PL nº 539, de 2024, que “altera a Lei nº 7.565, de 19 de dezembro de 1986, que institui o Código Brasileiro de Aeronáutica, para estabelecer hipóteses de autorização da realização de serviços aéreos de transporte doméstico por empresas sulamericanas na Amazônia Legal”.",
+      "dataApresentacao": "2025-10-30T13:28"
+    },
+    {
+      "id": 2579222,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579222",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5549,
+      "ano": 2025,
+      "ementa": "Denomina “Viaduto Eng. Gustavo Adolfo Andrade de Sá” o viaduto localizado no km 4,34 da rodovia BR-230, localizado no Município de Cabedelo, Estado da Paraíba.",
+      "dataApresentacao": "2025-10-30T13:29"
+    },
+    {
+      "id": 2579732,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579732",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5553,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 15.046, de 17 de dezembro de 2024, para instituir o Cadastro Nacional de Protetores dos Animais e o selo “Empresa Protetora dos Animais”.",
+      "dataApresentacao": "2025-10-30T16:26"
+    },
+    {
+      "id": 2579739,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579739",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5557,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a regulação da importação de leite, leite em pó, queijo mussarela e derivados, estabelece limites proporcionais ao consumo interno e proíbe a reidratação de leite em pó importado no território nacional.",
+      "dataApresentacao": "2025-10-30T16:47"
+    },
+    {
+      "id": 2579745,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579745",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5561,
+      "ano": 2025,
+      "ementa": "Institui o Selo Nacional de Bem-Estar Pet, a ser concedido a hipermercados, supermercados e mercados que instalarem espaços externos adequados, seguros e higienizados para a permanência temporária de cães e gatos em seus estabelecimentos, e dá outras providências.",
+      "dataApresentacao": "2025-10-30T17:00"
+    },
+    {
+      "id": 2579755,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579755",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5567,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a vedação da rescisão unilateral de contratos de planos e seguros privados de assistência à saúde de beneficiários com diagnóstico de Transtorno do Espectro Autista (TEA) em tratamento contínuo, assegura a continuidade do atendimento multidisciplinar e estabelece penalidades, nos termos do princípio da dignidade da pessoa humana e da proteção integral.",
+      "dataApresentacao": "2025-10-30T17:17"
+    },
+    {
+      "id": 2579763,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579763",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5571,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a responsabilidade pela transferência de propriedade de veículo automotor e institui multa indenizatória automática em casos de omissão do comprador no registro junto ao órgão de trânsito competente, e dá outras providências.",
+      "dataApresentacao": "2025-10-30T17:28"
+    },
+    {
+      "id": 2579769,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579769",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5574,
+      "ano": 2025,
+      "ementa": "Altera o Decreto-Lei nº 5.452, de 1º de maio de 1943.",
+      "dataApresentacao": "2025-10-30T17:38"
+    },
+    {
+      "id": 2579772,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579772",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5575,
+      "ano": 2025,
+      "ementa": "Institui o Selo Nacional “Comunidade Segura”, destinado a condomínios residenciais e comerciais, associações de moradores, instituições empresariais, agências bancárias e demais pessoas jurídicas que aderirem, de forma voluntária, ao compartilhamento de imagens de seus sistemas de videomonitoramento com os órgãos de segurança pública, e dá outras providências.",
+      "dataApresentacao": "2025-10-30T17:48"
+    },
+    {
+      "id": 2579789,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579789",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 241,
+      "ano": 2025,
+      "ementa": "Requer a realização de Audiência Pública para debater a execução da desintrusão na Terra Indígena Uru-Eu-Wau-Wau (RO) e seus impactos sobre todas as comunidades e famílias afetadas nos municípios atingidos do Estado de Rondônia, com foco em critérios de boa-fé, perícia fundiária e social prévias, indenização de benfeitorias, transparência operacional, uso da força e atendimento social, bem como coordenação interinstitucional e observância de processos judiciais em curso.",
+      "dataApresentacao": "2025-10-31T15:13"
+    },
+    {
+      "id": 2579792,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579792",
+      "siglaTipo": "MPV",
+      "codTipo": 291,
+      "numero": 1322,
+      "ano": 2025,
+      "ementa": "Autoriza a prorrogação de contratos por tempo determinado no âmbito da Fundação Instituto Brasileiro de Geografia e Estatística e do Ministério da Gestão e da Inovação em Serviços Públicos.",
+      "dataApresentacao": "2025-10-31T00:00"
+    },
+    {
+      "id": 2579804,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579804",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5578,
+      "ano": 2025,
+      "ementa": "Institui o Programa Nacional de Desenvolvimento e Valorização do Polo Gesseiro do Araripe e da Cadeia Produtiva do Gesso Nacional, com o objetivo de promover a modernização tecnológica, a sustentabilidade ambiental, a agregação de valor e a competitividade do setor gesseiro brasileiro.",
+      "dataApresentacao": "2025-10-30T18:50"
+    },
+    {
+      "id": 2579886,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579886",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5583,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 13.986, de 7 de abril de 2020, para suspender, em caso de calamidade pública, a execução de garantias reais constituídas sobre imóveis rurais e estabelecer prazo mínimo para consolidação da propriedade ou do bem dado em garantia.",
+      "dataApresentacao": "2025-11-03T11:16"
+    },
+    {
+      "id": 2579897,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579897",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5584,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 13.756, de 12 de dezembro de 2018, para destinar parte dos recursos do Fundo Nacional de Segurança Pública à assistência jurídica de operadores de segurança pública processados por atos decorrentes do exercício da função.",
+      "dataApresentacao": "2025-11-03T11:25"
+    },
+    {
+      "id": 2579901,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579901",
+      "siglaTipo": "REQ",
+      "codTipo": 448,
+      "numero": 242,
+      "ano": 2025,
+      "ementa": "“Solicita a Comissão de Agricultura, Pecuária,  Abastecimento e Desenvolvimento Rural que encaminhe pedido de informações à COELBA sobre a implantação de subestação elétrica no Oeste da Bahia (região do MATOPIBA).”",
+      "dataApresentacao": "2025-11-03T11:30"
+    },
+    {
+      "id": 2579935,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579935",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 125,
+      "ano": 2025,
+      "ementa": "Trata-se de acréscimo de convidados à audiência pública em conjunto com a CDHMIR aprovada por meio do Requerimento nº 91/2025, apresentado pelo requerente, que irá debater sobre a \"Violência contra jornalistas e comunicadores na Amazônia: casos, desafios e políticas de proteção”.",
+      "dataApresentacao": "2025-11-03T12:22"
+    },
+    {
+      "id": 2579936,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579936",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 126,
+      "ano": 2025,
+      "ementa": "Trata-se de acréscimo de convidados à audiência pública em conjunto com a Comissão da Amazônia e dos Povos Originários e Tradicionais e a Comissão de Legislação Participativa aprovada por meio do Requerimento nº 119/2025, apresentado pelo requerente, que irá debater o Fundo de Florestas Tropicais para Sempre (TFFF)",
+      "dataApresentacao": "2025-11-03T12:22"
+    },
+    {
+      "id": 2579939,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579939",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 127,
+      "ano": 2025,
+      "ementa": "Trata-se de acréscimo de convidados à audiência pública em conjunto com a Comissão de Indústria, Comércio e Serviços aprovada por meio do Requerimento nº 113/2025, apresentado pelo requerente, que irá debater a classificação obrigatória de plásticos em produtos fabricados, importados ou comercializados no Brasil, a divulgação dos riscos associados à saúde e ao meio ambiente e estabelece a Política Nacional de Transparência sobre Materiais Plásticos.",
+      "dataApresentacao": "2025-11-03T12:22"
+    },
+    {
+      "id": 2579952,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579952",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5585,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Atenção Integral à Saúde Mental dos Profissionais de Segurança Pública e Privada, e dá outras providências",
+      "dataApresentacao": "2025-11-03T12:48"
+    },
+    {
+      "id": 2580002,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2580002",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 211,
+      "ano": 2025,
+      "ementa": "Requer o aditamento do Requerimento nº 209/2025 da Comissão de Educação para inclusão de convidados na Audiência Pública sobre o Decreto 12686/2025, que institui a Política Nacional de Educação Especial Inclusiva.",
+      "dataApresentacao": "2025-11-03T13:08"
+    },
+    {
+      "id": 2580011,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2580011",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5587,
+      "ano": 2025,
+      "ementa": "Reconhece a Poesia Oral Improvisada como manifestação da cultura nacional e expressão viva da tradição literária popular do Brasil.",
+      "dataApresentacao": "2025-11-03T13:57"
+    },
+    {
+      "id": 2580015,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2580015",
+      "siglaTipo": "REQ",
+      "codTipo": 1015,
+      "numero": 212,
+      "ano": 2025,
+      "ementa": "Requer o envio de consulta ao Tribunal de Contas da União.",
+      "dataApresentacao": "2025-11-03T13:38"
+    },
+    {
+      "id": 2580093,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2580093",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5591,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 13.895, de  30 de outubro de 2019, para reforçar as diretrizes de prevenção e atenção ao diabetes.",
+      "dataApresentacao": "2025-11-03T16:54"
+    },
+    {
+      "id": 2580213,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2580213",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5595,
+      "ano": 2025,
+      "ementa": "Institui o “Dia Nacional de Combate à Intolerância Profissional” e dispõe sobre campanhas de conscientização sobre a violência e o desrespeito entre categorias profissionais.",
+      "dataApresentacao": "2025-11-03T18:43"
+    },
+    {
+      "id": 2580314,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2580314",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5596,
+      "ano": 2025,
+      "ementa": "Altera o art. 91 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre a destinação prioritária de bens e valores decorrentes de condenação criminal, com foco no fortalecimento da segurança pública e no apoio aos agentes públicos de segurança e suas famílias.",
+      "dataApresentacao": "2025-11-03T19:29"
+    },
+    {
+      "id": 2580406,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2580406",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5597,
+      "ano": 2025,
+      "ementa": "Altera o art. 35 da Lei nº 11.343, de 23 de agosto de 2006 (Lei de Drogas), para agravar a pena aplicada ao crime de associação para o tráfico de entorpecentes.",
+      "dataApresentacao": "2025-11-03T19:38"
+    },
+    {
+      "id": 2580834,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2580834",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5604,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a criação do Programa Nacional de Confidencialidade de Endereço para Proteção de Vítimas de Violência e Perseguição e dá outras providências.",
+      "dataApresentacao": "2025-11-04T11:31"
+    },
+    {
+      "id": 2580888,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2580888",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5613,
+      "ano": 2025,
+      "ementa": "Institui o Seguro de Vida e Acidentes Pessoais para os profissionais de segurança pública e defesa social, a ser custeado com recursos do Fundo Nacional de Segurança Pública (FNSP), e altera a Lei nº 13.756, de 12 de dezembro de 2018",
+      "dataApresentacao": "2025-11-04T12:43"
+    },
+    {
+      "id": 2580912,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2580912",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5614,
+      "ano": 2025,
+      "ementa": "Assegura o fornecimento de alimentação gratuita aos acompanhantes de pacientes em tratamento de quimioterapia e hemodiálise, inscritos no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico), nos hospitais públicos e conveniados ao Sistema Único de Saúde (SUS).",
+      "dataApresentacao": "2025-11-04T13:29"
+    },
+    {
+      "id": 2580917,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2580917",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5615,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a concessão de porte de arma de fogo aos responsáveis legais de pessoas jurídicas que exerçam atividades de comércio, armazenagem, transporte, importação ou exportação de produtos controlados pelo Comando do Exército e pela Polícia Federal, e dá outras providências.",
+      "dataApresentacao": "2025-11-04T13:34"
+    },
+    {
+      "id": 2580918,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2580918",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5616,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a concessão de porte de arma de fogo aos empregados responsáveis pela abertura de empresas e gestão de estoques, numerários ou valores superiores a um salário-mínimo, e dá outras providências.",
+      "dataApresentacao": "2025-11-04T13:35"
+    },
+    {
+      "id": 2581203,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581203",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5626,
+      "ano": 2025,
+      "ementa": "Institui o Município de Rosário do Sul, no Estado do Rio Grande do Sul, como a Capital Nacional da Cutelaria.",
+      "dataApresentacao": "2025-11-04T14:55"
+    },
+    {
+      "id": 2581271,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581271",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5631,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a criação do Programa Nacional de Distribuição de Óculos (PNDO), estabelece normas para a realização de exames de vista e a concessão de óculos gratuitos à população de baixa renda, com ênfase na assistência às crianças e idosos, e dá outras providências.",
+      "dataApresentacao": "2025-11-04T15:31"
+    },
+    {
+      "id": 2581306,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581306",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5633,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de continuidade assistencial e de garantia de atendimento terapêutico às pessoas com Transtorno do Espectro Autista (TEA) nos casos de descredenciamento de clínicas ou prestadores de serviço pelas operadoras de planos de saúde, e dá outras providências.",
+      "dataApresentacao": "2025-11-04T15:48"
+    },
+    {
+      "id": 2581394,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581394",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5645,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 14.965, de 9 de setembro de 2024, que dispõe sobre as normas gerais relativas a concursos públicos, para dispor sobre altura mínima para ingresso em cargos de natureza operacional do Sistema Único de Segurança Pública, e dá outras providências.",
+      "dataApresentacao": "2025-11-04T17:18"
+    },
+    {
+      "id": 2581423,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581423",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5649,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a inabilitação para o exercício de atividade empresarial quando a empresa for utilizada como meio para a prática de crime organizado.",
+      "dataApresentacao": "2025-11-04T18:04"
+    },
+    {
+      "id": 2581479,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2581479",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5654,
+      "ano": 2025,
+      "ementa": "Institui a Política de Proteção e Incentivo aos Profissionais de Saúde em Áreas de Conflito e Alta Periculosidade, bem como o Adicional Nacional de Risco por Exposição à Violência (ANRV).",
+      "dataApresentacao": "2025-11-04T19:31"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=50"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=51&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=49&itens=100"
+    }
+  ]
+}

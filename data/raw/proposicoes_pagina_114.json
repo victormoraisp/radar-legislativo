@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2615850,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615850",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 14,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4322/2024",
+      "dataApresentacao": "2026-04-14T13:37"
+    },
+    {
+      "id": 2615851,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615851",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615852,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615852",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 15,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 4322/2024-Requerimento de Retirada de Matéria da Pauta - PL 4322/2024",
+      "dataApresentacao": "2026-04-14T13:31"
+    },
+    {
+      "id": 2615853,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615853",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PDL 345/2023",
+      "dataApresentacao": "2026-04-14T13:37"
+    },
+    {
+      "id": 2615854,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615854",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 14,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 5074/2016",
+      "dataApresentacao": "2026-04-14T13:37"
+    },
+    {
+      "id": 2615855,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615855",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 16,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1868/2021-Requerimento de Retirada de Matéria da Pauta - PL 1868/2021",
+      "dataApresentacao": "2026-04-14T13:34"
+    },
+    {
+      "id": 2615856,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615856",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PDL 141/2019-Requerimento de Retirada de Matéria da Pauta - PDL 141/2019",
+      "dataApresentacao": "2026-04-14T13:31"
+    },
+    {
+      "id": 2615857,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615857",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 17,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1868/2021-Requerimento de Retirada de Matéria da Pauta - PL 1868/2021",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615858,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615858",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 6207/2013",
+      "dataApresentacao": "2026-04-14T13:37"
+    },
+    {
+      "id": 2615859,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615859",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 16,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 4322/2024-Requerimento de Retirada de Matéria da Pauta - PL 4322/2024",
+      "dataApresentacao": "2026-04-14T13:33"
+    },
+    {
+      "id": 2615860,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615860",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 17,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 184/2021",
+      "dataApresentacao": "2026-04-14T13:37"
+    },
+    {
+      "id": 2615861,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615861",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 18,
+      "ano": 0,
+      "ementa": "Requerimento de Votação Nominal",
+      "dataApresentacao": "2026-04-14T13:37"
+    },
+    {
+      "id": 2615862,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615862",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 11,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 2635/2020-Requerimento de Retirada de Matéria da Pauta - PL 2635/2020",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615863,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615863",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 36,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 5038/2023-Requerimento de Retirada de Matéria da Pauta - PL 5038/2023",
+      "dataApresentacao": "2026-04-14T13:34"
+    },
+    {
+      "id": 2615864,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615864",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 35,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 185/2025-Requerimento de Retirada de Matéria da Pauta - PL 185/2025",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615865,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615865",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 56,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3491/2019-Requerimento de Retirada de Matéria da Pauta - PL 3491/2019",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615866,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615866",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 34,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3644/2020-Requerimento de Retirada de Matéria da Pauta - PL 3644/2020",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615867,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615867",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 35,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3644/2020-Requerimento de Retirada de Matéria da Pauta - PL 3644/2020",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615868,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615868",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 15,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 5074/2016-Requerimento de Retirada de Matéria da Pauta - PL 5074/2016",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615869,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615869",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 16,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 5074/2016-Requerimento de Retirada de Matéria da Pauta - PL 5074/2016",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615870,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615870",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 57,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3491/2019-Requerimento de Retirada de Matéria da Pauta - PL 3491/2019",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615871,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615871",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 37,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 5038/2023-Requerimento de Retirada de Matéria da Pauta - PL 5038/2023",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615872,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615872",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 22,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3244/2020-Requerimento de Retirada de Matéria da Pauta - PL 3244/2020",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615873,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615873",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 12,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 2635/2020-Requerimento de Retirada de Matéria da Pauta - PL 2635/2020",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615874,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615874",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 36,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 185/2025-Requerimento de Retirada de Matéria da Pauta - PL 185/2025",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615875,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615875",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 9,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 10941/2018-Requerimento de Retirada de Matéria da Pauta - PL 10941/2018",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615876,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615876",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 2796/2023-Requerimento de Retirada de Matéria da Pauta - PL 2796/2023",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615877,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615877",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 23,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3244/2020-Requerimento de Retirada de Matéria da Pauta - PL 3244/2020",
+      "dataApresentacao": "2026-04-14T13:35"
+    },
+    {
+      "id": 2615878,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615878",
+      "siglaTipo": "RPD",
+      "codTipo": 1049,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Inversão da Pauta - PL 317/2022-Requerimento de Inversão da Pauta - PL 317/2022",
+      "dataApresentacao": "2026-04-14T13:30"
+    },
+    {
+      "id": 2615879,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615879",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Lídice da Mata (PSB-BA), pela constitucionalidade, juridicidade e técnica legislativa e, no mérito, pela aprovação do Projeto de Lei nº 4.507/2024; e pela constitucionalidade, juridicidade e técnica legislativa e, no mérito, pela rejeição do Substitutivo da Comissão de Indústria, Comércio e Serviços.",
+      "dataApresentacao": "2026-04-14T12:52"
+    },
+    {
+      "id": 2615880,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615880",
+      "siglaTipo": "REQ",
+      "codTipo": 147,
+      "numero": 20,
+      "ano": 2026,
+      "ementa": "Requer realização de Mesa-Redonda para debater temas relacionados à temática da Comissão.",
+      "dataApresentacao": "2026-04-14T13:53"
+    },
+    {
+      "id": 2615881,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615881",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 36,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 3644/2020",
+      "dataApresentacao": "2026-04-14T14:06"
+    },
+    {
+      "id": 2615882,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615882",
+      "siglaTipo": "DOC",
+      "codTipo": 1028,
+      "numero": 400,
+      "ano": 2026,
+      "ementa": "OFSF nº 237/26, que comunica restituição de Projeto de Lei sancionado.",
+      "dataApresentacao": "2026-04-14T13:47"
+    },
+    {
+      "id": 2615883,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615883",
+      "siglaTipo": "DOC",
+      "codTipo": 1028,
+      "numero": 401,
+      "ano": 2026,
+      "ementa": "OFSF nº 238/26, que comunica restituição de Projeto de Lei sancionado.",
+      "dataApresentacao": "2026-04-14T13:49"
+    },
+    {
+      "id": 2615884,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615884",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Márcio Honaiser (PDT-MA), pela aprovação do PL 5739/2025, com emendas.",
+      "dataApresentacao": "2026-04-14T14:13"
+    },
+    {
+      "id": 2615885,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615885",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 859,
+      "ano": 2026,
+      "ementa": "Solicita informações ao Ministro de Estado da Justiça e Segurança Pública acerca do Cadastro Nacional de Pedófilos e predadores sexuais.",
+      "dataApresentacao": "2026-04-14T14:07"
+    },
+    {
+      "id": 2615886,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615886",
+      "siglaTipo": "DOC",
+      "codTipo": 1033,
+      "numero": 402,
+      "ano": 2026,
+      "ementa": "OFCN nº 61/26, que comunica término de prazo para edição de decreto legislativo.",
+      "dataApresentacao": "2026-04-14T14:07"
+    },
+    {
+      "id": 2615887,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615887",
+      "siglaTipo": "DOC",
+      "codTipo": 1033,
+      "numero": 403,
+      "ano": 2026,
+      "ementa": "OFCN nº 60/26, que comunica término de prazo para edição de decreto legislativo.",
+      "dataApresentacao": "2026-04-14T14:07"
+    },
+    {
+      "id": 2615888,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615888",
+      "siglaTipo": "DOC",
+      "codTipo": 1033,
+      "numero": 404,
+      "ano": 2026,
+      "ementa": "OFCN nº 59/26, que comunica término de prazo para edição de decreto legislativo.",
+      "dataApresentacao": "2026-04-14T14:07"
+    },
+    {
+      "id": 2615889,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615889",
+      "siglaTipo": "DOC",
+      "codTipo": 1033,
+      "numero": 405,
+      "ano": 2026,
+      "ementa": "OFCN nº 58/26, que comunica término de prazo para edição de decreto legislativo.",
+      "dataApresentacao": "2026-04-14T14:07"
+    },
+    {
+      "id": 2615890,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615890",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 6,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PDL 141/2019",
+      "dataApresentacao": "2026-04-14T14:09"
+    },
+    {
+      "id": 2615891,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615891",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PEC 34/2025",
+      "dataApresentacao": "2026-04-14T14:16"
+    },
+    {
+      "id": 2615892,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615892",
+      "siglaTipo": "EMR",
+      "codTipo": 257,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Altera o Estatuto da Criança e do Adolescente (Lei nº 8.069, de 13 de julho de 1990), o Estatuto da Pessoa com Deficiência (Lei nº 13.146, de 6 de julho de 2015) e o Código Penal (Decreto-Lei nº 2.848, de 7 de dezembro de 1940), para tipificar especificamente como circunstância qualificadora o homicídio doloso de criança ou adolescente com deficiência, praticado por pai, mãe ou responsável legal, e dá outras providências.",
+      "dataApresentacao": "2026-04-14T14:13"
+    },
+    {
+      "id": 2615893,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615893",
+      "siglaTipo": "EMR",
+      "codTipo": 257,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Altera o Estatuto da Criança e do Adolescente (Lei nº 8.069, de 13 de julho de 1990), o Estatuto da Pessoa com Deficiência (Lei nº 13.146, de 6 de julho de 2015) e o Código Penal (Decreto-Lei nº 2.848, de 7 de dezembro de 1940), para tipificar especificamente como circunstância qualificadora o homicídio doloso de criança ou adolescente com deficiência, praticado por pai, mãe ou responsável legal, e dá outras providências.",
+      "dataApresentacao": "2026-04-14T14:13"
+    },
+    {
+      "id": 2615894,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615894",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1803,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional Antifraude (SNAF), dispõe sobre o intercâmbio de dados para prevenir, detectar e coibir fraudes e irregularidades no acesso a benefícios ou programas federais de natureza social, inclusive trabalhista, previdenciária ou assistencial, e dá outras providências.",
+      "dataApresentacao": "2026-04-14T14:25"
+    },
+    {
+      "id": 2615895,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615895",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2072,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. Subtenente BM Jaime Henrique Silva da Costa Ramos, pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-14T14:27"
+    },
+    {
+      "id": 2615896,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615896",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1804,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar a nomeação ou manutenção fraudulenta destinada à percepção de remuneração sem efetivo exercício de atribuições na Administração Pública e a correspondente percepção dolosa de remuneração indevida.",
+      "dataApresentacao": "2026-04-14T14:27"
+    },
+    {
+      "id": 2615897,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615897",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2073,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. Subtenente BM Ricardo Nascimento Siqueira, pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-14T14:29"
+    },
+    {
+      "id": 2615898,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615898",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2074,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. Subtenente BM Marco Aurelio de Almeida Dias, pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-14T14:33"
+    },
+    {
+      "id": 2615899,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615899",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Ana Paula Lima (PT-SC), pela aprovação, com substitutivo.",
+      "dataApresentacao": "2026-04-14T14:27"
+    },
+    {
+      "id": 2615900,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615900",
+      "siglaTipo": "EMR",
+      "codTipo": 257,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-14T14:36"
+    },
+    {
+      "id": 2615901,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615901",
+      "siglaTipo": "EMR",
+      "codTipo": 257,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-14T14:36"
+    },
+    {
+      "id": 2615902,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615902",
+      "siglaTipo": "SBR",
+      "codTipo": 709,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Dispõe sobre a regulamentação do exercício das profissões Conservador- Restaurador de Bens Culturais e de Técnico em Conservação- Restauração de Bens Culturais.",
+      "dataApresentacao": "2026-04-13T15:47"
+    },
+    {
+      "id": 2615903,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615903",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Amom Mandel (REPUBLIC-AM), pela aprovação, com substitutivo.",
+      "dataApresentacao": "2026-04-14T14:34"
+    },
+    {
+      "id": 2615904,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615904",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-14T14:41"
+    },
+    {
+      "id": 2615905,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615905",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre a instituição do Selo Empresa Amiga da Maternidade Solo, destinado a reconhecer e estimular a adoção voluntária de boas práticas institucionais de apoio, inclusão e não discriminação de mulheres que exercem, de forma exclusiva, a responsabilidade parental, e estabelece critérios para sua concessão ou renovação.",
+      "dataApresentacao": "2026-04-14T14:38"
+    },
+    {
+      "id": 2615906,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615906",
+      "siglaTipo": "REQ",
+      "codTipo": 686,
+      "numero": 28,
+      "ano": 2026,
+      "ementa": "Requer seja autorizada pela Comissão dos Direitos da Mulher a realização de Seminário no Estado de São Paulo, para debater o tema “A inserção de obstetrizes nas Organizações Sociais da Saúde (OSS) e em concursos públicos”.",
+      "dataApresentacao": "2026-04-14T14:05"
+    },
+    {
+      "id": 2615907,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615907",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 583,
+      "ano": 2026,
+      "ementa": "“Indica ao Governador do Estado da Bahia a adoção de providências urgentes para garantir a realocação adequada da Brigada K9, diante da desocupação da área vinculada às obras da Ponte Salvador-Itaparica.”",
+      "dataApresentacao": "2026-04-14T14:40"
+    },
+    {
+      "id": 2615908,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615908",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1805,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a transparência, a fiscalização e a prevenção de práticas abusivas no compartilhamento de infraestrutura de postes entre concessionárias de energia elétrica e prestadoras de serviços de telecomunicações.",
+      "dataApresentacao": "2026-04-14T14:43"
+    },
+    {
+      "id": 2615909,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615909",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2075,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. Subtenente BM Leandro Tavares de Matos, pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-14T14:44"
+    },
+    {
+      "id": 2615910,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615910",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Ana Paula Leão (PP-MG), pela aprovação.",
+      "dataApresentacao": "2026-04-14T14:40"
+    },
+    {
+      "id": 2615911,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615911",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1806,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a vedação à nomeação para cargos em comissão, funções de confiança e à contratação com a Administração Pública de pessoas condenadas por crimes de violência doméstica e familiar contra a mulher, bem como por crimes praticados contra crianças, adolescentes, idosos e pessoas com deficiência.",
+      "dataApresentacao": "2026-04-14T14:48"
+    },
+    {
+      "id": 2615912,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615912",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 15,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1283/2024-Requerimento de Retirada de Matéria da Pauta - PL 1283/2024",
+      "dataApresentacao": "2026-04-14T14:45"
+    },
+    {
+      "id": 2615913,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615913",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PDL 756/2025",
+      "dataApresentacao": "2026-04-14T14:46"
+    },
+    {
+      "id": 2615914,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615914",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PDL 756/2025-Requerimento de Retirada de Matéria da Pauta - PDL 756/2025",
+      "dataApresentacao": "2026-04-14T14:46"
+    },
+    {
+      "id": 2615915,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615915",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Alexandre Lindenmeyer (PT-RS), pela aprovação, com substitutivo.",
+      "dataApresentacao": "2026-04-14T12:53"
+    },
+    {
+      "id": 2615916,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615916",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 58,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3491/2019",
+      "dataApresentacao": "2026-04-14T14:46"
+    },
+    {
+      "id": 2615917,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615917",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 59,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3491/2019-Requerimento de Retirada de Matéria da Pauta - PL 3491/2019",
+      "dataApresentacao": "2026-04-14T14:46"
+    },
+    {
+      "id": 2615918,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615918",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 37,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3644/2020",
+      "dataApresentacao": "2026-04-14T14:46"
+    },
+    {
+      "id": 2615919,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615919",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 38,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3644/2020-Requerimento de Retirada de Matéria da Pauta - PL 3644/2020",
+      "dataApresentacao": "2026-04-14T14:46"
+    },
+    {
+      "id": 2615920,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615920",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 60,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3491/2019-Requerimento de Retirada de Matéria da Pauta - PL 3491/2019",
+      "dataApresentacao": "2026-04-14T14:48"
+    },
+    {
+      "id": 2615921,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615921",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 39,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3644/2020",
+      "dataApresentacao": "2026-04-14T14:46"
+    },
+    {
+      "id": 2615922,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615922",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 61,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3491/2019",
+      "dataApresentacao": "2026-04-14T14:48"
+    },
+    {
+      "id": 2615923,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615923",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, para proibir o cancelamento unilateral de contratos de usuários em situação de vulnerabilidade — pessoas idosas, com deficiência, ostomizadas, com câncer ou doenças raras — e institui a Política Nacional de Proteção Continuada à Pessoa em Tratamento de Saúde (PNPCS).",
+      "dataApresentacao": "2026-04-14T12:53"
+    },
+    {
+      "id": 2615924,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615924",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 40,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3644/2020-Requerimento de Retirada de Matéria da Pauta - PL 3644/2020",
+      "dataApresentacao": "2026-04-14T14:46"
+    },
+    {
+      "id": 2615925,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615925",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 38,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 5038/2023",
+      "dataApresentacao": "2026-04-14T14:46"
+    },
+    {
+      "id": 2615926,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615926",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 39,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 5038/2023-Requerimento de Retirada de Matéria da Pauta - PL 5038/2023",
+      "dataApresentacao": "2026-04-14T14:46"
+    },
+    {
+      "id": 2615927,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615927",
+      "siglaTipo": "PDL",
+      "codTipo": 550,
+      "numero": 249,
+      "ano": 2026,
+      "ementa": "Escolhe o Senhor Odair José da Cunha para o cargo de Ministro do Tribunal de Contas da União, nos termos do inciso II do § 2° do art. 73 da Constituição Federal e do inciso II do art. 105 da Lei n° 8.443, de 16 de julho de 1992.",
+      "dataApresentacao": "2026-04-14T14:54"
+    },
+    {
+      "id": 2615929,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615929",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Célia Xakriabá (PSOL-MG), pela aprovação, com substitutivo.",
+      "dataApresentacao": "2026-04-14T09:41"
+    },
+    {
+      "id": 2615930,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615930",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 12.512, de 14 de outubro de 2011, para dispor sobre o Programa de Apoio à Conservação Ambiental.",
+      "dataApresentacao": "2026-04-14T09:41"
+    },
+    {
+      "id": 2615931,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615931",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1807,
+      "ano": 2026,
+      "ementa": "Cria o Programa de Atendimento Veterinário de Emergência – AcolhePet, com a finalidade de garantir o atendimento emergencial a animais domésticos em situação de risco iminente à vida ou à saúde.",
+      "dataApresentacao": "2026-04-14T15:00"
+    },
+    {
+      "id": 2615932,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615932",
+      "siglaTipo": "RDF",
+      "codTipo": 197,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Redação Final ao PDL 595/2025",
+      "dataApresentacao": "2026-04-14T15:08"
+    },
+    {
+      "id": 2615933,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615933",
+      "siglaTipo": "EMC",
+      "codTipo": 130,
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Emenda modificativa ao PL nº 758/2026 para dispor sobre a composição do Conselho de Sentença nos julgamentos de crimes de feminicídio, assegurando a participação mínima de metade de mulheres, observada a disponibilidade de juradas aptas.",
+      "dataApresentacao": "2026-04-14T15:02"
+    },
+    {
+      "id": 2615934,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615934",
+      "siglaTipo": "RDF",
+      "codTipo": 197,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Redação Final ao PDL 254/2025",
+      "dataApresentacao": "2026-04-14T15:10"
+    },
+    {
+      "id": 2615935,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615935",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1808,
+      "ano": 2026,
+      "ementa": "Proíbe a exploração, a oferta, a promoção e a facilitação de apostas de quota fixa em todo o território nacional, revoga dispositivos das Leis nº 13.756, de 12 de dezembro de 2018, e nº 14.790, de 29 de dezembro de 2023, estabelece medidas de bloqueio de acesso, remoção de aplicações, interrupção de fluxos financeiros, responsabilização de intermediários e proteção de conteúdos de interesse público, e dá outras providências.",
+      "dataApresentacao": "2026-04-14T15:16"
+    },
+    {
+      "id": 2615936,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615936",
+      "siglaTipo": "REQ",
+      "codTipo": 441,
+      "numero": 2076,
+      "ano": 2026,
+      "ementa": "Requer Moção de Aplausos e Reconhecimento ao Município de Mata de São João, no Estado da Bahia, pela celebração de seu aniversário de emancipação política, ocorrido em 15 de abril.",
+      "dataApresentacao": "2026-04-14T15:07"
+    },
+    {
+      "id": 2615937,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615937",
+      "siglaTipo": "SBR",
+      "codTipo": 709,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 10.406/2002 (Código Civil Brasileiro), para dispor sobre o fim da distinção entre elevador de serviço e elevador social, de modo a combater a discriminação racial no Brasil",
+      "dataApresentacao": "2026-04-14T10:15"
+    },
+    {
+      "id": 2615938,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615938",
+      "siglaTipo": "REQ",
+      "codTipo": 625,
+      "numero": 31,
+      "ano": 2026,
+      "ementa": "Requer a declaração de prejudicialidade do Projeto de Decreto Legislativo nº 34, de 2022.",
+      "dataApresentacao": "2026-04-14T15:20"
+    },
+    {
+      "id": 2615939,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615939",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 584,
+      "ano": 2026,
+      "ementa": "Sugere ao Ministério da Educação a adoção de medidas para viabilizar a criação e implantação do Campus da Universidade Federal do Acre – UFAC no município de Sena Madureira, Estado do Acre.",
+      "dataApresentacao": "2026-04-14T15:24"
+    },
+    {
+      "id": 2615940,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615940",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Rafael Simoes (UNIÃO-MG), pela aprovação, com substitutivo.",
+      "dataApresentacao": "2026-04-14T15:07"
+    },
+    {
+      "id": 2615941,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615941",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 585,
+      "ano": 2026,
+      "ementa": "Sugere ao Ministério da Educação a adoção de medidas para viabilizar a criação e implantação do Campus da Universidade Federal do Acre – UFAC na Regional Administrativa de Tarauacá/Envira, no município de Tarauacá no Estado do Acre.",
+      "dataApresentacao": "2026-04-14T15:24"
+    },
+    {
+      "id": 2615942,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615942",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 586,
+      "ano": 2026,
+      "ementa": "Sugere ao Ministério da Educação a adoção de medidas para viabilizar a implantação do Hospital Universitário da Universidade Federal do Acre – HU-UFAC, no Estado do Acre.",
+      "dataApresentacao": "2026-04-14T15:24"
+    },
+    {
+      "id": 2615943,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615943",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a regulação da importação de leite, leite em pó, queijo mussarela e derivados, estabelece limites proporcionais ao consumo interno e proíbe a reidratação de leite em pó importado no território nacional.",
+      "dataApresentacao": "2026-04-14T15:07"
+    },
+    {
+      "id": 2615944,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615944",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 587,
+      "ano": 2026,
+      "ementa": "Sugere ao Ministério da Educação a adoção de medidas para viabilizar a implantação do Campus Fronteira Trinacional do Instituto Federal de Educação, Ciência e Tecnologia do Acre – IFAC, no município de Epitaciolândia/AC.",
+      "dataApresentacao": "2026-04-14T15:24"
+    },
+    {
+      "id": 2615945,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615945",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 588,
+      "ano": 2026,
+      "ementa": "Sugere-se ao Ministério da Justiça e Segurança Pública a imediata implementação do Cadastro Nacional de Pessoas Condenadas por Crimes Sexuais, nos termos da Lei nº 14.069/2020.",
+      "dataApresentacao": "2026-04-14T15:27"
+    },
+    {
+      "id": 2615946,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615946",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1810,
+      "ano": 2026,
+      "ementa": "Confere ao Município de Lindolfo Collor, no Estado do Rio Grande do Sul, o título de Capital Nacional do Tapete de Couro.",
+      "dataApresentacao": "2026-04-14T15:31"
+    },
+    {
+      "id": 2615947,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615947",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Julio Cesar Ribeiro (REPUBLIC-DF), pela constitucionalidade, juridicidade, técnica legislativa e, no mérito, pela aprovação deste, do Projeto de Lei nº 2.367/2024, apensado, e do Substitutivo da Comissão de Defesa dos Direitos da Pessoa Idosa, com subemenda.",
+      "dataApresentacao": "2026-04-14T15:25"
+    },
+    {
+      "id": 2615948,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615948",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Julio Cesar Ribeiro (REPUBLIC-DF), pela constitucionalidade, juridicidade e técnica legislativa deste, na forma do Substitutivo da Comissão de Saúde, com a Subemenda da Comissão de Finanças e Tributação.",
+      "dataApresentacao": "2026-04-14T15:25"
+    },
+    {
+      "id": 2615949,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615949",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Eli Borges (REPUBLIC-TO), pela aprovação, com substitutivo.",
+      "dataApresentacao": "2026-04-14T13:55"
+    },
+    {
+      "id": 2615950,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615950",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Acrescenta dispositivo Lei nº 10.257, de 10 de julho de 2001, para inserir hipótese de imóvel subutilizado.",
+      "dataApresentacao": "2026-04-14T13:55"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=114"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=115&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=113&itens=100"
+    }
+  ]
+}

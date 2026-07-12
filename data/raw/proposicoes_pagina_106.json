@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2615033,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615033",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 280/2025",
+      "dataApresentacao": "2026-04-09T15:22"
+    },
+    {
+      "id": 2615034,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615034",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 281/2025",
+      "dataApresentacao": "2026-04-09T15:22"
+    },
+    {
+      "id": 2615035,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615035",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 283/2025",
+      "dataApresentacao": "2026-04-09T15:22"
+    },
+    {
+      "id": 2615036,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615036",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 284/2025",
+      "dataApresentacao": "2026-04-09T15:22"
+    },
+    {
+      "id": 2615037,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615037",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.146, de 2015, Lei Brasileira de Inclusão da Pessoa com Deficiência, para dispor sobre a reserva de veículos para pessoas com deficiência nas frotas de locadoras de veículos e de empresas de turismo e de transporte de passageiros sob o regime de fretamento.",
+      "dataApresentacao": "2026-04-09T17:20"
+    },
+    {
+      "id": 2615038,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615038",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 300/2025",
+      "dataApresentacao": "2026-04-09T15:22"
+    },
+    {
+      "id": 2615039,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615039",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 317/2025",
+      "dataApresentacao": "2026-04-09T15:22"
+    },
+    {
+      "id": 2615040,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615040",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 318/2025",
+      "dataApresentacao": "2026-04-09T15:22"
+    },
+    {
+      "id": 2615041,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615041",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 319/2025",
+      "dataApresentacao": "2026-04-09T15:22"
+    },
+    {
+      "id": 2615042,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615042",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 320/2025",
+      "dataApresentacao": "2026-04-09T15:22"
+    },
+    {
+      "id": 2615043,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615043",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1740,
+      "ano": 2026,
+      "ementa": "Institui a Campanha Nacional de Conscientização para a Inclusão das Pessoas com Deficiência nas instituições de ensino da educação básica.",
+      "dataApresentacao": "2026-04-09T17:26"
+    },
+    {
+      "id": 2615044,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615044",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 321/2025",
+      "dataApresentacao": "2026-04-09T15:38"
+    },
+    {
+      "id": 2615045,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615045",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 322/2025",
+      "dataApresentacao": "2026-04-09T15:38"
+    },
+    {
+      "id": 2615046,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615046",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 324/2025",
+      "dataApresentacao": "2026-04-09T15:38"
+    },
+    {
+      "id": 2615047,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615047",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 325/2025",
+      "dataApresentacao": "2026-04-09T15:38"
+    },
+    {
+      "id": 2615048,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615048",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 346/2025",
+      "dataApresentacao": "2026-04-09T15:38"
+    },
+    {
+      "id": 2615049,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615049",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 347/2025",
+      "dataApresentacao": "2026-04-09T15:38"
+    },
+    {
+      "id": 2615050,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615050",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 348/2025",
+      "dataApresentacao": "2026-04-09T15:38"
+    },
+    {
+      "id": 2615051,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615051",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 349/2025",
+      "dataApresentacao": "2026-04-09T15:38"
+    },
+    {
+      "id": 2615052,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615052",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 350/2025",
+      "dataApresentacao": "2026-04-09T15:38"
+    },
+    {
+      "id": 2615053,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615053",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 351/2025",
+      "dataApresentacao": "2026-04-09T15:38"
+    },
+    {
+      "id": 2615054,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615054",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 352/2025",
+      "dataApresentacao": "2026-04-09T15:39"
+    },
+    {
+      "id": 2615055,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615055",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 353/2025",
+      "dataApresentacao": "2026-04-09T15:39"
+    },
+    {
+      "id": 2615056,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615056",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 361/2025",
+      "dataApresentacao": "2026-04-09T15:39"
+    },
+    {
+      "id": 2615057,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615057",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 362/2025",
+      "dataApresentacao": "2026-04-09T15:39"
+    },
+    {
+      "id": 2615058,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615058",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 363/2025",
+      "dataApresentacao": "2026-04-09T15:39"
+    },
+    {
+      "id": 2615059,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615059",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 371/2025",
+      "dataApresentacao": "2026-04-09T15:39"
+    },
+    {
+      "id": 2615060,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615060",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 395/2025",
+      "dataApresentacao": "2026-04-09T15:39"
+    },
+    {
+      "id": 2615061,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615061",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 436/2025",
+      "dataApresentacao": "2026-04-09T15:39"
+    },
+    {
+      "id": 2615062,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615062",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 911/2025",
+      "dataApresentacao": "2026-04-09T15:39"
+    },
+    {
+      "id": 2615063,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615063",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCOM) à TVR 998/2025",
+      "dataApresentacao": "2026-04-09T15:39"
+    },
+    {
+      "id": 2615064,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615064",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 187,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Fundação Stenio Congro para executar serviço de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no Município de Aparecida do Taboado, Estado de Mato Grosso do Sul.",
+      "dataApresentacao": "2026-04-09T17:33"
+    },
+    {
+      "id": 2615065,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615065",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 188,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a concessão outorgada à Ceará Rádio Clube S.A., posteriormente transferida à Rádio TV do Maranhão Ltda. para explorar serviço de radiodifusão sonora em onda média regional, no Município de São Luís, Estado do Maranhão.",
+      "dataApresentacao": "2026-04-09T17:33"
+    },
+    {
+      "id": 2615066,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615066",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 189,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a outorga conferida à Fundação Nossa Senhora Aparecida para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Aparecida, Estado de São Paulo.",
+      "dataApresentacao": "2026-04-09T17:33"
+    },
+    {
+      "id": 2615067,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615067",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1742,
+      "ano": 2026,
+      "ementa": "Prevê a obrigatoriedade de os Municípios implantarem centros de atendimento integral e multidisciplinar para mulheres e respectivos dependentes em situação de violência doméstica e familiar e prevê o financiamento com recursos do Fundo Nacional de Segurança Pública.",
+      "dataApresentacao": "2026-04-09T17:33"
+    },
+    {
+      "id": 2615068,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615068",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 100,
+      "ano": 2026,
+      "ementa": "Estabelece normas gerais de direito financeiro, governança e responsabilidade na gestão dos fundos extra orçamentários, encargos e subsídios do setor elétrico, e dá outras providências.",
+      "dataApresentacao": "2026-04-09T17:33"
+    },
+    {
+      "id": 2615069,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615069",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 515,
+      "ano": 2026,
+      "ementa": "Requer o envio de indicação à Ministra de Gestão e Inovação em Serviços Públicos (MGI) para que promova a convocação dos candidatos excedentes aprovados para o cargo de Auditor Fiscal do Trabalho (AFT) no Concurso Nacional Unificado 1 (CNP1), e também para convocação dos aprovados nos cargos de Analista Técnico de Justiça e Defesa (ATJD), e Analista Técnico de  Desenvolvimento Socioeconômico (ATDS) no Concurso Público Unificado 2 (CNP2).",
+      "dataApresentacao": "2026-04-09T17:35"
+    },
+    {
+      "id": 2615070,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615070",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 190,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a outorga à Rádio e Televisão Rotioner Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Icaraíma, Estado do Paraná.",
+      "dataApresentacao": "2026-04-09T17:36"
+    },
+    {
+      "id": 2615071,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615071",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 191,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Candelária FM Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Santa Luzia D'Oeste, Estado de Rondônia.",
+      "dataApresentacao": "2026-04-09T17:36"
+    },
+    {
+      "id": 2615072,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615072",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 192,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Candelária FM Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Nova Brasilândia D'Oeste, Estado de Rondônia.",
+      "dataApresentacao": "2026-04-09T17:36"
+    },
+    {
+      "id": 2615073,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615073",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 193,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Candelária FM Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Alto Paraíso, Estado de Rondônia.",
+      "dataApresentacao": "2026-04-09T17:36"
+    },
+    {
+      "id": 2615074,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615074",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 194,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a outorga concedida à Rádio e Televisão Eldorado do Brasil Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Porto Velho, Estado de Rondônia.",
+      "dataApresentacao": "2026-04-09T17:36"
+    },
+    {
+      "id": 2615075,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615075",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 195,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Sociedade de Cultura Rádio Parecis Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Porto Velho, Estado de Rondônia.",
+      "dataApresentacao": "2026-04-09T17:36"
+    },
+    {
+      "id": 2615076,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615076",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 196,
+      "ano": 2026,
+      "ementa": "Aprova o ato constante da Portaria MCOM nº 13.529, de 12 de junho de 2024, que torna sem efeito a Portaria nº 1.245, de 31 de dezembro de 2008, publicada no Diário Oficial da União de 15 de janeiro de 2009, que outorgou permissão à Rádio e TV Desan Telecomunicações Ltda. para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão sonora em frequência modulada, no Município de Guaxupé, Estado de Minas Gerais.",
+      "dataApresentacao": "2026-04-09T17:36"
+    },
+    {
+      "id": 2615077,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615077",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 197,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a concessão outorgada à Rádio e Televisão Rio Negro Ltda. para explorar serviço de radiodifusão de sons e imagens, no Município de Manaus, Estado do Amazonas.",
+      "dataApresentacao": "2026-04-09T17:36"
+    },
+    {
+      "id": 2615078,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615078",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 198,
+      "ano": 2026,
+      "ementa": "Aprova o ato que outorga permissão à FM Murcia Ltda. para explorar serviço de radiodifusão sonora em frequência modulada, no Município de Tapejara, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2026-04-09T17:36"
+    },
+    {
+      "id": 2615079,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615079",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 199,
+      "ano": 2026,
+      "ementa": "Aprova o ato que outorga permissão à FM Murcia Ltda. para explorar serviço de radiodifusão sonora em frequência modulada, no Município de Torres, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2026-04-09T17:36"
+    },
+    {
+      "id": 2615080,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615080",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 200,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Fundação Mãe de Deus para executar serviço de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no Município de Caxias do Sul, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2026-04-09T17:38"
+    },
+    {
+      "id": 2615081,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615081",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 201,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a autorização outorgada à Associação Cultural de Integração Comunitária de Santa Cruz do Sul - ACICOM para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Santa Cruz do Sul, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2026-04-09T17:38"
+    },
+    {
+      "id": 2615082,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615082",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 202,
+      "ano": 2026,
+      "ementa": "Aprova o ato que outorga permissão à H.L. da Silva & E.S.W. Ferreira Ltda. para explorar serviço de radiodifusão sonora em frequência modulada, no Município de Cachoeira do Arari, Estado do Pará.",
+      "dataApresentacao": "2026-04-09T17:38"
+    },
+    {
+      "id": 2615083,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615083",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 203,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Gaudério FM Ltda. para executar serviço de radiodifusão sonora em frequência modulada no Município de Estação, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2026-04-09T17:38"
+    },
+    {
+      "id": 2615084,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615084",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 204,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à GC Comunicações Ltda. para executar serviço de radiodifusão sonora em frequência modulada no Município de Vista Alegre, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2026-04-09T17:38"
+    },
+    {
+      "id": 2615085,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615085",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 205,
+      "ano": 2026,
+      "ementa": "Aprova o ato que autoriza a Associação Pró-Cultural Rádio Comunitária Terra Gaúcha FM - RadioCom Terra Gaúcha a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Santa Cruz do Sul, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2026-04-09T17:38"
+    },
+    {
+      "id": 2615086,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615086",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 206,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Rádio e Televisão Bandeirantes S.A. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Porto Alegre, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2026-04-09T17:38"
+    },
+    {
+      "id": 2615087,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615087",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 207,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Fundação Rádio e TV Educativa Atlântico Norte para executar serviço de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no Município de Castanhal, Estado do Pará.",
+      "dataApresentacao": "2026-04-09T17:38"
+    },
+    {
+      "id": 2615088,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615088",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 208,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a autorização outorgada à Associação Cultural de Comunicação Mega Cidade para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Ananindeua, Estado do Pará.",
+      "dataApresentacao": "2026-04-09T17:38"
+    },
+    {
+      "id": 2615089,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615089",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 209,
+      "ano": 2026,
+      "ementa": "Aprova o ato que autoriza a Associação de Desenvolvimento Artístico Cultural da Aldeia Indígena de Belém do Solimões - ADACAIBS a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Tabatinga, Estado do Amazonas.",
+      "dataApresentacao": "2026-04-09T17:38"
+    },
+    {
+      "id": 2615090,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615090",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 210,
+      "ano": 2026,
+      "ementa": "Aprova o ato que autoriza a Associação Rádio Comunitária Serrana a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de São Francisco de Assis, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2026-04-09T17:41"
+    },
+    {
+      "id": 2615091,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615091",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 211,
+      "ano": 2026,
+      "ementa": "Aprova o ato que autoriza a Azaleias do Vale a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Araricá, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2026-04-09T17:41"
+    },
+    {
+      "id": 2615092,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615092",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 212,
+      "ano": 2026,
+      "ementa": "Aprova o ato que autoriza a Associação Comunitária, Cultural e Desenvolvimento Social de Fortaleza dos Valos - ACODEFOVA a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Fortaleza dos Valos, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2026-04-09T17:41"
+    },
+    {
+      "id": 2615093,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615093",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 213,
+      "ano": 2026,
+      "ementa": "Aprova o ato que autoriza a Associação Comunitária Peregrino a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Caxias do Sul, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2026-04-09T17:41"
+    },
+    {
+      "id": 2615094,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615094",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 214,
+      "ano": 2026,
+      "ementa": "Aprova o ato que autoriza a Associação Comunitária de Rádio de Nova Roma do Sul a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Nova Roma do Sul, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2026-04-09T17:41"
+    },
+    {
+      "id": 2615095,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615095",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 215,
+      "ano": 2026,
+      "ementa": "Aprova o ato que autoriza a Associação Pró Cerrito de Desenvolvimento Comunitário a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Cerrito, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2026-04-09T17:41"
+    },
+    {
+      "id": 2615096,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615096",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Maurício Carvalho (UNIÃO-RO), pela aprovação do PL 3673/2024, e da Emenda Adotada pela Comissão de Saúde.",
+      "dataApresentacao": "2026-04-09T15:13"
+    },
+    {
+      "id": 2615097,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615097",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 216,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a outorga à Rádio Jornal de Sergipe Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Aracaju, Estado de Sergipe.",
+      "dataApresentacao": "2026-04-09T17:41"
+    },
+    {
+      "id": 2615098,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615098",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 217,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Rádio A Voz do Sertão Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Afogados da Ingazeira, Estado de Pernambuco.",
+      "dataApresentacao": "2026-04-09T17:41"
+    },
+    {
+      "id": 2615099,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615099",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 218,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Rádio FM Rubiataba Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Rubiataba, Estado de Goiás.",
+      "dataApresentacao": "2026-04-09T17:41"
+    },
+    {
+      "id": 2615100,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615100",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 219,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a outorga à CBS Comunicações Brasil Sat Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Santos, Estado de São Paulo.",
+      "dataApresentacao": "2026-04-09T17:41"
+    },
+    {
+      "id": 2615101,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615101",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1743,
+      "ano": 2026,
+      "ementa": "Institui, no âmbito da administração pública federal, o Canal Nacional Linha Direta de denúncia de descumprimento da legislação de acessibilidade em equipamentos públicos.",
+      "dataApresentacao": "2026-04-09T17:42"
+    },
+    {
+      "id": 2615102,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615102",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 516,
+      "ano": 2026,
+      "ementa": "Sugere ao Presidente do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis, a alteração da Instrução Normativa Ibama nº 7, de 17 de março de 2026, para explicitar que a classificação do pirarucu (Arapaima gigas) como espécie exótica invasora fora de sua área de ocorrência natural não se aplica a exemplares oriundos de cultivo aquícola regular.",
+      "dataApresentacao": "2026-04-09T17:44"
+    },
+    {
+      "id": 2615103,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615103",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 220,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Caboronga de Ipirá Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Ipirá, Estado da Bahia.",
+      "dataApresentacao": "2026-04-09T17:44"
+    },
+    {
+      "id": 2615104,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615104",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 221,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Rainha FM Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Bento Gonçalves, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2026-04-09T17:44"
+    },
+    {
+      "id": 2615105,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615105",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 222,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Fundação Expansão Cultural Rádio e TV Canoinhas para executar serviço de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no Município de Canoinhas, Estado de Santa Catarina.",
+      "dataApresentacao": "2026-04-09T17:44"
+    },
+    {
+      "id": 2615106,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615106",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 223,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a concessão outorgada à Rádio Regional de Serrinha Ltda. para explorar serviço de radiodifusão sonora em onda média, de âmbito regional, no Município de Serrinha, Estado da Bahia.",
+      "dataApresentacao": "2026-04-09T17:44"
+    },
+    {
+      "id": 2615107,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615107",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 224,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a outorga conferida à Rádio Cidade Verde de Pedro II Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Pedro II, Estado do Piauí.",
+      "dataApresentacao": "2026-04-09T17:44"
+    },
+    {
+      "id": 2615108,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615108",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 225,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada ao Sistema Santarosense de Comunicação Ltda. para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão sonora em frequência modulada no Município de Santa Rosa de Viterbo, Estado de São Paulo.",
+      "dataApresentacao": "2026-04-09T17:44"
+    },
+    {
+      "id": 2615109,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615109",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 226,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a outorga à Rádio Abais de Estância Ltda. para explorar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Estância, Estado de Sergipe.",
+      "dataApresentacao": "2026-04-09T17:44"
+    },
+    {
+      "id": 2615110,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615110",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 227,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Radio Tropical FM Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Birigui, Estado de São Paulo.",
+      "dataApresentacao": "2026-04-09T17:44"
+    },
+    {
+      "id": 2615111,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615111",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 228,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a outorga à Rádio Difusora de Mirassol Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Mirassol, Estado de São Paulo.",
+      "dataApresentacao": "2026-04-09T17:44"
+    },
+    {
+      "id": 2615112,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615112",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 229,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Rádio FM Iemanjá Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de  Salvador, Estado da Bahia.",
+      "dataApresentacao": "2026-04-09T17:44"
+    },
+    {
+      "id": 2615113,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615113",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 230,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Rádio FM Tropical de Euclides da Cunha para executar serviço de radiodifusão sonora em frequência modulada, no Município de Euclides da Cunha, Estado da Bahia.",
+      "dataApresentacao": "2026-04-09T17:47"
+    },
+    {
+      "id": 2615114,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615114",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 231,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a concessão outorgada à Frequência Brasileira de Comunicações Ltda. para explorar serviço de radiodifusão sonora em onda média regional, no Município de Garopaba, Estado de Santa Catarina.",
+      "dataApresentacao": "2026-04-09T17:47"
+    },
+    {
+      "id": 2615115,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615115",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 232,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a outorga à Rádio Cultura de Linhares Ltda., posteriormente transferida à Cultura Comunicações Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Linhares, Estado do Espírito Santo.",
+      "dataApresentacao": "2026-04-09T17:47"
+    },
+    {
+      "id": 2615116,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615116",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 233,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Tropical de Três Corações Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Três Corações, Estado de Minas Gerais.",
+      "dataApresentacao": "2026-04-09T17:47"
+    },
+    {
+      "id": 2615117,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615117",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 234,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a outorga à Sociedade Rádio Liberdade Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Guaratinguetá, Estado de São Paulo.",
+      "dataApresentacao": "2026-04-09T17:47"
+    },
+    {
+      "id": 2615118,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615118",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 235,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a permissão outorgada à Rádio Itaí Ltda., posteriormente transferida à Rádio Universitária Metropolitana Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão sonora em frequência modulada no Município de Porto Alegre, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2026-04-09T17:47"
+    },
+    {
+      "id": 2615119,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615119",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 236,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a outorga à Rádio Floresta Verde AM Ltda. para explorar serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de  Joinville, Estado de Santa Catarina.",
+      "dataApresentacao": "2026-04-09T17:47"
+    },
+    {
+      "id": 2615120,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615120",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 237,
+      "ano": 2026,
+      "ementa": "Aprova o ato que autoriza a Associação Ararena a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no município de Ararendá, estado do Ceará.",
+      "dataApresentacao": "2026-04-09T17:47"
+    },
+    {
+      "id": 2615121,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615121",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 238,
+      "ano": 2026,
+      "ementa": "Aprova o ato que autoriza o Instituto Inhauma a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Inhuma, Estado do Piauí.",
+      "dataApresentacao": "2026-04-09T17:47"
+    },
+    {
+      "id": 2615122,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615122",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 239,
+      "ano": 2026,
+      "ementa": "Aprova o ato que renova a autorização outorgada à Fundação Fronteiras para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Fronteiras, Estado do Piauí.",
+      "dataApresentacao": "2026-04-09T17:47"
+    },
+    {
+      "id": 2615124,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615124",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Laura Carneiro (PSD-RJ), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária do PL 1224/2019, e do Substitutivo adotado pela Comissão de Educação; e pela inadequação financeira e orçamentária do PL 3259/2020, apensado.",
+      "dataApresentacao": "2026-04-09T16:06"
+    },
+    {
+      "id": 2615125,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615125",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 517,
+      "ano": 2026,
+      "ementa": "Sugere ao Ministério da Educação a implementação do Programa “Bombeiro Mirim Escolar” nas escolas públicas de ensino fundamental.",
+      "dataApresentacao": "2026-04-09T17:51"
+    },
+    {
+      "id": 2615126,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615126",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1744,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.764/2012 para dispor sobre medidas de apoio à preparação para o acesso ao ensino superior no âmbito de políticas públicas educacionais.",
+      "dataApresentacao": "2026-04-09T18:05"
+    },
+    {
+      "id": 2615127,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615127",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1745,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.146/2015 para explicitar parâmetros de acessibilidade cognitiva em processos seletivos e concursos públicos.",
+      "dataApresentacao": "2026-04-09T18:05"
+    },
+    {
+      "id": 2615128,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615128",
+      "siglaTipo": "EMR",
+      "codTipo": 257,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-09T18:21"
+    },
+    {
+      "id": 2615129,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615129",
+      "siglaTipo": "SBR",
+      "codTipo": 709,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-09T18:21"
+    },
+    {
+      "id": 2615130,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615130",
+      "siglaTipo": "SBR",
+      "codTipo": 709,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-09T18:21"
+    },
+    {
+      "id": 2615131,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615131",
+      "siglaTipo": "REQ",
+      "codTipo": 293,
+      "numero": 1997,
+      "ano": 2026,
+      "ementa": "Requer a realização de Sessão Solene da Câmara dos Deputados em homenagem aos 75 anos do Jornal Pequeno/MA.",
+      "dataApresentacao": "2026-04-09T18:25"
+    },
+    {
+      "id": 2615132,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615132",
+      "siglaTipo": "SBR",
+      "codTipo": 709,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-09T18:32"
+    },
+    {
+      "id": 2615134,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615134",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Lídice da Mata (PSB-BA), pela constitucionalidade, juridicidade e técnica legislativa deste, com a Emenda da Comissão de Cultura.",
+      "dataApresentacao": "2026-04-09T14:55"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=106"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=107&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=105&itens=100"
+    }
+  ]
+}

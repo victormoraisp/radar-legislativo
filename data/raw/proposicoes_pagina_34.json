@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2508883,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2508883",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 1372,
+      "ano": 2025,
+      "ementa": "Sugere ao Ministério da Saúde a atualização dos valores estabelecidos na tabela do Sistema Único de Saúde (SUS) para o programa de Tratamento Fora de Domicílio (TFD).",
+      "dataApresentacao": "2025-05-14T16:21"
+    },
+    {
+      "id": 2508903,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2508903",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2311,
+      "ano": 2025,
+      "ementa": "Institui o Dia Nacional do Frentista",
+      "dataApresentacao": "2025-05-14T16:42"
+    },
+    {
+      "id": 2509006,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2509006",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2319,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021, para incluir critério de desempate de propostas nas licitações.",
+      "dataApresentacao": "2025-05-14T20:06"
+    },
+    {
+      "id": 2509374,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2509374",
+      "siglaTipo": "REQ",
+      "codTipo": 523,
+      "numero": 48,
+      "ano": 2025,
+      "ementa": "Requer a convocação da Ministra do Meio Ambiente, Sra. Marina Silva para prestar esclarecimentos da Operação de Embargo Remoto realizada no Estado do Pará.",
+      "dataApresentacao": "2025-05-15T16:07"
+    },
+    {
+      "id": 2509454,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2509454",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2334,
+      "ano": 2025,
+      "ementa": "Institui o Programa Nacional de Solicitação Digital de Medidas Protetivas de Urgência, destinada a mulheres em situação de violência doméstica e familiar.",
+      "dataApresentacao": "2025-05-15T17:43"
+    },
+    {
+      "id": 2509462,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2509462",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2335,
+      "ano": 2025,
+      "ementa": "Institui o Dia Nacional do Patrimônio Histórico e Cultural dos Poloneses no Brasil.",
+      "dataApresentacao": "2025-05-15T18:19"
+    },
+    {
+      "id": 2509467,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2509467",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2336,
+      "ano": 2025,
+      "ementa": "Altera a Lei n° 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, para tipificar como crime a conduta de induzir, instigar ou auxiliar, por meio de mídias digitais, redes sociais, aplicativos, plataformas digitais ou qualquer meio eletrônico, crianças e adolescentes a praticarem atos que coloquem em risco sua integridade física, saúde ou vida.",
+      "dataApresentacao": "2025-05-15T19:00"
+    },
+    {
+      "id": 2509485,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2509485",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2337,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 9.503, de 1997, que institui o Código de Trânsito Brasileiro, para o dispor sobre o curso de direção segura em rodovias para os condutores portadores de Permissão para Dirigir.",
+      "dataApresentacao": "2025-05-15T20:06"
+    },
+    {
+      "id": 2509769,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2509769",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2342,
+      "ano": 2025,
+      "ementa": "Altera o Estatuto do Idoso para garantir gratuidade no transporte público a partir dos 60 anos e proibir exigência de cadastro prévio ou cartão eletrônico.",
+      "dataApresentacao": "2025-05-16T15:25"
+    },
+    {
+      "id": 2509794,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2509794",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2344,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 12.187, de 29 de dezembro de 2009 – Política Nacional sobre Mudança do Clima – PNMC, para vedar embargos em propriedades sem prévia lavratura de auto de infração e vedar embargos coletivos.",
+      "dataApresentacao": "2025-05-16T15:48"
+    },
+    {
+      "id": 2509930,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2509930",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2349,
+      "ano": 2025,
+      "ementa": "Cria lei que dispõe sobre a cassação definitiva da Carteira Nacional de Habilitação (CNH) de condutores condenados, com trânsito em julgado, por crimes de assédio sexual ou estupro praticados contra passageiros no exercício da atividade de transporte de pessoas, e altera a Lei nº 9.503, de 23 de setembro de 1997 – Código de Trânsito Brasileiro.",
+      "dataApresentacao": "2025-05-16T18:11"
+    },
+    {
+      "id": 2510109,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2510109",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2356,
+      "ano": 2025,
+      "ementa": "Determina que a Administração Pública Federal direta e indireta realize avaliação técnica, econômica e ambiental quanto à adoção de sistema de micro ou minigeração distribuída de energia elétrica na contratação de obras de edificações públicas.",
+      "dataApresentacao": "2025-05-19T11:09"
+    },
+    {
+      "id": 2510285,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2510285",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 77,
+      "ano": 2025,
+      "ementa": "Requer a realização de Audiência Pública para debater os impactos ambientais, sanitários e econômicos decorrentes da eventual proibição da caça ao javali-europeu (Sus scrofa), espécie invasora que tem se proliferado de forma descontrolada em diversas regiões do Brasil, especialmente em Santa Catarina.",
+      "dataApresentacao": "2025-05-16T16:16"
+    },
+    {
+      "id": 2510308,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2510308",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 79,
+      "ano": 2025,
+      "ementa": "Requer a realização de audiência pública para debater o controle populacional do javali (Sus scrofa) no território brasileiro.",
+      "dataApresentacao": "2025-05-19T11:04"
+    },
+    {
+      "id": 2510471,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2510471",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 82,
+      "ano": 2025,
+      "ementa": "Requeiro, nos termos regimentais, que seja realizada Audiência Pública nesta Comissão, em data a ser definida, para debater o Dia Nacional do Sorgo, com o objetivo de promover o desenvolvimento, valorização, industrialização e expansão comercial dessa cultura estratégica para o agronegócio brasileiro.",
+      "dataApresentacao": "2025-05-19T15:22"
+    },
+    {
+      "id": 2510525,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2510525",
+      "siglaTipo": "REQ",
+      "codTipo": 686,
+      "numero": 51,
+      "ano": 2025,
+      "ementa": "Requer a realização de Seminário conjunto das Comissões de Meio Ambiente e Desenvolvimento Sustentável e a Comissão da Amazônia e dos Povos Originários e Tradicionais para tratar dos impactos da Mineração em Terras Indígenas e a correlação com a Lei 14.701/2023 e a Mesa de Conciliação no Supremo Tribunal Federal.",
+      "dataApresentacao": "2025-05-19T15:02"
+    },
+    {
+      "id": 2511029,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2511029",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2371,
+      "ano": 2025,
+      "ementa": "Cria o “Programa Empresa em 48 horas - E48” e o Sistema Nacional Unificado de Registro Empresarial – SNURE, e dá outras providências.",
+      "dataApresentacao": "2025-05-20T10:25"
+    },
+    {
+      "id": 2511288,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2511288",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2379,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), para garantir ao titular o direito a alternativa de identificação que não envolva o fornecimento de dados biométricos faciais.",
+      "dataApresentacao": "2025-05-20T13:24"
+    },
+    {
+      "id": 2511953,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2511953",
+      "siglaTipo": "REQ",
+      "codTipo": 686,
+      "numero": 85,
+      "ano": 2025,
+      "ementa": "Requer a realização de Seminário para debater o programa \"Desenrola Rural e as dívidas rurais dos pequenos agricultores sergipanos\", a ser realizado no município de Porto da Folha (SE).",
+      "dataApresentacao": "2025-05-20T16:49"
+    },
+    {
+      "id": 2512001,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2512001",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2390,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 14.233, de 3 de novembro de 2021 – que institui o Dia Nacional de Conscientização e Enfrentamento da Fibromialgia - para dispor sobre seus objetivos.",
+      "dataApresentacao": "2025-05-20T17:15"
+    },
+    {
+      "id": 2512212,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2512212",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2393,
+      "ano": 2025,
+      "ementa": "Aperfeiçoa a legislação penal relativa aos crimes de pedofilia e de maus-tratos",
+      "dataApresentacao": "2025-05-20T18:38"
+    },
+    {
+      "id": 2512771,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2512771",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2402,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Incentivo à Economia Circular e à Logística Reversa, estabelece obrigações para fabricantes, importadores, distribuidores e comerciantes, e dá outras providências.",
+      "dataApresentacao": "2025-05-20T20:44"
+    },
+    {
+      "id": 2513325,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2513325",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2403,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Assistência às Pessoas com Endometriose.",
+      "dataApresentacao": "2025-05-20T20:53"
+    },
+    {
+      "id": 2513329,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2513329",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2404,
+      "ano": 2025,
+      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal - para dispor sobre os critérios objetivos para a realização de busca pessoal, domiciliar e veicular, e estabelece o conceito de fundada suspeita para fins de abordagens policiais.",
+      "dataApresentacao": "2025-05-20T21:41"
+    },
+    {
+      "id": 2513886,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2513886",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2415,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, para considerar, como tempo de contribuição, o período de dedicação exclusiva à maternidade.",
+      "dataApresentacao": "2025-05-21T11:29"
+    },
+    {
+      "id": 2513925,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2513925",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2416,
+      "ano": 2025,
+      "ementa": "Dispõe sobre o aproveitamento de trechos ferroviários desativados para fins de mobilidade urbana e segurança viária, e dá outras providências.",
+      "dataApresentacao": "2025-05-21T11:41"
+    },
+    {
+      "id": 2514322,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2514322",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2418,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a estruturação e o funcionamento do Conselho Nacional da Segurança Privada (CONASEP) e dos Conselhos Comunitários de Segurança Privada (CONSEPRIs), bem como sobre sua atuação complementar nas áreas de segurança privada e defesa civil, e dá outras providências.",
+      "dataApresentacao": "2025-05-21T13:49"
+    },
+    {
+      "id": 2514627,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2514627",
+      "siglaTipo": "REQ",
+      "codTipo": 686,
+      "numero": 86,
+      "ano": 2025,
+      "ementa": "Requer a participação do Deputado Rafael Simões, representando a Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural – CAPADR, na 5a edição do Lagoas do Leite, em Sete Lagoas/MG.",
+      "dataApresentacao": "2025-05-21T14:14"
+    },
+    {
+      "id": 2514629,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2514629",
+      "siglaTipo": "REQ",
+      "codTipo": 686,
+      "numero": 87,
+      "ano": 2025,
+      "ementa": "Requer a participação do Deputado Rafael Simões, representando a Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural – CAPADR, no evento denominado Megaleite 2025, maior exposição de pecuária leiteira da América Latina.",
+      "dataApresentacao": "2025-05-21T14:22"
+    },
+    {
+      "id": 2514763,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2514763",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2433,
+      "ano": 2025,
+      "ementa": "Institui a Semana Nacional da Cultura Evangélica.",
+      "dataApresentacao": "2025-05-21T16:30"
+    },
+    {
+      "id": 2514808,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2514808",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2434,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 12.858, de 9 de setembro de 2013, para estabelecer destinação de percentual da parcela da participação no resultado ou da compensação financeira pela exploração de petróleo e gás natural recebida pela União, para o financiamento de kits tecnológicos educacionais para estudantes da educação básica da rede pública e dá outras providências.",
+      "dataApresentacao": "2025-05-21T16:48"
+    },
+    {
+      "id": 2515018,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515018",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2451,
+      "ano": 2025,
+      "ementa": "Institui o Dia do Samurai",
+      "dataApresentacao": "2025-05-21T18:02"
+    },
+    {
+      "id": 2515253,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515253",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2455,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a essencialidade dos produtos destinados à alimentação de animais domésticos, determinando a aplicação de alíquotas reduzidas de tributos federais e estaduais, com o objetivo de promover justiça fiscal, acesso alimentar e proteção à saúde animal, à luz do interesse público e da função socioambiental da guarda responsável.",
+      "dataApresentacao": "2025-05-21T19:53"
+    },
+    {
+      "id": 2515281,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515281",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2462,
+      "ano": 2025,
+      "ementa": "Veda o uso de ferramentas de inteligência artificial para a realização de dublagem de obras audiovisuais ofertadas comercialmente em salas de cinema, nas programações de televisão aberta e por assinatura e nos serviços de vídeo sob demanda e outras plataformas de distribuição de conteúdos audiovisuais pela internet.",
+      "dataApresentacao": "2025-05-21T20:21"
+    },
+    {
+      "id": 2515359,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515359",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2464,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a regulamentação e limitação de depósitos a usuários de casas e plataformas de apostas online e dá outras providências.",
+      "dataApresentacao": "2025-05-22T10:27"
+    },
+    {
+      "id": 2515367,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515367",
+      "siglaTipo": "REQ",
+      "codTipo": 686,
+      "numero": 55,
+      "ano": 2025,
+      "ementa": "Requer a realização de seminário conjunto sobre a campanha “Sem Mulher Não Tem Clima”, desta Comissão de Meio Ambiente e Desenvolvimento Sustentável com as Comissões de Defesa dos Direitos da Mulher e da Amazônia e dos Povos Originários e Comissão.",
+      "dataApresentacao": "2025-05-22T10:47"
+    },
+    {
+      "id": 2515388,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515388",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 89,
+      "ano": 2025,
+      "ementa": "Requer a realização de Audiência Pública na Comissão de Educação, para debater estratégias de enfrentamento à evasão escolar vinculada a questões emocionais.",
+      "dataApresentacao": "2025-05-22T11:08"
+    },
+    {
+      "id": 2515460,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515460",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2471,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 9.503, de 1997 (Código de Trânsito Brasileiro), para tipificar como crime de trânsito a participação em eventos com veículos automotores em via pública que coloquem em risco a segurança viária.",
+      "dataApresentacao": "2025-05-22T13:24"
+    },
+    {
+      "id": 2515534,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515534",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2475,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para tornar hediondo o crime de maus-tratos aos animais, quando do evento criminoso resultar a morte do animal.",
+      "dataApresentacao": "2025-05-22T15:13"
+    },
+    {
+      "id": 2515590,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515590",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2478,
+      "ano": 2025,
+      "ementa": "Dispõe sobre o reconhecimento do relevante interesse coletivo e a importância social das atividades desempenhadas pelo Conselho Nacional da Segurança Privada – CONASEP, seus Conselhos Comunitários de Segurança Privada – CONSEPRIs e seus filiados, incluindo atividades de Bombeiro Civil, e dá outras providências.",
+      "dataApresentacao": "2025-05-22T16:16"
+    },
+    {
+      "id": 2515592,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515592",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2480,
+      "ano": 2025,
+      "ementa": "Reconhece Nacionalmente a Profissão de Vigilante e Agente de Segurança Privada como atividade de risco para fins de aquisição de produtos e equipamentos destinados à sua própria segurança e defesa pessoal e dá outras providências.",
+      "dataApresentacao": "2025-05-22T16:16"
+    },
+    {
+      "id": 2515596,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515596",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2481,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 4.829, de 5 de novembro de 1965, para vedar o condicionamento da concessão do crédito rural à aquisição de outros produtos ou serviços financeiros, ressalvados aqueles destinados à mitigação de riscos inerentes à atividade rural.",
+      "dataApresentacao": "2025-05-22T16:25"
+    },
+    {
+      "id": 2515626,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515626",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2485,
+      "ano": 2025,
+      "ementa": "Denomina “Viaduto Reynaldo Del Bianco” o viaduto localizado na rodovia BR-153, no trevo de acesso à cidade de Centralina, Estado de Minas Gerais.",
+      "dataApresentacao": "2025-05-22T17:08"
+    },
+    {
+      "id": 2515634,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515634",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2489,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade do fornecimento gratuito de fraldas descartáveis a idosos e pessoas com deficiência em situação de vulnerabilidade econômica, e dá outras providências.",
+      "dataApresentacao": "2025-05-22T17:48"
+    },
+    {
+      "id": 2515639,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515639",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2493,
+      "ano": 2025,
+      "ementa": "Reconhece a rodovia BR-174 como infraestrutura crítica nacional, indispensável à segurança alimentar, ao abastecimento estratégico e ao desenvolvimento socioeconômico do estado de Roraima, e estabelece diretrizes para sua conservação e manutenção permanente.",
+      "dataApresentacao": "2025-05-22T17:48"
+    },
+    {
+      "id": 2515649,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515649",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 89,
+      "ano": 2025,
+      "ementa": "Requer a realização de audiência pública no âmbito da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural para debater os impactos, prejuízos, medidas emergenciais, estratégias de prevenção e desenvolvimento de vacina relacionados à Influenza Aviária (IA), especialmente à cepa altamente patogênica H5N1.",
+      "dataApresentacao": "2025-05-22T16:50"
+    },
+    {
+      "id": 2515659,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515659",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2496,
+      "ano": 2025,
+      "ementa": "Acrescenta art. 22-A à Lei nº 8.742, de 7 de dezembro de 1993, para dispor sobre o auxílio-funeral, estabelecendo critérios de concessão quando se tratar de benefício destinado aos familiares de pessoa doadora de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento.",
+      "dataApresentacao": "2025-05-22T19:21"
+    },
+    {
+      "id": 2515664,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515664",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2500,
+      "ano": 2025,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, e a Lei nº 7.210, de 11 de julho de 1984 – Lei de Execução Penal, para endurecer os requisitos de progressão de regime e livramento condicional de reincidentes em crimes patrimoniais praticados com violência ou grave ameaça à pessoa.",
+      "dataApresentacao": "2025-05-22T20:02"
+    },
+    {
+      "id": 2515680,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515680",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2501,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a vedação à restrição do uso de meios de pagamento em razão de pendências tributárias ou cadastrais do contribuinte junto a entes federativos, e dá outras providências.",
+      "dataApresentacao": "2025-05-23T09:51"
+    },
+    {
+      "id": 2515752,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515752",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 10,
+      "ano": 2025,
+      "ementa": "Requer a realização de audiência pública para instruir o PL nº 2141/2023.",
+      "dataApresentacao": "2025-05-22T17:23"
+    },
+    {
+      "id": 2515767,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515767",
+      "siglaTipo": "REQ",
+      "codTipo": 686,
+      "numero": 58,
+      "ano": 2025,
+      "ementa": "Requer a realização de seminário conjunto “COP 30 um Compromisso com as Vidas que Sustentam os Biomas”, desta Comissão de Meio Ambiente e Desenvolvimento Sustentável com Subcomissão Especial da Conferência das Partes (SUBCOP-30), as Comissões de Defesa dos Direitos da Mulher e da Amazônia e dos Povos Originários e Comissão.",
+      "dataApresentacao": "2025-05-23T12:13"
+    },
+    {
+      "id": 2515775,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515775",
+      "siglaTipo": "TVR",
+      "codTipo": 1058,
+      "numero": 360,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 14.608, de 23 de setembro de 2024, publicada no Diário Oficial da União de 4 de outubro de 2024, que renova, a partir de 1º de maio de 2024, a permissão outorgada à Rádio Clube de Itaúna S.A., atualmente denominada Rádio Clube de Itaúna Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Itaúna, Estado de Minas Gerais.",
+      "dataApresentacao": "2025-05-22T17:40"
+    },
+    {
+      "id": 2515778,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515778",
+      "siglaTipo": "TVR",
+      "codTipo": 1058,
+      "numero": 361,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 14.528, de 13 de setembro de 2024, que renova a outorgada à Rádio Cultura de Linhares Ltda., posteriormente transferida à Cultura Comunicações Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Linhares, Estado do Espírito Santo.",
+      "dataApresentacao": "2025-05-22T17:41"
+    },
+    {
+      "id": 2515781,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515781",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 362,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 14.542, de 16 de setembro de 2024, publicada no Diário Oficial da União de 4 de outubro de 2024, que renova, a partir de 9 de julho de 2024, a permissão outorgada à Rádio Tropical de Três Corações Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Três Corações, Estado de Minas Gerais.",
+      "dataApresentacao": "2025-05-22T17:41"
+    },
+    {
+      "id": 2515783,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515783",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2506,
+      "ano": 2025,
+      "ementa": "Reconhece a Procissão de Nossa Senhora Aparecida, realizada no Estado de Sergipe, como Patrimônio Cultural e Histórico do Brasil.",
+      "dataApresentacao": "2025-05-23T12:34"
+    },
+    {
+      "id": 2515786,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515786",
+      "siglaTipo": "TVR",
+      "codTipo": 1058,
+      "numero": 363,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 14.524, de 13 de setembro de 2024, que renova a outorgada à Sociedade Rádio Liberdade Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Guaratinguetá, Estado de São Paulo.",
+      "dataApresentacao": "2025-05-22T17:41"
+    },
+    {
+      "id": 2515788,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515788",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2508,
+      "ano": 2025,
+      "ementa": "Reconhece como Patrimônio Cultural Imaterial do Brasil o Carnaval do Município de Itabaianinha, no Estado de Sergipe.",
+      "dataApresentacao": "2025-05-23T12:34"
+    },
+    {
+      "id": 2515792,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515792",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2512,
+      "ano": 2025,
+      "ementa": "Reconhece a Procissão de Divina Pastora, realizada no Estado de Sergipe, como Patrimônio Cultural e Histórico do Brasil.",
+      "dataApresentacao": "2025-05-23T12:34"
+    },
+    {
+      "id": 2515800,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515800",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2514,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Enfrentamento ao Capacitismo",
+      "dataApresentacao": "2025-05-23T12:55"
+    },
+    {
+      "id": 2515819,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515819",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 366,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 14.159, de 12 de agosto de 2024, publicada no Diário Oficial da União de 2 de setembro de 2024, que renova, a partir de 15 de setembro de 2018, a permissão outorgada à Rádio Clube de Botucatu Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Botucatu, Estado de São Paulo.",
+      "dataApresentacao": "2025-05-22T17:41"
+    },
+    {
+      "id": 2515823,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515823",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 367,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 9.406, de 9 de maio de 2023, publicada no Diário Oficial da União de 7 de junho de 2023, que renova, a partir de 29 de novembro de 2014, a permissão outorgada à Rede CBJA de Radiodifusão Ltda., atualmente denominada de Rádio Musical de São Paulo Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Itapecerica da Serra, Estado de São Paulo.",
+      "dataApresentacao": "2025-05-22T17:41"
+    },
+    {
+      "id": 2515828,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515828",
+      "siglaTipo": "TVR",
+      "codTipo": 1058,
+      "numero": 368,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 8.495, de 24 de fevereiro de 2023, publicada no Diário Oficial da União de 16 de março de 2023, que renova, a partir de 1º de maio de 2014, a concessão outorgada à Rádio Marcelino Ramos Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Marcelino Ramos, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2025-05-22T17:41"
+    },
+    {
+      "id": 2515832,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515832",
+      "siglaTipo": "TVR",
+      "codTipo": 1058,
+      "numero": 369,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 14.258, de 20 de agosto de 2024, publicada no Diário Oficial da União de 3 de setembro de 2024, que renova, a partir de 7 de junho de 2023, a outorga à Rádio Clube São Domingos Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de São Domingos, Estado de Santa Catarina.",
+      "dataApresentacao": "2025-05-22T17:41"
+    },
+    {
+      "id": 2515839,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515839",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 371,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 12.895, de 10 de abril de 2024, publicada no Diário Oficial da União de 29 de abril de 2024, que renova, a partir de 1º de maio de 2014, a permissão outorgada à Rádio Itaí Ltda., posteriormente transferida à Rádio Universitária Metropolitana Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Porto Alegre, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2025-05-22T17:42"
+    },
+    {
+      "id": 2515843,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515843",
+      "siglaTipo": "TVR",
+      "codTipo": 1058,
+      "numero": 372,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 5.217, de 7 de abril de 2022, publicada no Diário Oficial da União de 9 de maio de 2022, que renova, a partir de 1º de novembro de 2013, a concessão outorgada à Rádio Cultura Araraquara Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Araraquara, Estado de São Paulo.",
+      "dataApresentacao": "2025-05-22T17:42"
+    },
+    {
+      "id": 2515848,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515848",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 373,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 13.883, de 12 de julho de 2024, publicada no Diário Oficial da União de 31 de julho de 2024, que renova, a partir de 5 de setembro de 2015, a permissão outorgada à Rádio Santos Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Santos, Estado de São Paulo.",
+      "dataApresentacao": "2025-05-22T17:42"
+    },
+    {
+      "id": 2515852,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515852",
+      "siglaTipo": "TVR",
+      "codTipo": 1097,
+      "numero": 374,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 13.846, de 10 de julho de 2024, publicada no Diário Oficial da União de 31 de julho de 2024, que renova, a partir de 12 de junho de 2021, a outorga à Rádio Modelo Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Modelo, Estado de Santa Catarina.",
+      "dataApresentacao": "2025-05-22T17:42"
+    },
+    {
+      "id": 2515856,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515856",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 375,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 5.148, de 28 de setembro de 2018, publicada no Diário Oficial da União de 22 de outubro de 2018, que renova, a partir de 6 de outubro de 2016, a permissão outorgada à Rondovisão Rondônia Rádio e Televisão Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Ji-Paraná, Estado de Rondônia.",
+      "dataApresentacao": "2025-05-22T17:42"
+    },
+    {
+      "id": 2515861,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515861",
+      "siglaTipo": "TVR",
+      "codTipo": 427,
+      "numero": 376,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 14.300, de 23 de agosto de 2024, publicada no Diário Oficial da União de 3 de setembro de 2024, que renova, a partir de 19 de março de 2024, a autorização outorgada à Associação e Movimento Comunitário Cultural Beneficiente Studio, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Peruíbe, Estado de São Paulo.",
+      "dataApresentacao": "2025-05-22T17:42"
+    },
+    {
+      "id": 2515866,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515866",
+      "siglaTipo": "TVR",
+      "codTipo": 431,
+      "numero": 377,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 14.207, de 15 de agosto de 2024, publicada no Diário Oficial da União de 2 de setembro de 2024, que renova, a partir de 1º de maio de 2024, a concessão outorgada à Rádio Difusora Vale do Paraíba Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, de âmbito regional, no Município de Barra do Piraí, Estado do Rio de Janeiro.",
+      "dataApresentacao": "2025-05-22T17:42"
+    },
+    {
+      "id": 2515877,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515877",
+      "siglaTipo": "TVR",
+      "codTipo": 492,
+      "numero": 379,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 5.837, de 20 de dezembro de 2017, publicada no Diário Oficial da União de 22 de dezembro de 2017, que outorga autorização à Associação de Apoio à Cultura e Desenvolvimento Comunitário de Pedro Laurentino, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Pedro Laurentino, Estado do Piauí.",
+      "dataApresentacao": "2025-05-22T17:42"
+    },
+    {
+      "id": 2515881,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515881",
+      "siglaTipo": "TVR",
+      "codTipo": 492,
+      "numero": 380,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 9.370, de 4 de maio de 2023, publicada no Diário Oficial da União de 7 de junho de 2023, que outorga autorização à Associação de Comunicação e Cultura de Atalaia Paraná, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Atalaia, Estado do Paraná.",
+      "dataApresentacao": "2025-05-22T17:42"
+    },
+    {
+      "id": 2515894,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515894",
+      "siglaTipo": "TVR",
+      "codTipo": 419,
+      "numero": 384,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 2.829, de 30 de julho de 2015, publicada no Diário Oficial da União de 3 de agosto de 2015, que outorga concessão à TV Norte Ltda., para explorar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, no Município de Alpercata, Estado de Minas Gerais.",
+      "dataApresentacao": "2025-05-22T17:43"
+    },
+    {
+      "id": 2515897,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515897",
+      "siglaTipo": "TVR",
+      "codTipo": 426,
+      "numero": 385,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 104, de 19 de abril de 2013, publicada no Diário Oficial da União de 23 de abril de 2013, que outorga permissão à Rádio FM Serrote Ltda., para explorar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, no Município de Viçosa do Ceará, Estado do Ceará.",
+      "dataApresentacao": "2025-05-22T17:43"
+    },
+    {
+      "id": 2515900,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515900",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 386,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 13.777, de 4 de julho de 2024, publicada no Diário Oficial da União de 12 de julho de 2024, que renova, a partir de 20 de abril de 2018, a permissão outorgada à Rádio A Voz do Vale Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Fartura, Estado de São Paulo.",
+      "dataApresentacao": "2025-05-22T17:48"
+    },
+    {
+      "id": 2515947,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515947",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 59,
+      "ano": 2025,
+      "ementa": "Requer, nos termos regimentais, a realização de audiência pública para debater o fechamento dos lixões no Brasil e a inclusão socioprodutiva de catadoras e catadores.",
+      "dataApresentacao": "2025-05-23T14:24"
+    },
+    {
+      "id": 2515949,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515949",
+      "siglaTipo": "REQ",
+      "codTipo": 686,
+      "numero": 61,
+      "ano": 2025,
+      "ementa": "Requer a realização de seminário para debater a Política Nacional de Economia Circular, com foco no PL 1874/2022, no contexto da Virada Sustentável.",
+      "dataApresentacao": "2025-05-23T15:19"
+    },
+    {
+      "id": 2515952,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515952",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2520,
+      "ano": 2025,
+      "ementa": "Dispõe sobre o reconhecimento, regulamentação e exercício das profissões de Instrutor de Armamento e Tiro e de Instrutor de Tiro Desportivo, e dá outras providências.",
+      "dataApresentacao": "2025-05-23T15:30"
+    },
+    {
+      "id": 2516030,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516030",
+      "siglaTipo": "REQ",
+      "codTipo": 1016,
+      "numero": 224,
+      "ano": 2025,
+      "ementa": "Requer o encaminhamento de indicação à Procuradoria-Geral da República para sugerir a instauração de investigação e a adoção de providências quanto a possíveis irregularidades, favorecimento político e omissão administrativa na destinação de recursos públicos no âmbito do Programa de Cisternas do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome.",
+      "dataApresentacao": "2025-05-15T18:03"
+    },
+    {
+      "id": 2516044,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516044",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2527,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a destinação de veículos apreendidos pela Receita Federal do Brasil e pela Polícia Federal para uso de entes públicos e entidades beneficentes e dá outras providências.",
+      "dataApresentacao": "2025-05-23T22:49"
+    },
+    {
+      "id": 2516222,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516222",
+      "siglaTipo": "REQ",
+      "codTipo": 523,
+      "numero": 91,
+      "ano": 2025,
+      "ementa": "Solicito que seja convocado, em caráter de urgência, o Senhor Ministro da Fazenda, Fernando Haddad, para prestar esclarecimentos sobre a falta de medidas do Governo Federal para viabilizar a renegociação e alongamento de dívidas agrícolas dos produtores do Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2025-05-26T11:29"
+    },
+    {
+      "id": 2516251,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516251",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 92,
+      "ano": 2025,
+      "ementa": "Requer a realização de audiência pública conjunta na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural e a Comissão Integração Nacional e Desenvolvimento Regional, para discussão do papel da irrigação e sua importância para a segurança alimentar da população brasileira e mundial, e da necessidade de estruturação de um novo modelo institucional para a eletrificação da agricultura irrigada no país.",
+      "dataApresentacao": "2025-05-23T11:08"
+    },
+    {
+      "id": 2516341,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516341",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 65,
+      "ano": 2025,
+      "ementa": "Requeremos a realização de Audiência Pública para debater propostas de superação do uso de combustíveis fósseis, particularmente na Amazônia, considerando os compromissos internacionais assumidos pelo Brasil no âmbito das Nações Unidas.",
+      "dataApresentacao": "2025-05-26T14:11"
+    },
+    {
+      "id": 2516343,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516343",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 93,
+      "ano": 2025,
+      "ementa": "Requer a realização de audiência pública conjunta na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural e a Comissão de Meio Ambiente e Desenvolvimento Sustentável, para discussão do papel da irrigação frente às mudanças climáticas, da sua importância para a segurança alimentar da população brasileira e mundial, e da necessidade de estruturação de um novo modelo institucional para a eletrificação da agricultura irrigada no país.",
+      "dataApresentacao": "2025-05-26T10:12"
+    },
+    {
+      "id": 2516353,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516353",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2541,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de cobertura integral e permanente, pelos planos privados de assistência à saúde, dos serviços médicos, terapêuticos e multiprofissionais destinados às pessoas com Transtorno do Espectro Autista (TEA) e Trissomia 21 (Síndrome de Down), independentemente da idade, e dá outras providências.",
+      "dataApresentacao": "2025-05-26T14:06"
+    },
+    {
+      "id": 2516560,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516560",
+      "siglaTipo": "REQ",
+      "codTipo": 448,
+      "numero": 94,
+      "ano": 2025,
+      "ementa": "Requer a apresentação de consulta à Comissão de Constituição e Justiça e de Cidadania acerca da ratificação de registros de imóveis com área superior a 2.500 ha.",
+      "dataApresentacao": "2025-05-26T14:51"
+    },
+    {
+      "id": 2516565,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516565",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2548,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 13.465, de 11 de julho de 2017, para garantir o direito de propriedade dos moradores ocupantes anteriormente à decretação de Área de Proteção Ambiental (APA), e dá outras providências.",
+      "dataApresentacao": "2025-05-26T15:50"
+    },
+    {
+      "id": 2516689,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516689",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2554,
+      "ano": 2025,
+      "ementa": "Dispõe sobre o critério de desempate em licitações, alterando o art. 60 da Lei nº 14.133, de 1º de abril de 2021.",
+      "dataApresentacao": "2025-05-26T17:45"
+    },
+    {
+      "id": 2516755,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516755",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 125,
+      "ano": 2025,
+      "ementa": "Altera dispositivos da Lei Complementar nº 123 de 14 de dezembro de 2006, que “Institui o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte\" estabelecendo correção anual do faturamento MEI pelo INPC.",
+      "dataApresentacao": "2025-05-26T19:26"
+    },
+    {
+      "id": 2516808,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516808",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2564,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para regular a aplicação de medidas administrativas cautelares e para dispor sobre a garantia à ampla defesa e ao contraditório.",
+      "dataApresentacao": "2025-05-26T20:46"
+    },
+    {
+      "id": 2516821,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516821",
+      "siglaTipo": "REQ",
+      "codTipo": 686,
+      "numero": 99,
+      "ano": 2025,
+      "ementa": "Requer a realização de Seminário, no Estado de São Paulo, para debater o afastamento de 25 diretores escolares efetivos da rede municipal de São Paulo.",
+      "dataApresentacao": "2025-05-26T21:36"
+    },
+    {
+      "id": 2516942,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516942",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2571,
+      "ano": 2025,
+      "ementa": "Confere ao Município de Maracaí, no Estado de São Paulo, o título de Capital Nacional de Devoção ao Menino da Tábua.",
+      "dataApresentacao": "2025-05-27T11:41"
+    },
+    {
+      "id": 2516948,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516948",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 68,
+      "ano": 2025,
+      "ementa": "Requer a realização de Audiência Pública na Comissão da Amazônia e dos Povos Originários e Tradicionais e na de Meio Ambiente e Desenvolvimento Sustentável para debater a juventude em clima de futuro e perspectivas frente ao mercado de trabalho, educação e clima.",
+      "dataApresentacao": "2025-05-26T17:30"
+    },
+    {
+      "id": 2516952,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516952",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 69,
+      "ano": 2025,
+      "ementa": "Requer a realização de Audiência Pública na Comissão da Amazônia e dos Povos Originários e Tradicionais e na Comissão de Meio Ambiente e Desenvolvimento Sustentável para debater a importância da perspectiva dos deslocados climáticos no contexto brasileiro.",
+      "dataApresentacao": "2025-05-26T17:30"
+    },
+    {
+      "id": 2516989,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516989",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 19,
+      "ano": 2025,
+      "ementa": "Requer a realização de Audiência Pública na Comissão da Amazônia e dos Povos Originários e Tradicionais e na Comissão de Meio Ambiente e Desenvolvimento Sustentável para debater a juventude em clima de futuro e perspectivas frente ao mercado de trabalho, educação e clima.",
+      "dataApresentacao": "2025-05-26T17:30"
+    },
+    {
+      "id": 2516990,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2516990",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 20,
+      "ano": 2025,
+      "ementa": "Requer a realização de Audiência Pública na Comissão da Amazônia e dos Povos Originários e Tradicionais e na Comissão de Meio Ambiente e Desenvolvimento Sustentável para debater a importância da perspectiva dos deslocados climáticos no contexto brasileiro.",
+      "dataApresentacao": "2025-05-26T17:30"
+    },
+    {
+      "id": 2517060,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2517060",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2580,
+      "ano": 2025,
+      "ementa": "Torna dispensável a realização de audiência de custódia em caso prisão em flagrante delito por crime hediondo ou pelos crimes de homicídio e lesão corporal culposa na condução de veículo automotor, e de condução de veículo automotor com capacidade psicomotora alterada.",
+      "dataApresentacao": "2025-05-27T13:51"
+    },
+    {
+      "id": 2517480,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2517480",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2589,
+      "ano": 2025,
+      "ementa": "Dispõem sobre a emissão de Carteira de Identificação Estudantil/CIE pela União, os Estados, o Distrito Federal e os Municípios.",
+      "dataApresentacao": "2025-05-27T18:16"
+    },
+    {
+      "id": 2517530,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2517530",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2593,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 14.818, de 16 de janeiro de 2024, para modificar os critérios de elegibilidade ao incentivo financeiro-educacional.",
+      "dataApresentacao": "2025-05-27T19:27"
+    },
+    {
+      "id": 2517601,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2517601",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2596,
+      "ano": 2025,
+      "ementa": "Reconhece a região dos Itambés, no município de Marília, Estado de São Paulo, como área de relevante interesse paleontológico e turístico nacional, denominando-a oficialmente como “Itambés dos Dinossauros”.",
+      "dataApresentacao": "2025-05-27T20:46"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=34"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=35&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=33&itens=100"
+    }
+  ]
+}

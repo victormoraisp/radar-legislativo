@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2616365,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616365",
+      "siglaTipo": "RPD",
+      "codTipo": 329,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - PL 4090/2025",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616366,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616366",
+      "siglaTipo": "RPD",
+      "codTipo": 329,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - PL 2050/2025",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616367,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616367",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação",
+      "dataApresentacao": "2026-04-15T10:00"
+    },
+    {
+      "id": 2616369,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616369",
+      "siglaTipo": "RPD",
+      "codTipo": 332,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Votação Nominal - PL 4090/2025",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616370,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616370",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta",
+      "dataApresentacao": "2026-04-15T10:00"
+    },
+    {
+      "id": 2616371,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616371",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação - PL 2050/2025",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616372,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616372",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação - PL 4090/2025",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616373,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616373",
+      "siglaTipo": "RPD",
+      "codTipo": 332,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Requerimento de Votação Nominal",
+      "dataApresentacao": "2026-04-15T10:00"
+    },
+    {
+      "id": 2616374,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616374",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 50,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 395/2025",
+      "dataApresentacao": "2026-04-15T10:04"
+    },
+    {
+      "id": 2616375,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616375",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 2050/2025",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616376,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616376",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4090/2025",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616377,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616377",
+      "siglaTipo": "RPD",
+      "codTipo": 329,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - MSC 1300/2025",
+      "dataApresentacao": "2026-04-15T10:00"
+    },
+    {
+      "id": 2616378,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616378",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 19,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3701/2021",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616379,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616379",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 56,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4139/2023",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616380,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616380",
+      "siglaTipo": "RPD",
+      "codTipo": 1040,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 2050/2025-Requerimento de Adiamento da Discussão - PL 2050/2025",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616381,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616381",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação",
+      "dataApresentacao": "2026-04-15T10:00"
+    },
+    {
+      "id": 2616382,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616382",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 51,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 395/2025",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616383,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616383",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 48,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1922/2022",
+      "dataApresentacao": "2026-04-15T10:12"
+    },
+    {
+      "id": 2616384,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616384",
+      "siglaTipo": "RPD",
+      "codTipo": 332,
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Requerimento de Votação Nominal - PL 2050/2025",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616385,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616385",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta",
+      "dataApresentacao": "2026-04-15T10:00"
+    },
+    {
+      "id": 2616386,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616386",
+      "siglaTipo": "RPD",
+      "codTipo": 1040,
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 4090/2025-Requerimento de Adiamento da Discussão - PL 4090/2025",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616387,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616387",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 20,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 3701/2021-Requerimento de Retirada de Matéria da Pauta - PL 3701/2021",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616388,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616388",
+      "siglaTipo": "RPD",
+      "codTipo": 1042,
+      "numero": 6,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 4090/2025-Requerimento de Adiamento da Votação - PL 4090/2025",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616389,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616389",
+      "siglaTipo": "RPD",
+      "codTipo": 332,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Requerimento de Votação Nominal",
+      "dataApresentacao": "2026-04-15T10:00"
+    },
+    {
+      "id": 2616390,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616390",
+      "siglaTipo": "RPD",
+      "codTipo": 1042,
+      "numero": 6,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 2050/2025-Requerimento de Adiamento da Votação - PL 2050/2025",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616391,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616391",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 52,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 395/2025-Requerimento de Retirada de Matéria da Pauta - PL 395/2025",
+      "dataApresentacao": "2026-04-15T10:04"
+    },
+    {
+      "id": 2616392,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616392",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 7,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 2050/2025-Requerimento de Retirada de Matéria da Pauta - PL 2050/2025",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616393,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616393",
+      "siglaTipo": "RPD",
+      "codTipo": 329,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - MSC 1628/2025",
+      "dataApresentacao": "2026-04-15T10:00"
+    },
+    {
+      "id": 2616394,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616394",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 7,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 4090/2025-Requerimento de Retirada de Matéria da Pauta - PL 4090/2025",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616395,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616395",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 57,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 4139/2023-Requerimento de Retirada de Matéria da Pauta - PL 4139/2023",
+      "dataApresentacao": "2026-04-15T10:08"
+    },
+    {
+      "id": 2616396,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616396",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 5633/2020",
+      "dataApresentacao": "2026-04-15T10:14"
+    },
+    {
+      "id": 2616397,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616397",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação",
+      "dataApresentacao": "2026-04-15T10:00"
+    },
+    {
+      "id": 2616398,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616398",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta",
+      "dataApresentacao": "2026-04-15T10:00"
+    },
+    {
+      "id": 2616399,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616399",
+      "siglaTipo": "RPD",
+      "codTipo": 332,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Requerimento de Votação Nominal",
+      "dataApresentacao": "2026-04-15T10:00"
+    },
+    {
+      "id": 2616400,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616400",
+      "siglaTipo": "RPD",
+      "codTipo": 329,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - MSC 866/2025",
+      "dataApresentacao": "2026-04-15T10:13"
+    },
+    {
+      "id": 2616401,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616401",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação",
+      "dataApresentacao": "2026-04-15T10:13"
+    },
+    {
+      "id": 2616402,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616402",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CPOVOS) ao PL 4505/2023",
+      "dataApresentacao": "2026-04-15T10:16"
+    },
+    {
+      "id": 2616403,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616403",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta",
+      "dataApresentacao": "2026-04-15T10:13"
+    },
+    {
+      "id": 2616404,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616404",
+      "siglaTipo": "RPD",
+      "codTipo": 332,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Requerimento de Votação Nominal",
+      "dataApresentacao": "2026-04-15T10:13"
+    },
+    {
+      "id": 2616405,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616405",
+      "siglaTipo": "RPD",
+      "codTipo": 329,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - MSC 92/2026",
+      "dataApresentacao": "2026-04-15T10:13"
+    },
+    {
+      "id": 2616406,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616406",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação",
+      "dataApresentacao": "2026-04-15T10:13"
+    },
+    {
+      "id": 2616407,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616407",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta",
+      "dataApresentacao": "2026-04-15T10:13"
+    },
+    {
+      "id": 2616408,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616408",
+      "siglaTipo": "RPD",
+      "codTipo": 332,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Requerimento de Votação Nominal",
+      "dataApresentacao": "2026-04-15T10:13"
+    },
+    {
+      "id": 2616409,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616409",
+      "siglaTipo": "RPD",
+      "codTipo": 329,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - PL 2523/2019",
+      "dataApresentacao": "2026-04-15T10:13"
+    },
+    {
+      "id": 2616410,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616410",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação",
+      "dataApresentacao": "2026-04-15T10:13"
+    },
+    {
+      "id": 2616411,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616411",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta",
+      "dataApresentacao": "2026-04-15T10:13"
+    },
+    {
+      "id": 2616412,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616412",
+      "siglaTipo": "RPD",
+      "codTipo": 332,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Requerimento de Votação Nominal",
+      "dataApresentacao": "2026-04-15T10:13"
+    },
+    {
+      "id": 2616413,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616413",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Requer a realização de Audiência Pública para debater a atualização do Simples Nacional e seus impactos sobre a competitividade e a sustentabilidade das micro e pequenas empresas.",
+      "dataApresentacao": "2026-04-15T09:25"
+    },
+    {
+      "id": 2616414,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616414",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 141/2019",
+      "dataApresentacao": "2026-04-15T10:19"
+    },
+    {
+      "id": 2616415,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616415",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "Requer a realização de Reunião de Audiência Pública para debater sobre a “Produtividade da economia brasileira”",
+      "dataApresentacao": "2026-04-15T09:25"
+    },
+    {
+      "id": 2616416,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616416",
+      "siglaTipo": "RPD",
+      "codTipo": 329,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - PL 173/2023",
+      "dataApresentacao": "2026-04-15T09:03"
+    },
+    {
+      "id": 2616417,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616417",
+      "siglaTipo": "RPD",
+      "codTipo": 1040,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 173/2023-Requerimento de Adiamento da Discussão - PL 173/2023",
+      "dataApresentacao": "2026-04-15T09:03"
+    },
+    {
+      "id": 2616418,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616418",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação - PL 173/2023",
+      "dataApresentacao": "2026-04-15T09:03"
+    },
+    {
+      "id": 2616419,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616419",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 173/2023",
+      "dataApresentacao": "2026-04-15T10:13"
+    },
+    {
+      "id": 2616420,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616420",
+      "siglaTipo": "SBT-A",
+      "codTipo": 701,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Substitutivo adotado pela Comissão ao PDL 141/2019",
+      "dataApresentacao": "2026-04-15T10:23"
+    },
+    {
+      "id": 2616421,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616421",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 892/2025",
+      "dataApresentacao": "2026-04-15T10:26"
+    },
+    {
+      "id": 2616422,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616422",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 30,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 987/2022",
+      "dataApresentacao": "2026-04-15T10:30"
+    },
+    {
+      "id": 2616423,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616423",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 2427/2019 (Nº Anterior: PLS 317/2018)",
+      "dataApresentacao": "2026-04-15T10:33"
+    },
+    {
+      "id": 2616424,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616424",
+      "siglaTipo": "EMC-A",
+      "codTipo": 702,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda Adotada pela Comissão ao PL 199/2019",
+      "dataApresentacao": "2026-04-15T10:35"
+    },
+    {
+      "id": 2616425,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616425",
+      "siglaTipo": "EMC-A",
+      "codTipo": 702,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Emenda Adotada pela Comissão ao PL 199/2019",
+      "dataApresentacao": "2026-04-15T10:36"
+    },
+    {
+      "id": 2616426,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616426",
+      "siglaTipo": "SBE-A",
+      "codTipo": 703,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Subemenda Adotada pela Comissão ao PL 199/2019",
+      "dataApresentacao": "2026-04-15T10:36"
+    },
+    {
+      "id": 2616427,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616427",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 988/2025",
+      "dataApresentacao": "2026-04-15T10:36"
+    },
+    {
+      "id": 2616428,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616428",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 2981/2023",
+      "dataApresentacao": "2026-04-15T10:37"
+    },
+    {
+      "id": 2616429,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616429",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Ana Paula Leão (PP-MG), pela aprovação do PL 3459/2024, do PL 755/2025, apensado e do Substitutivo da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, com subemenda.",
+      "dataApresentacao": "2026-04-14T19:07"
+    },
+    {
+      "id": 2616430,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616430",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 3675/2024",
+      "dataApresentacao": "2026-04-15T10:37"
+    },
+    {
+      "id": 2616431,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616431",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 4906/2025",
+      "dataApresentacao": "2026-04-15T10:38"
+    },
+    {
+      "id": 2616432,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616432",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 1057/2025",
+      "dataApresentacao": "2026-04-15T10:38"
+    },
+    {
+      "id": 2616433,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616433",
+      "siglaTipo": "REQ",
+      "codTipo": 147,
+      "numero": 32,
+      "ano": 2026,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3513/2023",
+      "dataApresentacao": "2026-04-15T10:37"
+    },
+    {
+      "id": 2616434,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616434",
+      "siglaTipo": "PARF",
+      "codTipo": 669,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "PARF PL 125/2011 Parecer da Comissão (CCJC)",
+      "dataApresentacao": "2026-04-15T10:39"
+    },
+    {
+      "id": 2616435,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616435",
+      "siglaTipo": "SBR",
+      "codTipo": 709,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o Programa de Incentivo e Apoio a Mulher Empreendedora Rural.",
+      "dataApresentacao": "2026-04-14T19:07"
+    },
+    {
+      "id": 2616436,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616436",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 61/2026",
+      "dataApresentacao": "2026-04-15T10:40"
+    },
+    {
+      "id": 2616437,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616437",
+      "siglaTipo": "PARF",
+      "codTipo": 669,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "PARF PL 6528/2016 Parecer da Comissão (CCJC)",
+      "dataApresentacao": "2026-04-15T10:40"
+    },
+    {
+      "id": 2616438,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616438",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PLP 55/2026",
+      "dataApresentacao": "2026-04-15T10:40"
+    },
+    {
+      "id": 2616439,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616439",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 77/2026",
+      "dataApresentacao": "2026-04-15T10:41"
+    },
+    {
+      "id": 2616440,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616440",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 426/2024",
+      "dataApresentacao": "2026-04-15T10:41"
+    },
+    {
+      "id": 2616441,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616441",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 249/2025",
+      "dataApresentacao": "2026-04-15T10:42"
+    },
+    {
+      "id": 2616442,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616442",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 259/2025",
+      "dataApresentacao": "2026-04-15T10:42"
+    },
+    {
+      "id": 2616443,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616443",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 369/2025",
+      "dataApresentacao": "2026-04-15T10:43"
+    },
+    {
+      "id": 2616444,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616444",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 382/2025",
+      "dataApresentacao": "2026-04-15T10:43"
+    },
+    {
+      "id": 2616445,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616445",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 90/2026",
+      "dataApresentacao": "2026-04-15T10:44"
+    },
+    {
+      "id": 2616446,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616446",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 471/2025",
+      "dataApresentacao": "2026-04-15T10:44"
+    },
+    {
+      "id": 2616447,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616447",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 491/2025",
+      "dataApresentacao": "2026-04-15T10:44"
+    },
+    {
+      "id": 2616448,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616448",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 607/2025",
+      "dataApresentacao": "2026-04-15T10:45"
+    },
+    {
+      "id": 2616449,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616449",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 8595/2017",
+      "dataApresentacao": "2026-04-15T10:46"
+    },
+    {
+      "id": 2616450,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616450",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 132/2026",
+      "dataApresentacao": "2026-04-15T10:46"
+    },
+    {
+      "id": 2616451,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616451",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Leo Prates (PDT-BA), pela aprovação deste, e do Projeto de Lei 824/25, apensado, com substitutivo, e pela rejeição das Emendas apresentadas ao Substitutivo, nesta Comissão de Trabalho.",
+      "dataApresentacao": "2026-04-15T10:46"
+    },
+    {
+      "id": 2616452,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616452",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 150/2026",
+      "dataApresentacao": "2026-04-15T10:47"
+    },
+    {
+      "id": 2616453,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616453",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Altera a Consolidação das Leis do Trabalho e a Lei nº 12.790, de 14 de março de 2013, para estabelecer que a duração normal do trabalho não poderá exceder quarenta horas semanais e para garantir ao menos dois dias semanais de repouso remunerado aos trabalhadores",
+      "dataApresentacao": "2026-04-15T10:48"
+    },
+    {
+      "id": 2616454,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616454",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 22/2019",
+      "dataApresentacao": "2026-04-15T10:47"
+    },
+    {
+      "id": 2616455,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616455",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 1827/2019",
+      "dataApresentacao": "2026-04-15T10:49"
+    },
+    {
+      "id": 2616456,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616456",
+      "siglaTipo": "REQ",
+      "codTipo": 392,
+      "numero": 2097,
+      "ano": 2026,
+      "ementa": "Requer, nos termos do art. 155, do RICD, urgência para o Projeto de Lei nº 4689, de 2025, que “Reconhece a cidade de Jaguariúna, localizada no Estado de São Paulo, como a “Capital Country do Brasil”",
+      "dataApresentacao": "2026-04-15T10:50"
+    },
+    {
+      "id": 2616457,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616457",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 4143/2025",
+      "dataApresentacao": "2026-04-15T10:53"
+    },
+    {
+      "id": 2616458,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616458",
+      "siglaTipo": "PARF",
+      "codTipo": 669,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "PARF PDL 270/2025 Parecer da Comissão (CCJC)",
+      "dataApresentacao": "2026-04-15T10:55"
+    },
+    {
+      "id": 2616459,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616459",
+      "siglaTipo": "PARF",
+      "codTipo": 669,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "PARF PDL 372/2025 Parecer da Comissão (CCJC)",
+      "dataApresentacao": "2026-04-15T10:57"
+    },
+    {
+      "id": 2616460,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616460",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 10,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação - PL 67/2025",
+      "dataApresentacao": "2026-04-15T10:54"
+    },
+    {
+      "id": 2616461,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616461",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 345/2023",
+      "dataApresentacao": "2026-04-15T10:58"
+    },
+    {
+      "id": 2616462,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616462",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 651/2025",
+      "dataApresentacao": "2026-04-15T11:01"
+    },
+    {
+      "id": 2616463,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616463",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 712/2025",
+      "dataApresentacao": "2026-04-15T11:02"
+    },
+    {
+      "id": 2616464,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616464",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 713/2025",
+      "dataApresentacao": "2026-04-15T11:04"
+    },
+    {
+      "id": 2616465,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2616465",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 740/2025",
+      "dataApresentacao": "2026-04-15T11:05"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=119"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=120&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=118&itens=100"
+    }
+  ]
+}

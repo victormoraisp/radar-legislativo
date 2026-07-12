@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2535817,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2535817",
+      "siglaTipo": "REQ",
+      "codTipo": 448,
+      "numero": 137,
+      "ano": 2025,
+      "ementa": "Requer a apresentação de emenda de Plenário por esta Comissão, nos termos do art. 120 do RICD.",
+      "dataApresentacao": "2025-07-14T19:13"
+    },
+    {
+      "id": 2535870,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2535870",
+      "siglaTipo": "REQ",
+      "codTipo": 448,
+      "numero": 139,
+      "ano": 2025,
+      "ementa": "Requer que seja apresentada emenda de plenário por essa Comissão, ao PLP 41 de 2019, nos termos do art. 120\ndo RICD.",
+      "dataApresentacao": "2025-07-14T21:11"
+    },
+    {
+      "id": 2536101,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536101",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3390,
+      "ano": 2025,
+      "ementa": "Estabelece medidas para o aumento do financiamento público destinado ao combate à tuberculose no Brasil, visando a aceleração do diagnóstico, tratamento, prevenção e inovação em novas tecnologias no enfrentamento da doença.",
+      "dataApresentacao": "2025-07-14T22:04"
+    },
+    {
+      "id": 2536104,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536104",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3392,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Proteção dos Direitos Socioambientais dos Pescadores Artesanais e das Comunidades Pesqueiras Tradicionais.",
+      "dataApresentacao": "2025-07-14T22:04"
+    },
+    {
+      "id": 2536110,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536110",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3395,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 4.117, de 27 de agosto de 1962, para dispor sobre o cumprimento das finalidades culturais de emissoras de radiodifusão.",
+      "dataApresentacao": "2025-07-14T23:08"
+    },
+    {
+      "id": 2536112,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536112",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3397,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Saúde Mental e Resiliência Climática para a Juventude Amazônica, e dá outras providências.",
+      "dataApresentacao": "2025-07-14T23:08"
+    },
+    {
+      "id": 2536214,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536214",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3402,
+      "ano": 2025,
+      "ementa": "Dispõe sobre o destino e a proteção dos animais remanescentes utilizados em pesquisas cosméticas, após a proibição de testes em animais para fins cosméticos no Brasil, e dá outras providências.",
+      "dataApresentacao": "2025-07-15T10:44"
+    },
+    {
+      "id": 2536281,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536281",
+      "siglaTipo": "REQ",
+      "codTipo": 448,
+      "numero": 140,
+      "ano": 2025,
+      "ementa": "Requer nos termos regimentais a realização de Seminário durante a Expointer 2025 em Esteio/RS com o objetivo de discutir impactos da 11º Conferência das Partes (COP 11) da Convenção-Quadro para o controle do Tabaco.",
+      "dataApresentacao": "2025-07-15T11:44"
+    },
+    {
+      "id": 2536635,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536635",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3412,
+      "ano": 2025,
+      "ementa": "Proíbe a realização de chamadas de telemarketing em localidades que estejam em situação de emergência ou estado de calamidade pública reconhecida pelo poder legislativo.",
+      "dataApresentacao": "2025-07-15T14:36"
+    },
+    {
+      "id": 2536735,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536735",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3422,
+      "ano": 2025,
+      "ementa": "Institui o Dia Nacional da Retratação aos Imigrantes Japoneses, a ser celebrado, anualmente, no dia 25 de julho, e inclui a data no calendário escolar brasileiro",
+      "dataApresentacao": "2025-07-15T16:15"
+    },
+    {
+      "id": 2536750,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536750",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3424,
+      "ano": 2025,
+      "ementa": "Institui o Sistema Nacional de Inovação Biotecnológica da Amazônia (SINBIOAM), estabelece regras para o patenteamento de produtos derivados da biodiversidade amazônica e dispõe sobre a repartição de benefícios com comunidades tradicionais.",
+      "dataApresentacao": "2025-07-15T16:49"
+    },
+    {
+      "id": 2536751,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536751",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3425,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 12.587, de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana, para dispor sobre treinamento dos profissionais do transporte público coletivo.",
+      "dataApresentacao": "2025-07-15T16:56"
+    },
+    {
+      "id": 2536781,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536781",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3431,
+      "ano": 2025,
+      "ementa": "Institui o Programa Nacional de Alfabetização Funcional em Regime de Colaboração — Alfabetização que Funciona — e dá outras providências",
+      "dataApresentacao": "2025-07-15T17:17"
+    },
+    {
+      "id": 2536783,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536783",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3433,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a coleta e divulgação de dados referentes à aprovação de estudantes com deficiência em universidades públicas federais e estaduais.",
+      "dataApresentacao": "2025-07-15T17:20"
+    },
+    {
+      "id": 2536816,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536816",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3441,
+      "ano": 2025,
+      "ementa": "Cria o Fundo Nacional para o Bem-Estar Animal (FUNBEA) e dá outras providências.",
+      "dataApresentacao": "2025-07-15T18:17"
+    },
+    {
+      "id": 2536829,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536829",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3443,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Proteção Integrada da Amazônia Brasileira, com foco na defesa dos povos e territórios tradicionais, no enfrentamento ao crime ambiental e organizado, e na valorização do conhecimento socioambiental local.",
+      "dataApresentacao": "2025-07-15T19:08"
+    },
+    {
+      "id": 2537144,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537144",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3454,
+      "ano": 2025,
+      "ementa": "Reconhece o Município de Juazeiro do Norte, no Estado do Ceará, como a Capital da Fé do Brasil.",
+      "dataApresentacao": "2025-07-16T10:37"
+    },
+    {
+      "id": 2537220,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537220",
+      "siglaTipo": "PDL",
+      "codTipo": 557,
+      "numero": 504,
+      "ano": 2025,
+      "ementa": "Susta os efeitos da Nota Reversal nº 228, de 3 de maio de 2005, que estabelece que os gastos com responsabilidade social e ambiental sejam considerados  componentes permanentes da atividade de geração de energia da Itaipu Binacional.",
+      "dataApresentacao": "2025-07-16T10:58"
+    },
+    {
+      "id": 2537247,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537247",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3457,
+      "ano": 2025,
+      "ementa": "Institui o Estatuto do Cuidador Familiar e Informal de Pessoa com Deficiência.",
+      "dataApresentacao": "2025-07-16T11:27"
+    },
+    {
+      "id": 2537252,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537252",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3458,
+      "ano": 2025,
+      "ementa": "Institui a Renda de Suporte ao Cuidador Familiar da Pessoa com Deficiência em Situação de Vulnerabilidade Social, no âmbito do Sistema Único de Assistência Social – SUAS, e estabelece critérios para sua concessão.",
+      "dataApresentacao": "2025-07-16T11:27"
+    },
+    {
+      "id": 2537280,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537280",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3462,
+      "ano": 2025,
+      "ementa": "Altera a Lei º 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, para vedar a exigência de quitação de débitos tributários ou veiculares não vinculados ao prontuário do condutor como condição para a renovação da Carteira Nacional de Habilitação (CNH).",
+      "dataApresentacao": "2025-07-16T11:49"
+    },
+    {
+      "id": 2537283,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537283",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3464,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 14.645, de 2 de agosto de 2023, para dispor sobre a integração entre a educação profissional e tecnológica e o setor de micro e pequenas empresas, e o fomento ao empreendedorismo juvenil.",
+      "dataApresentacao": "2025-07-16T12:06"
+    },
+    {
+      "id": 2537339,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537339",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3470,
+      "ano": 2025,
+      "ementa": "Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre a não aplicação da cota de aprendizagem às empresas de segurança privada.",
+      "dataApresentacao": "2025-07-16T14:47"
+    },
+    {
+      "id": 2537416,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537416",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3472,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a inclusão das despesas com suplementação alimentar (merenda escolar) e de obras de infraestrutura educacional para efeito de cumprimento do limite mínimo de gastos com educação previsto na Constituição Federal.",
+      "dataApresentacao": "2025-07-16T15:21"
+    },
+    {
+      "id": 2537551,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537551",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3506,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para incluir o inciso III ao art. 19-M, a fim de garantir subsídio para aquisição de medicamentos de uso contínuo por pessoas idosas de baixa renda no âmbito do Sistema Único de Saúde (SUS).",
+      "dataApresentacao": "2025-07-16T17:23"
+    },
+    {
+      "id": 2537555,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537555",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3507,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, para dispor sobre vistoria veicular obrigatória.",
+      "dataApresentacao": "2025-07-16T17:23"
+    },
+    {
+      "id": 2537559,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537559",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3508,
+      "ano": 2025,
+      "ementa": "\"Institui, no âmbito da União, o Selo “Escola Amiga da Saúde Mental”, destinado a reconhecer instituições de ensino que promovam ações voltadas à promoção da saúde mental de seus estudantes, professores e demais profissionais da comunidade escolar.\"",
+      "dataApresentacao": "2025-07-16T17:23"
+    },
+    {
+      "id": 2537615,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537615",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3515,
+      "ano": 2025,
+      "ementa": "Institui o Programa de Formação de Profissionais de Saúde Indígenas nos Estados com comunidades de difícil acesso.",
+      "dataApresentacao": "2025-07-16T18:10"
+    },
+    {
+      "id": 2537616,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537616",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3516,
+      "ano": 2025,
+      "ementa": "Reconhece as estruturas familiares atípicas que cuidam de pessoas com deficiência como beneficiárias diretas de políticas públicas sociais e estabelece diretrizes para sua inclusão em programas sociais.",
+      "dataApresentacao": "2025-07-16T18:12"
+    },
+    {
+      "id": 2537638,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537638",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3524,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 11.340/2006 (Lei Maria da Penha) para dispor sobre a obrigação financeira do agressor contra a mulher, vítima de violência doméstica e familiar, após o trânsito em julgado da sentença penal condenatória, de pagar pensão destinada ao custeio de atendimento psicológico e apoio psicossocial para a vítima e seus filhos, e dá outras providências.",
+      "dataApresentacao": "2025-07-16T19:12"
+    },
+    {
+      "id": 2537647,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537647",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3534,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a individualização eletrônica de contas em estabelecimentos de alimentação e dá outras providências.",
+      "dataApresentacao": "2025-07-16T19:33"
+    },
+    {
+      "id": 2537685,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537685",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3538,
+      "ano": 2025,
+      "ementa": "Institui normas para a formação continuada de professores da educação básica em práticas pedagógicas inclusivas e alfabetização de estudantes com deficiência, e dá outras providências.",
+      "dataApresentacao": "2025-07-16T20:04"
+    },
+    {
+      "id": 2537686,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537686",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3539,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a adaptação de materiais educativos sobre prevenção à violência sexual contra crianças e adolescentes para formatos acessíveis às pessoas com deficiência, em caráter complementar à Lei Brasileira de Inclusão, e dá outras providências.",
+      "dataApresentacao": "2025-07-16T20:05"
+    },
+    {
+      "id": 2537739,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537739",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 152,
+      "ano": 2025,
+      "ementa": "Regula os serviços de transporte remunerado privado individual de passageiros e de coleta e entrega de bens prestados pelas empresas operadoras de plataforma digital.",
+      "dataApresentacao": "2025-07-16T20:09"
+    },
+    {
+      "id": 2538002,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538002",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3552,
+      "ano": 2025,
+      "ementa": "Dispõe sobre a obrigatoriedade de divulgação ativa de dados de cobertura e qualidade dos serviços de saneamento básico, em plataforma pública digital, por prestadores de serviços públicos de abastecimento de água e esgotamento sanitário.",
+      "dataApresentacao": "2025-07-17T16:41"
+    },
+    {
+      "id": 2538133,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538133",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3556,
+      "ano": 2025,
+      "ementa": "Institui o “Dia Nacional do Curupira e da Proteção às Florestas”, a ser celebrado anualmente no dia 17 de julho, e dá outras providências.",
+      "dataApresentacao": "2025-07-17T17:16"
+    },
+    {
+      "id": 2538141,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538141",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3558,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021, tornando obrigatória o estabelecimento de margem de preferência nos casos que menciona; fixa novos percentuais de margem de preferência; e acrescenta o artigo 39-A conferindo ao Setor Público o poder de realizar licitações exclusivas para compra de bens e serviços nacionais em setores estratégicos.",
+      "dataApresentacao": "2025-07-17T18:23"
+    },
+    {
+      "id": 2538208,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538208",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 153,
+      "ano": 2025,
+      "ementa": "Institui a Contribuição Social sobre a Propriedade de Sistemas de Interface entre Usuários de Internet (CPSI) e dispõe sobre outras providências voltadas ao fortalecimento da soberania digital do Brasil.",
+      "dataApresentacao": "2025-07-17T21:09"
+    },
+    {
+      "id": 2538218,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538218",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3562,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 6.996, de 7 de junho de 1982 e a Lei nº 4.737, de 1965, para alterar as exigências de transferência do domicilio eleitoral.",
+      "dataApresentacao": "2025-07-18T10:44"
+    },
+    {
+      "id": 2538223,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538223",
+      "siglaTipo": "REQ",
+      "codTipo": 523,
+      "numero": 139,
+      "ano": 2025,
+      "ementa": "Requer seja convocado o Ministro de Estado da Educação, Senhor Camilo Santana, para prestar esclarecimentos perante esta Comissão sobre a distorção de R$ 4,3 bilhões nas contas do Ministério identificadas pela CGU.",
+      "dataApresentacao": "2025-07-18T11:38"
+    },
+    {
+      "id": 2538258,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538258",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4799,
+      "ano": 2024,
+      "ementa": "Institui a Semana Nacional de Educação Cidadã.",
+      "dataApresentacao": "2025-07-18T14:58"
+    },
+    {
+      "id": 2538271,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538271",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3564,
+      "ano": 2025,
+      "ementa": "Reconhece o Estado de Roraima como Polo Nacional de Saberes Tradicionais e Práticas Sustentáveis Indígenas.",
+      "dataApresentacao": "2025-07-18T17:39"
+    },
+    {
+      "id": 2538272,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538272",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3565,
+      "ano": 2025,
+      "ementa": "Institui o Polo Nacional de Economia Criativa de Roraima e estabelece diretrizes para o fomento das cadeias produtivas criativas com base nas vocações culturais, ambientais e sociais da região Norte.",
+      "dataApresentacao": "2025-07-18T17:39"
+    },
+    {
+      "id": 2538274,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538274",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3567,
+      "ano": 2025,
+      "ementa": "Institui a Medalha Nacional dos Saberes Indígenas, com sede simbólica no Estado de Roraima, e dá outras providências.",
+      "dataApresentacao": "2025-07-18T17:39"
+    },
+    {
+      "id": 2538280,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538280",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3573,
+      "ano": 2025,
+      "ementa": "Institui o Roteiro Turístico Arqueológico do Estado de Roraima e dá outras providências.",
+      "dataApresentacao": "2025-07-18T17:39"
+    },
+    {
+      "id": 2538285,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538285",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3578,
+      "ano": 2025,
+      "ementa": "Inclui o evento “Forró Alegre”, realizado anualmente no município de Alto Alegre, Estado de Roraima, no Calendário Turístico Oficial do Brasil.",
+      "dataApresentacao": "2025-07-18T17:40"
+    },
+    {
+      "id": 2538288,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538288",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3581,
+      "ano": 2025,
+      "ementa": "Institui a Semana Nacional dos Povos Indígenas de Roraima no Calendário Oficial da União e dá outras providências.",
+      "dataApresentacao": "2025-07-18T17:40"
+    },
+    {
+      "id": 2538305,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538305",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3597,
+      "ano": 2025,
+      "ementa": "Dispõe sobre diretrizes nacionais para a atuação dos Conselhos Tutelares nos casos de violência sexual contra crianças e adolescentes associada à fome ou extrema vulnerabilidade social.",
+      "dataApresentacao": "2025-07-18T17:42"
+    },
+    {
+      "id": 2538309,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538309",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3600,
+      "ano": 2025,
+      "ementa": "Dispõe sobre o controle da comercialização de inalantes com potencial tóxico, institui protocolo nacional de atendimento à intoxicação por substâncias inalantes e ações educativas de prevenção ao uso abusivo, e dá outras providências.",
+      "dataApresentacao": "2025-07-18T17:42"
+    },
+    {
+      "id": 2538316,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538316",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3606,
+      "ano": 2025,
+      "ementa": "Institui a Política Nacional de Incentivo ao Uso de Tecnologias Sociais e dá outras providências.",
+      "dataApresentacao": "2025-07-18T17:42"
+    },
+    {
+      "id": 2538321,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538321",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3611,
+      "ano": 2025,
+      "ementa": "Institui o Sistema Nacional de Salvaguarda da Cultura Imaterial Amazônica -  Lei Guardiões da Memória, e estabelece mecanismos de proteção, registro e incentivo às manifestações culturais não patrimonializadas dos povos e comunidades da Amazônia Legal.",
+      "dataApresentacao": "2025-07-18T17:42"
+    },
+    {
+      "id": 2538323,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538323",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3612,
+      "ano": 2025,
+      "ementa": "Institui o Programa Nacional de Recuperação de Terras Degradadas na Amazônia, voltado à restauração produtiva de áreas desmatadas e improdutivas por meio do uso de espécies nativas e sistemas agroflorestais, e dá outras providências.",
+      "dataApresentacao": "2025-07-18T17:42"
+    },
+    {
+      "id": 2538328,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538328",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3616,
+      "ano": 2025,
+      "ementa": "Institui o Programa Amazônia Solidária e Inovadora, para fomento à incubação e ao desenvolvimento de empreendimentos de economia solidária na Região Norte, e dá outras providências.",
+      "dataApresentacao": "2025-07-18T17:43"
+    },
+    {
+      "id": 2538467,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538467",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3623,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 – Código de Trânsito Brasileiro, para assegurar a validade do licenciamento vigente nos casos de transferência interestadual de veículo.",
+      "dataApresentacao": "2025-07-21T16:37"
+    },
+    {
+      "id": 2538468,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538468",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3624,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 8.989, de 24 de fevereiro de 1995, para conceder isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de veículos por condutores autônomos e cooperativas que atuem no transporte escolar ou na distribuição de Gás Liquefeito de Petróleo (GLP).",
+      "dataApresentacao": "2025-07-21T17:27"
+    },
+    {
+      "id": 2538516,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538516",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 91,
+      "ano": 2025,
+      "ementa": "Requer, nos termos regimentais, a realização de audiência pública em conjunto entre este colegiado e a Comissão de Direitos Humanos, Minorias e Igualdade Racial para realizar a audiência pública: “Violência contra jornalistas e comunicadores na Amazônia: casos, desafios e políticas de proteção”",
+      "dataApresentacao": "2025-07-18T15:54"
+    },
+    {
+      "id": 2538657,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538657",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3628,
+      "ano": 2025,
+      "ementa": "Institui o Estatuto da Pessoa Neurodivergente e dá outras providências",
+      "dataApresentacao": "2025-07-22T15:29"
+    },
+    {
+      "id": 2538716,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538716",
+      "siglaTipo": "TVR",
+      "codTipo": 424,
+      "numero": 614,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 15.894, de 7 de janeiro de 2025, publicada no Diário Oficial da União de 17 de fevereiro de 2025, que outorga permissão à Fundação Glória, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no Município de Iconha, Estado do Espírito Santo.",
+      "dataApresentacao": "2025-07-22T17:38"
+    },
+    {
+      "id": 2538722,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538722",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 616,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.109, de 24 de janeiro de 2025, publicada no Diário Oficial da União de 18 de fevereiro de 2025, que renova, a partir de 18 de janeiro de 2018, a permissão outorgada à Rádio Diário FM Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Pacajus, Estado do Ceará.",
+      "dataApresentacao": "2025-07-22T17:38"
+    },
+    {
+      "id": 2538725,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538725",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 617,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.295, de 7 de fevereiro de 2025, publicada no Diário Oficial da União de 5 de março de 2025, que renova, a partir de 12 de março de 2021, a permissão outorgada à Rádio Club de Palmas Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Palmas, Estado do Paraná.",
+      "dataApresentacao": "2025-07-22T17:38"
+    },
+    {
+      "id": 2538731,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538731",
+      "siglaTipo": "TVR",
+      "codTipo": 425,
+      "numero": 619,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 15.991, de 15 de janeiro de 2025, publicada no Diário Oficial da União de 17 de fevereiro de 2025, que renova, a partir de 24 de janeiro de 2017, a permissão outorgada à Rádio Araguaia Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Goiânia, Estado de Goiás.",
+      "dataApresentacao": "2025-07-22T17:38"
+    },
+    {
+      "id": 2538734,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538734",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 620,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.462, de 13 de fevereiro de 2025, publicada no Diário Oficial da União de 5 de março de 2025, que renova, a partir de 20 de setembro de 2020, a permissão outorgada à Astral Comunicações Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Chapadão do Céu, Estado de Goiás.",
+      "dataApresentacao": "2025-07-22T17:38"
+    },
+    {
+      "id": 2538801,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538801",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3632,
+      "ano": 2025,
+      "ementa": "Altera a Lei nº 11.343, de 23 de agosto de 2006, para acrescentar o inciso VIII e o parágrafo único ao art. 40, a fim de majorar as penas dos crimes previstos nos arts. 33 a 37 quando cometidos com o uso de aeronaves como meio de transporte.",
+      "dataApresentacao": "2025-07-23T12:01"
+    },
+    {
+      "id": 2538803,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538803",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 622,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 15.033, de 29 de outubro de 2024, publicada no Diário Oficial da União de 22 de novembro de 2024, que renova, a partir de 18 de março de 2016, a permissão outorgada à A Melhor Radiodifusão Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Votorantim, Estado de São Paulo.",
+      "dataApresentacao": "2025-07-22T17:38"
+    },
+    {
+      "id": 2538806,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538806",
+      "siglaTipo": "TVR",
+      "codTipo": 1058,
+      "numero": 623,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 15.388, de 3 de dezembro de 2024, publicada no Diário Oficial da União de 20 de dezembro de 2024, que renova, a partir de 8 de novembro de 2018, a concessão outorgada à Sociedade Rádio Vila Real Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Cuiabá, Estado de Mato Grosso.",
+      "dataApresentacao": "2025-07-22T17:38"
+    },
+    {
+      "id": 2538809,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538809",
+      "siglaTipo": "TVR",
+      "codTipo": 1058,
+      "numero": 624,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 15.270, de 25 de novembro de 2024, publicada no Diário Oficial da União de 11 de dezembro de 2024, que renova, a partir de 1º de maio de 2024, a concessão outorgada à Rádio Difusora de Araçatuba Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão em frequência modulada, no Município de Araçatuba, Estado de São Paulo.",
+      "dataApresentacao": "2025-07-22T17:39"
+    },
+    {
+      "id": 2538812,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538812",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 625,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 15.257, de 22 de novembro de 2024, publicada no Diário Oficial da União de 11 de dezembro de 2024, que renova, a partir de 13 de dezembro de 2016, a permissão outorgada à Valente Propaganda e Publicidade Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Serranópolis, Estado de Goiás.",
+      "dataApresentacao": "2025-07-22T17:39"
+    },
+    {
+      "id": 2538815,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538815",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 626,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 15.389, de 3 de dezembro de 2024, publicada no Diário Oficial da União de 20 de dezembro de 2024, que renova, a partir de 13 de janeiro de 2018, a permissão outorgada à Rede Caraça de Comunicação Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Itabira, Estado de Minas Gerais.",
+      "dataApresentacao": "2025-07-22T17:39"
+    },
+    {
+      "id": 2538818,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538818",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 627,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 15.377, de 3 de dezembro de 2024, publicada no Diário Oficial da União de 20 de dezembro de 2024, que renova, a partir de 23 de setembro de 2018, a permissão outorgada à Rádio Central Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Farroupilha, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2025-07-22T17:39"
+    },
+    {
+      "id": 2538821,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538821",
+      "siglaTipo": "TVR",
+      "codTipo": 427,
+      "numero": 628,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 15.872, de 6 de janeiro de 2025, publicada no Diário Oficial da União de 17 de fevereiro de 2025, que renova, a partir de 26 de novembro de 2017, a autorização outorgada à Associação Comunitária, Ecológica, Cultural e Esportiva de Campo Bonito - Paraná, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Campo Bonito, Estado do Paraná.",
+      "dataApresentacao": "2025-07-22T17:39"
+    },
+    {
+      "id": 2538842,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538842",
+      "siglaTipo": "TVR",
+      "codTipo": 427,
+      "numero": 629,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 15.705, de 26 de dezembro de 2024, publicada no Diário Oficial da União de 12 de fevereiro de 2025, que renova, a partir de 11 de julho de 2022, a autorização outorgada à Associação Comunitária de Comunicação e Cultura Monsenhor Manoel Perez Descanps de Ocauçu - SP, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Ocauçú, Estado de São Paulo.",
+      "dataApresentacao": "2025-07-22T17:39"
+    },
+    {
+      "id": 2538848,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538848",
+      "siglaTipo": "TVR",
+      "codTipo": 427,
+      "numero": 631,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 15.239, de 21 de novembro de 2024, publicada no Diário Oficial da União de 11 de dezembro de 2024, que renova, a partir de 27 de junho de 2023, a autorização outorgada à Associação Comunitária Pró Cidadania e Cultura de Paracuru - ACOMCULT, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Paracuru, Estado do Ceará.",
+      "dataApresentacao": "2025-07-22T17:39"
+    },
+    {
+      "id": 2538851,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538851",
+      "siglaTipo": "TVR",
+      "codTipo": 427,
+      "numero": 632,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 15.338, de 28 de novembro de 2024, publicada no Diário Oficial da União de 11 de dezembro de 2024, que renova, a partir de 6 de janeiro de 2020, a autorização outorgada  à Associação Cultural e Comunitária Arroiomeense, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Arroio do Meio, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2025-07-22T17:40"
+    },
+    {
+      "id": 2538854,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538854",
+      "siglaTipo": "TVR",
+      "codTipo": 427,
+      "numero": 633,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 15.374, de 3 de dezembro de 2024, publicada no Diário Oficial da União de 20 de dezembro de 2024, que renova, a partir de 24 de dezembro de 2022, a autorização outorgada à Associação Beneficente Mão Amiga de Italva, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Italva, Estado do Rio de Janeiro.",
+      "dataApresentacao": "2025-07-22T17:39"
+    },
+    {
+      "id": 2538857,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538857",
+      "siglaTipo": "TVR",
+      "codTipo": 429,
+      "numero": 634,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 15.334, de 28 de novembro de 2024, publicada no Diário Oficial da União de 11 de dezembro de 2024, que renova, a partir de 16 de maio de 2022, a permissão outorgada à Fundação Educar Brasil de Radiodifusão, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora, em frequência modulada, com fins exclusivamente educativos, no Município de Vitória da Conquista, Estado da Bahia.",
+      "dataApresentacao": "2025-07-22T17:40"
+    },
+    {
+      "id": 2538860,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538860",
+      "siglaTipo": "TVR",
+      "codTipo": 153,
+      "numero": 635,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.001, de 16 de janeiro de 2025, publicada no Diário Oficial da União de 17 de fevereiro de 2025, que renova, a partir de 3 de maio de 2016, a permissão outorgada à Fundação Cultural e Assistencial Água Viva, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora, em frequência modulada, com fins exclusivamente educativos, no Município de Macapá, Estado do Amapá.",
+      "dataApresentacao": "2025-07-22T17:40"
+    },
+    {
+      "id": 2538863,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538863",
+      "siglaTipo": "TVR",
+      "codTipo": 492,
+      "numero": 636,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.641, de 20 de fevereiro de 2025, publicada no Diário Oficial da União de 12 de março de 2025, que outorga autorização à Associação Comunitária de Arte, Cultura e Educação de Zabelê, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Zabelê, Estado da Paraíba.",
+      "dataApresentacao": "2025-07-22T17:40"
+    },
+    {
+      "id": 2538866,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538866",
+      "siglaTipo": "TVR",
+      "codTipo": 492,
+      "numero": 637,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.371, de 11 de fevereiro de 2025, publicada no Diário Oficial da União de 5 de março de 2025, que outorga autorização à Associação Comunitária de Radiodifusão e Cultura de São João do Arraial, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de São João do Arraial, Estado do Piauí.",
+      "dataApresentacao": "2025-07-22T17:40"
+    },
+    {
+      "id": 2538878,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538878",
+      "siglaTipo": "TVR",
+      "codTipo": 492,
+      "numero": 641,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 15.567, de 16 de dezembro de 2024, publicada no Diário Oficial da União de 12 de fevereiro de 2025, que outorga autorização à Associação Comunitária e de Comunicação de Doutor Camargo - ACDC, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Doutor Camargo, Estado do Paraná.",
+      "dataApresentacao": "2025-07-22T17:40"
+    },
+    {
+      "id": 2538881,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538881",
+      "siglaTipo": "TVR",
+      "codTipo": 492,
+      "numero": 642,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.171, de 31 de janeiro de 2025, publicada no Diário Oficial da União de 18 de fevereiro de 2025, que outorga autorização ao Instituto Pró-Jovens, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão comunitária, no Município de Geminiano, Estado do Piauí.",
+      "dataApresentacao": "2025-07-22T17:40"
+    },
+    {
+      "id": 2538889,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538889",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3633,
+      "ano": 2025,
+      "ementa": "Dispõe sobre o Dia Nacional da Parentalidade.",
+      "dataApresentacao": "2025-07-23T13:45"
+    },
+    {
+      "id": 2538939,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538939",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3635,
+      "ano": 2025,
+      "ementa": "Institui o Dia Nacional da Música Sertaneja.",
+      "dataApresentacao": "2025-07-23T16:03"
+    },
+    {
+      "id": 2538950,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538950",
+      "siglaTipo": "PDL",
+      "codTipo": 557,
+      "numero": 509,
+      "ano": 2025,
+      "ementa": "Susta os efeitos da Resolução GECEX nº 754, de 3 de julho de 2025, que aplica direito antidumping definitivo às importações brasileiras de polióis poliéteres originárias da China e dos Estados Unidos da América",
+      "dataApresentacao": "2025-07-24T08:19"
+    },
+    {
+      "id": 2539035,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539035",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3645,
+      "ano": 2025,
+      "ementa": "Acrescenta o inciso XII-A ao art. 3º e dá nova redação ao § 1º do art. 49 da Lei nº 12.305, de 2 de agosto de 2010, para aperfeiçoar o tratamento de empresas que adotem, dentro do mesmo grupo econômico ou empresarial, a sistemática de logística reversa de canal de ciclo fechado.",
+      "dataApresentacao": "2025-07-28T22:54"
+    },
+    {
+      "id": 2539044,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539044",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3648,
+      "ano": 2025,
+      "ementa": "Institui o dia 31 de outubro como feriado nacional, em comemoração ao Dia da Reforma Protestante, e dá outras providências.",
+      "dataApresentacao": "2025-07-29T15:12"
+    },
+    {
+      "id": 2539047,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539047",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3651,
+      "ano": 2025,
+      "ementa": "Institui o Programa nacional de incentivo ao esporte escolar no contraturno.",
+      "dataApresentacao": "2025-07-29T15:16"
+    },
+    {
+      "id": 2539048,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539048",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3652,
+      "ano": 2025,
+      "ementa": "Inclui teste vocacional como instrumento não avaliativo nas edições do 3o ano do ensino médio do Saeb e do Enem, para apoio à tomada de decisão dos jovens brasileiros.",
+      "dataApresentacao": "2025-07-29T15:16"
+    },
+    {
+      "id": 2539064,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539064",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3655,
+      "ano": 2025,
+      "ementa": "Institui o Programa Nacional de Prevenção à Violência contra a Mulher (PNVCM), com a finalidade de permitir, mediante critérios técnicos e legais, o acesso a informações sobre histórico de violência doméstica e familiar contra mulheres, e dá outras providências.",
+      "dataApresentacao": "2025-07-30T10:14"
+    },
+    {
+      "id": 2539069,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539069",
+      "siglaTipo": "TVR",
+      "codTipo": 422,
+      "numero": 643,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante Decreto nº 12.557, de 16 de julho de 2025, publicada no Diário Oficial da União de 17 de julho de 2025, que \"Outorga concessão à Fundação Cultural Santa Maria de Deus para executar, sem direito de exclusividade, serviço de radiodifusão de sons e imagens em tecnologia digital, com fins exclusivamente educativos, no Município de Piripiri, Estado do Piauí.\".",
+      "dataApresentacao": "2025-07-28T15:19"
+    },
+    {
+      "id": 2539072,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539072",
+      "siglaTipo": "TVR",
+      "codTipo": 423,
+      "numero": 644,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante Decreto nº 12.556, de 16 de julho de 2025, publicada no Diário Oficial da União de 17 de julho de 2025, que \"Outorga concessão à Fundação Cultural Santa Maria de Deus para executar, sem direito de exclusividade, serviço de radiodifusão de sons e imagens em tecnologia digital, com fins exclusivamente educativos, no Município de Ituiutaba, Estado de Minas Gerais.\".",
+      "dataApresentacao": "2025-07-28T15:19"
+    },
+    {
+      "id": 2539078,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539078",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 645,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.280, de 7 de fevereiro de 2025, publicada no Diário Oficial da União de 5 de março de 2025, que renova, a partir de 3 de agosto de 2021, a permissão outorgada à Rádio Jornal Cidade Bauru Ltda., atualmente denominada Rádio Cidade Bauru 96 FM Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Bauru, Estado de São Paulo.",
+      "dataApresentacao": "2025-07-28T15:19"
+    },
+    {
+      "id": 2539081,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539081",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 646,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.290, de 7 de fevereiro de 2025, publicada no Diário Oficial da União de 5 de março de 2025, que renova, a partir de 2 de fevereiro de 2017, a permissão outorgada à Empresa de Radiodifusão Tijucas FM Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Tijucas, Estado de Santa Catarina.",
+      "dataApresentacao": "2025-07-28T15:19"
+    },
+    {
+      "id": 2539084,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539084",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 647,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.325, de 10 de fevereiro de 2025, publicada no Diário Oficial da União de 5 de março de 2025, que renova, a partir de 13 de junho de 2021, a permissão outorgada à Rádio Objetiva I Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Paraguaçu, Estado de Minas Gerais.",
+      "dataApresentacao": "2025-07-28T15:19"
+    },
+    {
+      "id": 2539087,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539087",
+      "siglaTipo": "TVR",
+      "codTipo": 425,
+      "numero": 648,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.281, de 7 de fevereiro de 2025, publicada no Diário Oficial da União de 5 de março de 2025, que renova, a partir de 7 de dezembro de 2016, a permissão outorgada à Rádio Som da Terra Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Alto Taquari, Estado de Mato Grosso.",
+      "dataApresentacao": "2025-07-28T15:19"
+    },
+    {
+      "id": 2539090,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539090",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 649,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.473, de 13 de fevereiro de 2025, publicada no Diário Oficial da União de 5 de março de 2025, que renova, a partir de 1º de novembro de 2023, a concessão outorgada à Rádio Atlântica Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Santos, Estado de São Paulo.",
+      "dataApresentacao": "2025-07-28T15:19"
+    },
+    {
+      "id": 2539093,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539093",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 650,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.294, de 7 de fevereiro de 2025, publicada no Diário Oficial da União de 5 de março de 2025, que renova, a partir de 2 de julho de 2024, a permissão outorgada à Rádio FM Fronteira Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Três Barras, Estado de Santa Catarina.",
+      "dataApresentacao": "2025-07-28T15:19"
+    },
+    {
+      "id": 2539096,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539096",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 651,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.464, de 13 de fevereiro de 2025, publicada no Diário Oficial da União de 5 de março de 2025, que renova, a partir de 1º de maio de 2024, a concessão outorgada à Rádio Cultura de Apucarana Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em onda média, posteriormente adaptado para o serviço de radiodifusão sonora em frequência modulada, no Município de Apucarana, Estado do Paraná.",
+      "dataApresentacao": "2025-07-28T15:19"
+    },
+    {
+      "id": 2539099,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539099",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 652,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.326, de 10 de fevereiro de 2025, publicada no Diário Oficial da União de 5 de março de 2025, que renova, a partir de 1º de abril de 2020, a permissão outorgada ao Sistema Integrado de Comunicação Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Terra Nova do Norte, Estado de Mato Grosso.",
+      "dataApresentacao": "2025-07-28T15:19"
+    },
+    {
+      "id": 2539102,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539102",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 653,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.232, de 4 de fevereiro de 2025, publicada no Diário Oficial da União de 5 de março de 2025, que renova, a partir de 16 de novembro de 2020, a permissão outorgada à DMD Associados Assessoria e Propaganda Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Barra do Garças, Estado de Mato Grosso.",
+      "dataApresentacao": "2025-07-28T15:19"
+    },
+    {
+      "id": 2539105,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539105",
+      "siglaTipo": "TVR",
+      "codTipo": 428,
+      "numero": 654,
+      "ano": 2025,
+      "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 16.592, de 19 de fevereiro de 2025, publicada no Diário Oficial da União de 12 de março de 2025, que renova, a partir de 11 de junho de 2024, a permissão outorgada à Rádio Nova FM de Promissão Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Promissão, Estado de São Paulo.",
+      "dataApresentacao": "2025-07-28T15:19"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=39"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=40&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=38&itens=100"
+    }
+  ]
+}

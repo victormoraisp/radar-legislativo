@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2315093,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2315093",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 369,
+      "ano": 2022,
+      "ementa": "Acrescenta artigos à Lei n° 9.514, de 1997, de modo a criar o instituto da alienação fiduciária em garantia reversa de bem imóvel, também conhecido como “hipoteca reversa”",
+      "dataApresentacao": "2022-02-23T11:10"
+    },
+    {
+      "id": 2315095,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2315095",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 371,
+      "ano": 2022,
+      "ementa": "Denomina \"Governador José Ribamar Fiquene\", o trecho da BR 010 entre o trecho do município de Davinópolis ao trecho Seco, no município de São Francisco do Brejão.",
+      "dataApresentacao": "2022-02-23T11:23"
+    },
+    {
+      "id": 2316631,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2316631",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 410,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 9.503, de 1997, Código de Trânsito Brasileiro, para extinguir a prévia autorização exigida para a modificação de veículo.",
+      "dataApresentacao": "2022-02-25T14:09"
+    },
+    {
+      "id": 2316644,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2316644",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 417,
+      "ano": 2022,
+      "ementa": "Revoga o art. 60 do Decreto-Lei nº 5.452, de 1º de maio de 1943, que estabelece a necessidade de licença prévia da autoridade competente em matéria de higiene do trabalho para a prorrogação de jornada de trabalho em atividades insalubres.",
+      "dataApresentacao": "2022-02-25T18:51"
+    },
+    {
+      "id": 2317342,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317342",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 464,
+      "ano": 2022,
+      "ementa": "Altera o Código Penal, para prever\nhipóteses de agravamento de penas,\ne altera o crime de estelionato.",
+      "dataApresentacao": "2022-03-08T16:59"
+    },
+    {
+      "id": 2317399,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317399",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 474,
+      "ano": 2022,
+      "ementa": "Altera os Decretos-Leis nº 9.403, de 25 de junho de 1946; 8.621, de 10 de janeiro de 1946; 9.853, de 13 de setembro de 1946 e a Lei nº 8.029, de 12 de abril de 1990, para dispor sobre a incidência das contribuições relativas ao fomento dos programas do chamado Sistema S.",
+      "dataApresentacao": "2022-03-09T09:11"
+    },
+    {
+      "id": 2317473,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317473",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 505,
+      "ano": 2022,
+      "ementa": "Dispõe sobre a instituição do Programa nacional de Incentivo à Compostagem de Resíduos Orgânicos escolar em todas as escolas da rede pública de ensino do país.",
+      "dataApresentacao": "2022-03-09T15:45"
+    },
+    {
+      "id": 2317482,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317482",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 510,
+      "ano": 2022,
+      "ementa": "Dispõe sobre a exploração e administração das rodovias, através do ato administrativo denominado Autorização, e dá outras providências.",
+      "dataApresentacao": "2022-03-09T16:46"
+    },
+    {
+      "id": 2317515,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317515",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 517,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, para tipificar como crime a conduta de descumprimento de medida de afastamento imediato do agressor do lar, domicílio ou local de convivência com a ofendida determinado pelo delegado de polícia, quando o Município não for sede de comarca, ou pelo policial, quando o Município não for sede de comarca e não houver delegado disponível no momento da denúncia.",
+      "dataApresentacao": "2022-03-09T18:50"
+    },
+    {
+      "id": 2317599,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317599",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 537,
+      "ano": 2022,
+      "ementa": "Estabelece responsabilidade objetiva das empresas de transporte de pessoas por furtos e roubos ocorridos \tcontra os passageiros durante o exercício de sua atividade",
+      "dataApresentacao": "2022-03-10T17:19"
+    },
+    {
+      "id": 2317670,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317670",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 555,
+      "ano": 2022,
+      "ementa": "Cria a Política Pública de Competitividade das Instituições Financeiras Oficiais, e dá outras providências",
+      "dataApresentacao": "2022-03-11T16:58"
+    },
+    {
+      "id": 2317939,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317939",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 580,
+      "ano": 2022,
+      "ementa": "Altera a Lei 12.305, de\n2010, que Institui a\nPolítica Nacional de\nResíduos Sólidos, a fim\nde dispor sobre\npenalidade para quem\njoga lixo em via ou\nqualquer tipo de\nlogradouro.",
+      "dataApresentacao": "2022-03-15T13:41"
+    },
+    {
+      "id": 2318065,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318065",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 601,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 13.146, de 06 de julho de 2015 (Estatuto da Pessoa com Deficiência), para determinar que as pessoas com Tremor Essencial (TE) sejam consideradas pessoas com deficiência para doso os fins legais.",
+      "dataApresentacao": "2022-03-16T15:55"
+    },
+    {
+      "id": 2318547,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318547",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3946,
+      "ano": 2021,
+      "ementa": "Dispõe sobre o exercício da profissão de doula.",
+      "dataApresentacao": "2022-03-23T16:35"
+    },
+    {
+      "id": 2318550,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318550",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3154,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para dispor sobre campanhas de conscientização e prevenção da violência doméstica e familiar nos estabelecimentos de ensino.",
+      "dataApresentacao": "2022-03-23T16:36"
+    },
+    {
+      "id": 2318552,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318552",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 685,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para determinar que os      micro-ônibus e ônibus empregados nos serviços de transporte coletivo de passageiros possuam botão de pânico.",
+      "dataApresentacao": "2022-03-23T16:38"
+    },
+    {
+      "id": 2318555,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318555",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 687,
+      "ano": 2022,
+      "ementa": "Inscreve o nome de Francisco Xavier da Veiga Cabral no Livro dos Heróis e Heroínas da Pátria.",
+      "dataApresentacao": "2022-03-23T16:44"
+    },
+    {
+      "id": 2318556,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318556",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 688,
+      "ano": 2022,
+      "ementa": "Confere ao Município de Oeiras (PI) o título de Capital Nacional dos Bandolins.",
+      "dataApresentacao": "2022-03-23T16:46"
+    },
+    {
+      "id": 2318559,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318559",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 691,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 12.187, de 29 de dezembro de 2009, para estabelecer objetivos de maximização da participação de fontes renováveis na matriz energética brasileira.",
+      "dataApresentacao": "2022-03-23T16:49"
+    },
+    {
+      "id": 2318586,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318586",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 697,
+      "ano": 2022,
+      "ementa": "Esta Lei altera a Lei nº 13.146, de 6 de 2015 para assegurar atendimento domiciliar a pessoa com deficiência em condição de extrema pobreza e determinar a plena divulgação do direito ao atendimento domiciliar pelos órgãos e entidades responsáveis, e a Lei nº 8.742, de 7 de dezembro de 1993, para destacar o direito ao atendimento domiciliar em caso de inexistência de serviço pericial no município de residência da pessoa com deficiência, e dá outras providências.",
+      "dataApresentacao": "2022-03-23T18:14"
+    },
+    {
+      "id": 2318667,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318667",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 703,
+      "ano": 2022,
+      "ementa": "Acrescenta o art. 1857-A à Lei n° 10406, de 2002, Código Civil.",
+      "dataApresentacao": "2022-03-24T15:41"
+    },
+    {
+      "id": 2318936,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318936",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 758,
+      "ano": 2022,
+      "ementa": "Altera a alínea “c” do inciso III do art. 29; e acrescenta a alínea “d” ao inciso III do art. 29, do Código de Trânsito Brasileiro (Lei 9.503, de 23 de setembro de 1997).",
+      "dataApresentacao": "2022-03-29T18:46"
+    },
+    {
+      "id": 2318962,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318962",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 760,
+      "ano": 2022,
+      "ementa": "Dispõe sobre incentivos fiscais destinados a promover o apoio à saúde mental de jovens e adolescentes e dá outras providências.",
+      "dataApresentacao": "2022-03-29T20:28"
+    },
+    {
+      "id": 2319217,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319217",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 819,
+      "ano": 2022,
+      "ementa": "Dispõe sobre obrigatoriedade, em áreas de risco, de aprovação prévia de órgão de proteção e defesa civil para ligação de novos usuários de serviços públicos e de realização de inspeção de segurança nas instalações de usuários já existentes.",
+      "dataApresentacao": "2022-04-05T11:59"
+    },
+    {
+      "id": 2319237,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319237",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 820,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 9.394, de 1996, que “Estabelece as diretrizes e bases da educação nacional”, a fim de instituir a Política Nacional de Educação em Tempo Integral.",
+      "dataApresentacao": "2022-04-05T13:55"
+    },
+    {
+      "id": 2319354,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319354",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 846,
+      "ano": 2022,
+      "ementa": "Dispõe sobre o incentivo a destinação de recursos para o financiamento de políticas públicas da juventude",
+      "dataApresentacao": "2022-04-06T12:17"
+    },
+    {
+      "id": 2319365,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319365",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 849,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996,  dispõe sobre as Restrições ao Uso e à Propaganda de Produtos Fumígeros, Bebidas Alcoólicas, Medicamentos, Terapias e Defensivos Agrícolas, nos Termos do § 4º do art. 220 da Constituição Federal, para proibir o uso de cigarros eletrônicos e narguilés em espaços fechados.",
+      "dataApresentacao": "2022-04-06T14:49"
+    },
+    {
+      "id": 2319430,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319430",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 871,
+      "ano": 2022,
+      "ementa": "Dá nova redação ao art. 22 da Lei nº 8.245, de 18 de outubro de 1991, que dispõe sobre as locações dos imóveis urbanos e os procedimentos a elas pertinentes.",
+      "dataApresentacao": "2022-04-06T17:06"
+    },
+    {
+      "id": 2319458,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319458",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 52,
+      "ano": 2022,
+      "ementa": "Altera a lei complementar 147 de 7 de agosto de 2014.",
+      "dataApresentacao": "2022-04-06T18:53"
+    },
+    {
+      "id": 2319584,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319584",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 888,
+      "ano": 2022,
+      "ementa": "Reconhece o Skate como esporte e insere nas modalidades esportivas a serem praticadas em parques, clubes e escolas de todo o pais, e dá outras providências.",
+      "dataApresentacao": "2022-04-11T14:33"
+    },
+    {
+      "id": 2319748,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319748",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 903,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 14.238, de 19 de novembro de 2021, que Institui o Estatuto da Pessoa com Câncer, e dá outras providências",
+      "dataApresentacao": "2022-04-12T17:07"
+    },
+    {
+      "id": 2319785,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319785",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 906,
+      "ano": 2022,
+      "ementa": "Dispõe sobre a permanência do profissional Fisioterapeuta nas Maternidades públicas e privadas e dá outras providências.",
+      "dataApresentacao": "2022-04-13T11:59"
+    },
+    {
+      "id": 2319796,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319796",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 913,
+      "ano": 2022,
+      "ementa": "Institui o Programa Nacional do Livro Técnico e Profissionalizante (PNLTP).",
+      "dataApresentacao": "2022-04-13T13:31"
+    },
+    {
+      "id": 2319801,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319801",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 918,
+      "ano": 2022,
+      "ementa": "Cria o Parágrafo Único do Artigo 19 da Lei 14.300, de 06 de janeiro de 2022, excluindo a incidência de acréscimos por meio de bandeira tarifária do consumo de energia elétrica ativa a ser faturada para consumidor-gerador de energia por microgeração e minigeração distribuída através de matriz eólica ou solar, quando da apuração a que se refere o artigo 12 da presente Lei.",
+      "dataApresentacao": "2022-04-13T14:43"
+    },
+    {
+      "id": 2319802,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319802",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 919,
+      "ano": 2022,
+      "ementa": "Confere ao Município de Morada Nova, no Estado do Ceará, o título de Capital Nacional do Vaqueiro.",
+      "dataApresentacao": "2022-04-13T14:43"
+    },
+    {
+      "id": 2319812,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319812",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2493,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e a Lei nº 12.711, de 29 de agosto de 2012, que “dispõe sobre o ingresso nas universidades federais e nas instituições federais de ensino técnico de nível médio e dá outras providências”, para definir mecanismos que possibilitem a continuidade dos estudos e a formação acadêmica de atletas de alto desempenho.",
+      "dataApresentacao": "2022-04-13T16:50"
+    },
+    {
+      "id": 2319816,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319816",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 861,
+      "ano": 2019,
+      "ementa": "Isenta do pagamento de taxas ou emolumentos pela emissão de passaportes e demais documentos de viagem, no território nacional, os estudantes brasileiros comprovadamente carentes que requeiram esses documentos com o objetivo de realizar atividade de ensino, pesquisa ou extensão no exterior.",
+      "dataApresentacao": "2022-04-13T16:58"
+    },
+    {
+      "id": 2319817,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319817",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3467,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para incentivar e desenvolver o desporto nos sistemas de ensino, e dá outras providências.",
+      "dataApresentacao": "2022-04-13T17:00"
+    },
+    {
+      "id": 2319821,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319821",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1224,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para prever ações de monitoramento e acompanhamento que assegurem às crianças e adolescentes com deficiência acesso prioritário a órteses, próteses e tecnologias assistivas necessárias á frequência e á aprendizagem escolares.",
+      "dataApresentacao": "2022-04-13T17:09"
+    },
+    {
+      "id": 2319823,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319823",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3258,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 10.048, de 8 de novembro de 2000, e a Lei nº 12.587, de 3 de janeiro de 2012, para garantir a mulheres, pessoas com deficiência e idosos o direito de desembarcar fora dos locais de parada do transporte coletivo no período noturno.",
+      "dataApresentacao": "2022-04-13T17:11"
+    },
+    {
+      "id": 2319829,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319829",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1945,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para vedar a cobrança de taxas diferenciadas por curso nos processos seletivos das instituições de ensino superior.",
+      "dataApresentacao": "2022-04-13T19:09"
+    },
+    {
+      "id": 2319831,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319831",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 925,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 14.300, de 6 de janeiro\nde 2022, para dispor sobre incentivos à\ngeração distribuída de energia elétrica por\nentidades beneficentes e templos.",
+      "dataApresentacao": "2022-04-14T09:51"
+    },
+    {
+      "id": 2319840,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319840",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 930,
+      "ano": 2022,
+      "ementa": "Assegura às pessoas com fibromialgia os direitos e garantias estabelecidos na Lei 13.146/2015 (Estatuto das Pessoas com Deficiência).",
+      "dataApresentacao": "2022-04-18T09:44"
+    },
+    {
+      "id": 2319917,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319917",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 937,
+      "ano": 2022,
+      "ementa": "Acrescenta parágrafo ao art. 15 da Lei nº 9.424, de 1996, para dispor sobre destinação de parte dos recursos da contribuição social do salário-educação geridos pelo Fundo Nacional de Desenvolvimento da Educação - FNDE.",
+      "dataApresentacao": "2022-04-18T15:44"
+    },
+    {
+      "id": 2320000,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320000",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 946,
+      "ano": 2022,
+      "ementa": "Acrescenta o § 2º ao Art. 139 da Lei nº 13.105, de 16 de março de 2015, que dispõe sobre o Código de Processo Civil, para dispor sobre as medidas executivas atípicas",
+      "dataApresentacao": "2022-04-19T09:57"
+    },
+    {
+      "id": 2320055,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320055",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 959,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 8.176, de 8 de fevereiro de 1991 que define crimes contra a ordem econômica e cria o Sistema de Estoques e Combustíveis, a fim de acrescentar a qualificadora da pena prevista no artigo 2º dessa lei.",
+      "dataApresentacao": "2022-04-19T14:58"
+    },
+    {
+      "id": 2320232,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320232",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 982,
+      "ano": 2022,
+      "ementa": "Normatiza a blindagem do teto solar de veículo automotor blindado de categoria particular e dá outras providências.",
+      "dataApresentacao": "2022-04-20T13:48"
+    },
+    {
+      "id": 2320307,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320307",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 991,
+      "ano": 2022,
+      "ementa": "Adiciona dispositivo à Lei N° 13.848, de 25 de junho de 2019.",
+      "dataApresentacao": "2022-04-25T09:57"
+    },
+    {
+      "id": 2320309,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320309",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 992,
+      "ano": 2022,
+      "ementa": "Institui o Estatuto da Pessoa com Doença Rara.",
+      "dataApresentacao": "2022-04-25T10:54"
+    },
+    {
+      "id": 2320324,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320324",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 998,
+      "ano": 2022,
+      "ementa": "Inclui os portadores da Síndrome de Sjörgren ou outra doença grave crônica no rol do atendimento prioritário",
+      "dataApresentacao": "2022-04-25T14:47"
+    },
+    {
+      "id": 2320351,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320351",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1009,
+      "ano": 2022,
+      "ementa": "Define como hediondos os crimes contra o Estado Democrático de Direito, capitulados na Lei 14.197 de 01 de setembro de 2021 e dá outras providências.",
+      "dataApresentacao": "2022-04-26T09:17"
+    },
+    {
+      "id": 2320691,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320691",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1056,
+      "ano": 2022,
+      "ementa": "Dispõe sobre a licença-luto para advogado, e para tanto altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), e a Lei nº 8.906, de 4 de julho de 1994 (Estatuto da Advocacia).",
+      "dataApresentacao": "2022-04-28T14:32"
+    },
+    {
+      "id": 2320717,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320717",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1064,
+      "ano": 2022,
+      "ementa": "Estabelece penalidades administrativas às pessoas físicas ou jurídicas e agentes públicos que discriminem as pessoas com transtorno de espectro autista (tea) e dá outras providências.",
+      "dataApresentacao": "2022-04-28T16:51"
+    },
+    {
+      "id": 2320831,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320831",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1078,
+      "ano": 2022,
+      "ementa": "Dispõe sobre a transformação do campus Oiapoque da Universidade Federal do Amapá em Universidade Federal da Fronteira Norte (UNIFRON) e dá outras providências.",
+      "dataApresentacao": "2022-05-02T09:22"
+    },
+    {
+      "id": 2320917,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320917",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1083,
+      "ano": 2022,
+      "ementa": "Dispõe sobre o programa de terapia nutricional para pessoas com transtorno do espectro autista (TEA).",
+      "dataApresentacao": "2022-05-02T11:11"
+    },
+    {
+      "id": 2321620,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321620",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1118,
+      "ano": 2022,
+      "ementa": "Institui a política de atendimento ao jovem desligado de instituições de acolhimento destinadas a crianças e adolescentes e altera a Lei nº 4.375, de 17 de agosto de 1964, que dispõe sobre o Serviço Militar.",
+      "dataApresentacao": "2022-05-04T19:56"
+    },
+    {
+      "id": 2322183,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2322183",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1151,
+      "ano": 2022,
+      "ementa": "Estabelece diretrizes gerais para o acolhimento de gestantes, puérperas e mães de crianças e adolescentes em ambiente universitário.",
+      "dataApresentacao": "2022-05-06T17:49"
+    },
+    {
+      "id": 2322281,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2322281",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1160,
+      "ano": 2022,
+      "ementa": "Autoriza o sepultamento de cães e gatos junto a seus tutores.",
+      "dataApresentacao": "2022-05-09T16:48"
+    },
+    {
+      "id": 2322564,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2322564",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1189,
+      "ano": 2022,
+      "ementa": "Institui a Semana Nacional da Compostagem, a ser inserida no calendário nacional.",
+      "dataApresentacao": "2022-05-11T10:59"
+    },
+    {
+      "id": 2323053,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2323053",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5189,
+      "ano": 2019,
+      "ementa": "Institui o Dia Nacional em Memória das Vítimas do Trânsito.",
+      "dataApresentacao": "2022-05-12T17:40"
+    },
+    {
+      "id": 2323056,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2323056",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 69,
+      "ano": 2019,
+      "ementa": "Acrescenta inciso X ao art. 170 da Constituição Federal para incluir a economia solidária entre os princípios da Ordem Econômica.",
+      "dataApresentacao": "2022-05-12T17:50"
+    },
+    {
+      "id": 2323092,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2323092",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1246,
+      "ano": 2022,
+      "ementa": "ESTABELECE NORMAS E CRITÉRIOS BÁSICOS DE PRECAUÇÃO E PRESERVAÇÃO DO SOLO, DO MEIO AMBIENTE, FAUNA E FLORA, PROTEÇÃO E DEFESA DA SAÚDE, MEDIANTE COMBATE PREVENTIVO E CONTROLE DA POLUIÇÃO, CONSERVAÇÃO DA NATUREZA E PRÁTICAS DE MANEJO DOS RECURSOS NATURAIS PARA AS PRESENTES E FUTURAS GERAÇÕES, BEM COMO ESTABELECE RESTRIÇÕES À EXPLORAÇÃO DE ROCHA FOSFÁTICA COM URÂNIO ASSOCIADO E DERIVADOS, COMO ESPECIFICA.",
+      "dataApresentacao": "2022-05-13T13:34"
+    },
+    {
+      "id": 2323414,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2323414",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1270,
+      "ano": 2022,
+      "ementa": "Dispõe sobre a denominação da Estação Ferroviária localizada no Bairro Noroeste (Esplanada NOB) no município de Água Clara, Estado do Mato Grosso do Sul e dá outras providências.",
+      "dataApresentacao": "2022-05-17T16:17"
+    },
+    {
+      "id": 2323433,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2323433",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1274,
+      "ano": 2022,
+      "ementa": "Instituí o Dia Nacional de Conscientização da Apraxia de Fala na Infância (AFI), no calendário nacional e dá outras providências.",
+      "dataApresentacao": "2022-05-17T17:19"
+    },
+    {
+      "id": 2324121,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2324121",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1321,
+      "ano": 2022,
+      "ementa": "Estabelece critérios para utilização da terapia baseada na Análise do Comportamento Aplicada (ABA) por profissionais da saúde e educação.",
+      "dataApresentacao": "2022-05-20T09:39"
+    },
+    {
+      "id": 2324518,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2324518",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1353,
+      "ano": 2022,
+      "ementa": "Institui a campanha nacional de conscientização sobre combate aos incêndios e queimadas no Brasil, denominada “Agosto Limpo.",
+      "dataApresentacao": "2022-05-24T17:49"
+    },
+    {
+      "id": 2324559,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2324559",
+      "siglaTipo": "PDL",
+      "codTipo": 557,
+      "numero": 157,
+      "ano": 2022,
+      "ementa": "Susta os efeitos do Decreto nº 10.260, de 3 de março de 2020 que \"Institui o Programa Abrace o Marajó e o seu Comitê Gestor\".",
+      "dataApresentacao": "2022-05-24T19:51"
+    },
+    {
+      "id": 2324562,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2324562",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1358,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 9.427, de 26 de dezembro de 1996, para estabelecer diretriz para o estabelecimento da tarifa de uso do sistema de transmissão.",
+      "dataApresentacao": "2022-05-24T20:00"
+    },
+    {
+      "id": 2324587,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2324587",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1360,
+      "ano": 2022,
+      "ementa": "Dispõe sobre o custo de disponibilidade do sistema elétrico a ser pago pelas unidades consumidoras.",
+      "dataApresentacao": "2022-05-24T20:57"
+    },
+    {
+      "id": 2324720,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2324720",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 90,
+      "ano": 2020,
+      "ementa": "Proíbe a produção e a comercialização de qualquer produto alimentício obtido por meio de método de alimentação forçada de animais.",
+      "dataApresentacao": "2022-05-25T16:19"
+    },
+    {
+      "id": 2324873,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2324873",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1376,
+      "ano": 2022,
+      "ementa": "Determina que as dublagens e legendagens para a língua portuguesa de obras audiovisuais produzidas originalmente em idioma estrangeiro que forem ofertadas comercialmente no Brasil em quaisquer plataformas de exibição sejam realizadas por empresas sediadas no Brasil e por profissionais com residência no Brasil.",
+      "dataApresentacao": "2022-05-25T21:29"
+    },
+    {
+      "id": 2324893,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2324893",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1377,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 12.212, de 20 de janeiro de 2010, para determinar que será beneficiada com os mesmos descontos da Tarifa Social de Energia Elétrica a unidade consumidora cujo titular seja Microempreendedor Individual – MEI.",
+      "dataApresentacao": "2022-05-26T09:30"
+    },
+    {
+      "id": 2324991,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2324991",
+      "siglaTipo": "PDL",
+      "codTipo": 554,
+      "numero": 170,
+      "ano": 2022,
+      "ementa": "Aprova o texto do Acordo do MERCOSUL sobre Direito Aplicável em Matéria de Contratos Internacionais de Consumo, aprovado pela Decisão CMC nº 36/17, assinado em Brasília, em 21 de dezembro de 2017.",
+      "dataApresentacao": "2022-05-26T13:29"
+    },
+    {
+      "id": 2325190,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2325190",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1406,
+      "ano": 2022,
+      "ementa": "Altera dispositivos da Lei nº 12.089, de 2009, para limitar seu escopo às instituições federais de ensino superior e admitir exceções para ocupação simultânea de duas vagas em seus cursos de graduação.",
+      "dataApresentacao": "2022-05-30T11:30"
+    },
+    {
+      "id": 2325331,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2325331",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1430,
+      "ano": 2022,
+      "ementa": "Altera o Decreto-Lei nº 719, de 31 de julho de 1969, para incluir a implantação de sistemas de microgeração e minigeração distribuída de energia elétrica entre as aplicações de recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT) destinados ao financiamento de projetos de implantação e recuperação de infraestrutura de pesquisa nas instituições públicas de ensino superior e de pesquisa.",
+      "dataApresentacao": "2022-05-31T11:35"
+    },
+    {
+      "id": 2325450,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2325450",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1439,
+      "ano": 2022,
+      "ementa": "Reduz a zero as alíquotas da Contribuição para o PIS/Pasep e da Cofins incidentes sobre operações com rações e suplementos minerais destinados à alimentação de equinos.",
+      "dataApresentacao": "2022-05-31T18:50"
+    },
+    {
+      "id": 2325624,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2325624",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1460,
+      "ano": 2022,
+      "ementa": "Altera o Decreto-Lei 667, de 02 de julho de 1969, para dispor sobre a aposentadoria do profissional militar.",
+      "dataApresentacao": "2022-06-01T16:36"
+    },
+    {
+      "id": 2325768,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2325768",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1471,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana, para estabelecer diretrizes de remuneração de motoristas do transporte remunerado privado individual de passageiros.",
+      "dataApresentacao": "2022-06-01T20:50"
+    },
+    {
+      "id": 2325857,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2325857",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1475,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 9.427, de 26 de dezembro de 1996, para promover a devolução de valores de tributos recolhidos indevidamente a maior dos consumidores pelas prestadoras do serviço público de distribuição de energia elétrica.",
+      "dataApresentacao": "2022-06-02T10:47"
+    },
+    {
+      "id": 2325873,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2325873",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1476,
+      "ano": 2022,
+      "ementa": "Altera a Lei 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto e dá outras providências, para dispor sobre a inscrição dos programas de formação de atletas por entidades formadoras no Conselho Municipal dos Direitos da Criança e do Adolescente.",
+      "dataApresentacao": "2022-06-02T11:20"
+    },
+    {
+      "id": 2326046,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2326046",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1492,
+      "ano": 2022,
+      "ementa": "Dispõe sobre a proibição da produção, da importação, da comercialização e da publicidade de Dispositivos Eletrônicos para Fumar, bem como dos acessórios e refis desses produtos, altera a Lei nº 9.294, de 15 de julho de 1996, para reforçar a proibição uso desses produtos em recintos coletivos fechados, privados ou públicos, e altera a Lei nº 8.069, de 13 de julho de 1990, para dispor sobre a punição daquele que fornecer esses produtos a crianças ou a adolescentes.",
+      "dataApresentacao": "2022-06-06T09:16"
+    },
+    {
+      "id": 2326080,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2326080",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1501,
+      "ano": 2022,
+      "ementa": "Dispõe sobre os procedimentos de análise, decretação e efetivação de medidas judiciais, extrajudiciais ou administrativas que acarretem desocupação ou remoção forçada coletiva em imóvel privado ou público, urbano ou rural, a serem observados após 30 de junho de 2022, e altera a Lei nº 13.465, de 11 de julho de 2017.",
+      "dataApresentacao": "2022-06-06T12:10"
+    },
+    {
+      "id": 2326236,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2326236",
+      "siglaTipo": "PDL",
+      "codTipo": 553,
+      "numero": 208,
+      "ano": 2022,
+      "ementa": "Aprova o ato que renova a autorização outorgada à Associação Rádio Comunitária Estância Velha - AERCOM FM para executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Estância Velha, Estado do Rio Grande do Sul.",
+      "dataApresentacao": "2022-06-06T17:47"
+    },
+    {
+      "id": 2326303,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2326303",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1516,
+      "ano": 2022,
+      "ementa": "Dispõe sobre o parcelamento, junto à Secretaria Especial da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional, de débitos de contribuições previdenciárias de pessoas físicas ou jurídicas em decorrência da prestação de serviços em obras de construção civil durante a Emergência em Saúde Pública de importância Nacional (ESPIN) em decorrência da Infecção Humana pelo novo Coronavírus (SARS-CoV-2).",
+      "dataApresentacao": "2022-06-07T13:48"
+    },
+    {
+      "id": 2326353,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2326353",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1521,
+      "ano": 2022,
+      "ementa": "Altera o art. 152 da Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro - para garantir o direito do candidato à obtenção da Carteira Nacional de Habilitação de ser acompanhado por pessoa de sua preferência no exame de direção veicular.",
+      "dataApresentacao": "2022-06-07T15:57"
+    },
+    {
+      "id": 2326574,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2326574",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1238,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 8.989, de 24 de fevereiro de 1995, para autorizar a aquisição de novo automóvel com isenção do Imposto sobre Produtos Industrializados (IPI), nos casos de destruição completa, furto ou roubo do bem.",
+      "dataApresentacao": "2022-06-08T15:03"
+    },
+    {
+      "id": 2326920,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2326920",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1578,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 12.512, de 14 de outubro de 2011, para dispor sobre o Programa de Apoio à Conservação Ambiental.",
+      "dataApresentacao": "2022-06-09T15:04"
+    },
+    {
+      "id": 2328513,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2328513",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1650,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, para restringir o uso de dispositivo eletrônico para fumar.",
+      "dataApresentacao": "2022-06-14T13:52"
+    },
+    {
+      "id": 2328514,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2328514",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1651,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências, para tornar crime a disponibilização de cigarros, cigarrilhas, charutos, cachimbos, cigarros eletrônicos e assemelhados, narguilés, ou qualquer outro produto fumígeno, derivado ou não do tabaco para crianças e adolescentes.",
+      "dataApresentacao": "2022-06-14T13:52"
+    },
+    {
+      "id": 2329479,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2329479",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 93,
+      "ano": 2022,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para aumentar o limite de receita bruta autorizado para fins de adesão ao Simples Nacional.",
+      "dataApresentacao": "2022-06-20T17:56"
+    },
+    {
+      "id": 2329580,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2329580",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1706,
+      "ano": 2022,
+      "ementa": "Altera a Lei 12.608, de 10 de abril de 2012, para dispor sobre o envio de notificações de alerta e de orientações sobre desastres naturais à população em áreas de risco, por meio de ferramenta ou aplicativo do Sistema Nacional de Informações e Monitoramento de Desastres Naturais instituído no âmbito da Política Nacional de Proteção e Defesa Civil.",
+      "dataApresentacao": "2022-06-20T20:38"
+    },
+    {
+      "id": 2329591,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2329591",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1707,
+      "ano": 2022,
+      "ementa": "Estabelece a obrigatoriedade de restaurantes ou estabelecimentos similares concederem descontos a pessoas que tenham se submetido a cirurgia bariátrica",
+      "dataApresentacao": "2022-06-20T21:07"
+    },
+    {
+      "id": 2329891,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2329891",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1732,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 6.932, de 7 de julho de 1981, que dispõe sobre a Residência Médica, para permitir o fracionamento das férias para o médico residente.",
+      "dataApresentacao": "2022-06-22T10:32"
+    },
+    {
+      "id": 2329930,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2329930",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1734,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 11.419, de 19 de dezembro de 2006, a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), o Decreto-Lei nº 5.452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho) e Lei 9.099/95 (Lei dos Juizados Especiais), a fim de aprimorar as regras na contagem dos prazos processuais nas hipóteses de indisponibilidade dos sistemas de processo eletrônico dos Tribunais.",
+      "dataApresentacao": "2022-06-22T12:07"
+    },
+    {
+      "id": 2329969,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2329969",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1737,
+      "ano": 2022,
+      "ementa": "Assegura aos candidatos aprovados em concursos públicos, o direito à realização de exames laboratoriais e complementares previstos no edital do certame, através do plano de saúde ou de seguro-saúde do qual é usuário, sem a necessidade de apresentação prévia de requisição médica, nos termos que indica.",
+      "dataApresentacao": "2022-06-22T14:05"
+    },
+    {
+      "id": 2330181,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2330181",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1753,
+      "ano": 2022,
+      "ementa": "Acrescenta dispositivos à Lei n. 13.019, de 31 de julho de 2014, a fim de que as parcerias entre a administração pública e as organizações da sociedade civil atendam aos interesses do nascituro, da criança e do adolescente.",
+      "dataApresentacao": "2022-06-24T12:23"
+    },
+    {
+      "id": 2330571,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2330571",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1794,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 9.503, de 23 de Setembro de 1997 - Código de Trânsito, para responsabilizar os ocupantes de veículos que incentivem ou se omitem em relação ao cometimento do crime de dirigir embriagado.",
+      "dataApresentacao": "2022-06-28T18:45"
+    },
+    {
+      "id": 2330933,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2330933",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1830,
+      "ano": 2022,
+      "ementa": "Altera a Lei nº 12.587, de 2012, a fim de dispor sobre bilhete nacionalmente integrado de transporte público.",
+      "dataApresentacao": "2022-06-30T10:41"
+    },
+    {
+      "id": 2331435,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2331435",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1911,
+      "ano": 2022,
+      "ementa": "Denomina “ Rodovia Costa e Silva” o trecho da rodovia BR-153 compreendido entre a cidade de Cachoeira do Sul, no estado do Rio Grande do Sul, e a cidade de Marabá, no estado do Pará.",
+      "dataApresentacao": "2022-07-06T11:10"
+    },
+    {
+      "id": 2331637,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2331637",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1924,
+      "ano": 2022,
+      "ementa": "Altera a Consolidação das Leis do Trabalho para dispor sobre o processamento de recursos no âmbito dos tribunais, e dá outras providências.",
+      "dataApresentacao": "2022-07-06T19:13"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=12"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=13&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=11&itens=100"
+    }
+  ]
+}

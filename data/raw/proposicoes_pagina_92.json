@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2613590,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613590",
+      "siglaTipo": "PRLP",
+      "codTipo": 891,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer de plenário ao PL 4133/2023, que Dispõe sobre diretrizes para a formulação da política industrial, tecnológica e de comércio exterior brasileira.",
+      "dataApresentacao": "2026-04-06T21:20"
+    },
+    {
+      "id": 2613591,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613591",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 43,
+      "ano": 2026,
+      "ementa": "Requer a realização de Audiência Pública, em conjunto com a Comissão de Saúde, para apresentação do Scorecard do Brasil sobre políticas de controle do tabaco.",
+      "dataApresentacao": "2026-04-06T15:49"
+    },
+    {
+      "id": 2613592,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613592",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Capitão Alden (PL-BA), pela aprovação do PL nº 3.391/2024, bem como dos PLs nº 328/2025 e nº 2.833/2025, apensados, na forma do substitutivo.",
+      "dataApresentacao": "2026-04-06T15:48"
+    },
+    {
+      "id": 2613593,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613593",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 44,
+      "ano": 2026,
+      "ementa": "Requer a realização de Audiência Pública para debater a implementação do Programa Nacional de Redução de Agrotóxicos (PRONARA) em Minas Gerais e a recomposição do Grupo Executivo Permanente (GEP), com a atualização e implementação do Plano de Ação (PLANERA), da Estratégia Intersetorial de Redução do Uso de Agrotóxicos e Apoio à Agroecologia e à Produção Orgânica em Minas Gerais.",
+      "dataApresentacao": "2026-04-06T15:49"
+    },
+    {
+      "id": 2613594,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613594",
+      "siglaTipo": "MSC",
+      "codTipo": 412,
+      "numero": 221,
+      "ano": 2026,
+      "ementa": "Comunica o Excelentíssimo Senhor Presidente da República, a sanção do Projeto de Lei nº 3.472, de 2024, que “Reconhece como manifestação da cultura nacional a Festa da Penha, realizada no Município de Vila Velha, no Estado do Espírito Santo.”; e restitui para o arquivo do Congresso Nacional, o autógrafo do texto ora convertido na Lei nº 15.362, de 26 de março de 2026.",
+      "dataApresentacao": "2026-04-07T10:00"
+    },
+    {
+      "id": 2613595,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613595",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Delegado Paulo Bilynskyj (PL-SP), pela aprovação.",
+      "dataApresentacao": "2026-04-06T15:54"
+    },
+    {
+      "id": 2613596,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613596",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Reimont (PT-RJ), pela aprovação na forma do substitutivo.",
+      "dataApresentacao": "2026-04-06T16:09"
+    },
+    {
+      "id": 2613597,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613597",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 97,
+      "ano": 2026,
+      "ementa": "Requer a realização de Audiência Pública para debater a Colestase Intra-hepática Familiar Progressiva (PFIC), doença rara que afeta principalmente crianças, suas famílias e cuidadores, e a necessidade de atenção prioritária por parte do Estado brasileiro.",
+      "dataApresentacao": "2026-04-07T09:34"
+    },
+    {
+      "id": 2613598,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613598",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Delegado Paulo Bilynskyj (PL-SP), pela aprovação.",
+      "dataApresentacao": "2026-04-06T15:56"
+    },
+    {
+      "id": 2613599,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613599",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Otoni de Paula (MDB-RJ), pela aprovação na forma do substitutivo.",
+      "dataApresentacao": "2026-04-06T15:42"
+    },
+    {
+      "id": 2613600,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613600",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Reimont (PT-RJ), pela aprovação.",
+      "dataApresentacao": "2026-04-06T14:40"
+    },
+    {
+      "id": 2613601,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613601",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 1894,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao GCM Marcos Fonseca Campos pelos excelentes serviços prestados ao Município de São Fidélis.",
+      "dataApresentacao": "2026-04-07T10:17"
+    },
+    {
+      "id": 2613602,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613602",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Delegado Paulo Bilynskyj (PL-SP), pela aprovação.",
+      "dataApresentacao": "2026-04-06T15:58"
+    },
+    {
+      "id": 2613603,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613603",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 88,
+      "ano": 2026,
+      "ementa": "Altera a Lei de Responsabilidade Fiscal para vedar despesas com eventos festivos quando o ente federativo estiver em situação de irregularidade fiscal, e a Lei de Improbidade Administrativa, para tipificar como ato de improbidade a realização dessas despesas em detrimento de serviços essenciais.",
+      "dataApresentacao": "2026-04-07T10:18"
+    },
+    {
+      "id": 2613604,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613604",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Benedita da Silva (PT-RJ), pela aprovação.",
+      "dataApresentacao": "2026-04-07T10:17"
+    },
+    {
+      "id": 2613605,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613605",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Delegado Paulo Bilynskyj (PL-SP), pela aprovação.",
+      "dataApresentacao": "2026-04-06T16:00"
+    },
+    {
+      "id": 2613606,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613606",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Autoriza o Poder Executivo a disponibilizar um número telefônico tridígito nacional para atender denúncias de racismo",
+      "dataApresentacao": "2026-04-06T15:42"
+    },
+    {
+      "id": 2613607,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613607",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Delegado Paulo Bilynskyj (PL-SP), pela aprovação deste e da Emenda 1/2025 da CSPCCO, com substitutivo.",
+      "dataApresentacao": "2026-04-06T16:09"
+    },
+    {
+      "id": 2613608,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613608",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Cleber Verde (MDB-MA), pela aprovação deste, com Substitutivo.",
+      "dataApresentacao": "2026-04-07T09:58"
+    },
+    {
+      "id": 2613609,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613609",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Autoriza ao Poder Executivo Federal promover a criação e o funcionamento ininterrupto de Delegacia de Crimes Raciais e Delitos de Intolerância.",
+      "dataApresentacao": "2026-04-06T16:09"
+    },
+    {
+      "id": 2613610,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613610",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Hildo Rocha (MDB-MA), pela constitucionalidade, juridicidade e técnica legislativa.",
+      "dataApresentacao": "2026-04-07T09:56"
+    },
+    {
+      "id": 2613611,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613611",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a cessão de créditos inscritos em precatório por servidores dos órgãos de segurança pública para pagamentos de financiamentos imobiliários.",
+      "dataApresentacao": "2026-04-06T16:09"
+    },
+    {
+      "id": 2613612,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613612",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Propõe ações de Combate a atuação em Território Nacional dos Jogos Ilegais na Internet",
+      "dataApresentacao": "2026-04-07T09:58"
+    },
+    {
+      "id": 2613613,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613613",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Delegado Paulo Bilynskyj (PL-SP), pela aprovação deste, com substitutivo.",
+      "dataApresentacao": "2026-04-06T16:11"
+    },
+    {
+      "id": 2613614,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613614",
+      "siglaTipo": "REQ",
+      "codTipo": 1015,
+      "numero": 40,
+      "ano": 2026,
+      "ementa": "Solicita ao Tribunal de Contas da União informações acerca da legalidade, dos impactos econômicos e operacionais e dos riscos de insegurança jurídica decorrentes da implementação da Resolução nº 5.268, de 2025, do Conselho Monetário Nacional, que condiciona a concessão de crédito rural à inexistência de registros de supressão de vegetação nativa com base em sistemas de monitoramento remoto.",
+      "dataApresentacao": "2026-04-07T09:24"
+    },
+    {
+      "id": 2613615,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613615",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui pensão especial e indenização compensatória aos dependentes de policiais civis, militares, federais, rodoviários federais e guardas civis municipais falecidos no exercício da função ou em decorrência de ato de serviço em operações de combate ao crime organizado, reconhecendo o caráter essencial das forças de segurança pública e assegurando proteção integral a seus filhos menores.",
+      "dataApresentacao": "2026-04-06T16:11"
+    },
+    {
+      "id": 2613616,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613616",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Segurança e Apoio Logístico aos Romeiros da Rodovia Presidente Dutra (BR-116) durante as celebrações em homenagem a Nossa Senhora Aparecida, e dá outras providências.",
+      "dataApresentacao": "2026-04-06T16:12"
+    },
+    {
+      "id": 2613617,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613617",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Florentino Neto (PT-PI), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária do PL 555/2022 e da Emenda 1 da CFT; e, no mérito, pela rejeição do PL 555/2022 e da Emenda 1 da CFT.",
+      "dataApresentacao": "2026-04-06T18:33"
+    },
+    {
+      "id": 2613618,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613618",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 776,
+      "ano": 2026,
+      "ementa": "Requer que sejam prestadas pelo Ministério da Agricultura e Pecuária - MAPA, informações acerca da Portaria que incorporou ao ordenamento jurídico brasileiro o Regulamento Técnico do MERCOSUL de identidade e qualidade do morango.",
+      "dataApresentacao": "2026-04-07T10:33"
+    },
+    {
+      "id": 2613619,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613619",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 473,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-07T10:39"
+    },
+    {
+      "id": 2613620,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613620",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Delegado Paulo Bilynskyj (PL-SP), pela aprovação.",
+      "dataApresentacao": "2026-04-06T16:13"
+    },
+    {
+      "id": 2613621,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613621",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 474,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-07T10:48"
+    },
+    {
+      "id": 2613622,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613622",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 1895,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. Cabo PM Danilo Índio do Brasil pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-07T10:47"
+    },
+    {
+      "id": 2613623,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613623",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 436,
+      "ano": 2026,
+      "ementa": "Sugere alteração na Resolução n° 109, de 11 de novembro de 2009, para incluir o serviço de atendimento a mulheres em situação de violência.",
+      "dataApresentacao": "2026-04-07T10:48"
+    },
+    {
+      "id": 2613624,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613624",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 777,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministério  de Minas e Energia acerca da decisão da Petrobras de encerrar antecipadamente o mandato do Diretor-Executivo de Logística, Comercialização e Mercados, bem como sobre eventuais interferências na política de comercialização de GLP (gás de cozinha).",
+      "dataApresentacao": "2026-04-07T10:49"
+    },
+    {
+      "id": 2613625,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613625",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 1896,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. Subten PM Marcelo Furriel da Silva pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-07T10:51"
+    },
+    {
+      "id": 2613626,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613626",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 142,
+      "ano": 2026,
+      "ementa": "Requer a realização de audiência pública, no âmbito da Comissão de Segurança Pública e Combate ao Crime Organizado, para debater a importância do uso de equipamentos de visão noturna e termal para as atividades de manejo das espécies exóticas invasoras.",
+      "dataApresentacao": "2026-04-06T15:58"
+    },
+    {
+      "id": 2613627,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613627",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 143,
+      "ano": 2026,
+      "ementa": "Requer a realização de audiência pública, no âmbito da Comissão de Segurança Pública e Combate ao Crime Organizado, para debater a importância do uso de supressores de ruído para as atividades de manejo das espécies exóticas invasoras.",
+      "dataApresentacao": "2026-04-06T16:14"
+    },
+    {
+      "id": 2613628,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613628",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 437,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Chaves, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T10:52"
+    },
+    {
+      "id": 2613629,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613629",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Fernando Monteiro (PSD-PE), pela inadequação financeira e orçamentária do Projeto de Lei nº 2.289 de 2022, e do Substitutivo adotado pela Comissão de Viação e Transportes.",
+      "dataApresentacao": "2026-04-06T16:13"
+    },
+    {
+      "id": 2613630,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613630",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 438,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Colares, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T10:53"
+    },
+    {
+      "id": 2613631,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613631",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 1897,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 1° SGT PM Wilson Brito Filho pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-07T10:54"
+    },
+    {
+      "id": 2613632,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613632",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 439,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Conceição do Araguaia, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T10:54"
+    },
+    {
+      "id": 2613633,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613633",
+      "siglaTipo": "REQ",
+      "codTipo": 686,
+      "numero": 11,
+      "ano": 2026,
+      "ementa": "Requer a realização de seminário para debater as medidas de resposta e as estratégias de reconstrução e prevenção referentes aos impactos do desastre causados pelas chuvas de 2026 na Zona da Mata mineira.",
+      "dataApresentacao": "2026-04-06T18:58"
+    },
+    {
+      "id": 2613634,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613634",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 440,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Concórdia do Pará, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T10:55"
+    },
+    {
+      "id": 2613635,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613635",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 441,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Cumaru do Norte, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T10:57"
+    },
+    {
+      "id": 2613636,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613636",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 1898,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo à Sra. 3° SGT PM Camila Gomes Moraes pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-07T10:57"
+    },
+    {
+      "id": 2613637,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613637",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 442,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Curionópolis, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T10:57"
+    },
+    {
+      "id": 2613638,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613638",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 12,
+      "ano": 2026,
+      "ementa": "Requer a realização de audiência pública para debater o papel das Universidades no enfrentamento às calamidades com os seguintes convidados:  representantes do corpo docente da UEMG unidade\nubá; representantes do corpo docente da UFJF; representantes do corpo discente das Universidades; e representantes dos servidores administrativos das Universidades.",
+      "dataApresentacao": "2026-04-06T18:58"
+    },
+    {
+      "id": 2613639,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613639",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 443,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Curralinho, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:01"
+    },
+    {
+      "id": 2613640,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613640",
+      "siglaTipo": "MCN",
+      "codTipo": 649,
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Encaminha, em cumprimento aos arts. 84, inciso XXIV e 49, inciso IX, da Constituição, e ao art. 56 da Lei Complementar nº 101, de 4 de maio de 2000, as contas do Governo Federal relativas ao exercício de 2025.",
+      "dataApresentacao": "2026-04-07T11:02"
+    },
+    {
+      "id": 2613641,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613641",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 444,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Curuá, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:02"
+    },
+    {
+      "id": 2613642,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613642",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 445,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Curuçá, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:03"
+    },
+    {
+      "id": 2613643,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613643",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 446,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Dom Eliseu, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:04"
+    },
+    {
+      "id": 2613644,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613644",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Requer a realização de audiência pública para debater a propagação de fake news em calamidades públicas, com os seguintes convidados: representante da Secretaria da Comunicação Social da Presidência da República; representante da Secretaria Nacional de Proteção e Defesa Civil do Ministério da Integração e do Desenvolvimento Regional; representante da Defesa Civil de Minas Gerais; representante da Secretaria de Políticas Digitais; representante do Conselho Digital; e Dra. Laura Schertel Mendes, professora da Universidade de Brasília – UnB – e do Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa –IDP.",
+      "dataApresentacao": "2026-04-06T18:58"
+    },
+    {
+      "id": 2613645,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613645",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 778,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministro de Estado da Educação acerca da implementação do Sistema Nacional de Acompanhamento e Combate à Violência nas Escolas (Snave), instituído pela Lei nº 14.643, de 2023, bem como do Núcleo de Resposta e Reconstrução da Comunidade Escolar (NRRCE), com especial atenção ao Estado do Espírito Santo.",
+      "dataApresentacao": "2026-04-07T11:01"
+    },
+    {
+      "id": 2613646,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613646",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Ricardo Ayres (REPUBLIC-TO), pela constitucionalidade, juridicidade, técnica legislativa e, no mérito, pela aprovação, com substitutivo.",
+      "dataApresentacao": "2026-04-07T10:56"
+    },
+    {
+      "id": 2613647,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613647",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 447,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Eldorado Dos Carajás, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:05"
+    },
+    {
+      "id": 2613648,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613648",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 448,
+      "ano": 2026,
+      "ementa": "Sugere ao Ministério de Minas e Energia a adoção de medidas para mitigar o aumento do preço do óleo diesel no Brasil.",
+      "dataApresentacao": "2026-04-07T11:05"
+    },
+    {
+      "id": 2613649,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613649",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 449,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Faro, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:06"
+    },
+    {
+      "id": 2613650,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613650",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-07T11:10"
+    },
+    {
+      "id": 2613651,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613651",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 450,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Floresta Do Araguaia, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:07"
+    },
+    {
+      "id": 2613652,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613652",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 451,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Garrafão do Norte, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:08"
+    },
+    {
+      "id": 2613653,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613653",
+      "siglaTipo": "REQ",
+      "codTipo": 293,
+      "numero": 1899,
+      "ano": 2026,
+      "ementa": "Requer a realização de Sessão Solene da Câmara dos Deputados destinada a celebrar o Dia Internacional das Micro, Pequenas e Médias Empresas (MPMEs).",
+      "dataApresentacao": "2026-04-07T11:07"
+    },
+    {
+      "id": 2613654,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613654",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 452,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Goianésia do Pará, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:12"
+    },
+    {
+      "id": 2613655,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613655",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Fernando Monteiro (PSD-PE), pela aprovação.",
+      "dataApresentacao": "2026-04-06T16:13"
+    },
+    {
+      "id": 2613656,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613656",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 779,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministro da Fazenda, Sr. Fernando Haddad, acerca do sigilo de oito anos imposto pelo Banco Central do Brasil sobre documentos relacionados à liquidação do Banco Master.",
+      "dataApresentacao": "2026-04-07T11:16"
+    },
+    {
+      "id": 2613657,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613657",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 780,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministro de Minas e Energia sobre o aumento das tarifas de energia elétrica acima da inflação e seus impactos no orçamento das famílias brasileiras.",
+      "dataApresentacao": "2026-04-07T11:16"
+    },
+    {
+      "id": 2613658,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613658",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 475,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-07T11:13"
+    },
+    {
+      "id": 2613659,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613659",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1616,
+      "ano": 2026,
+      "ementa": "Dispõe sobre as providências a serem adotadas pela autoridade policial em  inquérito que conclua por suicídio de mulher",
+      "dataApresentacao": "2026-04-07T11:15"
+    },
+    {
+      "id": 2613660,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613660",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 476,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-07T11:14"
+    },
+    {
+      "id": 2613661,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613661",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Fernando Monteiro (PSD-PE), pela aprovação do PL nº 5.642/2023, e do PL nº 4.905/2024, apensado, com substitutivo.",
+      "dataApresentacao": "2026-04-06T16:13"
+    },
+    {
+      "id": 2613662,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613662",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Eriberto Medeiros (PSB-PE), pela aprovação.",
+      "dataApresentacao": "2026-04-07T11:15"
+    },
+    {
+      "id": 2613663,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613663",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 12.587, de 2012, para dispor sobre o transporte remunerado privado individual de passageiros por motocicleta.",
+      "dataApresentacao": "2026-04-06T16:13"
+    },
+    {
+      "id": 2613664,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613664",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Laura Carneiro (PSD-RJ), pela aprovação do PL 4226/2025 e do PL 6435/2025, apensado, com substitutivo.",
+      "dataApresentacao": "2026-04-07T11:05"
+    },
+    {
+      "id": 2613665,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613665",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Fernando Monteiro (PSD-PE), pela aprovação.",
+      "dataApresentacao": "2026-04-06T16:13"
+    },
+    {
+      "id": 2613666,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613666",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Acrescenta parágrafo único ao art. 106 da Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social, para autorizar a utilização de documentos emitidos em nome do pai ou do cônjuge, como meio de comprovação do exercício de atividade rural pela mulher segurada especial.",
+      "dataApresentacao": "2026-04-07T11:05"
+    },
+    {
+      "id": 2613667,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613667",
+      "siglaTipo": "VTS",
+      "codTipo": 260,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a garantia de estabilidade provisória às empregadas e empregados diagnosticados com câncer de colo uterino, de mama e colorretal.",
+      "dataApresentacao": "2026-04-07T11:07"
+    },
+    {
+      "id": 2613668,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613668",
+      "siglaTipo": "REQ",
+      "codTipo": 311,
+      "numero": 1900,
+      "ano": 2026,
+      "ementa": "Requeiro a Vossa Excelência, nos Termos Regimentais a retirada do PLP 63/2026 e o do PL 1529/2026.",
+      "dataApresentacao": "2026-04-07T11:36"
+    },
+    {
+      "id": 2613669,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613669",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 453,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Gurupá, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:35"
+    },
+    {
+      "id": 2613670,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613670",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Fernando Monteiro (PSD-PE), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária do Projeto de Lei Complementar nº 351, de 2013; e, no mérito, pela aprovação do PLP 351/2013, com emenda.",
+      "dataApresentacao": "2026-04-06T16:13"
+    },
+    {
+      "id": 2613671,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613671",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 454,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Igarapé-Açu, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:36"
+    },
+    {
+      "id": 2613672,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613672",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 455,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Igarapé-Miri, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:37"
+    },
+    {
+      "id": 2613673,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613673",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 477,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-07T11:41"
+    },
+    {
+      "id": 2613674,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613674",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 456,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Inhangapi, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:38"
+    },
+    {
+      "id": 2613675,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613675",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 457,
+      "ano": 2026,
+      "ementa": "Sugere ao Ministro das Comunicações, a adoção de medidas para aprimorar o serviço de telefonia móvel no município de São João da Barra/RJ.",
+      "dataApresentacao": "2026-04-07T11:38"
+    },
+    {
+      "id": 2613676,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613676",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 458,
+      "ano": 2026,
+      "ementa": "Sugere ao Ministro dos Transportes a adoção de medidas para a realização de obras de reforma e melhoria na BR-393, no trecho que atravessa o município de Três Rios/RJ.",
+      "dataApresentacao": "2026-04-07T11:38"
+    },
+    {
+      "id": 2613677,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613677",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 459,
+      "ano": 2026,
+      "ementa": "Sugere ao Ministro dos Transportes a adoção de medidas para a realização de obras de reforma e melhoria na BR-393, no trecho que atravessa o município de Paraíba do Sul/RJ.",
+      "dataApresentacao": "2026-04-07T11:38"
+    },
+    {
+      "id": 2613678,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613678",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 460,
+      "ano": 2026,
+      "ementa": "Sugere ao Ministro da Saúde a adoção de medidas para viabilizar o envio da Carreta do Programa Agora Tem Especialista (ATE) ao município de Paraíba do Sul/RJ.",
+      "dataApresentacao": "2026-04-07T11:38"
+    },
+    {
+      "id": 2613679,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613679",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 461,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Ipixuna do Pará, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:38"
+    },
+    {
+      "id": 2613680,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613680",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 462,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Irituia, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:39"
+    },
+    {
+      "id": 2613681,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613681",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 463,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Itaituba, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:40"
+    },
+    {
+      "id": 2613682,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613682",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 464,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Itupiranga, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:41"
+    },
+    {
+      "id": 2613683,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613683",
+      "siglaTipo": "EMR",
+      "codTipo": 257,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 123, de 2006, que instituiu o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte para estabelecer que as multas aplicadas pela legislação fiscal não poderão exceder a 2% (dois por cento).",
+      "dataApresentacao": "2026-04-06T16:13"
+    },
+    {
+      "id": 2613684,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613684",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 465,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Jacareacanga, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:42"
+    },
+    {
+      "id": 2613685,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613685",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 466,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Jacundá, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:43"
+    },
+    {
+      "id": 2613686,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613686",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 478,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-07T11:45"
+    },
+    {
+      "id": 2613687,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613687",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 467,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Juruti, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:44"
+    },
+    {
+      "id": 2613688,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613688",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 468,
+      "ano": 2026,
+      "ementa": "Sugere a adoção de providências para estimular e viabilizar a implantação de núcleos do Programa Vem Ser! no município de Limoeiro do Ajuru, Estado do Pará.",
+      "dataApresentacao": "2026-04-07T11:45"
+    },
+    {
+      "id": 2613689,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2613689",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 479,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-07T11:47"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=92"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=93&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=91&itens=100"
+    }
+  ]
+}

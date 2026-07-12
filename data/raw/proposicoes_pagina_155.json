@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2620081,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620081",
+      "siglaTipo": "EMR",
+      "codTipo": 257,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, e a Lei nº 6.001, de 19 de dezembro de 1973, para reverter em benefício dos povos indígenas os valores arrecadados em pagamento de multas por infração ambiental cometida em terras indígenas.",
+      "dataApresentacao": "2026-04-28T15:04"
+    },
+    {
+      "id": 2620082,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620082",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2085,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a prioridade à empregada gestante na alocação em vagas de teletrabalho ou trabalho remoto e institui o direito ao regime de teletrabalho ou trabalho remoto para a empregada grávida em comprovada situação de risco clínico à gestação.",
+      "dataApresentacao": "2026-04-29T17:12"
+    },
+    {
+      "id": 2620083,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620083",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Decreto-Lei no 2.848, de 7 de dezembro de 1940 - Código Penal, a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, e a Lei nº 12.965, de 23 de abril de 2014 - Marco Civil da Internet, para aumentar as penas e criar dispositivos legais específicos para punir severamente a chantagem e outros crimes cibernéticos cometidos contra crianças e adolescentes.",
+      "dataApresentacao": "2026-04-29T15:54"
+    },
+    {
+      "id": 2620084,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620084",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 122,
+      "ano": 2026,
+      "ementa": "Institui o regime jurídico aplicável ao trabalho plataformizado no serviço de transporte remunerado privado individual de passageiros, assegurando proteção social, remuneração justa, e dá outras providências.",
+      "dataApresentacao": "2026-04-29T17:20"
+    },
+    {
+      "id": 2620085,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620085",
+      "siglaTipo": "REQ",
+      "codTipo": 319,
+      "numero": 2542,
+      "ano": 2026,
+      "ementa": "Retirada do Recurso 009/2026, de minha autoria, que trata apreciação em Plenário do PL 6018/2025, que Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil).",
+      "dataApresentacao": "2026-04-29T17:21"
+    },
+    {
+      "id": 2620086,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620086",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 702,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-29T17:27"
+    },
+    {
+      "id": 2620087,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620087",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2086,
+      "ano": 2026,
+      "ementa": "Declara a Festa de Nossa Senhora Mãe da Divina Graça, padroeira da Diocese e da cidade de Parnaíba, no Estado do Piauí, como manifestação da cultura nacional.",
+      "dataApresentacao": "2026-04-29T17:27"
+    },
+    {
+      "id": 2620088,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620088",
+      "siglaTipo": "REQ",
+      "codTipo": 293,
+      "numero": 2543,
+      "ano": 2026,
+      "ementa": "Requer a realização de Sessão Solene em comemoração aos 30 anos da Lei da Propriedade Industrial.",
+      "dataApresentacao": "2026-04-29T17:27"
+    },
+    {
+      "id": 2620089,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620089",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2087,
+      "ano": 2026,
+      "ementa": "Reconhece a Festa de Nossa Senhora do Carmo realizada no Município de Piracuruca, no Estado do Piauí, como manifestação da cultura nacional.",
+      "dataApresentacao": "2026-04-29T17:30"
+    },
+    {
+      "id": 2620090,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620090",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 28,
+      "ano": 2026,
+      "ementa": "Requer a realização de audiência pública, no âmbito da Comissão de Administração e Serviço Público – CASP, com a finalidade de debater a regulamentação da Convenção nº 151 da Organização Internacional do Trabalho (OIT) e a negociação coletiva no serviço público brasileiro.",
+      "dataApresentacao": "2026-04-29T17:20"
+    },
+    {
+      "id": 2620091,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620091",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2088,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição da entrada de pessoas do sexo masculino biológico em banheiros, vestiários e espaços de higiene íntima destinados ao sexo feminino, em ambientes privados e públicos de todo o território nacional, e dá outras providências.",
+      "dataApresentacao": "2026-04-29T17:34"
+    },
+    {
+      "id": 2620092,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620092",
+      "siglaTipo": "EMC",
+      "codTipo": 130,
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.795, de 8 de outubro de 2008, para dispor sobre a natureza jurídica do grupo de consórcio, flexibilizar a utilização da carta de crédito, disciplinar encargos contratuais e fortalecer a regulação do sistema de consórcios.",
+      "dataApresentacao": "2026-04-29T15:13"
+    },
+    {
+      "id": 2620093,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620093",
+      "siglaTipo": "EMC",
+      "codTipo": 130,
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "Ementa\nAltera a Lei nº 11.795, de 8 de outubro de 2008, para dispor sobre a natureza jurídica do grupo de consórcio, flexibilizar a utilização da carta de crédito, disciplinar encargos contratuais e fortalecer a regulação do sistema de consórcios.",
+      "dataApresentacao": "2026-04-29T15:14"
+    },
+    {
+      "id": 2620094,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620094",
+      "siglaTipo": "EMC",
+      "codTipo": 130,
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Ementa\nAltera a Lei nº 11.795, de 8 de outubro de 2008, para dispor sobre a natureza jurídica do grupo de consórcio, flexibilizar a utilização da carta de crédito, disciplinar encargos contratuais e fortalecer a regulação do sistema de consórcios.",
+      "dataApresentacao": "2026-04-29T15:15"
+    },
+    {
+      "id": 2620095,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620095",
+      "siglaTipo": "EMC",
+      "codTipo": 130,
+      "numero": 4,
+      "ano": 2026,
+      "ementa": "Ementa\nAltera a Lei nº 11.795, de 8 de outubro de 2008, para dispor sobre a natureza jurídica do grupo de consórcio, flexibilizar a utilização da carta de crédito, disciplinar encargos contratuais e fortalecer a regulação do sistema de consórcios.",
+      "dataApresentacao": "2026-04-29T15:16"
+    },
+    {
+      "id": 2620097,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620097",
+      "siglaTipo": "PRV",
+      "codTipo": 191,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer Vencedor, Dep. General Girão (PL-RN), pela aprovação.",
+      "dataApresentacao": "2026-04-29T17:37"
+    },
+    {
+      "id": 2620098,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620098",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Laura Carneiro (PSD-RJ), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária do PL 3076/24, e do substitutivo adotado pela Comissão de Saúde, com emenda e subemenda.",
+      "dataApresentacao": "2026-04-28T15:16"
+    },
+    {
+      "id": 2620099,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620099",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2089,
+      "ano": 2026,
+      "ementa": "Institui o Cadastro Nacional de Agressores de Crianças e Adolescentes (CNACA), estabelece regras para sua gestão, acesso e utilização, e altera dispositivos da Lei nº 8.069, de 13 de julho de 1990.ltera a Lei nº 8.069, de 13 de julho de 1990.",
+      "dataApresentacao": "2026-04-29T17:37"
+    },
+    {
+      "id": 2620100,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620100",
+      "siglaTipo": "PRC",
+      "codTipo": 141,
+      "numero": 25,
+      "ano": 2026,
+      "ementa": "Institui, no âmbito da Câmara dos Deputados o “Selo Câmara de Respeito à Voz do Cidadão”.",
+      "dataApresentacao": "2026-04-29T17:40"
+    },
+    {
+      "id": 2620101,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620101",
+      "siglaTipo": "EMR",
+      "codTipo": 257,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Diagnóstico e Tratamento da Hipertensão Pulmonar; e altera a Lei nº 13.146, de 6 de julho de 2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência), para reconhecer a hipertensão pulmonar como deficiência.",
+      "dataApresentacao": "2026-04-28T15:16"
+    },
+    {
+      "id": 2620102,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620102",
+      "siglaTipo": "SBR",
+      "codTipo": 709,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Diagnóstico e Tratamento da Hipertensão Pulmonar; e altera a Lei nº 13.146, de 6 de julho de 2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência), para reconhecer a hipertensão pulmonar como deficiência.",
+      "dataApresentacao": "2026-04-28T15:16"
+    },
+    {
+      "id": 2620103,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620103",
+      "siglaTipo": "DTQ",
+      "codTipo": 846,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Destaque para Votação em Separado - PL 770/2015",
+      "dataApresentacao": "2026-04-29T17:43"
+    },
+    {
+      "id": 2620104,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620104",
+      "siglaTipo": "RPD",
+      "codTipo": 1053,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Votação Nominal do Destaque para Votação em Separado - PL 770/2015-Destaque para Votação em Separado - PL 770/2015",
+      "dataApresentacao": "2026-04-29T17:43"
+    },
+    {
+      "id": 2620105,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620105",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 1100,
+      "ano": 2026,
+      "ementa": "Requer informações ao Senhor Ministro de Estado da Saúde, no sentido de esclarecer esta Casa quanto à execução do Programa de Proteção e Promoção da Saúde Menstrual, instituído pela Lei nº 14.214, de 2021, com ênfase no fornecimento de absorventes, na cobertura de beneficiárias e na implementação da política.",
+      "dataApresentacao": "2026-04-29T17:47"
+    },
+    {
+      "id": 2620106,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620106",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 1101,
+      "ano": 2026,
+      "ementa": "Requer informações ao Senhor Ministro de Estado da Justiça e Segurança Pública, no sentido de esclarecer esta Casa quanto ao fornecimento de absorventes no sistema prisional e em unidades socioeducativas, no âmbito da Lei nº 14.214, de 2021.",
+      "dataApresentacao": "2026-04-29T17:47"
+    },
+    {
+      "id": 2620107,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620107",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Duda Ramos (PODE-RR), pela aprovação deste, da Emenda Adotada pela Comissão 1 da CSAUDE e da Emenda Adotada pela Comissão 2 da CSAUDE, com emendas.",
+      "dataApresentacao": "2026-04-29T16:05"
+    },
+    {
+      "id": 2620108,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620108",
+      "siglaTipo": "EMR",
+      "codTipo": 257,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Mais Dentistas para o Brasil.",
+      "dataApresentacao": "2026-04-29T16:05"
+    },
+    {
+      "id": 2620109,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620109",
+      "siglaTipo": "EMR",
+      "codTipo": 257,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui o Programa Mais Dentistas para o Brasil.",
+      "dataApresentacao": "2026-04-29T16:05"
+    },
+    {
+      "id": 2620115,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620115",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 1102,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministério da  Educação acerca da universalização da pré-escola para crianças de 4 e 5 anos nas capitais brasileiras.",
+      "dataApresentacao": "2026-04-29T17:59"
+    },
+    {
+      "id": 2620116,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620116",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Requer a realização de Audiência Pública para debater a atualização do Simples Nacional e seus impactos sobre a competitividade e a sustentabilidade das micro e pequenas empresas.",
+      "dataApresentacao": "2026-04-29T16:49"
+    },
+    {
+      "id": 2620117,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620117",
+      "siglaTipo": "REQ",
+      "codTipo": 318,
+      "numero": 2544,
+      "ano": 2026,
+      "ementa": "Requer a inclusão na Ordem do Dia do Plenário para votação imediata do Projeto de Lei Complementar n° 185/2024.",
+      "dataApresentacao": "2026-04-29T18:01"
+    },
+    {
+      "id": 2620119,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620119",
+      "siglaTipo": "DOC",
+      "codTipo": 1035,
+      "numero": 450,
+      "ano": 2026,
+      "ementa": "Termo de Adesão do Dep. Silvio Costa Filho à Frente Parlamentar Mista de Portos e Aeroportos.",
+      "dataApresentacao": "2026-04-29T18:12"
+    },
+    {
+      "id": 2620120,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620120",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Maria Rosas (REPUBLIC-SP), pela aprovação, na forma do Substitutivo da Comissão de Defesa dos Direitos da Mulher.",
+      "dataApresentacao": "2026-04-29T17:11"
+    },
+    {
+      "id": 2620121,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620121",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Laura Carneiro (PSD-RJ), pela aprovação.",
+      "dataApresentacao": "2026-04-29T15:57"
+    },
+    {
+      "id": 2620122,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620122",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 1103,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministro da Educação acerca dos critérios de curadoria, da observância do pluralismo e da eventual adoção de viés político por parte da plataforma MEC Livros.",
+      "dataApresentacao": "2026-04-29T18:23"
+    },
+    {
+      "id": 2620123,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620123",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Mauricio Marcon (PL-RS), pela aprovação.",
+      "dataApresentacao": "2026-04-29T18:20"
+    },
+    {
+      "id": 2620124,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620124",
+      "siglaTipo": "PPP",
+      "codTipo": 192,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer proferido em Plenário pela Relatora, Dep. Silvia Cristina (PP-RO) pela: • Comissão de Finanças e Tributação, que conclui pela não implicação orçamentária e financeira do Projeto de Lei nº 1.248, de 2024, bem como do Substitutivo da Comissão de Educação. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 1.248, de 2024, e do Substitutivo da Comissão de Educação.",
+      "dataApresentacao": "2026-04-29T13:55"
+    },
+    {
+      "id": 2620125,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620125",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 703,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-29T18:24"
+    },
+    {
+      "id": 2620126,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620126",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 704,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-29T18:24"
+    },
+    {
+      "id": 2620127,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620127",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2090,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a imprescritibilidade dos crimes praticados contra animais e altera a Lei nº 9.605, de 12 de fevereiro de 1998, para estabelecer proteção penal reforçada à fauna.",
+      "dataApresentacao": "2026-04-29T18:25"
+    },
+    {
+      "id": 2620128,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620128",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2091,
+      "ano": 2026,
+      "ementa": "Altera o Código Penal e a Lei nº 8.072, de 25 de julho de 1990, para tornar imprescritível o crime de feminicídio e estabelecer proteção penal permanente à vida da mulher em razão de sua condição de sexo feminino.",
+      "dataApresentacao": "2026-04-29T18:25"
+    },
+    {
+      "id": 2620129,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620129",
+      "siglaTipo": "REQ",
+      "codTipo": 304,
+      "numero": 2545,
+      "ano": 2026,
+      "ementa": "Solicita a tramitação conjunta do Projeto de Lei Complementar nº 125 de 2025 ao Projeto de Lei Complementar nº 108 de 2021",
+      "dataApresentacao": "2026-04-29T18:26"
+    },
+    {
+      "id": 2620130,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620130",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 705,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-29T18:31"
+    },
+    {
+      "id": 2620131,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620131",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2092,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Centros Públicos de Inclusão Digital e Formação Tecnológica Cidadã, para ampliar o acesso gratuito à internet, à capacitação tecnológica e à qualificação digital da população em espaços públicos comunitários, e altera a Lei nº 9.998, de 17 de agosto de 2000.",
+      "dataApresentacao": "2026-04-29T18:32"
+    },
+    {
+      "id": 2620132,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620132",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2093,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Reconhecimento Funcional do Período da Emergência Sanitária e altera a Lei Complementar nº 173, de 27 de maio de 2020, para assegurar o cômputo do tempo de serviço prestado entre 28 de maio de 2020 e 31 de dezembro de 2021 para fins de evolução funcional, adicionais por tempo de serviço e demais direitos correlatos dos servidores públicos civis e militares da União, dos Estados, do Distrito Federal e dos Municípios.",
+      "dataApresentacao": "2026-04-29T18:32"
+    },
+    {
+      "id": 2620133,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620133",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2094,
+      "ano": 2026,
+      "ementa": "Regulamenta o apoio ao transporte de estudantes do ensino superior em deslocamentos intermunicipais e interestaduais, e dá outras providências.",
+      "dataApresentacao": "2026-04-29T18:40"
+    },
+    {
+      "id": 2620134,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620134",
+      "siglaTipo": "PEP",
+      "codTipo": 442,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer à Emenda de Plenário proferido pela Relatora, Dep. Silvia Cristina (PP-RO) pela: • Comissão da Amazônia e dos Povos Originários e Tradicionais, que conclui pela aprovação da Emenda de Plenário nº 1, na forma da Subemenda Substitutiva adotada pela relatora da Comissão de Educação. • Comissão de Educação, que conclui pela aprovação da Emenda de Plenário nº 1, na forma da Subemenda Substitutiva adotada. • Comissão de Finanças e Tributação, que conclui pela não implicação da Emenda de Plenário nº 1 e da Subemenda Substitutiva adotada pela relatora da Comissão de Educação em receitas ou despesas públicas, não havendo necessidade de manifestação sobre a compatibilidade e adequação financeira e orçamentária da matéria. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa da Emenda de Plenário nº 1 e da Subemenda Substitutiva adotada pela relatora da Comissão de Educação.",
+      "dataApresentacao": "2026-04-29T13:55"
+    },
+    {
+      "id": 2620135,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620135",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2095,
+      "ano": 2026,
+      "ementa": "Acrescenta o § 3º ao art. 3º da Lei nº 12.764, de 27 de dezembro de 2012, para determinar a substituição de sirenes tradicionais por sinais musicais ou sonoros suaves nos estabelecimentos de ensino da educação básica para proteção de alunos com transtorno do espectro autista, e dá outras providências.",
+      "dataApresentacao": "2026-04-29T18:44"
+    },
+    {
+      "id": 2620136,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620136",
+      "siglaTipo": "EMP",
+      "codTipo": 870,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a redação do inciso VII, do art. 6º, da Lei nº 10.826, de 2003, autorizando o porte de arma para os Oficiais de Justiça.",
+      "dataApresentacao": "2026-04-29T18:52"
+    },
+    {
+      "id": 2620137,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620137",
+      "siglaTipo": "SSP",
+      "codTipo": 509,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-29T18:59"
+    },
+    {
+      "id": 2620138,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620138",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 706,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-29T18:45"
+    },
+    {
+      "id": 2620139,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620139",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Socorro Neri (PP-AC), pela aprovação, com substitutivo.",
+      "dataApresentacao": "2026-04-29T16:56"
+    },
+    {
+      "id": 2620140,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620140",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa “Escola da Floresta”, voltado à educação bilíngue e intercultural em comunidades tradicionais da Amazônia Legal, e dá outras providências.",
+      "dataApresentacao": "2026-04-29T16:56"
+    },
+    {
+      "id": 2620141,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620141",
+      "siglaTipo": "REQ",
+      "codTipo": 318,
+      "numero": 2546,
+      "ano": 2026,
+      "ementa": "Requer a urgência para a apreciação do PLP nº 185/2024",
+      "dataApresentacao": "2026-04-29T18:57"
+    },
+    {
+      "id": 2620142,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620142",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 662,
+      "ano": 2026,
+      "ementa": "Sugere ao Poder Executivo, por intermédio do Ministério da Fazenda, a adoção de providências urgentes para a revogação da alíquota de 20% do Imposto de Importação sobre as remessas internacionais de valor até US$ 50,00.",
+      "dataApresentacao": "2026-04-29T18:57"
+    },
+    {
+      "id": 2620143,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620143",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 1104,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministério da Gestão e da Inovação em Serviços Públicos acerca da não convocação de candidatos excedentes do concurso para Auditor-Fiscal do Trabalho no âmbito do Concurso Público Nacional Unificado (CNU).",
+      "dataApresentacao": "2026-04-29T18:58"
+    },
+    {
+      "id": 2620144,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620144",
+      "siglaTipo": "EMP",
+      "codTipo": 131,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para agravar a punição contra quem pratica delitos envolvendo carga.",
+      "dataApresentacao": "2026-04-29T19:15"
+    },
+    {
+      "id": 2620145,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620145",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Requer a realização de Audiência Pública com o tema “O direito acima do acordo: Evidências globais, impactos socioeconômicos e a urgência da garantia legislativa e constitucional do fim da Escala 6x1” a ser realizada no âmbito da Comissão Especial sobre a Redução da Jornada de Trabalho (PEC 221/19). Convidados: Rick Azevedo - Fundador do Movimento Vida Além do Trabalho e Vereador do Rio de Janeiro; 4Day Week Brazil - organização sem fins lucrativos que busca fornecer uma plataforma para pessoas e empresas interessadas em apoiar a ideia da semana de 4 dias como parte do futuro do trabalho; Luciana Mendes Santos Servo - Instituto de Pesquisa Econômica Aplicada, IPEA; MCDONALD 'S Guarulhos - gerência da rede de McDonald’s de Guarulhos que acatou o fim da escala 6x1 entre as escalas de trabalho possíveis para seus funcionários; Representante do SINDICATO DOS BANCÁRIOS - setor que adotou a redução da jornada de trabalho para 5x2; Margarida Salomão - Prefeita de Juiz de Fora (MG), adotou uma redução de jornada de trabalho para o funcionalismo público do município; Barbara Vallejos Vazquez - Doutora em Desenvolvimento Econômico no Instituto de Economia da Unicamp, em regime de cotutela com o programa de Doctorado Internacional da Universidad Castilla de La Mancha, docente e coordenadora de pós-graduação da Escola Dieese de Ciências do Trabalho e ex vice-presidenta da Associação Brasileira de Estudos do Trabalho - ABET; Paulo Henrique Pereira, Ministro de Estado do Empreendedorismo, da Microempresa e Empresa de Pequeno Porte; Representante do Tribunal Superior do Trabalho; Guilherme de Castro Boulos - Ministro de Estado da Secretaria Geral da Presidência da República; Caito Maia - Empresário e fundador da Chilli Beans; Representante da Secretaria do Trabalho do Governo do México, país que recentemente aprovou a Redução da Jornada de Trabalho para 40 horas.",
+      "dataApresentacao": "2026-04-29T17:16"
+    },
+    {
+      "id": 2620146,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620146",
+      "siglaTipo": "PPP",
+      "codTipo": 192,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer proferido em Plenário pela Relatora, Dep. Socorro Neri (PP-AC) pela: • Comissão de Educação, que conclui pela aprovação do Projeto de Lei nº 2.841, de 2024, do seu apenso, e do Substitutivo da Comissão de Meio Ambiente e Desenvolvimento Sustentável, na forma do Substitutivo adotado. • Comissão de Finanças e Tributação, que conclui pela não implicação financeira ou orçamentária da matéria em aumento ou diminuição da receita e da despesa pública, não cabendo pronunciamento quanto à adequação financeira ou orçamentária do Projeto de Lei nº 2.841, de 2024, do seu apenso, do Substitutivo da Comissão de Meio Ambiente e Desenvolvimento Sustentável e do Substitutivo adotado pela relatora da Comissão de Educação. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 2.841, de 2024, do seu apenso, do Substitutivo da Comissão de Meio Ambiente e Desenvolvimento Sustentável e do Substitutivo adotado pela relatora da Comissão de Educação.",
+      "dataApresentacao": "2026-04-29T13:55"
+    },
+    {
+      "id": 2620147,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620147",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "Requer a realização de audiência pública, na Comissão Especial sobre a Redução da Jornada de Trabalho (PEC 221/19), com a participação de representantes dos trabalhadores maranhenses. Convidados: CUT-MA — Representante da Central Única dos Trabalhadores do Maranhão; SINDMETAL/MA — Representante do Sindicato dos Metalúrgicos do Maranhão; SINDCOMERCIÁRIOS — Representante do Sindicato dos Empregados no Comércio de São Luís; SINDCONSTRUCIVIL — Representante do Sindicato dos Trabalhadores na Indústria da Construção Civil de São Luís; SINTERP/MA — Representante do Sindicato dos Trabalhadores em Estabelecimentos de Ensino da Rede Particular do Maranhão; SINTEC/MA — Representante do Sindicato dos Trabalhadores Contabilistas e Contadores do Maranhão.",
+      "dataApresentacao": "2026-04-29T17:16"
+    },
+    {
+      "id": 2620148,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620148",
+      "siglaTipo": "REQ",
+      "codTipo": 294,
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Requer a realização de audiência pública, na Comissão Especial sobre a Redução da Jornada de Trabalho (PEC 221/19), com a participação de representantes dos sindicatos e institutos nacionais de pesquisa. Convidados: CUT — Representante da Central Única dos Trabalhadores, a maior central sindical do Brasil e da América Latina; CTB — Representante da Central dos Trabalhadores e Trabalhadoras do Brasil; Força Sindical — Representante da Força Sindical; CESIT/Unicamp — Representante do Centro de Estudos Sindicais e de Economia do Trabalho da Universidade Estadual de Campinas; Ipea — Representante do Instituto de Pesquisa Econômica Aplicada; Articulação Nacional de 8 de Março — Representante da entidade.",
+      "dataApresentacao": "2026-04-29T17:16"
+    },
+    {
+      "id": 2620149,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620149",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2096,
+      "ano": 2026,
+      "ementa": "Altera a Lei n.º 10.048, de 8 de novembro de 2000, para incluir crianças e adolescentes em tratamento oncológico entre os beneficiários do atendimento prioritário, e a Lei n.º 11.930, de 22 de abril de 2009, para prever ações de conscientização sobre o câncer infantojuvenil durante a Semana de Mobilização Nacional para Doação de Medula Óssea – Lei Biel.",
+      "dataApresentacao": "2026-04-29T19:26"
+    },
+    {
+      "id": 2620150,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620150",
+      "siglaTipo": "PDL",
+      "codTipo": 557,
+      "numero": 271,
+      "ano": 2026,
+      "ementa": "Susta os efeitos da Portaria nº 76, de 27 de abril de 2026, do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis – IBAMA, que aprova a Agenda Regulatória para o biênio 2026-2027.",
+      "dataApresentacao": "2026-04-29T19:28"
+    },
+    {
+      "id": 2620151,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620151",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-29T19:31"
+    },
+    {
+      "id": 2620152,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620152",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2097,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a regulação do uso de redes sociais por integrantes das forças de segurança pública, e dá outras providências.",
+      "dataApresentacao": "2026-04-29T19:39"
+    },
+    {
+      "id": 2620153,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620153",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CE) ao PL 650/2020",
+      "dataApresentacao": "2026-04-29T19:43"
+    },
+    {
+      "id": 2620155,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620155",
+      "siglaTipo": "REQ",
+      "codTipo": 293,
+      "numero": 2547,
+      "ano": 2026,
+      "ementa": "Requer a realização de Sessão Solene em homenagem aos 70 (setenta) anos da Cáritas Brasileira, organismo da Conferência Nacional dos Bispos do Brasil (CNBB), sem fins lucrativos, de caráter beneficente e filantrópico, com atuação em âmbito nacional.",
+      "dataApresentacao": "2026-04-29T19:44"
+    },
+    {
+      "id": 2620156,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620156",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Cobalchini (MDB-SC), pela aprovação deste, e do PL 5089/2025, apensado, com substitutivo.",
+      "dataApresentacao": "2026-04-29T14:55"
+    },
+    {
+      "id": 2620157,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620157",
+      "siglaTipo": "REQ",
+      "codTipo": 293,
+      "numero": 2548,
+      "ano": 2026,
+      "ementa": "Requer a realização de Sessão Solene no Plenário da Câmara dos Deputados em homenagem aos 40 anos da Associação Brasileira das Centrais de Abastecimento – ABRACEN.",
+      "dataApresentacao": "2026-04-29T19:44"
+    },
+    {
+      "id": 2620159,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620159",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Fausto Jr. (UNIÃO-AM), pela aprovação do PL 1706/2022 e dos PLs 634/2023, 6921/2025, apensados, com substitutivo.",
+      "dataApresentacao": "2026-04-29T17:12"
+    },
+    {
+      "id": 2620160,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620160",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-29T19:56"
+    },
+    {
+      "id": 2620161,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620161",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CE) ao PL 3952/2021",
+      "dataApresentacao": "2026-04-29T19:57"
+    },
+    {
+      "id": 2620162,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620162",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CE) ao PL 6567/2013",
+      "dataApresentacao": "2026-04-29T20:02"
+    },
+    {
+      "id": 2620163,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620163",
+      "siglaTipo": "SBT-A",
+      "codTipo": 701,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Substitutivo adotado pela Comissão ao PL 6567/2013",
+      "dataApresentacao": "2026-04-29T20:02"
+    },
+    {
+      "id": 2620164,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620164",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Altera a Lei 12.608, de 10 de abril de 2012, para dispor sobre o envio de notificações de alerta e de orientações sobre desastres naturais à população em áreas de risco, por meio de ferramenta ou aplicativo do Sistema Nacional de Informações e Monitoramento de Desastres Naturais instituído no âmbito da Política Nacional de Proteção e Defesa Civil.",
+      "dataApresentacao": "2026-04-29T17:12"
+    },
+    {
+      "id": 2620165,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620165",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Leonardo Monteiro (PT-MG), pela aprovação deste, com substitutivo.",
+      "dataApresentacao": "2026-04-29T20:06"
+    },
+    {
+      "id": 2620166,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620166",
+      "siglaTipo": "RDF",
+      "codTipo": 197,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Redação Final ao PEC 383/2017",
+      "dataApresentacao": "2026-04-28T00:00"
+    },
+    {
+      "id": 2620167,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620167",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre proteção contra despedida arbitrária por denúncia de assédio sexual na relação de emprego.",
+      "dataApresentacao": "2026-04-29T20:06"
+    },
+    {
+      "id": 2620168,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620168",
+      "siglaTipo": "REQ",
+      "codTipo": 686,
+      "numero": 4,
+      "ano": 2026,
+      "ementa": "Requer a realização de Seminário em São Paulo e em Minas Gerais, no âmbito da Comissão Especial sobre a Redução da Jornada de Trabalho (PEC n° 221/2019), a ser realizada no Município de São Paulo e Belo Horizonte, para debater os impactos da redução da jornada de trabalho.",
+      "dataApresentacao": "2026-04-29T17:19"
+    },
+    {
+      "id": 2620169,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620169",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 1105,
+      "ano": 2026,
+      "ementa": "Requer do Ministro de Estado dos Transportes informações acerca da decisão de suspender os pregões eletrônicos da BR-319/AM mesmo após a derrubada da liminar pelo TRF1, bem como sobre o novo cronograma dos certames.",
+      "dataApresentacao": "2026-04-29T20:08"
+    },
+    {
+      "id": 2620170,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620170",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Laura Carneiro (PSD-RJ), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária do PL 3723/21, e do substitutivo adotado pela Comissão do Esporte - CESPO; e, no mérito, pela aprovação do PL 3723/21, e do substitutivo adotado pela CESPO, com subemenda.",
+      "dataApresentacao": "2026-04-29T18:15"
+    },
+    {
+      "id": 2620171,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620171",
+      "siglaTipo": "EMC-A",
+      "codTipo": 702,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda Adotada pela Comissão ao PL 2210/2019",
+      "dataApresentacao": "2026-04-29T20:17"
+    },
+    {
+      "id": 2620172,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620172",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CE) ao PL 2210/2019",
+      "dataApresentacao": "2026-04-29T20:17"
+    },
+    {
+      "id": 2620173,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620173",
+      "siglaTipo": "SBR",
+      "codTipo": 709,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera as Leis nºs 11.345, de 14 de setembro de 2006 (Lei da Timemania), e 13.756, de 12 de dezembro de 2018, para estabelecer critério para destinação dos recursos oriundos do concurso de prognóstico específico e prever a atualização das entidades desportivas aptas a participarem desse concurso.",
+      "dataApresentacao": "2026-04-29T18:15"
+    },
+    {
+      "id": 2620174,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620174",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2098,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal) para agravar os critérios para progressão de regime.",
+      "dataApresentacao": "2026-04-29T20:15"
+    },
+    {
+      "id": 2620175,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620175",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2099,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes gerais para a proteção da autonomia das universidades estaduais e municipais frente a interferências políticas locais; institui parâmetros mínimos para os procedimentos de escolha de dirigentes universitários no âmbito dos sistemas estaduais e municipais de ensino superior; altera dispositivos da Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e dá outras providências.",
+      "dataApresentacao": "2026-04-29T20:17"
+    },
+    {
+      "id": 2620176,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620176",
+      "siglaTipo": "ATA",
+      "codTipo": 810,
+      "numero": 66,
+      "ano": 2026,
+      "ementa": "Ata nº 66 de 2026",
+      "dataApresentacao": "2026-04-29T20:29"
+    },
+    {
+      "id": 2620177,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620177",
+      "siglaTipo": "ATA",
+      "codTipo": 810,
+      "numero": 290,
+      "ano": 2026,
+      "ementa": "Ata nº 66 de 2026",
+      "dataApresentacao": "2026-04-29T20:31"
+    },
+    {
+      "id": 2620178,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620178",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2100,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.321, de 31 de dezembro de 2025, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2026.",
+      "dataApresentacao": "2026-04-29T20:33"
+    },
+    {
+      "id": 2620179,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620179",
+      "siglaTipo": "REQ",
+      "codTipo": 304,
+      "numero": 2549,
+      "ano": 2026,
+      "ementa": "Requer o apensamento da Proposta de Emenda à Constituição nº 6, de 2024, à Proposta de Emenda à Constituição nº 555, de 2006, por tratarem de matéria correlata.",
+      "dataApresentacao": "2026-04-29T20:40"
+    },
+    {
+      "id": 2620180,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620180",
+      "siglaTipo": "PPP",
+      "codTipo": 192,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer proferido em Plenário pelo Relator, Dep. Coronel Meira (PL-PE) pela: • Comissão de Segurança Pública e Combate ao Crime Organizado, que conclui pela aprovação do Projeto de Lei nº 5.967, de 2023, do Substitutivo da Comissão de Administração e Serviço Público e do PL nº 876, de 2026, na forma do Substitutivo adotado. • Comissão de Finanças e Tributação, que conclui pela compatibilidade e adequação financeira e orçamentária do Projeto de Lei nº 5.967, de 2023, do Substitutivo da Comissão de Administração e Serviço Público e do PL nº 876, de 2026, na forma do Substitutivo adotado pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 5.967, de 2023, do Substitutivo da Comissão de Administração e Serviço Público e do PL nº 876, de 2026, bem como do Substitutivo adotado pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado.",
+      "dataApresentacao": "2026-04-29T13:55"
+    },
+    {
+      "id": 2620181,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620181",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Ribeiro Neto (SOLIDARI-MA), pela constitucionalidade, juridicidade e técnica legislativa deste e da Emenda da Comissão de Finanças e Tributação.",
+      "dataApresentacao": "2026-04-29T17:38"
+    },
+    {
+      "id": 2620182,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620182",
+      "siglaTipo": "RDF",
+      "codTipo": 197,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Redação Final ao PL 3025/2023",
+      "dataApresentacao": "2026-04-22T00:00"
+    },
+    {
+      "id": 2620183,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620183",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 609/2024",
+      "dataApresentacao": "2026-04-29T20:56"
+    },
+    {
+      "id": 2620184,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620184",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Luizianne Lins (REDE-CE), pela aprovação, com substitutivo.",
+      "dataApresentacao": "2026-04-29T13:04"
+    },
+    {
+      "id": 2620185,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620185",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 6,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Mersinho Lucena (PSD-PB), pela rejeição.",
+      "dataApresentacao": "2026-04-29T15:09"
+    },
+    {
+      "id": 2620186,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620186",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Mersinho Lucena (PSD-PB), pela aprovação.",
+      "dataApresentacao": "2026-04-29T15:10"
+    },
+    {
+      "id": 2620188,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620188",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Castro Neto (MDB-PI), pela aprovação, com emenda.",
+      "dataApresentacao": "2026-04-29T19:49"
+    },
+    {
+      "id": 2620189,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620189",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Alfredinho (PT-SP), pela aprovação.",
+      "dataApresentacao": "2026-04-29T20:09"
+    },
+    {
+      "id": 2620190,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2620190",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 609/2025",
+      "dataApresentacao": "2026-04-29T21:08"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=155"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=156&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=154&itens=100"
+    }
+  ]
+}

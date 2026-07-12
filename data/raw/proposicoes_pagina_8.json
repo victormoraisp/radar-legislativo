@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2238558,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2238558",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 563,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 13.819, de 26 de abril de 2019, para estabelecer o Programa Nacional de Prevenção do Sofrimento Psíquico no Âmbito Escolar, e para promover a articulação das políticas públicas que têm acesso às famílias para a prevenção e detecção do sofrimento psíquico.",
+      "dataApresentacao": "2020-03-05T16:57"
+    },
+    {
+      "id": 2238597,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2238597",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 23,
+      "ano": 2020,
+      "ementa": "Altera a Lei Complementar n° 123, de 14 de dezembro de 2006, modificando a faixa de faturamento bruto anual para o Microempreendedor Individual.",
+      "dataApresentacao": "2020-03-09T17:23"
+    },
+    {
+      "id": 2238971,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2238971",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 619,
+      "ano": 2020,
+      "ementa": "Estabelece a gratuidade de acesso aos conteúdos digitais produzidos pelos poderes públicos, em todas as esferas de governo.",
+      "dataApresentacao": "2020-03-11T18:49"
+    },
+    {
+      "id": 2238976,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2238976",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 620,
+      "ano": 2020,
+      "ementa": "Acrescenta dispositivos a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para dispor sobre a efetividade da pena e a suspensão qualificada do processo, objetivando a reparação do dano em favor da vítima e a reinserção social do agressor aos crimes praticados em situação de violência doméstica e familiar contra a mulher, cuja a pena mínima for igual ou inferior a um ano.",
+      "dataApresentacao": "2020-03-11T18:59"
+    },
+    {
+      "id": 2239046,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2239046",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 629,
+      "ano": 2020,
+      "ementa": "Acrescenta o parágrafo 2º no art. 141 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para estabelecer o aumento do triplo da pena nos casos de crimes contra a honra praticados pela rede mundial de computadores (internet).",
+      "dataApresentacao": "2020-03-12T13:12"
+    },
+    {
+      "id": 2239349,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2239349",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 650,
+      "ano": 2020,
+      "ementa": "Denomina \"Campus Geraldo Correa Franco\" o  Campus do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo -IFSP, localizado na cidade de Itapetininga-SP.",
+      "dataApresentacao": "2020-03-17T12:22"
+    },
+    {
+      "id": 2239357,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2239357",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 654,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, que \"dispõe sobre as restrições ao uso e à propaganda de produtos fumígeros, bebidas alcoólicas, medicamentos, terapias e defensivos agrícolas, nos termos do § 4° do art. 220 da Constituição Federal\", para proibir o uso de produtos fumígenos em áreas verdes urbanas e em unidades de conservação da natureza.",
+      "dataApresentacao": "2020-03-17T14:58"
+    },
+    {
+      "id": 2239365,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2239365",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 658,
+      "ano": 2020,
+      "ementa": "Dispõe sobre Financiamento Imobiliário de imóveis urbanos em situação de emergência sanitária.",
+      "dataApresentacao": "2020-03-17T15:37"
+    },
+    {
+      "id": 2241646,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2241646",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 32,
+      "ano": 2020,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, aumentando o patamar máximo de faturamento bruto anual do microempreendedor individual e da empresa de pequeno porte.",
+      "dataApresentacao": "2020-03-20T12:13"
+    },
+    {
+      "id": 2241736,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2241736",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 842,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), e a Lei no 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos), para dispor sobre a averbação da exclusão, no registro civil, da filiação, bem como do sobrenome do genitor (a) que for condenado por crime de violência sexual, lesão corporal de natureza grave ou gravíssima ou de tortura cometidos contra seu filho (a).",
+      "dataApresentacao": "2020-03-23T11:49"
+    },
+    {
+      "id": 2241780,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2241780",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 865,
+      "ano": 2020,
+      "ementa": "Acrescenta artigo à Lei nº 11.947, de 2009, que rege, entre outras matérias, o Programa Nacional de Alimentação Escolar (PNAE), para autorizar, em caráter excepcional, durante o período de suspensão das aulas em razão da pandemia do coronavírus, a distribuição direta aos pais e responsáveis dos estudantes das escolas públicas de educação básica de gêneros alimentícios  adquiridos com esses recursos.",
+      "dataApresentacao": "2020-03-23T18:13"
+    },
+    {
+      "id": 2242049,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2242049",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1024,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 5.194, de 24 de dezembro de 1966, que regula o exercício das profissões de Engenheiro, Arquiteto e Engenheiro-Agrônomo.",
+      "dataApresentacao": "2020-03-25T17:15"
+    },
+    {
+      "id": 2242063,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2242063",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1034,
+      "ano": 2020,
+      "ementa": "Acrescenta inciso IV ao § 7º do art. 15 da Lei nº 8.666, de 21 de junho de 1993, e § 7º-A ao mesmo dispositivo, para determinar que as compras promovidas pela Administração Pública recaiam sobre produtos caracterizados por baixo consumo de energia e atinentes à preservação da camada de ozônio que envolve a crosta terrestre, e dá outras providências.",
+      "dataApresentacao": "2020-03-25T18:17"
+    },
+    {
+      "id": 2242347,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2242347",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1244,
+      "ano": 2020,
+      "ementa": "Institui o Programa de Seguro Emprego- PSE.",
+      "dataApresentacao": "2020-03-30T14:36"
+    },
+    {
+      "id": 2243127,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2243127",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1592,
+      "ano": 2020,
+      "ementa": "Dispõe sobre a obrigação de advertência dos riscos relacionados ao uso excessivo de telefones portáteis tipo smartphone.",
+      "dataApresentacao": "2020-04-06T19:44"
+    },
+    {
+      "id": 2243137,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2243137",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1597,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para determinar a conversão automática de multa em advertência, em caso de infração leve ou média de infrator não reincidente, e para possibilitar a conversão de multa aplicada a ciclista ou a pedestre em participação obrigatória em curso de segurança viária, na hipótese que especifica.",
+      "dataApresentacao": "2020-04-06T19:44"
+    },
+    {
+      "id": 2244016,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2244016",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4478,
+      "ano": 2019,
+      "ementa": "Altera a Lei n° 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para incluir a prática do jiu-jítsu como componente opcional nos currículos do ensino fundamental.",
+      "dataApresentacao": "2020-04-06T11:54"
+    },
+    {
+      "id": 2247357,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2247357",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1777,
+      "ano": 2020,
+      "ementa": "Altera a Lei n° 8.743, de 07 de\ndezembro de 1993, que \"Dispõe sobre a \norganização da Assistência Social e dá\n outras providências\", para caracterizar \ncomo benefício eventual a Renda \nEmergencial de que trata a Lei n°\n13.982, de 2 de abril de 2020, e \nassegurar corresponsabilidade dos \nentes federados em todas as situações \nde emergência e calamidade pública.",
+      "dataApresentacao": "2020-04-09T20:20"
+    },
+    {
+      "id": 2247358,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2247358",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1778,
+      "ano": 2020,
+      "ementa": "Institui a Política Nacional de Atenção \nIntegral às Imunodeficiências Primárias.",
+      "dataApresentacao": "2020-04-09T20:29"
+    },
+    {
+      "id": 2248016,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2248016",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1840,
+      "ano": 2020,
+      "ementa": "Assegura o direito à pensão por morte para os dependentes dos trabalhadores de atividades essenciais que vierem a óbito devido ao contágio do COVID-19.",
+      "dataApresentacao": "2020-04-13T19:02"
+    },
+    {
+      "id": 2248018,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2248018",
+      "siglaTipo": "PDL",
+      "codTipo": 557,
+      "numero": 147,
+      "ano": 2020,
+      "ementa": "Susta os efeitos do art.25, § 2º, inciso II e § 4º, da resolução ANP nº 41/2013, para assegurar aos Postos revendedores bandeirados a possiblidade de adquirir combustíveis junto as distribuidoras diversas a qual estão vinculadas, viabilizando a continuidade da atividade econômica e manutenção dos postos de trabalho diretos e indiretos.",
+      "dataApresentacao": "2020-04-13T19:38"
+    },
+    {
+      "id": 2248249,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2248249",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1895,
+      "ano": 2020,
+      "ementa": "Institui desconto nas tarifas de energia elétrica das unidades consumidoras da classe rural cujo titular seja enquadrado como agricultor familiar, mediante alteração da Lei nº 10.438, de 26 de abril de 2002.",
+      "dataApresentacao": "2020-04-15T09:55"
+    },
+    {
+      "id": 2248275,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2248275",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1904,
+      "ano": 2020,
+      "ementa": "Dispõe sobre a obrigatoriedade de as prestadoras de telecomunicações disponibilizarem conexões de dados de alta velocidade sem ônus para as Secretarias Estaduais e Municipais de Educação, para oferta de conteúdos educacionais, e liberação da franquia de dados de telefonia celular para os alunos, em situações de calamidade pública ou de pandemias.",
+      "dataApresentacao": "2020-04-15T14:57"
+    },
+    {
+      "id": 2250315,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2250315",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2076,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990, para inserir no rol dos crimes hediondos os crimes contra a administração pública cometidos em ocasião de calamidade pública.",
+      "dataApresentacao": "2020-04-22T13:00"
+    },
+    {
+      "id": 2250372,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2250372",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2087,
+      "ano": 2020,
+      "ementa": "Modifica o inciso II do art. 1º da Lei nº 13.656, de 30 de abril de 2018, para que se estendam as medidas previstas dos doadores de medula óssea aos candidatos a doador de medula óssea, devidamente cadastrados a mais de 1 (um) ano.",
+      "dataApresentacao": "2020-04-22T16:49"
+    },
+    {
+      "id": 2250532,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2250532",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2150,
+      "ano": 2020,
+      "ementa": "Dispõe sobre o ressarcimento do dano e pagamento de indenização pelo prejuízo causado pelo infrator da pichação.",
+      "dataApresentacao": "2020-04-23T16:56"
+    },
+    {
+      "id": 2250703,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2250703",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2221,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana; altera a Lei nº 13.089, de 12 de janeiro de 2015; que institui o Estatuto da Metrópole, altera a Lei nº 10.257, de 10 de julho de 2001, e dá outras previdências; altera a Lei nº 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências; e altera a Lei nº 10.233, de 5 de junho de 2001, que dispõe sobre a reestruturação dos transportes aquaviário e terrestre e dá outras providências.",
+      "dataApresentacao": "2020-04-27T19:42"
+    },
+    {
+      "id": 2250737,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2250737",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2231,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003, que dispõe sobre o Estatuto do Idoso, para incluir o direito à estabilidade no emprego para idosos, em caso de calamidade pública reconhecida.",
+      "dataApresentacao": "2020-04-28T13:22"
+    },
+    {
+      "id": 2251434,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2251434",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2368,
+      "ano": 2020,
+      "ementa": "Altera a Lei n.º 9.847, de 26 de outubro de 1999, para proibir a exigência de galonagem mínima para aquisição de combustíveis e instituir multa em caso de descumprimento.",
+      "dataApresentacao": "2020-05-04T15:59"
+    },
+    {
+      "id": 2251492,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2251492",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2390,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, para permitir o condutor do veículo use máscara durante o período de pandemia do coronavírus - COVID-19.",
+      "dataApresentacao": "2020-05-05T10:12"
+    },
+    {
+      "id": 2251839,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2251839",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2427,
+      "ano": 2020,
+      "ementa": "Institui a Política Nacional de Incentivo à Motorização Elétrica Agrícola.",
+      "dataApresentacao": "2020-05-06T11:12"
+    },
+    {
+      "id": 2251938,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2251938",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2459,
+      "ano": 2020,
+      "ementa": "Dispõe sobre a concessão de prazo adicional para a quitação de débitos relacionados ao não pagamento da tarifa de energia elétrica durante o período de vedação da suspensão do fornecimento do serviço decorrente da pandemia de coronavírus (covid-19).",
+      "dataApresentacao": "2020-05-07T12:28"
+    },
+    {
+      "id": 2252017,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2252017",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2501,
+      "ano": 2020,
+      "ementa": "Dispõe sobre incentivos de crédito para mulheres do campo que exerçam atividade microempreendedora, e dá outras providências.",
+      "dataApresentacao": "2020-05-08T16:14"
+    },
+    {
+      "id": 2252026,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2252026",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2505,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 10.204, de 22 de fevereiro de \n2001, e da outras providências.",
+      "dataApresentacao": "2020-05-08T17:18"
+    },
+    {
+      "id": 2252196,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2252196",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2560,
+      "ano": 2020,
+      "ementa": "Altera a redação do inciso II, do artigo 12-C da Lei 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para autorizar a concessão de medida protetiva de urgência, de ofício, pelo Delegado.",
+      "dataApresentacao": "2020-05-12T10:35"
+    },
+    {
+      "id": 2252283,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2252283",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2580,
+      "ano": 2020,
+      "ementa": "Denomina \"Rodovia Deputado Antonio Paes de Andrade\" o anel viário da região metropolitana de Fortaleza, no Estado do Ceará, ligando a BR-020 com outras estradas.",
+      "dataApresentacao": "2020-05-12T16:10"
+    },
+    {
+      "id": 2252513,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2252513",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2595,
+      "ano": 2020,
+      "ementa": "Acrescenta o § 3º ao Art. 34 da Lei 9.394, de 20 de dezembro de 1996, e dá outras providências",
+      "dataApresentacao": "2020-05-13T09:02"
+    },
+    {
+      "id": 2252560,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2252560",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2614,
+      "ano": 2020,
+      "ementa": "Insere métodos de ensino sanitário para crianças e adolescentes no dia 5 de agosto, dia nacional da saúde, como trata a Lei nº 5.352 de 1967.",
+      "dataApresentacao": "2020-05-13T15:20"
+    },
+    {
+      "id": 2252591,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2252591",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2635,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 8.662, de 07 de JUNHO de 1993 que \"Dispõe sobre a profissão de Assistente Social e dá outras providências\".",
+      "dataApresentacao": "2020-05-14T09:16"
+    },
+    {
+      "id": 2252844,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2252844",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2714,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), e a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto do Idoso), para garantir o direito de receber, na residência, os comprovantes de rendimentos para a finalidade do ajuste anual do Imposto de Renda às pessoas com qualquer deficiência e aos cidadãos com mais de 60 anos de idade.",
+      "dataApresentacao": "2020-05-15T17:02"
+    },
+    {
+      "id": 2253315,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2253315",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2787,
+      "ano": 2020,
+      "ementa": "Altera o inciso I do § 2º do art. 218-B do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), dando-lhe nova redação, a fim de estender os efeitos da norma para quando o crime de que trata o artigo for cometido contra pessoa de idade igual a 14 (quatorze) anos.",
+      "dataApresentacao": "2020-05-20T16:23"
+    },
+    {
+      "id": 2253410,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2253410",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2806,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 12.732, de 22 de novembro de 2012, para garantir o direito, de todos os pacientes com câncer, de obter tratamento em outro município, diferente de seu domicílio, ainda que no local de sua residência exista hospital de referência, quando a alternativa terapêutica oferecida no outro município seja mais eficaz contra a neoplasia diagnosticada.",
+      "dataApresentacao": "2020-05-21T09:34"
+    },
+    {
+      "id": 2253448,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2253448",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2819,
+      "ano": 2020,
+      "ementa": "Dispõe sobre medidas de garantia da equidade na atenção integral à saúde da população negra em casos de epidemias ou pandemias, surtos provocados por doenças contagiosas ou durante a decretação de Estado de Calamidade Pública.",
+      "dataApresentacao": "2020-05-21T14:46"
+    },
+    {
+      "id": 2253486,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2253486",
+      "siglaTipo": "PDL",
+      "codTipo": 557,
+      "numero": 239,
+      "ano": 2020,
+      "ementa": "Susta a aplicação do Decreto n° 10.354, de 20 de maio de 2020, que dispõe sobre a qualificação da Empresa Brasil de Comunicação - EBC - no âmbito do Programa de Parcerias de Investimentos da Presidência da República, programa de privatizações.",
+      "dataApresentacao": "2020-05-21T16:45"
+    },
+    {
+      "id": 2253561,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2253561",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2834,
+      "ano": 2020,
+      "ementa": "Institui o Programa ao Setor Sucroenergetico Brasileiro (PASSE) e dá outras providências.",
+      "dataApresentacao": "2020-05-22T10:51"
+    },
+    {
+      "id": 2253572,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2253572",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2842,
+      "ano": 2020,
+      "ementa": "Permite a utilização de hospitais militares para o atendimento da população em geral durante a pandemia do COVID-19.",
+      "dataApresentacao": "2020-05-22T14:12"
+    },
+    {
+      "id": 2253600,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2253600",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2849,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 10.048, de 8 de novembro de 2000, e a Lei 13.146, de 6 de julho de 2015 - Lei Brasileira de Inclusão da Pessoa com Deficiência, para assegurar prioridade de atendimento às pessoas acometidas por Síndrome de Fibromialgia ou Fadiga Crônica.",
+      "dataApresentacao": "2020-05-25T09:14"
+    },
+    {
+      "id": 2253782,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2253782",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2919,
+      "ano": 2020,
+      "ementa": "Acrescenta os §§ 4º, 5º, 6º, 7º, 8º e 9º ao artigo 9º da Lei nº 9.394, de 20 de dezembro de 1996, passando a prever o caderno apostilado digital como material didático e dá outras providências.",
+      "dataApresentacao": "2020-05-26T17:41"
+    },
+    {
+      "id": 2254209,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254209",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3039,
+      "ano": 2020,
+      "ementa": "\"Institui o Serviço Especial Gratuito de Transporte para tratamento de Saúde\".",
+      "dataApresentacao": "2020-06-01T16:28"
+    },
+    {
+      "id": 2254247,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254247",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3050,
+      "ano": 2020,
+      "ementa": "Altera o art. 1.788 da Lei n.º 10.406, de 10 de janeiro de 2002.",
+      "dataApresentacao": "2020-06-02T09:56"
+    },
+    {
+      "id": 2254248,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254248",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3051,
+      "ano": 2020,
+      "ementa": "\"Acrescenta o art. 10-A à\",\"(Marco Civil da Internet), a fim de dispor sobre a destinação das contas de aplicações de internet após a morte de seu titular.\"",
+      "dataApresentacao": "2020-06-02T09:56"
+    },
+    {
+      "id": 2254305,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254305",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3068,
+      "ano": 2020,
+      "ementa": "Institui Programa Emergencial de Apoio aos Microempreendedores Individuais, no âmbito da emergência de saúde pública de importância internacional da Covid-19, definida pela Lei nº 13.979, de 6 de fevereiro de 2020.",
+      "dataApresentacao": "2020-06-02T15:33"
+    },
+    {
+      "id": 2254341,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254341",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3080,
+      "ano": 2020,
+      "ementa": "\"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências.\"",
+      "dataApresentacao": "2020-06-02T17:39"
+    },
+    {
+      "id": 2254736,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254736",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3166,
+      "ano": 2020,
+      "ementa": "Aumenta as penas e punições para o crime de pichação",
+      "dataApresentacao": "2020-06-08T11:10"
+    },
+    {
+      "id": 2254772,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254772",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3181,
+      "ano": 2020,
+      "ementa": "Dispõe sobre a obrigatoriedade dos grandes centros comerciais disponibilizarem área para atendimento de primeiros socorros aos seus frequentadores, nos termos que especifica.",
+      "dataApresentacao": "2020-06-08T15:49"
+    },
+    {
+      "id": 2254942,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254942",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3233,
+      "ano": 2020,
+      "ementa": "Institui a erradicação da pobreza no mercado do trabalho.",
+      "dataApresentacao": "2020-06-10T09:51"
+    },
+    {
+      "id": 2255015,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2255015",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3262,
+      "ano": 2020,
+      "ementa": "Altera a lei nº 13.930, de 10 de dezembro de 2019 e cria o Fundo Nacional para Custeio e Fornecimento de Medicações e Terapias destinadas ao Tratamento de Doenças Raras ou Negligenciadas.",
+      "dataApresentacao": "2020-06-10T16:33"
+    },
+    {
+      "id": 2255181,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2255181",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3313,
+      "ano": 2020,
+      "ementa": "Altera o Decreto-Lei nº 986, de 31 de outubro de 1969, para determinar a obrigatoriedade de utilização de quantidades mínimas de corantes alimentícios nos alimentos industrializados.",
+      "dataApresentacao": "2020-06-15T16:26"
+    },
+    {
+      "id": 2255184,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2255184",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3315,
+      "ano": 2020,
+      "ementa": "Dispõe sobre normas gerais, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios, que regulamentam políticas de enfrentamento de emergência de saúde pública que envolva agente infeccioso.",
+      "dataApresentacao": "2020-06-15T17:12"
+    },
+    {
+      "id": 2255558,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2255558",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3394,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 11.350, de 5 de outubro de 2006, para dispor sobre o piso salarial dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias.",
+      "dataApresentacao": "2020-06-18T11:40"
+    },
+    {
+      "id": 2255906,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2255906",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3457,
+      "ano": 2020,
+      "ementa": "Acrescenta e altera dispositivos na Lei nº 11.340 de 07 e agosto de 2006 para criar medidas protetivas de urgência automáticas e adequar a legislação.",
+      "dataApresentacao": "2020-06-22T14:45"
+    },
+    {
+      "id": 2256201,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256201",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3500,
+      "ano": 2020,
+      "ementa": "Estabelece a obrigatoriedade de oferecer quadras poliesportivas cobertas nas escolas da Educação Básica da rede pública de ensino.",
+      "dataApresentacao": "2020-06-25T09:46"
+    },
+    {
+      "id": 2256202,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256202",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3501,
+      "ano": 2020,
+      "ementa": "Institui o Auxílio Internet.",
+      "dataApresentacao": "2020-06-25T09:46"
+    },
+    {
+      "id": 2256584,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256584",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3592,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 9.847, de 26 de outubro de 1999, para estabelecer a obrigatoriedade de os postos revendedores de combustíveis automotivos informarem as especificações técnicas da gasolina comercializada e dá outras providências",
+      "dataApresentacao": "2020-07-01T17:15"
+    },
+    {
+      "id": 2256588,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256588",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3593,
+      "ano": 2020,
+      "ementa": "Proíbe a atividade advocatícia de cônjuges, companheiros ou parentes em linha reta colateral ou por afinidade, até o terceiro grau, de Ministros do Supremo Tribunal Federal.",
+      "dataApresentacao": "2020-07-01T18:03"
+    },
+    {
+      "id": 2256669,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256669",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3611,
+      "ano": 2020,
+      "ementa": "Dispõe sobre a Política Nacional de Recuperação de Dependentes de Substâncias Químicos no Sistema Prisional.",
+      "dataApresentacao": "2020-07-02T14:39"
+    },
+    {
+      "id": 2256745,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256745",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3644,
+      "ano": 2020,
+      "ementa": "Altera a Lei n° 5.700, de 1° de setembro de 1971, que \"dispõe sobre a forma e a apresentação dos Símbolos Nacionais” para acrescentar o símbolo oficial do Sistema Único de Saúde e dá outras providências.",
+      "dataApresentacao": "2020-07-03T18:09"
+    },
+    {
+      "id": 2256848,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256848",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3650,
+      "ano": 2020,
+      "ementa": "Altera dispositivos da Lei nº 12.715, de 17 de setembro de 2012, que dispõe sobre alteração da alíquota das contribuições previdenciárias sobre a folha de salários devidas pelas empresas que especifica; institui o Programa de Incentivo à Inovação Tecnológica e Adensamento da Cadeia Produtiva de Veículos Automotores, o Regime Especial de Tributação do Programa Nacional de Banda Larga para Implantação de Redes de Telecomunicações, o Regime Especial de Incentivo a Computadores para Uso Educacional, o Programa Nacional de Apoio à Atenção Oncológica e o Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência; restabelece o Programa Um Computador por Aluno; altera o Programa de Apoio ao Desenvolvimento Tecnológico da Indústria de Semicondutores, instituído pela Lei nº 11.484, de 31 de maio de 2007; altera as Leis nº s 9.250, de 26 de dezembro de 1995, 11.033, de 21 de dezembro de 2004, 9.430, de 27 de dezembro de 1996, 10.865, de 30 de abril de 2004, 11.774, de 17 de setembro de 2008, 12.546, de 14 de dezembro de 2011, 11.484, de 31 de maio de 2007, 10.637, de 30 de dezembro de 2002, 11.196, de 21 de novembro de 2005, 10.406, de 10 de janeiro de 2002, 9.532, de 10 de dezembro de 1997, 12.431, de 24 de junho de 2011, 12.414, de 9 de junho de 2011, 8.666, de 21 de junho de 1993, 10.925, de 23 de julho de 2004, os Decretos-Leis nº s 1.455, de 7 de abril de 1976, 1.593, de 21 de dezembro de 1977, e a Medida Provisória nº 2.199-14, de 24 de agosto de 2001; e dá outras providências.",
+      "dataApresentacao": "2020-07-06T09:33"
+    },
+    {
+      "id": 2256947,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256947",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3680,
+      "ano": 2020,
+      "ementa": "Institui a Bolsa-Atleta em Formação e dá outras providências",
+      "dataApresentacao": "2020-07-07T15:57"
+    },
+    {
+      "id": 2257224,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2257224",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3715,
+      "ano": 2020,
+      "ementa": "Cria o Programa Barraginhas e outras ecotécnicas para recuperação e perenização hídrica, na Política Nacional de Recursos Hídricos.",
+      "dataApresentacao": "2020-07-08T18:18"
+    },
+    {
+      "id": 2257301,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2257301",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3728,
+      "ano": 2020,
+      "ementa": "Dispõe sobre os canais de atendimento das academia, prestadores de serviços esportivos e outros.",
+      "dataApresentacao": "2020-07-09T13:56"
+    },
+    {
+      "id": 2257468,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2257468",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3748,
+      "ano": 2020,
+      "ementa": "Institui e dispõe sobre o regime de trabalho sob demanda.",
+      "dataApresentacao": "2020-07-10T18:54"
+    },
+    {
+      "id": 2257488,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2257488",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3757,
+      "ano": 2020,
+      "ementa": "Dispõe sobre a atividade de operação logística, sobre a emissão de títulos por empresas de armazéns gerais e dá outras providências.",
+      "dataApresentacao": "2020-07-13T13:27"
+    },
+    {
+      "id": 2257506,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2257506",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3761,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015, para dispor sobre medidas de atenção às crianças e jovens com condições decorrentes de deficiência ou enfermidade.",
+      "dataApresentacao": "2020-07-13T16:43"
+    },
+    {
+      "id": 2257702,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2257702",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3801,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 10.406, de 10 de janeiro de 2002, e a Lei nº 6.015, de 31 de dezembro de 1973, para dispor sobre a multipropriedade de bens moveis e seu registro.",
+      "dataApresentacao": "2020-07-15T14:12"
+    },
+    {
+      "id": 2257759,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2257759",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3806,
+      "ano": 2020,
+      "ementa": "Dispõe sobre a identificação de pessoas portadoras de doenças neurodegenerativas e os procedimentos de abordagem em ações de revista pessoal e dá outras providências.",
+      "dataApresentacao": "2020-07-15T17:22"
+    },
+    {
+      "id": 2257804,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2257804",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3817,
+      "ano": 2020,
+      "ementa": "Institui o piso salarial profissional nacional do secretário escolar.",
+      "dataApresentacao": "2020-07-16T09:11"
+    },
+    {
+      "id": 2257899,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2257899",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3834,
+      "ano": 2020,
+      "ementa": "Altera a Lei n. 1.283, de 18 de dezembro de 1950, para autorizar a compra de pescado diretamente de aquicultores e pescadores artesanais, nas condições que especifica.",
+      "dataApresentacao": "2020-07-16T16:45"
+    },
+    {
+      "id": 2257956,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2257956",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3860,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 9.294, de 15 julho de 1996, que “dispõe sobre as restrições ao uso e à propaganda de produtos fumígeros, bebidas alcoólicas, medicamentos, terapias e defensivos agrícolas, nos termos do § 4° do art. 220 da Constituição Federal”, para estabelecer as cores que poderão ser utilizadas nas embalagens, maços ou materiais de acondicionamento para produtos fumígenos, derivados ou não do tabaco, com a finalidade de reduzir o seu consumo.",
+      "dataApresentacao": "2020-07-20T12:30"
+    },
+    {
+      "id": 2257961,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2257961",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3865,
+      "ano": 2020,
+      "ementa": "Dispõe sobre a oferta de vagas de financiamento estudantil do Fies para 2020 e 2021, e sobre a revogação das isenções de rendimentos auferidos nas aplicações ou operações financeiras de renda fixa ou de renda variável previstas no art. 3º da Lei nº 11.033, de 21 de dezembro de 2004, e no art. 90 da Lei nº 13.097, de 19 de janeiro de 2015, para os fundos de investimento, títulos de crédito e ações adquiridos a partir de 1º de janeiro de 2021.",
+      "dataApresentacao": "2020-07-20T13:50"
+    },
+    {
+      "id": 2258844,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2258844",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3981,
+      "ano": 2020,
+      "ementa": "Cria a Aula Verde como atividade extra curricular, nas escolas públicas e privadas.",
+      "dataApresentacao": "2020-07-29T14:51"
+    },
+    {
+      "id": 2258887,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2258887",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3990,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 9.503, de 1997, Código de Trânsito Brasileiro, para dispor sobre validade da Carteira Nacional de Habilitação de condutor que retorne ao País após ausência por mais de 6 meses.",
+      "dataApresentacao": "2020-07-29T17:48"
+    },
+    {
+      "id": 2259207,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2259207",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4046,
+      "ano": 2020,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) para acrescentar meio de comunicação de massa ou sistema de informática ou telemática para causar dano à honra ou imagem como agravante de pena.",
+      "dataApresentacao": "2020-08-04T09:12"
+    },
+    {
+      "id": 2259222,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2259222",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4052,
+      "ano": 2020,
+      "ementa": "Denomina Viaduto Vereador ERIVALDO RODRIGUES  o viaduto situado na interseção da rodovia BR-020 com a BR-222, em Caucaia - CE.",
+      "dataApresentacao": "2020-08-04T10:45"
+    },
+    {
+      "id": 2259294,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2259294",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4060,
+      "ano": 2020,
+      "ementa": "Institui o Programa Nacional de Apoio à Inovação e à Pesquisa Científica e Tecnológica no Sistema Único de Saúde (PRONPEC).",
+      "dataApresentacao": "2020-08-04T15:27"
+    },
+    {
+      "id": 2259482,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2259482",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4096,
+      "ano": 2020,
+      "ementa": "Altera o Decreto-Lei no 2.848, de 7 de dezembro de 1940 – Código Penal, para prever a aplicação da pena em dobro aos crimes contra a honra cometidos mediante a criação, divulgação, produção ou compartilhamento de informação ou notícia que sabe ser falsa por meio da internet.",
+      "dataApresentacao": "2020-08-05T15:54"
+    },
+    {
+      "id": 2259497,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2259497",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4099,
+      "ano": 2020,
+      "ementa": "Dispõe sobre a criação da Área de Livre Comércio de Tucuruí, Estado do Pará.",
+      "dataApresentacao": "2020-08-05T16:20"
+    },
+    {
+      "id": 2259740,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2259740",
+      "siglaTipo": "PDL",
+      "codTipo": 557,
+      "numero": 362,
+      "ano": 2020,
+      "ementa": "Susta a Resolução Homologatória no 2.750, de 6 de agosto de 2020, da Agência Nacional de Energia Elétrica  Aneel.",
+      "dataApresentacao": "2020-08-10T09:15"
+    },
+    {
+      "id": 2259779,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2259779",
+      "siglaTipo": "PDL",
+      "codTipo": 557,
+      "numero": 365,
+      "ano": 2020,
+      "ementa": "Susta a Resolução Homologatória nº 2.750, de 07 de agosto de 2020, da Agência Nacional de Energia Elétrica (ANEEL), que homologa o resultado do Reajuste Tarifário Anual de 2020 da Centrais Elétricas do Pará S/A.",
+      "dataApresentacao": "2020-08-10T17:57"
+    },
+    {
+      "id": 2259866,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2259866",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4164,
+      "ano": 2020,
+      "ementa": "Altera a Lei n. 8.906, de 04 de julho de 1994, o Estatuto da Advocacia, para assegurar a igualdade de gênero na composição dos cargos diretivos e dos Conselhos no âmbito da Ordem dos Advogados do Brasil (OAB).",
+      "dataApresentacao": "2020-08-11T18:15"
+    },
+    {
+      "id": 2259958,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2259958",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4179,
+      "ano": 2020,
+      "ementa": "Denomina \"Campus LUIZ NERYS NUNES DE MIRANDA\" o Campus do Instituto Federal de Educação, Ciência e Tecnologia do Ceará, localizado na Cidade de Caucaia - CE.",
+      "dataApresentacao": "2020-08-12T15:11"
+    },
+    {
+      "id": 2260427,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260427",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4198,
+      "ano": 2020,
+      "ementa": "Dispõe sobre a inclusão da Educação Ambiental Humanitária em Bem-estar Animal e dá outras providências.",
+      "dataApresentacao": "2020-08-13T10:31"
+    },
+    {
+      "id": 2260604,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260604",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4252,
+      "ano": 2020,
+      "ementa": "Institui a gratuidade temporária no sistema de transporte público coletivo do para mulheres vítimas de violência doméstica, durante a pandemia de COVID 19.",
+      "dataApresentacao": "2020-08-18T20:10"
+    },
+    {
+      "id": 2260636,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260636",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4260,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para garantir a gratuidade do acesso aos conteúdos disponibilizados pela Justiça Eleitoral na internet durante o período eleitoral.",
+      "dataApresentacao": "2020-08-19T11:58"
+    },
+    {
+      "id": 2260648,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260648",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4264,
+      "ano": 2020,
+      "ementa": "Altera a lei nº 6.189, de 16 de março de 1974, e a Lei nº 10.438, de 26 de abril de 2002, para conceder desconto nas tarifas de energia elétrica para consumidores residenciais e rurais localizadas em municípios onde estejam instaladas usinas termonucleares de geração de energia elétrica.",
+      "dataApresentacao": "2020-08-19T14:39"
+    },
+    {
+      "id": 2260661,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260661",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4270,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 9.795, de 27 de abril de 1999, para inserir a segregação de resíduos sólidos, com vistas a sua coleta seletiva e reciclagem, entre os projetos a serem desenvolvidos nas escolas na área de educação ambiental.",
+      "dataApresentacao": "2020-08-19T16:55"
+    },
+    {
+      "id": 2260747,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260747",
+      "siglaTipo": "PDL",
+      "codTipo": 557,
+      "numero": 374,
+      "ano": 2020,
+      "ementa": "Susta os efeitos do Decreto nº 10.446, de 18 de agosto de 2020, que Dispõe sobre a qualificação de empreendimentos turísticos no âmbito do Programa de Parcerias de Investimentos - PPI.",
+      "dataApresentacao": "2020-08-20T12:59"
+    },
+    {
+      "id": 2260802,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260802",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4309,
+      "ano": 2020,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho\nde 1990, que dispõe sobre o Estatuto\nda Criança e Adolescente - ECA, para prever punição para quem \ndeixar criança menor de 10 (dez)\nanos sem supervisão em elevadores,\npiscinas, saunas ou quaisquer outros \nequipamentos ou espaços de uso \ncomum em condomínios e dá outras\nprovidências.",
+      "dataApresentacao": "2020-08-21T13:52"
+    },
+    {
+      "id": 2260941,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260941",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4352,
+      "ano": 2020,
+      "ementa": "Altera a lei nº 13.930, de 10 de dezembro de 2019, para o direcionamento de percentuais no custeio de medicamentos ao tratamento de doenças raras ou negligenciadas.",
+      "dataApresentacao": "2020-08-25T19:41"
+    },
+    {
+      "id": 2262108,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2262108",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3391,
+      "ano": 2020,
+      "ementa": "Institui o Dia Nacional do Orgulho Autista.",
+      "dataApresentacao": "2020-09-04T15:06"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=8"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=9&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=7&itens=100"
+    }
+  ]
+}

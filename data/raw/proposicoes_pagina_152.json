@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2619772,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619772",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 1141/2025",
+      "dataApresentacao": "2026-04-29T11:05"
+    },
+    {
+      "id": 2619773,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619773",
+      "siglaTipo": "RDF",
+      "codTipo": 197,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Redação Final ao PL 611/2025",
+      "dataApresentacao": "2026-04-29T11:05"
+    },
+    {
+      "id": 2619774,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619774",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 1975/2024",
+      "dataApresentacao": "2026-04-29T11:06"
+    },
+    {
+      "id": 2619775,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619775",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 1142/2025",
+      "dataApresentacao": "2026-04-29T11:06"
+    },
+    {
+      "id": 2619776,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619776",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 4929/2024",
+      "dataApresentacao": "2026-04-29T11:07"
+    },
+    {
+      "id": 2619777,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619777",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 1099/2025",
+      "dataApresentacao": "2026-04-29T11:07"
+    },
+    {
+      "id": 2619778,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619778",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 3346/2025",
+      "dataApresentacao": "2026-04-29T11:07"
+    },
+    {
+      "id": 2619780,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619780",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 1144/2025",
+      "dataApresentacao": "2026-04-29T11:08"
+    },
+    {
+      "id": 2619781,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619781",
+      "siglaTipo": "REQ",
+      "codTipo": 318,
+      "numero": 2504,
+      "ano": 2026,
+      "ementa": "Requer a inclusão na Ordem do Dia do PLP 185/2024, que \"Regulamenta a aposentadoria especial dos agentes comunitários de saúde e dos agentes de combate às endemias, prevista no § 10 do art. 198 da Constituição Federal.",
+      "dataApresentacao": "2026-04-29T10:55"
+    },
+    {
+      "id": 2619782,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619782",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 3562/2025",
+      "dataApresentacao": "2026-04-29T11:08"
+    },
+    {
+      "id": 2619783,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619783",
+      "siglaTipo": "EMC-A",
+      "codTipo": 702,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda Adotada pela Comissão ao PL 3562/2025",
+      "dataApresentacao": "2026-04-29T11:08"
+    },
+    {
+      "id": 2619784,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619784",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2063,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.149, de 5 de maio de 2021, e a Lei nº 11.340, de 7 de agosto de 2006, para dispor sobre a obrigatoriedade do Formulário Nacional de Avaliação de Risco (FONAR) e sua utilização na análise de medidas protetivas de urgência em casos de violência doméstica e familiar contra a mulher.",
+      "dataApresentacao": "2026-04-29T11:04"
+    },
+    {
+      "id": 2619785,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619785",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PLP 262/2019",
+      "dataApresentacao": "2026-04-29T11:09"
+    },
+    {
+      "id": 2619786,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619786",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Jorge Goetten (REPUBLIC-SC), pela aprovação.",
+      "dataApresentacao": "2026-04-29T10:23"
+    },
+    {
+      "id": 2619787,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619787",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2064,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a integração dos estados e do Distrito Federal ao Sistema Nacional de Informações de Segurança Pública (SINESP), institui o Padrão Nacional Mínimo do Boletim de Ocorrência e prevê a identificação de mulheres com deficiência nos registros de ocorrências policiais.",
+      "dataApresentacao": "2026-04-29T11:04"
+    },
+    {
+      "id": 2619788,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619788",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 1145/2025",
+      "dataApresentacao": "2026-04-29T11:10"
+    },
+    {
+      "id": 2619789,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619789",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) à PEC 34/2025",
+      "dataApresentacao": "2026-04-29T11:10"
+    },
+    {
+      "id": 2619790,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619790",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2065,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional de Mapeamento da Violência contra Mulheres com Deficiência (SINAMUD), cria banco nacional de dados sobre ocorrências de violência contra esse grupo e dispõe sobre coleta, integração e publicidade de informações para subsidiar políticas públicas de prevenção e proteção.",
+      "dataApresentacao": "2026-04-29T11:04"
+    },
+    {
+      "id": 2619791,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619791",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 5695/2023",
+      "dataApresentacao": "2026-04-29T11:10"
+    },
+    {
+      "id": 2619792,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619792",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 3632/2025",
+      "dataApresentacao": "2026-04-29T11:11"
+    },
+    {
+      "id": 2619793,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619793",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 1187/2025",
+      "dataApresentacao": "2026-04-29T11:11"
+    },
+    {
+      "id": 2619794,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619794",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 642,
+      "ano": 2026,
+      "ementa": "Alude à liberação e execução de recursos orçamentários com a finalidade de Modernização de Área Pública no Município de Barra do Bugres, Estado do Mato Grosso.",
+      "dataApresentacao": "2026-04-29T11:06"
+    },
+    {
+      "id": 2619795,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619795",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 678,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-29T11:10"
+    },
+    {
+      "id": 2619796,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619796",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CICS) ao PLP 176/2025",
+      "dataApresentacao": "2026-04-29T11:18"
+    },
+    {
+      "id": 2619797,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619797",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 1188/2025",
+      "dataApresentacao": "2026-04-29T11:18"
+    },
+    {
+      "id": 2619798,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619798",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PDL 116/2026",
+      "dataApresentacao": "2026-04-29T11:20"
+    },
+    {
+      "id": 2619799,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619799",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 643,
+      "ano": 2026,
+      "ementa": "Alude a liberação e execução de recursos orçamentários com a finalidade da Execução de fomento da agricultura familiar por meio da aquisição de kits para geração de energia fotovoltaica destinada aos assentados do Estado do Mato Grosso, em apoio à Federação dos Trabalhadores na Agricultura do Estado do Mato Grosso.",
+      "dataApresentacao": "2026-04-29T11:13"
+    },
+    {
+      "id": 2619800,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619800",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 644,
+      "ano": 2026,
+      "ementa": "Alude a liberação e execução de recursos orçamentários com a finalidade Aquisição de Máquinas para o Governo do Estado do Mato Grosso, conforme Proposta cadastrada no Transferegov nº 988900.",
+      "dataApresentacao": "2026-04-29T11:16"
+    },
+    {
+      "id": 2619801,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619801",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 645,
+      "ano": 2026,
+      "ementa": "Alude à liberação e execução de recursos orçamentários com a finalidade de Implementação de Plano Operativo de Prevenção e Combate a Incêndios Florestais (PPCIF) simplificado e emergencial no município de Marcelândia no Estado de Mato Grosso.",
+      "dataApresentacao": "2026-04-29T11:19"
+    },
+    {
+      "id": 2619802,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619802",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CICS) ao PLP 125/2025",
+      "dataApresentacao": "2026-04-29T11:24"
+    },
+    {
+      "id": 2619803,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619803",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 2898/2023",
+      "dataApresentacao": "2026-04-29T11:24"
+    },
+    {
+      "id": 2619804,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619804",
+      "siglaTipo": "SBT-A",
+      "codTipo": 701,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Substitutivo adotado pela Comissão ao PLP 125/2025",
+      "dataApresentacao": "2026-04-29T11:25"
+    },
+    {
+      "id": 2619805,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619805",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CPOVOS) ao PL 273/2024",
+      "dataApresentacao": "2026-04-29T11:25"
+    },
+    {
+      "id": 2619806,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619806",
+      "siglaTipo": "SBT-A",
+      "codTipo": 701,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Substitutivo adotado pela Comissão ao PL 273/2024",
+      "dataApresentacao": "2026-04-29T11:25"
+    },
+    {
+      "id": 2619807,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619807",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CPOVOS) ao PL 5451/2025",
+      "dataApresentacao": "2026-04-29T11:26"
+    },
+    {
+      "id": 2619808,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619808",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 3138/2023",
+      "dataApresentacao": "2026-04-29T11:26"
+    },
+    {
+      "id": 2619809,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619809",
+      "siglaTipo": "REQ",
+      "codTipo": 354,
+      "numero": 2505,
+      "ano": 2026,
+      "ementa": "Requer Moção de Louvor e Regozijo ao Sr. 2º SGT PM Flavio  Luiz da Silva de Queiroz pelos excelentes serviços prestados ao Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-04-29T11:23"
+    },
+    {
+      "id": 2619810,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619810",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 1121/2024",
+      "dataApresentacao": "2026-04-29T11:28"
+    },
+    {
+      "id": 2619811,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619811",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 646,
+      "ano": 2026,
+      "ementa": "Alude a liberação e execução de recursos orçamentários com a finalidade da Implantação do Centro de Tratamento de Resíduos em Diamantino no Estado de Mato Grosso.",
+      "dataApresentacao": "2026-04-29T11:24"
+    },
+    {
+      "id": 2619812,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619812",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 647,
+      "ano": 2026,
+      "ementa": "Alude a liberação e execução de recursos orçamentários com a finalidade da Execução de obras e serviços de engenharia em estradas vicinais, no Município de Paranatinga no Estado de Mato Grosso.",
+      "dataApresentacao": "2026-04-29T11:28"
+    },
+    {
+      "id": 2619813,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619813",
+      "siglaTipo": "EMC-A",
+      "codTipo": 702,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda Adotada pela Comissão ao PL 1513/2024",
+      "dataApresentacao": "2026-04-29T11:31"
+    },
+    {
+      "id": 2619814,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619814",
+      "siglaTipo": "SBE-A",
+      "codTipo": 703,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Subemenda Adotada pela Comissão ao PL 1513/2024",
+      "dataApresentacao": "2026-04-29T11:32"
+    },
+    {
+      "id": 2619815,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619815",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 1513/2024",
+      "dataApresentacao": "2026-04-29T11:35"
+    },
+    {
+      "id": 2619816,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619816",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 648,
+      "ano": 2026,
+      "ementa": "Alude a liberação e execução de recursos orçamentários com a finalidade de Aquisição de Máquinas para o Município de Primavera do Leste, Estado do Mato Grosso.",
+      "dataApresentacao": "2026-04-29T11:35"
+    },
+    {
+      "id": 2619817,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619817",
+      "siglaTipo": "REQ",
+      "codTipo": 318,
+      "numero": 2506,
+      "ano": 2026,
+      "ementa": "Requer a inclusão na Ordem do Dia do PLP - nº 185/2024, que “Regulamenta a aposentadoria especial dos agentes comunitários de saúde e dos agentes de combate às endemias, prevista no § 10 do art. 198 da Constituição Federal”.",
+      "dataApresentacao": "2026-04-29T11:37"
+    },
+    {
+      "id": 2619818,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619818",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 1078/2022",
+      "dataApresentacao": "2026-04-29T11:40"
+    },
+    {
+      "id": 2619819,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619819",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 649,
+      "ano": 2026,
+      "ementa": "Alude a liberação e execução de recursos orçamentários com a finalidade Construção de Espaço Esportivo Comunitário no Município de Sinop, Estado do Mato Grosso.",
+      "dataApresentacao": "2026-04-29T11:40"
+    },
+    {
+      "id": 2619820,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619820",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 90/2020",
+      "dataApresentacao": "2026-04-29T11:42"
+    },
+    {
+      "id": 2619821,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619821",
+      "siglaTipo": "RIC",
+      "codTipo": 148,
+      "numero": 1086,
+      "ano": 2026,
+      "ementa": "Requer do Ministério da Educação informações detalhadas acerca da execução das políticas de educação inclusiva.",
+      "dataApresentacao": "2026-04-29T11:40"
+    },
+    {
+      "id": 2619822,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619822",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 5755/2013",
+      "dataApresentacao": "2026-04-29T11:46"
+    },
+    {
+      "id": 2619823,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619823",
+      "siglaTipo": "REQ",
+      "codTipo": 318,
+      "numero": 2507,
+      "ano": 2026,
+      "ementa": "Requer a inclusão na Ordem do Dia do Plenário do Projeto de Lei Complementar nº 185/2024, para votação imediata.",
+      "dataApresentacao": "2026-04-29T11:40"
+    },
+    {
+      "id": 2619824,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619824",
+      "siglaTipo": "REQ",
+      "codTipo": 318,
+      "numero": 2508,
+      "ano": 2026,
+      "ementa": "Requer a inclusão na Ordem do Dia do Plenário para votação imediata do Projeto de Lei Complementar nº 185, de 2024.",
+      "dataApresentacao": "2026-04-29T11:45"
+    },
+    {
+      "id": 2619825,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619825",
+      "siglaTipo": "CVO",
+      "codTipo": 195,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Complementação de Voto apresentada pela Relatora na Reunião Deliberativa de 29/04/2026.",
+      "dataApresentacao": "2026-04-29T11:47"
+    },
+    {
+      "id": 2619826,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619826",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 650,
+      "ano": 2026,
+      "ementa": "Alude a liberação e execução de recursos orçamentários com a finalidade de Aquisição de Máquinas para o Município de Rondonópolis, Estado do Mato Grosso.",
+      "dataApresentacao": "2026-04-29T11:45"
+    },
+    {
+      "id": 2619827,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619827",
+      "siglaTipo": "REQ",
+      "codTipo": 318,
+      "numero": 2509,
+      "ano": 2026,
+      "ementa": "Requer a Inclusão na Ordem do Dia para votação do Projeto de Lei Complementar nº 185/2024.",
+      "dataApresentacao": "2026-04-29T11:47"
+    },
+    {
+      "id": 2619828,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619828",
+      "siglaTipo": "REQ",
+      "codTipo": 392,
+      "numero": 2510,
+      "ano": 2026,
+      "ementa": "Requer regime de urgência na apreciação do Projeto de Lei nº 888/2025",
+      "dataApresentacao": "2026-04-29T11:49"
+    },
+    {
+      "id": 2619829,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619829",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 4309/2023",
+      "dataApresentacao": "2026-04-29T11:53"
+    },
+    {
+      "id": 2619830,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619830",
+      "siglaTipo": "SBT",
+      "codTipo": 255,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-29T11:50"
+    },
+    {
+      "id": 2619831,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619831",
+      "siglaTipo": "PAR",
+      "codTipo": 187,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Comissão  (CCJC) ao PL 1061/2025",
+      "dataApresentacao": "2026-04-29T11:56"
+    },
+    {
+      "id": 2619832,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619832",
+      "siglaTipo": "REQ",
+      "codTipo": 304,
+      "numero": 2511,
+      "ano": 2026,
+      "ementa": "Requer o apensamento da Proposta de Emenda Constitucional nº 6, de 2024, à Proposta de Emenda Constitucional nº 555, de 2006.",
+      "dataApresentacao": "2026-04-29T11:55"
+    },
+    {
+      "id": 2619833,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619833",
+      "siglaTipo": "MSC",
+      "codTipo": 411,
+      "numero": 324,
+      "ano": 2026,
+      "ementa": "Submete à consideração do Congresso Nacional o texto do  Acordo de Cooperação Educacional entre o Governo da República Federativa do Brasil e o Governo da República do Azerbaijão, assinado em Brasília, em 1º de setembro de 2025.",
+      "dataApresentacao": "2026-04-29T11:01"
+    },
+    {
+      "id": 2619834,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619834",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Delegado Fabio Costa (PP-AL), pela aprovação.",
+      "dataApresentacao": "2026-04-29T10:52"
+    },
+    {
+      "id": 2619835,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619835",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 679,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-29T12:03"
+    },
+    {
+      "id": 2619836,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619836",
+      "siglaTipo": "CVO",
+      "codTipo": 195,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer com Complementação de Voto, Dep. Silvia Cristina (PP-RO), pela aprovação, com emenda.",
+      "dataApresentacao": "2026-04-29T12:03"
+    },
+    {
+      "id": 2619837,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619837",
+      "siglaTipo": "REQ",
+      "codTipo": 318,
+      "numero": 2512,
+      "ano": 2026,
+      "ementa": "Requer a inclusão na Ordem do Dia do PLP 185/2024,\tque “Regulamenta\ta aposentadoria especial dos agentes comunitários de saúde e dos agentes de combate às endemias.",
+      "dataApresentacao": "2026-04-29T12:01"
+    },
+    {
+      "id": 2619838,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619838",
+      "siglaTipo": "EMR",
+      "codTipo": 257,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "dataApresentacao": "2026-04-29T12:08"
+    },
+    {
+      "id": 2619839,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619839",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 46/2024",
+      "dataApresentacao": "2026-04-29T12:00"
+    },
+    {
+      "id": 2619840,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619840",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 651,
+      "ano": 2026,
+      "ementa": "Alude a liberação e execução de recursos orçamentários com a finalidade da aquisição de Equipamento e Material Permanente para a Associação de Proteção á Maternidade e á Infância no Município de Cuiabá, Estado do Mato Grosso.",
+      "dataApresentacao": "2026-04-29T12:12"
+    },
+    {
+      "id": 2619841,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619841",
+      "siglaTipo": "REQ",
+      "codTipo": 318,
+      "numero": 2513,
+      "ano": 2026,
+      "ementa": "Requer a inclusão na Ordem do Dia do Plenário do Projeto de Lei Complementar nº 185, de 2024, para votação imediata.",
+      "dataApresentacao": "2026-04-29T12:18"
+    },
+    {
+      "id": 2619842,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619842",
+      "siglaTipo": "RDF",
+      "codTipo": 197,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Redação Final ao PL 533/2024",
+      "dataApresentacao": "2026-04-22T00:00"
+    },
+    {
+      "id": 2619843,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619843",
+      "siglaTipo": "DOC",
+      "codTipo": 1033,
+      "numero": 449,
+      "ano": 2026,
+      "ementa": "De ordem, informo, nos termos dos § 62 e 72 do art. 22, bem como do art. 42 da Resolução do Congresso Nacional n2 1 de 2002, que a Medida Provisória n 1.352, de 2026, será encaminhada para exame e parecer à Comissão Mista de Planos, Orçamentos Públicos Fiscalização, onde também poderá receber emendas.",
+      "dataApresentacao": "2026-04-29T12:21"
+    },
+    {
+      "id": 2619845,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619845",
+      "siglaTipo": "DOC",
+      "codTipo": 1024,
+      "numero": 680,
+      "ano": 2026,
+      "ementa": "",
+      "dataApresentacao": "2026-04-29T12:27"
+    },
+    {
+      "id": 2619846,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619846",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 652,
+      "ano": 2026,
+      "ementa": "Alude a liberação e execução de recursos orçamentários com a finalidade de manutenção de 03 (três) Hortas Solidárias já existentes e à implantação de novas unidades em municípios do interior do Estado do Mato Grosso, em apoio à Associação Mato-Grossense de Inclusão Social e Agricultura Familiar – AMAIS, com sede no Município de Várzea Grande no Estado do Mato Grosso.",
+      "dataApresentacao": "2026-04-29T12:28"
+    },
+    {
+      "id": 2619847,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619847",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 5424/2025",
+      "dataApresentacao": "2026-04-29T12:30"
+    },
+    {
+      "id": 2619849,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619849",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 5424/2025",
+      "dataApresentacao": "2026-04-29T12:30"
+    },
+    {
+      "id": 2619850,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619850",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 3379/2025",
+      "dataApresentacao": "2026-04-29T12:30"
+    },
+    {
+      "id": 2619851,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619851",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 3343/2025",
+      "dataApresentacao": "2026-04-29T12:30"
+    },
+    {
+      "id": 2619852,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619852",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 3459/2024",
+      "dataApresentacao": "2026-04-29T12:30"
+    },
+    {
+      "id": 2619853,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619853",
+      "siglaTipo": "INC",
+      "codTipo": 133,
+      "numero": 653,
+      "ano": 2026,
+      "ementa": "Alude à liberação e execução de recursos orçamentários com a finalidade de Implementação de Plano Operativo de Prevenção e Combate a Incêndios Florestais (PPCIF) simplificado e emergencial no município de Mirassol D’oeste no Estado de Mato Grosso.",
+      "dataApresentacao": "2026-04-29T12:32"
+    },
+    {
+      "id": 2619854,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619854",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 8,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 1242/2024",
+      "dataApresentacao": "2026-04-29T12:30"
+    },
+    {
+      "id": 2619855,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619855",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 8,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 1328/2022",
+      "dataApresentacao": "2026-04-29T12:30"
+    },
+    {
+      "id": 2619856,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619856",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 5110/2025",
+      "dataApresentacao": "2026-04-29T12:30"
+    },
+    {
+      "id": 2619857,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619857",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 11,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 4306/2024",
+      "dataApresentacao": "2026-04-29T12:30"
+    },
+    {
+      "id": 2619858,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619858",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 5110/2025",
+      "dataApresentacao": "2026-04-29T12:30"
+    },
+    {
+      "id": 2619859,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619859",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 12,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 4306/2024",
+      "dataApresentacao": "2026-04-29T12:30"
+    },
+    {
+      "id": 2619860,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619860",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 32,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 2618/2022",
+      "dataApresentacao": "2026-04-29T12:34"
+    },
+    {
+      "id": 2619861,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619861",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 27,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1789/2025",
+      "dataApresentacao": "2026-04-29T12:35"
+    },
+    {
+      "id": 2619862,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619862",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 28,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1789/2025",
+      "dataApresentacao": "2026-04-29T12:38"
+    },
+    {
+      "id": 2619863,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619863",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 33,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 2618/2022",
+      "dataApresentacao": "2026-04-29T12:38"
+    },
+    {
+      "id": 2619864,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619864",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 5110/2025",
+      "dataApresentacao": "2026-04-29T12:38"
+    },
+    {
+      "id": 2619865,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619865",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 5110/2025-Requerimento de Retirada de Matéria da Pauta - PL 5110/2025",
+      "dataApresentacao": "2026-04-29T12:38"
+    },
+    {
+      "id": 2619866,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619866",
+      "siglaTipo": "RPD",
+      "codTipo": 876,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inversão da Pauta - PL 4121/2025",
+      "dataApresentacao": "2026-04-29T12:33"
+    },
+    {
+      "id": 2619867,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619867",
+      "siglaTipo": "PRL",
+      "codTipo": 190,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Andreia Siqueira (PSB-PA), pela aprovação.",
+      "dataApresentacao": "2026-04-29T11:55"
+    },
+    {
+      "id": 2619868,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619868",
+      "siglaTipo": "RPD",
+      "codTipo": 329,
+      "numero": 29,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - PL 1789/2025",
+      "dataApresentacao": "2026-04-29T12:34"
+    },
+    {
+      "id": 2619869,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619869",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 34,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação - PL 2618/2022",
+      "dataApresentacao": "2026-04-29T12:34"
+    },
+    {
+      "id": 2619870,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619870",
+      "siglaTipo": "RPD",
+      "codTipo": 329,
+      "numero": 35,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Discussão - PL 2618/2022",
+      "dataApresentacao": "2026-04-29T12:34"
+    },
+    {
+      "id": 2619871,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619871",
+      "siglaTipo": "RPD",
+      "codTipo": 336,
+      "numero": 30,
+      "ano": 0,
+      "ementa": "Requerimento de Adiamento da Votação - PL 1789/2025",
+      "dataApresentacao": "2026-04-29T12:34"
+    },
+    {
+      "id": 2619872,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619872",
+      "siglaTipo": "RPD",
+      "codTipo": 328,
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 723/2024",
+      "dataApresentacao": "2026-04-29T12:30"
+    },
+    {
+      "id": 2619873,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619873",
+      "siglaTipo": "RPD",
+      "codTipo": 1051,
+      "numero": 36,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 2618/2022-Requerimento de Retirada de Matéria da Pauta - PL 2618/2022",
+      "dataApresentacao": "2026-04-29T12:38"
+    },
+    {
+      "id": 2619874,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2619874",
+      "siglaTipo": "RPD",
+      "codTipo": 1040,
+      "numero": 31,
+      "ano": 0,
+      "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão - PL 1789/2025-Requerimento de Adiamento da Discussão - PL 1789/2025",
+      "dataApresentacao": "2026-04-29T12:34"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=152"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=153&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=151&itens=100"
+    }
+  ]
+}

@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 2194801,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194801",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1623,
+      "ano": 2019,
+      "ementa": "Acrescenta §§ 1º e 2º ao art. 5º da Lei nº 8.935, de 18 de novembro de 1994, para vedar o condicionamento da eficácia dos atos praticados pelos serviços notariais e de registro a prévias conferências de sua autenticidade (abono).",
+      "dataApresentacao": "2019-03-20T16:12"
+    },
+    {
+      "id": 2194806,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194806",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1626,
+      "ano": 2019,
+      "ementa": "Dispõe sobre o reconhecimento dos pacientes que apresentam fissura palatina ou labiopalatina não reabilitados como pessoas com deficiência.",
+      "dataApresentacao": "2019-03-20T16:20"
+    },
+    {
+      "id": 2194972,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194972",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1668,
+      "ano": 2019,
+      "ementa": "Dispõe sobre incentivo para a redução das tarifas de energia elétrica das concessionárias de distribuição situadas na região Norte.",
+      "dataApresentacao": "2019-03-21T12:12"
+    },
+    {
+      "id": 2195036,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195036",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1684,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre o crime de entregar a direção de veículo a pessoa sem condições de fazê-lo.",
+      "dataApresentacao": "2019-03-21T14:57"
+    },
+    {
+      "id": 2195292,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195292",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1721,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997, que \"dispõe sobre a organização dos serviços de telecomunicações, a criação e funcionamento de um órgão regulador e outros aspectos institucionais, nos termos da Emenda Constitucional nº 8, de 1995\", para estabelecer a obrigatoriedade de oferta de serviços de telefonia móvel e de internet móvel ao longo de rodovias federais.",
+      "dataApresentacao": "2019-03-26T14:44"
+    },
+    {
+      "id": 2195409,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195409",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1751,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 13.196, de 2015 - Lei Brasileira de Inclusão, para incluir o diagnóstico de doença renal crônica no conceito de deficiência",
+      "dataApresentacao": "2019-03-26T17:25"
+    },
+    {
+      "id": 2195535,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195535",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1778,
+      "ano": 2019,
+      "ementa": "Altera o Decreto-Lei nº 1.455, de 7 de abril de 1976, para dispor sobre o procedimento de doação de mercadorias abandonadas, entregues à Fazenda Nacional ou objeto de pena de perdimento a entidades sem fins lucrativos.",
+      "dataApresentacao": "2019-03-27T11:06"
+    },
+    {
+      "id": 2195693,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195693",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1808,
+      "ano": 2019,
+      "ementa": "Acrescenta os artigos 255-A e 255-B à Lei nº 9.503, de 23 setembro de 1997, Código de Trânsito Brasileiro, para desobrigar as Polícias Civil e Militar, o Corpo de Bombeiros Militar, os Departamentos de Fiscalização e Operação de Trânsito, as Guardas Municipais e as ambulâncias, de apresentarem relatório de multas, isenta de penalidades e medidas administrativas os condutores de veículos em serviços de segurança pública e urgência, e dá outras providências.",
+      "dataApresentacao": "2019-03-27T16:49"
+    },
+    {
+      "id": 2195766,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195766",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1827,
+      "ano": 2019,
+      "ementa": "Dispõe sobre o piso salarial do assistente social",
+      "dataApresentacao": "2019-03-27T19:13"
+    },
+    {
+      "id": 2195855,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195855",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1842,
+      "ano": 2019,
+      "ementa": "Dispõe sobre a compra e venda, fundição e purificação de joias usadas, ouro e metais nobres.",
+      "dataApresentacao": "2019-03-28T11:20"
+    },
+    {
+      "id": 2195860,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195860",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1844,
+      "ano": 2019,
+      "ementa": "Proíbe a comercialização de cigarros e de derivados do tabaco em um raio de cem metros das instituições de ensino da pré-escola, ensino fundamental, ensino médio e ensino superior do território nacional.",
+      "dataApresentacao": "2019-03-28T11:28"
+    },
+    {
+      "id": 2195870,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195870",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1849,
+      "ano": 2019,
+      "ementa": "Altera os artigos 1822 e 1844 do Código Civil, de modo a permitir que a herança vacante seja destinada a entidades não-governamentais de atendimento de longa permanência ao idoso.",
+      "dataApresentacao": "2019-03-28T11:44"
+    },
+    {
+      "id": 2195902,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195902",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1857,
+      "ano": 2019,
+      "ementa": "Inclui dispositivos à Lei 10.826 de 22 de dezembro de 2003 e dá outras providências.",
+      "dataApresentacao": "2019-03-28T12:38"
+    },
+    {
+      "id": 2196375,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196375",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1935,
+      "ano": 2019,
+      "ementa": "Acrescenta inciso III, no art. 37 do Decreto-Lei nº 227, de 28 de fevereiro de 1967, para proibir a outorga de concessão de lavra para exploração de gás mediante processo de fraturação hidráulica ou fracking.",
+      "dataApresentacao": "2019-04-02T17:18"
+    },
+    {
+      "id": 2196468,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196468",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1963,
+      "ano": 2019,
+      "ementa": "Dispõe sobre o florestamento das áreas adjacentes às estradas e rodovias e a implantação de passagens de fauna.",
+      "dataApresentacao": "2019-04-02T18:36"
+    },
+    {
+      "id": 2196597,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196597",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1986,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 10.779, de 25 de novembro de 2003, para incluir outras condições em que se poderá conceder o benefício de seguro-desemprego ao pescador profissional que exerce a atividade pesqueira de forma artesanal.",
+      "dataApresentacao": "2019-04-03T14:38"
+    },
+    {
+      "id": 2196790,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196790",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2031,
+      "ano": 2019,
+      "ementa": "Tipifica como hediondos os crimes de violência doméstica e familiar contra a mulher que resultem em lesão corporal dolosa de natureza gravíssima ou lesão corporal seguida de morte.",
+      "dataApresentacao": "2019-04-03T19:41"
+    },
+    {
+      "id": 2196861,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196861",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 97,
+      "ano": 2019,
+      "ementa": "Altera a Lei Complementar nº 123 de 14 de dezembro de 2006, para reduzir o valor devido na forma do Simples Nacional, a título do imposto de renda das pessoas jurídicas e da contribuição social sobre o lucro líquido, pelas microempresas e pelas empresas de pequeno porte com número maior de empregados.",
+      "dataApresentacao": "2019-04-04T10:23"
+    },
+    {
+      "id": 2196871,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196871",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2059,
+      "ano": 2019,
+      "ementa": "Altera a redação do Código Civil, Lei nº 10.406, de 10 de janeiro de 2002, para disciplinar a relação de revenda e distribuição entre fornecedores e distribuidores",
+      "dataApresentacao": "2019-04-04T10:54"
+    },
+    {
+      "id": 2197029,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197029",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2084,
+      "ano": 2019,
+      "ementa": "Torna obrigatória a participação de, no mínimo, 30% (trinta por cento) de mulheres na composição de entidades de representação civil.",
+      "dataApresentacao": "2019-04-04T15:46"
+    },
+    {
+      "id": 2197255,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197255",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2155,
+      "ano": 2019,
+      "ementa": "Altera a Lei 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e dá outras providências, no sentido. conceder tratamento especial a portadores de obesidade mórbida em voos comerciais das companhias aéreas brasileiras.",
+      "dataApresentacao": "2019-04-09T14:31"
+    },
+    {
+      "id": 2197389,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197389",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2179,
+      "ano": 2019,
+      "ementa": "Declara o evento \"MARCHA PARA JESUS\" Bem Imaterial e Cultural da Nação Brasileira e autoriza a destinação de recursos públicos das esferas Municipal, Estadual, Distrital e Federal para apoio na realização do evento.",
+      "dataApresentacao": "2019-04-09T17:51"
+    },
+    {
+      "id": 2197492,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197492",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2200,
+      "ano": 2019,
+      "ementa": "Dispõe sobre a proibição da participação de atletas transexuais do sexo masculino (HOMENS TRAVESTIDOS OU FANTASIADOS DE MULHER) em competições do sexo feminino em todo o Território Nacional.",
+      "dataApresentacao": "2019-04-10T12:13"
+    },
+    {
+      "id": 2197569,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197569",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2210,
+      "ano": 2019,
+      "ementa": "Altera o artigo 4º da Lei de 9.394 de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional.",
+      "dataApresentacao": "2019-04-10T15:34"
+    },
+    {
+      "id": 2197694,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197694",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2226,
+      "ano": 2019,
+      "ementa": "Dispões sobre o uso de bicicletas de propulsão elétrica, dotadas ou não de pedais acionados pelo condutor e de patinetes de propulsão elétrica. (PL Mobilidade Urbana Sustentável)",
+      "dataApresentacao": "2019-04-10T18:12"
+    },
+    {
+      "id": 2197795,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197795",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2248,
+      "ano": 2019,
+      "ementa": "Modifica a Lei nº 9.991, de 24 de julho de 2000, para acrescer à composição do Comitê Gestor de Eficiência Energética representantes dos consumidores e da comunidade acadêmica.",
+      "dataApresentacao": "2019-04-11T11:39"
+    },
+    {
+      "id": 2197956,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197956",
+      "siglaTipo": "PDL",
+      "codTipo": 557,
+      "numero": 114,
+      "ano": 2019,
+      "ementa": "Susta, nos termos do art. 49, V, da Constituição Federal, o Decreto nº 9.760, de 11 de abril de 2019, que altera o Decreto nº 6.514, de 22 de julho de 2008, que \"dispõe sobre as infrações e sanções administrativas ao meio ambiente e estabelece o processo administrativo federal para apuração destas infrações.\".",
+      "dataApresentacao": "2019-04-12T13:19"
+    },
+    {
+      "id": 2198278,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198278",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2304,
+      "ano": 2019,
+      "ementa": "Altera o art. 8º e acrescenta e altera incisos ao art. 6º da Lei nº 13.643, de 3 de abril de 2018, que regulamenta as profissões de Esteticista, que compreende o Esteticista e Cosmetólogo, e de Técnico em Estética.",
+      "dataApresentacao": "2019-04-16T13:28"
+    },
+    {
+      "id": 2198534,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198534",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2370,
+      "ano": 2019,
+      "ementa": "Altera os arts. 1º, 2º, 4º, 5º, 7º, 8º, 9º, 15,16, 17, 19, 20, 24, 25, 28, 29, 30, 36, 37, 38, 39, 41, 44, 45, 46, 48, 49, 50, 51, 53, 68, 77, 78, 79, 81, 86, 90, 95, 96, 97, 100-B, 101, 102, 103, 107, 108 e 109 e acrescenta os arts. 30-A, 52-A, 52-B, 52-C, 52-D, 52-E, 61-A, 67-A, 85-A, 88-A, 88-B, 88-C, 99-C, 99-D, 110-A, 110-B, 110-C, 110-D, 110-E, 110-F, 110-G, 110-H, 110-I, 110-J, 110-K, 110-L, 111-A, 111-B, 113-A e 113-B na Lei nº 9.610, de 19 de fevereiro de 1998, que altera, atualiza e consolida a legislação sobre direitos autorais.",
+      "dataApresentacao": "2019-04-16T18:35"
+    },
+    {
+      "id": 2198588,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198588",
+      "siglaTipo": "PDL",
+      "codTipo": 557,
+      "numero": 141,
+      "ano": 2019,
+      "ementa": "Susta o Decreto nº 1.832, de 4 de março de 1996, que aprova o Regulamento dos Transportes Ferroviários.",
+      "dataApresentacao": "2019-04-17T11:22"
+    },
+    {
+      "id": 2198751,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198751",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2419,
+      "ano": 2019,
+      "ementa": "Altera a Lei no 10.406, de 10 de janeiro de 2002, e a Lei nº 6.015, de 31 de dezembro de 1973, para dispor sobre a multipropriedade de bens móveis e seu registro.",
+      "dataApresentacao": "2019-04-17T18:21"
+    },
+    {
+      "id": 2198835,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198835",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2424,
+      "ano": 2019,
+      "ementa": "Inclui inciso e itens no artigo 35-A a Lei nº 9.394, de 20 de dezembro de 1996, Lei de Diretrizes e Bases da Educação, para dispor sobre a obrigatoriedade do ensino de artes marciais na educação básica.",
+      "dataApresentacao": "2019-04-22T17:23"
+    },
+    {
+      "id": 2198836,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198836",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2425,
+      "ano": 2019,
+      "ementa": "Dispõe sobre a obrigatoriedade da concessão de descontos no custo de serviços de alimentação aos consumidores que tenham se submetido à gastroplastias.",
+      "dataApresentacao": "2019-04-22T17:24"
+    },
+    {
+      "id": 2198846,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198846",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2427,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 11.445, de 5 de janeiro de 2007, e a Lei nº 9.433, de 8 de janeiro de 1997, para incentivar a redução de perdas na distribuição de água tratada.",
+      "dataApresentacao": "2019-04-22T18:14"
+    },
+    {
+      "id": 2198939,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198939",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 114,
+      "ano": 2019,
+      "ementa": "Institui Contribuição Social incidente sobre a importação e a fabricação de produtos fumígenos.",
+      "dataApresentacao": "2019-04-23T15:01"
+    },
+    {
+      "id": 2199109,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2199109",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2483,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, para dispor sobre o prazo de vencimento para realização de compra em sites de compras coletivas.",
+      "dataApresentacao": "2019-04-24T11:13"
+    },
+    {
+      "id": 2199252,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2199252",
+      "siglaTipo": "PDL",
+      "codTipo": 561,
+      "numero": 211,
+      "ano": 2019,
+      "ementa": "Autoriza, nos termos dos arts. 176, § 1º, e 231, §3º, da Constituição Federal, a implantação dos aproveitamentos hidroelétricos Foz do Buriti e Porto do Buriti, no Rio Buriti, no Estado do Mato Grosso.",
+      "dataApresentacao": "2019-04-24T17:53"
+    },
+    {
+      "id": 2199312,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2199312",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2523,
+      "ano": 2019,
+      "ementa": "Altera os arts. 26, 63, 64, 65, 66, 67, 69, 70 e 71 da Lei nº 13.445, de 24 de maio de 2017, e acrescenta os arts. 63-A, 70-A, 70-B, 72-A, 72-B, 72-C, 74-A e 74-B, para aprimorar os critérios do processo de naturalização de imigrantes.",
+      "dataApresentacao": "2019-04-24T19:36"
+    },
+    {
+      "id": 2199637,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2199637",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2580,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, que \"dispõe sobre as Restrições ao Uso e à Propaganda de Produtos Fumígenos, Bebidas Alcoólicas, Medicamentos, Terapias e Defensivos Agrícolas, nos Termos do § 4º do art. 220 da Constituição Federal\", para proibir o uso de produtos fumígenos e consumo de bebidas alcoólicas em parques públicos e privados.",
+      "dataApresentacao": "2019-04-29T16:36"
+    },
+    {
+      "id": 2199698,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2199698",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2594,
+      "ano": 2019,
+      "ementa": "Confere ao Município de São José dos Campos, no Estado de São Paulo, o título de Capital Nacional da Aviação e da Indústria Aeroespacial.",
+      "dataApresentacao": "2019-04-30T12:09"
+    },
+    {
+      "id": 2200411,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2200411",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2665,
+      "ano": 2019,
+      "ementa": "Dispõe sobre a obrigatoriedade de reparação dos danos causados pelas prestadoras de serviços públicos às calçadas e vias públicas",
+      "dataApresentacao": "2019-05-07T18:09"
+    },
+    {
+      "id": 2200606,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2200606",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2701,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, para obrigar ao fornecedor de produtos como aparelhos sonoros, fones de ouvido, caixas de som, e similares, sobre os riscos da exposição excessiva a altos volumes de som ou ruídos.",
+      "dataApresentacao": "2019-05-08T14:34"
+    },
+    {
+      "id": 2200646,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2200646",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2717,
+      "ano": 2019,
+      "ementa": "\"Dispõe  sobre o reconhecimento da Saúde Estética como área de atuação do profissional de Biologia, Biomedicina, Enfermagem, Farmácia, Fisioterapia e Fonoaudiologia.\"",
+      "dataApresentacao": "2019-05-08T15:26"
+    },
+    {
+      "id": 2200711,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2200711",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2736,
+      "ano": 2019,
+      "ementa": "Inclui na exigência para a transferência do veículo a certidão negativa dos crimes de estelionato e apropriação indébita.",
+      "dataApresentacao": "2019-05-08T16:36"
+    },
+    {
+      "id": 2200777,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2200777",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2741,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 10.048, de 8 de novembro de 2000, para estender a prioridade de atendimento às pessoas com fibromialgia.",
+      "dataApresentacao": "2019-05-08T17:36"
+    },
+    {
+      "id": 2200816,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2200816",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2760,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 8.987, de 13 de fevereiro de 1995, que dispõe sobre o regime de concessão e permissão da prestação de serviço público previsto no art. 175 da Constituição Federal.",
+      "dataApresentacao": "2019-05-08T19:31"
+    },
+    {
+      "id": 2200836,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2200836",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2762,
+      "ano": 2019,
+      "ementa": "Acrescenta artigo à Lei nº 11.788, de 25 de setembro de 2008 para considerar como experiência profissional o estágio curricular realizado pelo estudante.",
+      "dataApresentacao": "2019-05-09T09:46"
+    },
+    {
+      "id": 2200868,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2200868",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2769,
+      "ano": 2019,
+      "ementa": "Acrescenta o art. 48-A a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre vagas de estacionamento nas proximidades de farmácias e drogarias.",
+      "dataApresentacao": "2019-05-09T11:11"
+    },
+    {
+      "id": 2202984,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202984",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2821,
+      "ano": 2019,
+      "ementa": "Dispõe sobre a Política Nacional de Práticas Integrativas e Complementares em Saúde no âmbito do Sistema Único de Saúde (SUS) e altera a Lei nº 8.080, de 19 de setembro de 1990, para incluir as Práticas Integrativas e Complementares no campo de atuação do SUS.",
+      "dataApresentacao": "2019-05-14T10:02"
+    },
+    {
+      "id": 2203208,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203208",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2875,
+      "ano": 2019,
+      "ementa": "Altera a Lei Brasileira de Inclusão para dispor sobre requisitos mínimos de acessibilidade em praias.  NOVA EMENTA: Altera as Leis nºs 10.257, de 10 de julho de 2001 (Estatuto da Cidade), 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), e 10.098, de 19 de dezembro de 2000, para dispor sobre requisitos mínimos de acessibilidade em praias.",
+      "dataApresentacao": "2019-05-14T17:50"
+    },
+    {
+      "id": 2203453,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203453",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2906,
+      "ano": 2019,
+      "ementa": "Modifica a Lei nº 9.294 de 15 de julho de 1996, para proibir o uso de produtos fumígenos também em locais públicos, em que haja circulação de pessoas.",
+      "dataApresentacao": "2019-05-15T15:51"
+    },
+    {
+      "id": 2203668,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203668",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2936,
+      "ano": 2019,
+      "ementa": "Agrava a pena do crime de pichação e prevê que a pena será cominada com a obrigação de reparar o dano na coisa alheia, mediante limpeza realizada pelo próprio agente.",
+      "dataApresentacao": "2019-05-16T15:30"
+    },
+    {
+      "id": 2203745,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203745",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2943,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 7.347, de 24 de julho de 1985 (Lei da Ação Civil Pública), para estender a legitimidade para a propositura de ação civil pública ao Conselho Federal e aos Conselhos Seccionais da Ordem dos Advogados do Brasil.",
+      "dataApresentacao": "2019-05-16T18:13"
+    },
+    {
+      "id": 2203924,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203924",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2959,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre parcelamento e cobrança de multas de trânsito.",
+      "dataApresentacao": "2019-05-21T11:26"
+    },
+    {
+      "id": 2204132,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204132",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3025,
+      "ano": 2019,
+      "ementa": "Permite acesso às pessoas com diabetes portando equipamentos de monitoração de glicemia, insulina, insumos, porções pequenas de alimentos e bebidas não alcoólicas nos espaços e eventos públicos e privados",
+      "dataApresentacao": "2019-05-21T17:55"
+    },
+    {
+      "id": 2204166,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204166",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3035,
+      "ano": 2019,
+      "ementa": "Acrescenta dispositivo à Lei nº 9.610, de 19 de fevereiro de 1998, que \"Altera, atualiza e consolida a legislação sobre direitos autorais e dá outras providências\".",
+      "dataApresentacao": "2019-05-21T18:29"
+    },
+    {
+      "id": 2204216,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204216",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3045,
+      "ano": 2019,
+      "ementa": "Dispõe sobre o exercício de atividades agrossilvipastoris em terras indígenas e dá outras providências.",
+      "dataApresentacao": "2019-05-21T20:19"
+    },
+    {
+      "id": 2204486,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204486",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3096,
+      "ano": 2019,
+      "ementa": "Institui o sistema de hipoteca reversa para pessoas consideradas idosas amparadas pelo Código do Idoso.",
+      "dataApresentacao": "2019-05-22T19:19"
+    },
+    {
+      "id": 2205227,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205227",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3166,
+      "ano": 2019,
+      "ementa": "Denomina de \"Canal Adutor Governador Geraldo Bulhões\" o \"Canal Adutor do Sertão Alagoano\".",
+      "dataApresentacao": "2019-05-28T18:02"
+    },
+    {
+      "id": 2205269,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205269",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3186,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 7.418/1985 - Lei do Vale-Transporte - para assegurar a isonomia aos usuários do benefício instituído por esta lei.",
+      "dataApresentacao": "2019-05-28T19:26"
+    },
+    {
+      "id": 2205468,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205468",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 144,
+      "ano": 2019,
+      "ementa": "Dispõe sobre a opção do Micro Empreendedor Individual pelo recolhimento dos impostos e contribuições abrangidos pelo Simples Nacional independente da atividade econômica por ele exercida.",
+      "dataApresentacao": "2019-05-29T15:12"
+    },
+    {
+      "id": 2205538,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205538",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3227,
+      "ano": 2019,
+      "ementa": "Dispõe sobre o direito de pessoas com hipopigmentação congênita ou adquirida de receberem gratuitamente do Poder Público peças de vestuário fabricadas com tecido dotado de fator de proteção solar igual ou superior a 50 (cinquenta).",
+      "dataApresentacao": "2019-05-29T17:19"
+    },
+    {
+      "id": 2206188,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206188",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3264,
+      "ano": 2019,
+      "ementa": "Confere ao Município de Londrina, localizado no Estado do Paraná, o título de \"Capital Nacional da Economia Criativa\".",
+      "dataApresentacao": "2019-06-04T11:09"
+    },
+    {
+      "id": 2206401,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206401",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3293,
+      "ano": 2019,
+      "ementa": "Altera o artigo 65 do Código Penal Brasileiro, para acrescentar parágrafo único ao Inciso I, excluindo das circunstâncias atenuantes, as infrações constantes na lei 9.503 de 1997 que cria o Código de Trânsito Brasileiro.",
+      "dataApresentacao": "2019-06-04T17:34"
+    },
+    {
+      "id": 2206405,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206405",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3295,
+      "ano": 2019,
+      "ementa": "Dispõe sobre a isenção de cobrança de tarifa de energia elétrica utilizadas em poços artesianos, e dá outras providências.",
+      "dataApresentacao": "2019-06-04T17:36"
+    },
+    {
+      "id": 2206409,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206409",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3296,
+      "ano": 2019,
+      "ementa": "Dispõe sobre a criação de Zona de Processamento de Exportação (ZPE) no Município de Cabedelo, Estado da Paraíba.",
+      "dataApresentacao": "2019-06-04T17:37"
+    },
+    {
+      "id": 2206635,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206635",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3332,
+      "ano": 2019,
+      "ementa": "Altera o caput do artigo 2º do Código de Defesa do Consumidor - CDC (Lei Federal nº 8.078/1990) para mitigar a teoria finalista no conceito de consumidor.",
+      "dataApresentacao": "2019-06-05T12:31"
+    },
+    {
+      "id": 2206804,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206804",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3351,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 9.249, de 26 de dezembro de 1995.",
+      "dataApresentacao": "2019-06-05T18:46"
+    },
+    {
+      "id": 2207082,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207082",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3391,
+      "ano": 2019,
+      "ementa": "Altera a Lei n. 8.080, de 19 de setembro de 1990, que dispõe sobre as condições para a promoção, proteção e recuperação da saúde, para dispor sobre a prioridade na assistência psicológica às mulheres que sofreram aborto espontâneo, nos casos permitidos em Lei ou na ocorrência de  óbito perinatal",
+      "dataApresentacao": "2019-06-06T17:14"
+    },
+    {
+      "id": 2207767,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207767",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3491,
+      "ano": 2019,
+      "ementa": "Garante o acesso ao primeiro ano do Ensino Fundamental a todas as crianças que completem (6) seis anos de idade durante o ano a ser cursado",
+      "dataApresentacao": "2019-06-12T16:39"
+    },
+    {
+      "id": 2207821,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207821",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3503,
+      "ano": 2019,
+      "ementa": "Altera as Leis nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), determinando que os portais na internet mantidos por empresas privadas e órgãos governamentais disponibilizem ferramenta interativa para tradução de conteúdos digitais para a Língua Brasileira de Sinais; e nº 8.248, de 23 de outubro de 1991 (Lei de Informática),  condicionando o acesso aos benefícios oferecidos pela Lei de Informática à instalação, nos computadores e telefones celulares inteligentes incentivados, de ferramenta interativa embarcada para tradução de conteúdos digitais para a Língua Brasileira de Sinais.",
+      "dataApresentacao": "2019-06-12T17:42"
+    },
+    {
+      "id": 2207853,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207853",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3512,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, que \"Dispõe sobre as restrições ao uso e à propaganda de produtos fumígenos, bebidas alcoólicas, medicamentos, terapias e defensivos agrícolas, nos termos do § 4° do art. 220 da Constituição Federal\".",
+      "dataApresentacao": "2019-06-12T19:55"
+    },
+    {
+      "id": 2207985,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207985",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3516,
+      "ano": 2019,
+      "ementa": "Dispõe sobre a proibição de fiscalização por meio de medidores de velocidade dos tipos: estático, móvel ou portátil, bem como anistia multas, juros de mora e demais acréscimos legais referentes às infrações aplicadas por esses medidores de velocidade.",
+      "dataApresentacao": "2019-06-13T13:43"
+    },
+    {
+      "id": 2208040,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2208040",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3531,
+      "ano": 2019,
+      "ementa": "Institui a política de valorização dos professores da educação básica pública e o Exame Nacional de Certificação de Professores da Educação Básica Pública - Enacerpro.",
+      "dataApresentacao": "2019-06-13T16:09"
+    },
+    {
+      "id": 2208087,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2208087",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3543,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para incluir treinamentos em doenças raras na política de recursos humanos da área da saúde.",
+      "dataApresentacao": "2019-06-13T17:19"
+    },
+    {
+      "id": 2208204,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2208204",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3549,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, Lei de Diretrizes e Bases da Educação Nacional, para determinar que uma das aulas semanais de Educação Física na Educação Básica seja destinada ao ensino de alguma modalidade de luta corporal às alunas",
+      "dataApresentacao": "2019-06-17T10:50"
+    },
+    {
+      "id": 2208347,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2208347",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3570,
+      "ano": 2019,
+      "ementa": "Dispõe sobre o exercício da atividade de mergulhador profissional.",
+      "dataApresentacao": "2019-06-17T17:36"
+    },
+    {
+      "id": 2208523,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2208523",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3601,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, para dispor sobre as mensagens de advertência em propagandas veiculadas nas emissoras de rádio e televisão.",
+      "dataApresentacao": "2019-06-18T15:10"
+    },
+    {
+      "id": 2208590,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2208590",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3607,
+      "ano": 2019,
+      "ementa": "Acrescenta dispositivo à Lei nº 9.784, 29 de janeiro de 1999.",
+      "dataApresentacao": "2019-06-18T16:21"
+    },
+    {
+      "id": 2208659,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2208659",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3630,
+      "ano": 2019,
+      "ementa": "Possibilita que a prestação de serviços à comunidade possa ser realizada em abrigos de proteção animal",
+      "dataApresentacao": "2019-06-18T18:33"
+    },
+    {
+      "id": 2208705,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2208705",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3648,
+      "ano": 2019,
+      "ementa": "Dispõe sobre sistema federal de avaliação do impacto e da efetividade dos benefícios financeiros e creditícios e dos incentivos fiscais de natureza tributária concedidos em operações de crédito concedidas pelo Sistema Financeiro Nacional.",
+      "dataApresentacao": "2019-06-18T20:12"
+    },
+    {
+      "id": 2210118,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2210118",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 170,
+      "ano": 2019,
+      "ementa": "Altera a Lei Complementar nº 105, de 10 de janeiro de 2001, para determinar que não estão protegidas pelo sigilo bancário as operações ativas que especifica que tenham Estado estrangeiro como contraparte ou garantidor.",
+      "dataApresentacao": "2019-07-02T14:19"
+    },
+    {
+      "id": 2210171,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2210171",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3823,
+      "ano": 2019,
+      "ementa": "Acrescenta dispositivo Lei nº 10.257, de 10 de julho de 2001, para inserir hipótese de imóvel subutilizado.",
+      "dataApresentacao": "2019-07-02T15:22"
+    },
+    {
+      "id": 2210497,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2210497",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3848,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para dispor sobre a formação dos professores de educação física na educação básica.",
+      "dataApresentacao": "2019-07-03T13:39"
+    },
+    {
+      "id": 2211022,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2211022",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3907,
+      "ano": 2019,
+      "ementa": "Altera o Decreto-Lei nº 667, de 2 de julho de 1969, que \"Reorganiza as Polícias Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal, e dá outras providências\" para dispor que qualificação militar de difícil formação seja contabilizada como título para fins de pontuação nos concursos seletivos destinados ao ingresso nas Polícias Militares e nos Corpos de Bombeiros Militares.",
+      "dataApresentacao": "2019-07-04T16:06"
+    },
+    {
+      "id": 2211324,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2211324",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3929,
+      "ano": 2019,
+      "ementa": "Estabelece o mínimo de três horas-aulas semanais de educação física nas escolas de educação básica.",
+      "dataApresentacao": "2019-07-08T20:14"
+    },
+    {
+      "id": 2211365,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2211365",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3932,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 10.779, de 25 de novembro de 2003, para possibilitar a concessão do benefício de seguro-desemprego ao pescador artesanal quando ocorrer a interdição da área de pesca ou outra situação que impeça a atividade pesqueira.",
+      "dataApresentacao": "2019-07-09T10:30"
+    },
+    {
+      "id": 2211930,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2211930",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4038,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 13.643, de 3 de abril de 2018, para dispor sobre a responsabilidade técnica das clínicas de estética.",
+      "dataApresentacao": "2019-07-11T14:14"
+    },
+    {
+      "id": 2211957,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2211957",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4047,
+      "ano": 2019,
+      "ementa": "Altera o art. 26 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para garantir a oferta de prática de educação física adaptada, para inclusão de alunos com deficiência.",
+      "dataApresentacao": "2019-07-11T16:13"
+    },
+    {
+      "id": 2212101,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2212101",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4076,
+      "ano": 2019,
+      "ementa": "Altera o art. 20 da Lei no 10.406, de 10 de janeiro de 2002.",
+      "dataApresentacao": "2019-07-12T12:16"
+    },
+    {
+      "id": 2212138,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2212138",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4088,
+      "ano": 2019,
+      "ementa": "Torna mais rigorosa a pena cominada para o crime de pichação ou conspurcação de edificação ou monumento urbano, alterando a Lei nº 9.605, de 12 de fevereiro de 1998.",
+      "dataApresentacao": "2019-07-12T15:07"
+    },
+    {
+      "id": 2213232,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2213232",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4177,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 13.022, de 08 de agosto de 2014, que dispõe sobre o estatuto das guardas municipais, reconhecendo a atividade como insalubre e de risco, para todos os fins legais, inclusive previdenciários.",
+      "dataApresentacao": "2019-08-02T16:31"
+    },
+    {
+      "id": 2213240,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2213240",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4185,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, para proibir o porte ostensivo e o consumo de bebidas alcoólicas em logradouros públicos.",
+      "dataApresentacao": "2019-08-02T16:36"
+    },
+    {
+      "id": 2213802,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2213802",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4279,
+      "ano": 2019,
+      "ementa": "Dispõe sobre atendimento preferencial às pessoas com fibromialgia .",
+      "dataApresentacao": "2019-08-06T20:58"
+    },
+    {
+      "id": 2213935,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2213935",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4289,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 9.503, de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre identificação e registro de veículos locados pela Administração Pública.",
+      "dataApresentacao": "2019-08-07T14:09"
+    },
+    {
+      "id": 2213985,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2213985",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4300,
+      "ano": 2019,
+      "ementa": "Altera a Lei nº 10.052, de 28 de novembro de 2000, para dispor sobre aplicação mínima de recursos do Funttel em capacitação de recursos humanos.",
+      "dataApresentacao": "2019-08-07T14:55"
+    },
+    {
+      "id": 2214005,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2214005",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4301,
+      "ano": 2019,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para dispor sobre os crimes de calúnia, difamação e injúria praticados na rede mundial de computadores e da outras providências",
+      "dataApresentacao": "2019-08-07T15:30"
+    },
+    {
+      "id": 2214008,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2214008",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4306,
+      "ano": 2019,
+      "ementa": "Altera dispositivo da Lei nº 12.852, de 5 de agosto de 2013, que institui o Estatuto da Juventude, para dispor sobre a Central do Jovem Trabalhador Inovador.",
+      "dataApresentacao": "2019-08-07T15:40"
+    },
+    {
+      "id": 2214415,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2214415",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4380,
+      "ano": 2019,
+      "ementa": "Altera o art. 30, inciso II, e o art. 31, incisos II e III, da Lei nº 9.394, de 20 de dezembro de 1996, para instituir como sistema único a jornada de educação integral nas pré-escolas, para crianças de 4 a 5 anos de idade.",
+      "dataApresentacao": "2019-08-08T17:36"
+    },
+    {
+      "id": 2214856,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2214856",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 124,
+      "ano": 2019,
+      "ementa": "Altera o § 5º do artigo 109 da Constituição Federal, para ampliar a legitimidade para suscitar perante o Superior Tribunal de Justiça, em qualquer fase do inquérito ou processo, incidente de deslocamento de competência nas hipóteses de grave violação de direitos humanos.",
+      "dataApresentacao": "2019-08-13T19:09"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&itens=100&pagina=6"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=7&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=161&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2026-04-01&dataFim=2026-04-30&ordem=ASC&ordenarPor=id&pagina=5&itens=100"
+    }
+  ]
+}
