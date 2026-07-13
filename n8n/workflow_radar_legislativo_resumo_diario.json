@@ -3,13 +3,13 @@
   "nodes": [
     {
       "parameters": {
-        "jsCode": "const proposicoes = $('Buscar últimas proposições').all().map(item => item.json);\nconst votacoes = $('Buscar últimas votações').all().map(item => item.json);\n\nfunction montarListaProposicoes(lista) {\n  return lista.map((p, index) => `\n    <tr>\n      <td>${index + 1}</td>\n      <td>${p.sigla_tipo || ''} ${p.numero || ''}/${p.ano || ''}</td>\n      <td>${p.data_apresentacao || ''}</td>\n      <td>${p.ementa || ''}</td>\n      <td><a href=\"${p.uri || '#'}\">Abrir</a></td>\n    </tr>\n  `).join('');\n}\n\nfunction montarListaVotacoes(lista) {\n  return lista.map((v, index) => `\n    <tr>\n      <td>${index + 1}</td>\n      <td>${v.data || ''}</td>\n      <td>${v.sigla_orgao || ''}</td>\n      <td>${v.descricao || ''}</td>\n      <td>${v.aprovacao || ''}</td>\n      <td><a href=\"${v.uri || '#'}\">Abrir</a></td>\n    </tr>\n  `).join('');\n}\n\nconst html = `\n  <h2>Radar Legislativo — Resumo Diário</h2>\n\n  <p>Segue o resumo automático com as últimas proposições e votações disponíveis na base.</p>\n\n  <h3>Últimas proposições</h3>\n\n  <table border=\"1\" cellpadding=\"6\" cellspacing=\"0\">\n    <thead>\n      <tr>\n        <th>#</th>\n        <th>Proposição</th>\n        <th>Data</th>\n        <th>Ementa</th>\n        <th>Link</th>\n      </tr>\n    </thead>\n    <tbody>\n      ${montarListaProposicoes(proposicoes)}\n    </tbody>\n  </table>\n\n  <br>\n\n  <h3>Últimas votações</h3>\n\n  <table border=\"1\" cellpadding=\"6\" cellspacing=\"0\">\n    <thead>\n      <tr>\n        <th>#</th>\n        <th>Data</th>\n        <th>Órgão</th>\n        <th>Descrição</th>\n        <th>Aprovação</th>\n        <th>Link</th>\n      </tr>\n    </thead>\n    <tbody>\n      ${montarListaVotacoes(votacoes)}\n    </tbody>\n  </table>\n\n  <br>\n\n  <p>\n    Fonte: Dados Abertos da Câmara dos Deputados.<br>\n    Pipeline: API Câmara → Python/Pandas → Supabase → n8n.\n  </p>\n`;\n\nreturn [\n  {\n    json: {\n      assunto: 'Radar Legislativo — Resumo Diário',\n      html\n    }\n  }\n];"
+        "jsCode": "const proposicoes = $('Buscar últimas proposições').all().map(item => item.json);\nconst votacoes = $('Buscar últimas votações').all().map(item => item.json);\n\nconst respostaIA = $('Gerar análise executiva IA').first().json;\nconst analiseExecutiva = respostaIA.output?.[0]?.content?.[0]?.text || 'Análise executiva não gerada.';\n\nfunction montarListaProposicoes(lista) {\n  return lista.map((p, index) => `\n    <tr>\n      <td>${index + 1}</td>\n      <td>${p.sigla_tipo || ''} ${p.numero || ''}/${p.ano || ''}</td>\n      <td>${p.data_apresentacao || ''}</td>\n      <td>${p.ementa || ''}</td>\n      <td><a href=\"${p.uri || '#'}\">Abrir</a></td>\n    </tr>\n  `).join('');\n}\n\nfunction montarListaVotacoes(lista) {\n  return lista.map((v, index) => `\n    <tr>\n      <td>${index + 1}</td>\n      <td>${v.data || ''}</td>\n      <td>${v.sigla_orgao || ''}</td>\n      <td>${v.descricao || ''}</td>\n      <td>${v.aprovacao || ''}</td>\n      <td><a href=\"${v.uri || '#'}\">Abrir</a></td>\n    </tr>\n  `).join('');\n}\n\nconst html = `\n  <h2>Radar Legislativo — Resumo Diário</h2>\n\n  <h3>Análise executiva gerada por IA</h3>\n\n  <p style=\"font-size: 14px; line-height: 1.5;\">\n    ${analiseExecutiva.replace(/\\n/g, '<br><br>')}\n  </p>\n\n  <hr>\n\n  <h3>Últimas proposições</h3>\n\n  <table border=\"1\" cellpadding=\"6\" cellspacing=\"0\">\n    <thead>\n      <tr>\n        <th>#</th>\n        <th>Proposição</th>\n        <th>Data</th>\n        <th>Ementa</th>\n        <th>Link</th>\n      </tr>\n    </thead>\n    <tbody>\n      ${montarListaProposicoes(proposicoes)}\n    </tbody>\n  </table>\n\n  <br>\n\n  <h3>Últimas votações</h3>\n\n  <table border=\"1\" cellpadding=\"6\" cellspacing=\"0\">\n    <thead>\n      <tr>\n        <th>#</th>\n        <th>Data</th>\n        <th>Órgão</th>\n        <th>Descrição</th>\n        <th>Aprovação</th>\n        <th>Link</th>\n      </tr>\n    </thead>\n    <tbody>\n      ${montarListaVotacoes(votacoes)}\n    </tbody>\n  </table>\n\n  <br>\n\n  <p>\n    Fonte: Dados Abertos da Câmara dos Deputados.<br>\n    Pipeline: API Câmara → Python/Pandas → Supabase → n8n → IA Generativa → E-mail.\n  </p>\n`;\n\nreturn [\n  {\n    json: {\n      assunto: 'Radar Legislativo — Resumo Diário com IA',\n      analise_executiva_ia: analiseExecutiva,\n      html\n    }\n  }\n];"
       },
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        272,
-        -80
+        368,
+        208
       ],
       "id": "3d1eec47-8b95-4dfa-ad92-40e0cb4e1a88",
       "name": "Montar resumo HTML"
@@ -35,8 +35,8 @@
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.4,
       "position": [
-        64,
-        -80
+        -336,
+        208
       ],
       "id": "041aea63-0e49-421f-b35c-a6a335379f9e",
       "name": "Buscar últimas votações"
@@ -62,8 +62,8 @@
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.4,
       "position": [
-        -144,
-        -80
+        -528,
+        208
       ],
       "id": "0cb9a86f-b6c2-47ff-b0f8-c5962abdb3a3",
       "name": "Buscar últimas proposições"
@@ -78,8 +78,8 @@
       "type": "n8n-nodes-base.gmail",
       "typeVersion": 2.2,
       "position": [
-        480,
-        -80
+        544,
+        208
       ],
       "id": "9d10f1e8-998b-49b8-a4a1-cb45f81ceb29",
       "name": "Send a message",
@@ -90,6 +90,75 @@
           "name": "Gmail OAuth2 API"
         }
       }
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "triggerAtHour": 6
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.3,
+      "position": [
+        -704,
+        208
+      ],
+      "id": "a7e1734d-6ae6-4cf4-b653-494b8c97eb3a",
+      "name": "Schedule Trigger"
+    },
+    {
+      "parameters": {
+        "jsCode": "const proposicoes = $('Buscar últimas proposições').all().map(item => item.json);\nconst votacoes = $('Buscar últimas votações').all().map(item => item.json);\n\nconst textoProposicoes = proposicoes.map((p, index) => {\n  return `${index + 1}. ${p.sigla_tipo} ${p.numero}/${p.ano} - ${p.data_apresentacao}\nEmenta: ${p.ementa}`;\n}).join('\\n\\n');\n\nconst textoVotacoes = votacoes.map((v, index) => {\n  return `${index + 1}. ${v.data} - ${v.sigla_orgao}\nDescrição: ${v.descricao}\nAprovação: ${v.aprovacao}`;\n}).join('\\n\\n');\n\nconst contexto = `\nVocê receberá dados públicos da Câmara dos Deputados.\n\nObjetivo:\nGerar uma análise executiva breve para abrir um e-mail enviado a diretores de uma consultoria legislativa.\n\nÚltimas proposições:\n${textoProposicoes}\n\nÚltimas votações:\n${textoVotacoes}\n`;\n\nreturn [\n  {\n    json: {\n      contexto,\n      proposicoes,\n      votacoes\n    }\n  }\n];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -144,
+        208
+      ],
+      "id": "c4049b09-6673-4ef9-b1fa-f4873e617e9e",
+      "name": "Code in JavaScript1"
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "value": "gpt-4.1-mini",
+          "mode": "list",
+          "cachedResultName": "GPT-4.1-MINI"
+        },
+        "responses": {
+          "values": [
+            {
+              "role": "system",
+              "content": "Você é um analista legislativo sênior da consultoria Bússola Pública.\n\nSua tarefa é gerar uma análise executiva breve a partir de dados públicos da Câmara dos Deputados.\n\nA resposta será usada como introdução de um e-mail enviado para diretores.\n\nRegras:\n- Escreva em português do Brasil.\n- Seja objetivo.\n- Não invente informações.\n- Use apenas os dados fornecidos.\n- Destaque temas recorrentes, possíveis impactos e pontos de atenção.\n- Não use markdown.\n- Não use lista longa.\n- Escreva no máximo 3 parágrafos curtos."
+            },
+            {
+              "content": "={{ $json.contexto }}"
+            }
+          ]
+        },
+        "builtInTools": {},
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.openAi",
+      "typeVersion": 2.3,
+      "position": [
+        48,
+        208
+      ],
+      "id": "db48f094-c2fa-445d-be29-cd6c7c78e023",
+      "name": "Gerar análise executiva IA",
+      "credentials": {
+        "openAiApi": {
+          "id": "Hw8jGMtFY1PSgkU8",
+          "name": "OpenAI account"
+        }
+      }
     }
   ],
   "pinData": {},
@@ -98,7 +167,7 @@
       "main": [
         [
           {
-            "node": "Montar resumo HTML",
+            "node": "Code in JavaScript1",
             "type": "main",
             "index": 0
           }
@@ -126,6 +195,39 @@
           }
         ]
       ]
+    },
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "Buscar últimas proposições",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code in JavaScript1": {
+      "main": [
+        [
+          {
+            "node": "Gerar análise executiva IA",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Gerar análise executiva IA": {
+      "main": [
+        [
+          {
+            "node": "Montar resumo HTML",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     }
   },
   "active": true,
@@ -133,7 +235,7 @@
     "executionOrder": "v1",
     "binaryMode": "separate"
   },
-  "versionId": "69c52ca3-d110-4322-a82a-0dfa2fc16955",
+  "versionId": "c9eec8a0-30f7-4131-ad3d-9b9403f94355",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "34de5933100d3be5fff9ed755762715ac3a51826b418ae27fe940d36eb280819"
