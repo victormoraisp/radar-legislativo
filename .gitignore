@@ -14,6 +14,9 @@ __pycache__/
 .venv/
 .ipynb_checkpoints/
 
+# Utilitário local, não versionado
+apresentacao/build_pptx.py
+
 # Arquivos do Google Drive
 *.gsheet
 *.gdoc

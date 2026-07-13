@@ -101,7 +101,6 @@ radar-legislativo/
 │   └── 05_add_resumo_ia.sql
 │
 ├── apresentacao/
-│   ├── build_pptx.py
 │   └── radar_legislativo_pitch.pptx
 │
 ├── extract_api_camara.py
@@ -482,12 +481,6 @@ A apresentação executiva do projeto está no repositório em:
 
 ```text
 apresentacao/radar_legislativo_pitch.pptx
-```
-
-Para regenerar a apresentação:
-
-```bash
-python apresentacao/build_pptx.py
 ```
 
 Estrutura do pitch (6 slides):
