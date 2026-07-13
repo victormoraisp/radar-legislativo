@@ -74,3 +74,31 @@ grant select on public.vw_top_ultimas_proposicoes to anon, authenticated;
 grant select on public.vw_top_ultimas_votacoes to anon, authenticated;
 grant select on public.vw_resumo_proposicoes to anon, authenticated;
 grant select on public.vw_resumo_votacoes to anon, authenticated;
+
+
+create or replace view radar.vw_resumo_despesas as
+select
+    ano,
+    mes,
+    sigla_partido,
+    sigla_uf,
+    tipo_despesa,
+    count(*) as total_lancamentos,
+    round(sum(valor_liquido), 2) as valor_total_liquido
+from radar.fato_despesa
+group by
+    ano,
+    mes,
+    sigla_partido,
+    sigla_uf,
+    tipo_despesa
+order by valor_total_liquido desc;
+
+
+create or replace view public.vw_resumo_despesas as
+select *
+from radar.vw_resumo_despesas;
+
+
+grant select on radar.vw_resumo_despesas to anon, authenticated, service_role;
+grant select on public.vw_resumo_despesas to anon, authenticated;
