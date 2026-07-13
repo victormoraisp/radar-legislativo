@@ -43,6 +43,11 @@ def main():
     executar_script("transform_model.py")
     executar_script("load_supabase.py")
 
+    # Camada de IA: gera resumos executivos e persiste em radar.fato_proposicao.
+    # Por padrão processa 10 proposições (controle de custo).
+    # Para escalar: python enrich_ia_resumo.py 100  |  python enrich_ia_resumo.py all
+    executar_script("enrich_ia_resumo.py")
+
     fim = datetime.now()
     duracao = fim - inicio
 
