@@ -67,3 +67,14 @@ select
 from radar.dim_deputado
 group by sigla_partido
 order by total_deputados desc;
+
+
+union all
+select 'fato_despesa' as tabela, count(*) as linhas from radar.fato_despesa
+
+
+-- Resumo de despesas parlamentares
+
+select *
+from public.vw_resumo_despesas
+limit 10;

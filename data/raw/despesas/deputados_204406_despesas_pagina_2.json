@@ -1,0 +1,117 @@
+{
+  "dados": [
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+      "codDocumento": "8108571",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-13T00:00:00",
+      "numDocumento": "350495",
+      "valorDocumento": 186.5,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3280/2026/8108571.pdf",
+      "nomeFornecedor": "VIACAO OURO E PRATA S A",
+      "cnpjCpfFornecedor": "92954106000142",
+      "valorLiquido": 186.5,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2240632,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+      "codDocumento": "8108567",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-13T00:00:00",
+      "numDocumento": "70067505",
+      "valorDocumento": 326.55,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3280/2026/8108567.pdf",
+      "nomeFornecedor": "VIACAO OURO E PRATA S A",
+      "cnpjCpfFornecedor": "92954106000142",
+      "valorLiquido": 326.55,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2240632,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "58055AF0-E095-4F36-8A7D-3FC182E32C02",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-21T00:00:00",
+      "numDocumento": "RKDFPP",
+      "valorDocumento": 1833.38,
+      "urlDocumento": null,
+      "nomeFornecedor": "Azul Linhas Aéreas",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 1833.38,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "E9A3DACF-634C-4172-979F-2DB48AA72FD4",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-12T00:00:00",
+      "numDocumento": "1272303599917",
+      "valorDocumento": 1912.81,
+      "urlDocumento": null,
+      "nomeFornecedor": "Gol Linhas Aéreas",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 1912.81,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "E3C72909-26A0-429B-91C8-13202EB467ED",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-21T00:00:00",
+      "numDocumento": "9572287720580",
+      "valorDocumento": 2577.13,
+      "urlDocumento": null,
+      "nomeFornecedor": "LATAM Airlines Brasil",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 2577.13,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204406/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&itens=100&pagina=2"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204406/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204406/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=2&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204406/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    }
+  ]
+}

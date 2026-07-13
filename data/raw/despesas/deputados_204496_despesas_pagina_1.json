@@ -1,0 +1,94 @@
+{
+  "dados": [
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "42E75D9B-C4D5-49B2-8A02-9785A7DC41CF",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-28T00:00:00",
+      "numDocumento": "KKT2YM",
+      "valorDocumento": 1501.55,
+      "urlDocumento": null,
+      "nomeFornecedor": "Azul Linhas Aéreas",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 1501.55,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "6EF7A441-3238-4A67-80EB-91FBFDF4F483",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-29T00:00:00",
+      "numDocumento": "XNT74D",
+      "valorDocumento": 1570.42,
+      "urlDocumento": null,
+      "nomeFornecedor": "Azul Linhas Aéreas",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 1570.42,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "48C3FE28-A01C-4D98-91C8-4D43F9CD412A",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-14T00:00:00",
+      "numDocumento": "1272303762588",
+      "valorDocumento": 2487.39,
+      "urlDocumento": null,
+      "nomeFornecedor": "Gol Linhas Aéreas",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 2487.39,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "728A46A7-FD34-41AD-8D5C-41D3404AEC4A",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-14T00:00:00",
+      "numDocumento": "9572286762236",
+      "valorDocumento": -54.45,
+      "urlDocumento": null,
+      "nomeFornecedor": "LATAM Airlines Brasil",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -54.45,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204496/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&itens=100&pagina=1"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204496/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204496/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "dados": [
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "C4AB0095-5D97-4421-8FD4-6102B0930D09",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-27T00:00:00",
+      "numDocumento": "ZJD14C",
+      "valorDocumento": 277.11,
+      "urlDocumento": null,
+      "nomeFornecedor": "Azul Linhas Aéreas",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 277.11,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "EBD759C0-A744-4AFC-BBDA-30FFF2396F3C",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-29T00:00:00",
+      "numDocumento": "1272304843548",
+      "valorDocumento": 90.0,
+      "urlDocumento": null,
+      "nomeFornecedor": "Gol Linhas Aéreas",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 90.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "EBD759C0-A744-4AFC-BBDA-30FFF2396F3C",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-29T00:00:00",
+      "numDocumento": "1272304843548",
+      "valorDocumento": 90.0,
+      "urlDocumento": null,
+      "nomeFornecedor": "Gol Linhas Aéreas",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 90.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "EBD759C0-A744-4AFC-BBDA-30FFF2396F3C",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-29T00:00:00",
+      "numDocumento": "1272304843548",
+      "valorDocumento": 949.26,
+      "urlDocumento": null,
+      "nomeFornecedor": "Gol Linhas Aéreas",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 949.26,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - RPA",
+      "codDocumento": "1778725",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-26T00:00:00",
+      "numDocumento": "Bilhete: WMFGUZ",
+      "valorDocumento": 1531.87,
+      "urlDocumento": null,
+      "nomeFornecedor": "Cia Aérea - AZUL",
+      "cnpjCpfFornecedor": "09296295000160",
+      "valorLiquido": 1531.87,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/210989/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&itens=100&pagina=2"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/210989/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/210989/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=2&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/210989/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "dados": [
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": "8125045",
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2026-07-02T00:00:00",
+      "numDocumento": "s/n",
+      "valorDocumento": 23588.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3363/2026/8125045.pdf",
+      "nomeFornecedor": "MARCELO BAIOCCHI IMOVEIS LTDA",
+      "cnpjCpfFornecedor": "06299249000126",
+      "valorLiquido": 23588.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2249006,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "codDocumento": "8097170",
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2026-05-11T17:38:58",
+      "numDocumento": "11860",
+      "valorDocumento": 3899.29,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8097170",
+      "nomeFornecedor": "JUSTINIANO & JUSTINIANO LTDA",
+      "cnpjCpfFornecedor": "04489287000116",
+      "valorLiquido": 3899.29,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2234600,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "codDocumento": "8101615",
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2026-05-19T17:43:13",
+      "numDocumento": "11967",
+      "valorDocumento": 2596.02,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8101615",
+      "nomeFornecedor": "JUSTINIANO & JUSTINIANO LTDA",
+      "cnpjCpfFornecedor": "04489287000116",
+      "valorLiquido": 2596.02,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2237020,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "codDocumento": "8105220",
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2026-05-26T14:02:19",
+      "numDocumento": "12020",
+      "valorDocumento": 2937.3,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8105220",
+      "nomeFornecedor": "JUSTINIANO & JUSTINIANO LTDA",
+      "cnpjCpfFornecedor": "04489287000116",
+      "valorLiquido": 2896.69,
+      "valorGlosa": 40.61,
+      "numRessarcimento": "",
+      "codLote": 2238857,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "codDocumento": "8110458",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-06-03T00:00:00",
+      "numDocumento": "18",
+      "valorDocumento": 10000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3363/2026/8110458.pdf",
+      "nomeFornecedor": "FENIX COMUNICACAO, PRODUCAO E EVENTOS LTDA",
+      "cnpjCpfFornecedor": "28749686000137",
+      "valorLiquido": 10000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2241689,
+      "parcela": 0
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204390/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&itens=100&pagina=1"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204390/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204390/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "dados": [
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "1F212D03-36E2-46F0-A77B-64A2ABD43D04",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-19T00:00:00",
+      "numDocumento": "9572287506409",
+      "valorDocumento": 2587.49,
+      "urlDocumento": null,
+      "nomeFornecedor": "LATAM Airlines Brasil",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 2587.49,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "D85ABB05-F75E-4541-B065-4AAE4B29E0C7",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-19T00:00:00",
+      "numDocumento": "9572287508570",
+      "valorDocumento": 2262.21,
+      "urlDocumento": null,
+      "nomeFornecedor": "LATAM Airlines Brasil",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 2262.21,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "D8A20542-9371-459C-9437-A417152E4079",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-19T00:00:00",
+      "numDocumento": "9572287510640",
+      "valorDocumento": 1934.51,
+      "urlDocumento": null,
+      "nomeFornecedor": "LATAM Airlines Brasil",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 1934.51,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220698/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&itens=100&pagina=2"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220698/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220698/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=2&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220698/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    }
+  ]
+}

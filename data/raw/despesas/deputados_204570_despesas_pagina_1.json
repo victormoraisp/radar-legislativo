@@ -1,0 +1,94 @@
+{
+  "dados": [
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "codDocumento": "8109771",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-28T00:00:00",
+      "numDocumento": "00000434",
+      "valorDocumento": 48450.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3398/2026/8109771.pdf",
+      "nomeFornecedor": "Grafica & Editora Fernandes LTDA",
+      "cnpjCpfFornecedor": "29272155000169",
+      "valorLiquido": 48450.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2241297,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "codDocumento": "8109742",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-29T00:00:00",
+      "numDocumento": "36",
+      "valorDocumento": 27500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3398/2026/8109742.pdf",
+      "nomeFornecedor": "NUI COMUNICAÇÃO E MARKETING LTDA",
+      "cnpjCpfFornecedor": "40411778000108",
+      "valorLiquido": 27500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2246707,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "codDocumento": "8109727",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-06-01T00:00:00",
+      "numDocumento": "51",
+      "valorDocumento": 8000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3398/2026/8109727.pdf",
+      "nomeFornecedor": "REPRESENTATIVA TREINAMENTO E CONSULTORIA",
+      "cnpjCpfFornecedor": "42838191000105",
+      "valorLiquido": 8000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2241297,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": "8109794",
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2026-05-27T00:00:00",
+      "numDocumento": "28.996",
+      "valorDocumento": 6500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3398/2026/8109794.pdf",
+      "nomeFornecedor": "PANTANAL VEÍCULOS LTDA",
+      "cnpjCpfFornecedor": "07319323000191",
+      "valorLiquido": 6500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2242838,
+      "parcela": 0
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204570/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&itens=100&pagina=1"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204570/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204570/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    }
+  ]
+}

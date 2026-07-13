@@ -1,0 +1,132 @@
+{
+  "dados": [
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": "8118379",
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2026-05-30T00:00:00",
+      "numDocumento": "s/n",
+      "valorDocumento": 20000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3558/2026/8118379.pdf",
+      "nomeFornecedor": "WELLINGTON GOMES JUNIOR RECIBO DECLARATORIO",
+      "cnpjCpfFornecedor": "95472444268",
+      "valorLiquido": 20000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2245840,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "codDocumento": "8114222",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-27T00:00:00",
+      "numDocumento": "8",
+      "valorDocumento": 15000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3558/2026/8114222.pdf",
+      "nomeFornecedor": "A L DE PAULA LTDA",
+      "cnpjCpfFornecedor": "61227209000187",
+      "valorLiquido": 15000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2243735,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "codDocumento": "8115251",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-28T00:00:00",
+      "numDocumento": "148",
+      "valorDocumento": 14000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3558/2026/8115251.pdf",
+      "nomeFornecedor": "Instituto Mais Cidades Assessoria e Consultoria ltda",
+      "cnpjCpfFornecedor": "43783350000184",
+      "valorLiquido": 14000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2244843,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "codDocumento": "8115261",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-28T00:00:00",
+      "numDocumento": "150",
+      "valorDocumento": 10000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3558/2026/8115261.pdf",
+      "nomeFornecedor": "Instituto Mais Cidades Assessoria e Consultoria ltda",
+      "cnpjCpfFornecedor": "43783350000184",
+      "valorLiquido": 10000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2244843,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "codDocumento": "8097809",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-11T00:00:00",
+      "numDocumento": "10",
+      "valorDocumento": 1500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3558/2026/8097809.pdf",
+      "nomeFornecedor": "W.S.RAMOS - FATOREAL COMUNICAÇÕES",
+      "cnpjCpfFornecedor": "10303744000139",
+      "valorLiquido": 1500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2234988,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "F05F5D68-B8F1-4D65-8B13-1610F1D65D6E",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-11T00:00:00",
+      "numDocumento": "9572286306677",
+      "valorDocumento": -1960.46,
+      "urlDocumento": null,
+      "nomeFornecedor": "LATAM Airlines Brasil",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -1960.46,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220538/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&itens=100&pagina=1"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220538/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220538/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    }
+  ]
+}

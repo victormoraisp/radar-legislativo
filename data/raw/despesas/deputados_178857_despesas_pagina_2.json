@@ -1,0 +1,60 @@
+{
+  "dados": [
+    {
+      "ano": 2026,
+      "mes": 4,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "DB8A1520-372E-4B5C-8346-BE9BFDAF811A",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-04-28T00:00:00",
+      "numDocumento": "9572284520683",
+      "valorDocumento": 67.0,
+      "urlDocumento": null,
+      "nomeFornecedor": "LATAM Airlines Brasil",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 67.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 4,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "DB8A1520-372E-4B5C-8346-BE9BFDAF811A",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-04-28T00:00:00",
+      "numDocumento": "9572284520683",
+      "valorDocumento": 428.62,
+      "urlDocumento": null,
+      "nomeFornecedor": "LATAM Airlines Brasil",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 428.62,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/178857/despesas?ano=2026&mes=4&ordem=ASC&ordenarPor=ano&itens=100&pagina=2"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/178857/despesas?ano=2026&mes=4&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/178857/despesas?ano=2026&mes=4&ordem=ASC&ordenarPor=ano&pagina=2&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/178857/despesas?ano=2026&mes=4&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    }
+  ]
+}

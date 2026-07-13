@@ -1,0 +1,56 @@
+{
+  "dados": [
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "B515972E-DFCA-4588-8200-65F18B7ED3A1",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-07T00:00:00",
+      "numDocumento": "GMGP4D",
+      "valorDocumento": 1209.98,
+      "urlDocumento": null,
+      "nomeFornecedor": "Azul Linhas Aéreas",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 1209.98,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "820BCDF8-A7C7-4CFF-96F3-0A2B99620DB0",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-07T00:00:00",
+      "numDocumento": "SNHN5D",
+      "valorDocumento": 1114.9,
+      "urlDocumento": null,
+      "nomeFornecedor": "Azul Linhas Aéreas",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 1114.9,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/235869/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&itens=100&pagina=1"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/235869/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/235869/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    }
+  ]
+}

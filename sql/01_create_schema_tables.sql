@@ -64,3 +64,27 @@ create table radar.fato_votacao (
     aprovacao text,
     created_at timestamp default now()
 );
+
+
+create table radar.fato_despesa (
+    id_despesa text primary key,
+    id_deputado bigint,
+    nome_deputado text,
+    sigla_partido text,
+    sigla_uf text,
+    ano bigint,
+    mes bigint,
+    tipo_despesa text,
+    cod_documento bigint,
+    tipo_documento text,
+    cod_tipo_documento bigint,
+    data_documento date,
+    num_documento text,
+    valor_documento numeric,
+    valor_glosa numeric,
+    valor_liquido numeric,
+    nome_fornecedor text,
+    cnpj_cpf_fornecedor text,
+    url_documento text,
+    created_at timestamp default now()
+);

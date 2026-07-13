@@ -1,0 +1,75 @@
+{
+  "dados": [
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": "8100562",
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2026-05-18T00:00:00",
+      "numDocumento": "7420",
+      "valorDocumento": 737.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8100562",
+      "nomeFornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+      "cnpjCpfFornecedor": "12132854000100",
+      "valorLiquido": 737.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2236466,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "codDocumento": "8103176",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-21T00:00:00",
+      "numDocumento": "0000000092",
+      "valorDocumento": 45000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3238/2026/8103176.pdf",
+      "nomeFornecedor": "COMUNIK COMUNICAÇÃO E SERVIÇOS",
+      "cnpjCpfFornecedor": "51918335000124",
+      "valorLiquido": 45000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2237871,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": "8110020",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-19T00:00:00",
+      "numDocumento": "125",
+      "valorDocumento": 12327.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3238/2026/8110020.pdf",
+      "nomeFornecedor": "A EMBAIXADORA COMERCIAL E SERVIÇOS LTDA.",
+      "cnpjCpfFornecedor": "48763091000143",
+      "valorLiquido": 12327.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2241424,
+      "parcela": 0
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204419/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&itens=100&pagina=1"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204419/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204419/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    }
+  ]
+}

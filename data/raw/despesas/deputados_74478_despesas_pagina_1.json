@@ -1,0 +1,132 @@
+{
+  "dados": [
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": "8111054",
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2026-06-01T00:00:00",
+      "numDocumento": "SN",
+      "valorDocumento": 1370.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1329/2026/8111054.pdf",
+      "nomeFornecedor": "WELLINGTON DA SILVA AZEVEDO",
+      "cnpjCpfFornecedor": "35851449420",
+      "valorLiquido": 1370.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2242025,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "codDocumento": "8113026",
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2026-05-12T20:31:59",
+      "numDocumento": "517577",
+      "valorDocumento": 290.3,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8113026",
+      "nomeFornecedor": "14 - QL 14 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpjCpfFornecedor": "00306597001411",
+      "valorLiquido": 290.3,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2243187,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "codDocumento": "8111117",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-06-03T00:00:00",
+      "numDocumento": "19",
+      "valorDocumento": 25000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1329/2026/8111117.pdf",
+      "nomeFornecedor": "ALMEIDA E CAVALCANTI LTDA",
+      "cnpjCpfFornecedor": "35535043000156",
+      "valorLiquido": 25000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2242074,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": "8111009",
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2026-05-16T00:00:00",
+      "numDocumento": "590675",
+      "valorDocumento": 4483.81,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1329/2026/8111009.pdf",
+      "nomeFornecedor": "LOCALIZA RENT A CAR SA",
+      "cnpjCpfFornecedor": "16670085003502",
+      "valorLiquido": 4468.31,
+      "valorGlosa": 15.5,
+      "numRessarcimento": "",
+      "codLote": 2241997,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": "8112813",
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2026-06-06T00:00:00",
+      "numDocumento": "29075",
+      "valorDocumento": 4800.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1329/2026/8112813.pdf",
+      "nomeFornecedor": "PANTANAL VEÍCULOS LTDA",
+      "cnpjCpfFornecedor": "07319323000191",
+      "valorLiquido": 4800.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2242980,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": "2D5C9B30-F0BE-450B-B547-796DEA7730AA",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-05-05T00:00:00",
+      "numDocumento": "1272303114840",
+      "valorDocumento": 1255.41,
+      "urlDocumento": null,
+      "nomeFornecedor": "Gol Linhas Aéreas",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 1255.41,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/74478/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&itens=100&pagina=1"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/74478/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/74478/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    }
+  ]
+}

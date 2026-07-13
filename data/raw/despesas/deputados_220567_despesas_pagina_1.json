@@ -1,0 +1,113 @@
+{
+  "dados": [
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": "8102401",
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2026-05-10T00:00:00",
+      "numDocumento": "S/N",
+      "valorDocumento": 7500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3580/2026/8102401.pdf",
+      "nomeFornecedor": "MARIA CONSUELO ROCHA REBOUÇAS",
+      "cnpjCpfFornecedor": "08108684234",
+      "valorLiquido": 7500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2237437,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "codDocumento": "8108242",
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2026-05-29T00:00:00",
+      "numDocumento": "7271",
+      "valorDocumento": 1681.29,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8108242",
+      "nomeFornecedor": "MATA COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "01135540000145",
+      "valorLiquido": 1681.29,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2240461,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "codDocumento": "8108241",
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2026-05-29T00:00:00",
+      "numDocumento": "6224",
+      "valorDocumento": 3044.69,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8108241",
+      "nomeFornecedor": "SUPER POSTO BRASIL V LTDA",
+      "cnpjCpfFornecedor": "14137177000149",
+      "valorLiquido": 3044.69,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2240461,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "codDocumento": "8110763",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-06-03T00:00:00",
+      "numDocumento": "22",
+      "valorDocumento": 12980.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3580/2026/8110763.pdf",
+      "nomeFornecedor": "WILLIAM RODRIGUES DOS SANTOS",
+      "cnpjCpfFornecedor": "55854339000147",
+      "valorLiquido": 12980.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2241857,
+      "parcela": 0
+    },
+    {
+      "ano": 2026,
+      "mes": 5,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": "8110275",
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2026-06-03T00:00:00",
+      "numDocumento": "33",
+      "valorDocumento": 12000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3580/2026/8110275.pdf",
+      "nomeFornecedor": "TAVARES EMPREENDIMENTOS E LOCAÇÕES EIRELI",
+      "cnpjCpfFornecedor": "31196287000109",
+      "valorLiquido": 12000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2241857,
+      "parcela": 0
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220567/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&itens=100&pagina=1"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220567/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220567/despesas?ano=2026&mes=5&ordem=ASC&ordenarPor=ano&pagina=1&itens=100"
+    }
+  ]
+}
