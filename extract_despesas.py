@@ -199,6 +199,13 @@ def main():
     for coluna in ["valor_documento", "valor_glosa", "valor_liquido"]:
         df[coluna] = pd.to_numeric(df[coluna], errors="coerce")
 
+    # Validação: valores monetários negativos são inconsistentes na cota parlamentar.
+    negativos = df[df["valor_liquido"] < 0]
+
+    if len(negativos) > 0:
+        print(f"[VALIDACAO] fato_despesa: {len(negativos)} registros com valor_liquido negativo removidos")
+        df = df[df["valor_liquido"].isna() | (df["valor_liquido"] >= 0)]
+
     df["id_despesa"] = df.apply(gerar_id_despesa, axis=1)
 
     df = df[

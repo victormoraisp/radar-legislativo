@@ -1,3 +1,4 @@
+from datetime import date
 from pathlib import Path
 
 import pandas as pd
@@ -7,6 +8,43 @@ PROCESSED_DIR = Path("data/processed")
 MODEL_DIR = Path("data/model")
 
 MODEL_DIR.mkdir(parents=True, exist_ok=True)
+
+DATA_MINIMA = date(1988, 10, 5)  # Constituição Federal: limite inferior plausível
+
+
+def validar_nao_nulos(df: pd.DataFrame, tabela: str, colunas: list[str]) -> pd.DataFrame:
+    """
+    Valida campos obrigatórios. Registros com nulos são reportados e removidos.
+    """
+    for coluna in colunas:
+        if coluna not in df.columns:
+            continue
+
+        invalidos = df[df[coluna].isna()]
+
+        if len(invalidos) > 0:
+            print(f"[VALIDACAO] {tabela}: {len(invalidos)} registros com {coluna} nulo removidos")
+            df = df[df[coluna].notna()]
+
+    return df
+
+
+def validar_range_datas(df: pd.DataFrame, tabela: str, coluna: str) -> pd.DataFrame:
+    """
+    Valida datas dentro de um range plausível (1988 até hoje).
+    Datas fora do range são reportadas e anuladas.
+    """
+    if coluna not in df.columns:
+        return df
+
+    datas = pd.to_datetime(df[coluna], errors="coerce").dt.date
+    fora_do_range = datas.notna() & ((datas < DATA_MINIMA) | (datas > date.today()))
+
+    if fora_do_range.sum() > 0:
+        print(f"[VALIDACAO] {tabela}: {fora_do_range.sum()} registros com {coluna} fora do range")
+        df = df[~fora_do_range]
+
+    return df
 
 
 def carregar_csv(nome_arquivo: str) -> pd.DataFrame:
@@ -133,6 +171,8 @@ def modelar_fato_proposicao() -> pd.DataFrame:
     df["ano"] = pd.to_numeric(df["ano"], errors="coerce").astype("Int64")
     df["data_apresentacao"] = pd.to_datetime(df["data_apresentacao"], errors="coerce").dt.date
 
+    df = validar_nao_nulos(df, "fato_proposicao", ["id_proposicao", "ementa"])
+    df = validar_range_datas(df, "fato_proposicao", "data_apresentacao")
 
     return df.drop_duplicates(subset=["id_proposicao"])
 
@@ -167,6 +207,9 @@ def modelar_fato_votacao() -> pd.DataFrame:
 
     if "data_hora_registro" in df.columns:
         df["data_hora_registro"] = pd.to_datetime(df["data_hora_registro"], errors="coerce")
+
+    df = validar_nao_nulos(df, "fato_votacao", ["id_votacao"])
+    df = validar_range_datas(df, "fato_votacao", "data")
 
     return df.drop_duplicates(subset=["id_votacao"])
 

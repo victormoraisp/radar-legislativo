@@ -26,9 +26,10 @@ def salvar_json(nome_arquivo: str, conteudo: dict | list) -> None:
         json.dump(conteudo, arquivo, ensure_ascii=False, indent=2)
 
 
-def get_api(endpoint: str, params: dict | None = None) -> dict:
+def get_api(endpoint: str, params: dict | None = None, tentativas: int = 3) -> dict:
     """
-    Faz uma requisição GET simples na API da Câmara.
+    Faz uma requisição GET na API da Câmara com tratamento de erros.
+    Em caso de timeout ou erro HTTP, tenta novamente com espera progressiva.
     """
     url = f"{BASE_URL}/{endpoint}"
 
@@ -36,16 +37,35 @@ def get_api(endpoint: str, params: dict | None = None) -> dict:
         "Accept": "application/json"
     }
 
-    response = requests.get(
-        url,
-        params=params,
-        headers=headers,
-        timeout=30
-    )
+    for tentativa in range(1, tentativas + 1):
+        try:
+            response = requests.get(
+                url,
+                params=params,
+                headers=headers,
+                timeout=30
+            )
 
-    response.raise_for_status()
+            response.raise_for_status()
 
-    return response.json()
+            return response.json()
+
+        except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as erro:
+            print(f"Tentativa {tentativa}/{tentativas} falhou ({endpoint}): {erro}")
+
+        except requests.exceptions.HTTPError as erro:
+            status = erro.response.status_code if erro.response is not None else None
+
+            # Erros 4xx (exceto 429) não se resolvem com retry.
+            if status and 400 <= status < 500 and status != 429:
+                raise
+
+            print(f"Tentativa {tentativa}/{tentativas} falhou ({endpoint}): HTTP {status}")
+
+        if tentativa < tentativas:
+            time.sleep(2 * tentativa)
+
+    raise RuntimeError(f"API indisponível após {tentativas} tentativas: {endpoint}")
 
 
 def get_paginated(endpoint: str, params: dict | None = None, itens: int = 100) -> list[dict]:
