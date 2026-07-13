@@ -1,16 +1,20 @@
-# data/raw/
-# data/processed/
-# data/model/
+# Dados volumosos ficam locais; o pipeline os regenera a partir da API.
+data/raw/
+data/processed/
 
+# Credenciais e segredos
 .env
+*.env
 supabase
 supabase.*
-*.env
 
+# Python
 __pycache__/
 *.pyc
+.venv/
 .ipynb_checkpoints/
 
+# Arquivos do Google Drive
 *.gsheet
 *.gdoc
 *.gslides

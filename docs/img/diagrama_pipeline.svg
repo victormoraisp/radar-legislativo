@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 560" font-family="Segoe UI, Arial, sans-serif">
+  <defs>
+    <marker id="seta" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#475569"/>
+    </marker>
+  </defs>
+
+  <rect width="1180" height="560" fill="#f8fafc"/>
+  <text x="590" y="42" text-anchor="middle" font-size="24" font-weight="700" fill="#0f172a">Radar Legislativo — Arquitetura do Pipeline</text>
+  <text x="590" y="66" text-anchor="middle" font-size="13" fill="#64748b">Bússola Pública · ETL com IA · Câmara dos Deputados</text>
+
+  <!-- Linha 1: Extração -->
+  <rect x="40" y="110" width="200" height="90" rx="10" fill="#e0f2fe" stroke="#0284c7" stroke-width="2"/>
+  <text x="140" y="145" text-anchor="middle" font-size="15" font-weight="600" fill="#075985">API Câmara</text>
+  <text x="140" y="165" text-anchor="middle" font-size="11" fill="#0c4a6e">dadosabertos.camara.leg.br</text>
+  <text x="140" y="182" text-anchor="middle" font-size="11" fill="#0c4a6e">deputados · proposições · votações</text>
+
+  <line x1="240" y1="155" x2="310" y2="155" stroke="#475569" stroke-width="2" marker-end="url(#seta)"/>
+
+  <rect x="315" y="110" width="200" height="90" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="415" y="145" text-anchor="middle" font-size="15" font-weight="600" fill="#1e40af">Extração Python</text>
+  <text x="415" y="165" text-anchor="middle" font-size="11" fill="#1e3a8a">requests · paginação (while)</text>
+  <text x="415" y="182" text-anchor="middle" font-size="11" fill="#1e3a8a">try/except · retry com backoff</text>
+
+  <line x1="515" y1="155" x2="585" y2="155" stroke="#475569" stroke-width="2" marker-end="url(#seta)"/>
+
+  <rect x="590" y="110" width="200" height="90" rx="10" fill="#fef9c3" stroke="#ca8a04" stroke-width="2"/>
+  <text x="690" y="145" text-anchor="middle" font-size="15" font-weight="600" fill="#854d0e">JSON bruto</text>
+  <text x="690" y="165" text-anchor="middle" font-size="11" fill="#713f12">data/raw · rastreabilidade</text>
+  <text x="690" y="182" text-anchor="middle" font-size="11" fill="#713f12">reprocessa sem chamar a API</text>
+
+  <line x1="790" y1="155" x2="860" y2="155" stroke="#475569" stroke-width="2" marker-end="url(#seta)"/>
+
+  <rect x="865" y="110" width="220" height="90" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+  <text x="975" y="145" text-anchor="middle" font-size="15" font-weight="600" fill="#166534">Transformação Pandas</text>
+  <text x="975" y="165" text-anchor="middle" font-size="11" fill="#14532d">validações · tipagem · dedup</text>
+  <text x="975" y="182" text-anchor="middle" font-size="11" fill="#14532d">nulos · range de datas · valores ≥ 0</text>
+
+  <line x1="975" y1="200" x2="975" y2="265" stroke="#475569" stroke-width="2" marker-end="url(#seta)"/>
+
+  <!-- Linha 2: Banco + IA -->
+  <rect x="700" y="270" width="385" height="110" rx="10" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+  <text x="892" y="300" text-anchor="middle" font-size="15" font-weight="600" fill="#5b21b6">Supabase · PostgreSQL (schema radar)</text>
+  <text x="892" y="322" text-anchor="middle" font-size="11" fill="#4c1d95">Fatos: proposição (16.082) · votação (1.393) · despesa (3.000)</text>
+  <text x="892" y="339" text-anchor="middle" font-size="11" fill="#4c1d95">Dims: deputado (512) · partido (21) · tema (32) · situação (99)</text>
+  <text x="892" y="361" text-anchor="middle" font-size="11" font-weight="600" fill="#7c3aed">+ coluna resumo_ia em fato_proposicao</text>
+
+  <rect x="320" y="280" width="230" height="90" rx="10" fill="#fce7f3" stroke="#db2777" stroke-width="2"/>
+  <text x="435" y="312" text-anchor="middle" font-size="15" font-weight="600" fill="#9d174d">Camada de IA (OpenAI)</text>
+  <text x="435" y="332" text-anchor="middle" font-size="11" fill="#831843">enrich_ia_resumo.py · gpt-4.1-mini</text>
+  <text x="435" y="349" text-anchor="middle" font-size="11" fill="#831843">resumo executivo por proposição</text>
+
+  <line x1="550" y1="325" x2="695" y2="325" stroke="#db2777" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+  <text x="622" y="315" text-anchor="middle" font-size="10" fill="#9d174d">persiste resumo_ia</text>
+
+  <line x1="892" y1="380" x2="892" y2="440" stroke="#475569" stroke-width="2" marker-end="url(#seta)"/>
+  <text x="960" y="415" text-anchor="middle" font-size="10" fill="#64748b">views SQL analíticas</text>
+
+  <!-- Linha 3: Automação -->
+  <rect x="700" y="445" width="385" height="90" rx="10" fill="#ffedd5" stroke="#ea580c" stroke-width="2"/>
+  <text x="892" y="475" text-anchor="middle" font-size="15" font-weight="600" fill="#9a3412">n8n · Automação diária 06h</text>
+  <text x="892" y="495" text-anchor="middle" font-size="11" fill="#7c2d12">Supabase REST → contexto → OpenAI (análise executiva)</text>
+  <text x="892" y="512" text-anchor="middle" font-size="11" fill="#7c2d12">→ HTML com resumos IA → e-mail</text>
+
+  <line x1="700" y1="490" x2="590" y2="490" stroke="#475569" stroke-width="2" marker-end="url(#seta)"/>
+
+  <rect x="380" y="455" width="205" height="70" rx="10" fill="#e2e8f0" stroke="#475569" stroke-width="2"/>
+  <text x="482" y="485" text-anchor="middle" font-size="15" font-weight="600" fill="#1e293b">Cliente</text>
+  <text x="482" y="505" text-anchor="middle" font-size="11" fill="#334155">Resumo Diário por e-mail</text>
+</svg>
